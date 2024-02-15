@@ -1,0 +1,21 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    DBDOCTOR                                                         )
+(                                                                     )
+(    Drawing          : TIDA-01606_Gate DriverE4_Sch_Rev16.brd        )
+(    Software Version : 17.2S013                                      )
+(    Date/Time        : Sat Apr 25 16:43:28 2020                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+This database has been marked as a .SAV.
+An attempt will be made to correct the problems.
+WARNING Deleted redundant via at (190.00 909.00) on net GND.
+
+WARNING:   WARNING(SPMHDB-42): Run batch DRC to regenerate DRC errs.
+
+Problems were corrected, database is no longer a .SAV!
+2 warnings, 0 errors detected, 0 errors  fixed.
+
+Problems were corrected, database is no longer a .SAV!

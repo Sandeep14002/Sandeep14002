@@ -1,0 +1,810 @@
+FILE_TYPE = EXPANDEDPARTLIST;
+{ Using PSTWRITER 17.2.0 d001Sep-26-2020 at 10:51:33 }
+DIRECTIVES
+ PST_VERSION='PST_HDL_CENTRIC_VERSION_0';
+ ROOT_DRAWING='TIDA-01606_HV_CARDE4_SCH';
+ POST_TIME='Jan  9 2017 17:57:56';
+ SOURCE_TOOL='CAPTURE_WRITER';
+END_DIRECTIVES;
+
+PART_NAME
+ C1 'CAP_TAJA_AVX_ELE 10U 10V 105C':
+ ROOM='24Vcc3_smps';
+
+SECTION_NUMBER 1
+ '@TIDA-01606_HV_CARDE4_SCH.SCHEMATIC1(SCH_1):INS14282226@DISCRETE.CAP.NORMAL(CHIPS)':
+ C_PATH='@\tida-01606_hv_carde4_sch\.schematic1(sch_1):ins14282226@discrete.\cap.normal\(chips)',
+ P_PATH='@\tida-01606_hv_carde4_sch\.schematic1(sch_1):page1_ins14282226@discrete.\cap.normal\(chips)',
+ ROOM='24Vcc3_smps',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C10 'CAP NP_SNPD1210_MODIFIED_10U 12':
+ ROOM='control_smps';
+
+SECTION_NUMBER 1
+ '@TIDA-01606_HV_CARDE4_SCH.SCHEMATIC1(SCH_1):INS14286047@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@\tida-01606_hv_carde4_sch\.schematic1(sch_1):ins14286047@discrete.\cap np.normal\(chips)',
+ P_PATH='@\tida-01606_hv_carde4_sch\.schematic1(sch_1):page1_ins14286047@discrete.\cap np.normal\(chips)',
+ ROOM='control_smps',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C11 'CAP NP_RES0603_0.1U 1206 50V':
+ ROOM='control_smps';
+
+SECTION_NUMBER 1
+ '@TIDA-01606_HV_CARDE4_SCH.SCHEMATIC1(SCH_1):INS14286608@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@\tida-01606_hv_carde4_sch\.schematic1(sch_1):ins14286608@discrete.\cap np.normal\(chips)',
+ P_PATH='@\tida-01606_hv_carde4_sch\.schematic1(sch_1):page1_ins14286608@discrete.\cap np.normal\(chips)',
+ ROOM='control_smps',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C12 'CAP NP_SNPD0805_MODIFIED_10U 12':
+ ROOM='control_smps';
+
+SECTION_NUMBER 1
+ '@TIDA-01606_HV_CARDE4_SCH.SCHEMATIC1(SCH_1):INS14286592@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@\tida-01606_hv_carde4_sch\.schematic1(sch_1):ins14286592@discrete.\cap np.normal\(chips)',
+ P_PATH='@\tida-01606_hv_carde4_sch\.schematic1(sch_1):page1_ins14286592@discrete.\cap np.normal\(chips)',
+ ROOM='control_smps',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C13 'CAP NP_SNPD1210_MODIFIED_0.1U 1':
+ ROOM='control_smps';
+
+SECTION_NUMBER 1
+ '@TIDA-01606_HV_CARDE4_SCH.SCHEMATIC1(SCH_1):INS14286348@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@\tida-01606_hv_carde4_sch\.schematic1(sch_1):ins14286348@discrete.\cap np.normal\(chips)',
+ P_PATH='@\tida-01606_hv_carde4_sch\.schematic1(sch_1):page1_ins14286348@discrete.\cap np.normal\(chips)',
+ ROOM='control_smps',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C14 'CAP NP_RES0603_0.01U 0603 50V':
+ ROOM='control_smps';
+
+SECTION_NUMBER 1
+ '@TIDA-01606_HV_CARDE4_SCH.SCHEMATIC1(SCH_1):INS14294721@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@\tida-01606_hv_carde4_sch\.schematic1(sch_1):ins14294721@discrete.\cap np.normal\(chips)',
+ P_PATH='@\tida-01606_hv_carde4_sch\.schematic1(sch_1):page1_ins14294721@discrete.\cap np.normal\(chips)',
+ ROOM='control_smps',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C15 'CAP NP_RES0603_0.1U 0603 50V':
+ ROOM='control_smps';
+
+SECTION_NUMBER 1
+ '@TIDA-01606_HV_CARDE4_SCH.SCHEMATIC1(SCH_1):INS14289035@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@\tida-01606_hv_carde4_sch\.schematic1(sch_1):ins14289035@discrete.\cap np.normal\(chips)',
+ P_PATH='@\tida-01606_hv_carde4_sch\.schematic1(sch_1):page1_ins14289035@discrete.\cap np.normal\(chips)',
+ ROOM='control_smps',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C16 'CAP NP_SNPD0805_MODIFIED_0.1U 1':
+ ROOM='control_smps';
+
+SECTION_NUMBER 1
+ '@TIDA-01606_HV_CARDE4_SCH.SCHEMATIC1(SCH_1):INS14291597@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@\tida-01606_hv_carde4_sch\.schematic1(sch_1):ins14291597@discrete.\cap np.normal\(chips)',
+ P_PATH='@\tida-01606_hv_carde4_sch\.schematic1(sch_1):page1_ins14291597@discrete.\cap np.normal\(chips)',
+ ROOM='control_smps',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C17 'CAP NP_RES0603_0.1U 1206 50V':
+ ROOM='control_smps';
+
+SECTION_NUMBER 1
+ '@TIDA-01606_HV_CARDE4_SCH.SCHEMATIC1(SCH_1):INS14291623@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@\tida-01606_hv_carde4_sch\.schematic1(sch_1):ins14291623@discrete.\cap np.normal\(chips)',
+ P_PATH='@\tida-01606_hv_carde4_sch\.schematic1(sch_1):page1_ins14291623@discrete.\cap np.normal\(chips)',
+ ROOM='control_smps',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C18 'CAP NP_RES0603_0.1U 0603 50V':
+ ROOM='control_smps';
+
+SECTION_NUMBER 1
+ '@TIDA-01606_HV_CARDE4_SCH.SCHEMATIC1(SCH_1):INS14293280@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@\tida-01606_hv_carde4_sch\.schematic1(sch_1):ins14293280@discrete.\cap np.normal\(chips)',
+ P_PATH='@\tida-01606_hv_carde4_sch\.schematic1(sch_1):page1_ins14293280@discrete.\cap np.normal\(chips)',
+ ROOM='control_smps',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C19 'CAP NP_RES0603_0.01U 0603 16V':
+ ROOM='control_smps';
+
+SECTION_NUMBER 1
+ '@TIDA-01606_HV_CARDE4_SCH.SCHEMATIC1(SCH_1):INS14288220@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@\tida-01606_hv_carde4_sch\.schematic1(sch_1):ins14288220@discrete.\cap np.normal\(chips)',
+ P_PATH='@\tida-01606_hv_carde4_sch\.schematic1(sch_1):page1_ins14288220@discrete.\cap np.normal\(chips)',
+ ROOM='control_smps',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C2 'CAP NP_RES0603_0.1U 0603 50V':
+ ROOM='control_smps';
+
+SECTION_NUMBER 1
+ '@TIDA-01606_HV_CARDE4_SCH.SCHEMATIC1(SCH_1):INS14282202@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@\tida-01606_hv_carde4_sch\.schematic1(sch_1):ins14282202@discrete.\cap np.normal\(chips)',
+ P_PATH='@\tida-01606_hv_carde4_sch\.schematic1(sch_1):page1_ins14282202@discrete.\cap np.normal\(chips)',
+ ROOM='control_smps',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C20 'CAP NP_RES0603_0.01U 0603 16V':
+ ROOM='control_smps';
+
+SECTION_NUMBER 1
+ '@TIDA-01606_HV_CARDE4_SCH.SCHEMATIC1(SCH_1):INS14290024@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@\tida-01606_hv_carde4_sch\.schematic1(sch_1):ins14290024@discrete.\cap np.normal\(chips)',
+ P_PATH='@\tida-01606_hv_carde4_sch\.schematic1(sch_1):page1_ins14290024@discrete.\cap np.normal\(chips)',
+ ROOM='control_smps',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C21 'CAP NP_RES0603_0.1U 0603 50V':
+ ROOM='control_smps';
+
+SECTION_NUMBER 1
+ '@TIDA-01606_HV_CARDE4_SCH.SCHEMATIC1(SCH_1):INS14293966@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@\tida-01606_hv_carde4_sch\.schematic1(sch_1):ins14293966@discrete.\cap np.normal\(chips)',
+ P_PATH='@\tida-01606_hv_carde4_sch\.schematic1(sch_1):page1_ins14293966@discrete.\cap np.normal\(chips)',
+ ROOM='control_smps',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C22 'CAP NP_RES0603_0.01U 0603 16V':
+ ROOM='control_smps';
+
+SECTION_NUMBER 1
+ '@TIDA-01606_HV_CARDE4_SCH.SCHEMATIC1(SCH_1):INS14290253@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@\tida-01606_hv_carde4_sch\.schematic1(sch_1):ins14290253@discrete.\cap np.normal\(chips)',
+ P_PATH='@\tida-01606_hv_carde4_sch\.schematic1(sch_1):page1_ins14290253@discrete.\cap np.normal\(chips)',
+ ROOM='control_smps',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C23 'CAP NP_SNPD1206_MODIFIED_0.1U 0':
+ ROOM='control_smps';
+
+SECTION_NUMBER 1
+ '@TIDA-01606_HV_CARDE4_SCH.SCHEMATIC1(SCH_1):INS14288490@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@\tida-01606_hv_carde4_sch\.schematic1(sch_1):ins14288490@discrete.\cap np.normal\(chips)',
+ P_PATH='@\tida-01606_hv_carde4_sch\.schematic1(sch_1):page1_ins14288490@discrete.\cap np.normal\(chips)',
+ ROOM='control_smps',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C3 'CAP NP_SNPD1210_MODIFIED_10U 12':
+ ROOM='control_smps';
+
+SECTION_NUMBER 1
+ '@TIDA-01606_HV_CARDE4_SCH.SCHEMATIC1(SCH_1):INS14283256@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@\tida-01606_hv_carde4_sch\.schematic1(sch_1):ins14283256@discrete.\cap np.normal\(chips)',
+ P_PATH='@\tida-01606_hv_carde4_sch\.schematic1(sch_1):page1_ins14283256@discrete.\cap np.normal\(chips)',
+ ROOM='control_smps',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C4 'CAP NP_RES0603_0.1UF 0603 50V':
+ ROOM='control_smps';
+
+SECTION_NUMBER 1
+ '@TIDA-01606_HV_CARDE4_SCH.SCHEMATIC1(SCH_1):INS14283135@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@\tida-01606_hv_carde4_sch\.schematic1(sch_1):ins14283135@discrete.\cap np.normal\(chips)',
+ P_PATH='@\tida-01606_hv_carde4_sch\.schematic1(sch_1):page1_ins14283135@discrete.\cap np.normal\(chips)',
+ ROOM='control_smps',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C5 'CAP NP_RES0603_0.1U 0603 50V':
+ ROOM='control_smps';
+
+SECTION_NUMBER 1
+ '@TIDA-01606_HV_CARDE4_SCH.SCHEMATIC1(SCH_1):INS14281998@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@\tida-01606_hv_carde4_sch\.schematic1(sch_1):ins14281998@discrete.\cap np.normal\(chips)',
+ P_PATH='@\tida-01606_hv_carde4_sch\.schematic1(sch_1):page1_ins14281998@discrete.\cap np.normal\(chips)',
+ ROOM='control_smps',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C6 'CAP NP_RES0603_0.1U 0603 50V':
+ ROOM='control_smps';
+
+SECTION_NUMBER 1
+ '@TIDA-01606_HV_CARDE4_SCH.SCHEMATIC1(SCH_1):INS14283282@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@\tida-01606_hv_carde4_sch\.schematic1(sch_1):ins14283282@discrete.\cap np.normal\(chips)',
+ P_PATH='@\tida-01606_hv_carde4_sch\.schematic1(sch_1):page1_ins14283282@discrete.\cap np.normal\(chips)',
+ ROOM='control_smps',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C7 'CAP NP_SNPD1210_MODIFIED_10U 12':
+ ROOM='control_smps';
+
+SECTION_NUMBER 1
+ '@TIDA-01606_HV_CARDE4_SCH.SCHEMATIC1(SCH_1):INS14285050@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@\tida-01606_hv_carde4_sch\.schematic1(sch_1):ins14285050@discrete.\cap np.normal\(chips)',
+ P_PATH='@\tida-01606_hv_carde4_sch\.schematic1(sch_1):page1_ins14285050@discrete.\cap np.normal\(chips)',
+ ROOM='control_smps',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C8 'CAP NP_RES0603_0.1U 0603 50V':
+ ROOM='control_smps';
+
+SECTION_NUMBER 1
+ '@TIDA-01606_HV_CARDE4_SCH.SCHEMATIC1(SCH_1):INS14285076@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@\tida-01606_hv_carde4_sch\.schematic1(sch_1):ins14285076@discrete.\cap np.normal\(chips)',
+ P_PATH='@\tida-01606_hv_carde4_sch\.schematic1(sch_1):page1_ins14285076@discrete.\cap np.normal\(chips)',
+ ROOM='control_smps',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C9 'CAP NP_RES0603_0.1U 0603 50V':
+ ROOM='control_smps';
+
+SECTION_NUMBER 1
+ '@TIDA-01606_HV_CARDE4_SCH.SCHEMATIC1(SCH_1):INS14286073@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@\tida-01606_hv_carde4_sch\.schematic1(sch_1):ins14286073@discrete.\cap np.normal\(chips)',
+ P_PATH='@\tida-01606_hv_carde4_sch\.schematic1(sch_1):page1_ins14286073@discrete.\cap np.normal\(chips)',
+ ROOM='control_smps',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D1 'DIODE ZENER_SOD123_B0520LW-7-F':
+ ROOM='control_smps';
+
+SECTION_NUMBER 1
+ '@TIDA-01606_HV_CARDE4_SCH.SCHEMATIC1(SCH_1):INS14284032@DISCRETE.DIODE ZENER.NORMAL(CHIPS)':
+ C_PATH='@\tida-01606_hv_carde4_sch\.schematic1(sch_1):ins14284032@discrete.\diode zener.normal\(chips)',
+ P_PATH='@\tida-01606_hv_carde4_sch\.schematic1(sch_1):page1_ins14284032@discrete.\diode zener.normal\(chips)',
+ ROOM='control_smps',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D2 'DIODE ZENER_SOD123_B0520LW-7-F':
+ ROOM='control_smps';
+
+SECTION_NUMBER 1
+ '@TIDA-01606_HV_CARDE4_SCH.SCHEMATIC1(SCH_1):INS14281982@DISCRETE.DIODE ZENER.NORMAL(CHIPS)':
+ C_PATH='@\tida-01606_hv_carde4_sch\.schematic1(sch_1):ins14281982@discrete.\diode zener.normal\(chips)',
+ P_PATH='@\tida-01606_hv_carde4_sch\.schematic1(sch_1):page1_ins14281982@discrete.\diode zener.normal\(chips)',
+ ROOM='control_smps',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D3 'LED_RES0603_150060VS55040 GREEN':
+ ROOM='lcd_led_pic';
+
+SECTION_NUMBER 1
+ '@TIDA-01606_HV_CARDE4_SCH.SCHEMATIC1(SCH_1):INS14287181@DISCRETE.LED.NORMAL(CHIPS)':
+ C_PATH='@\tida-01606_hv_carde4_sch\.schematic1(sch_1):ins14287181@discrete.\led.normal\(chips)',
+ P_PATH='@\tida-01606_hv_carde4_sch\.schematic1(sch_1):page1_ins14287181@discrete.\led.normal\(chips)',
+ ROOM='lcd_led_pic',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D4 'DIODE ZENER_SOD123_ZENER 5.6V':
+ ROOM='control_smps';
+
+SECTION_NUMBER 1
+ '@TIDA-01606_HV_CARDE4_SCH.SCHEMATIC1(SCH_1):INS14286803@DISCRETE.DIODE ZENER.NORMAL(CHIPS)':
+ C_PATH='@\tida-01606_hv_carde4_sch\.schematic1(sch_1):ins14286803@discrete.\diode zener.normal\(chips)',
+ P_PATH='@\tida-01606_hv_carde4_sch\.schematic1(sch_1):page1_ins14286803@discrete.\diode zener.normal\(chips)',
+ ROOM='control_smps',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D5 'DIODE TVS BI-DIR_SOD323F_CDSOD3':;
+
+SECTION_NUMBER 1
+ '@TIDA-01606_HV_CARDE4_SCH.SCHEMATIC1(SCH_1):INS14292159@DISCRETE.DIODE TVS BI-DIR.NORMAL(CHIPS)':
+ C_PATH='@\tida-01606_hv_carde4_sch\.schematic1(sch_1):ins14292159@discrete.\diode tvs bi-dir.normal\(chips)',
+ P_PATH='@\tida-01606_hv_carde4_sch\.schematic1(sch_1):page1_ins14292159@discrete.\diode tvs bi-dir.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ DC+1 'CON2_SIP_2PIN_BERGSTRIP_PBC02SG':
+ ROOM='InputPowe_smps';
+
+SECTION_NUMBER 1
+ '@TIDA-01606_HV_CARDE4_SCH.SCHEMATIC1(SCH_1):INS14285496@CONNECTOR.CON2.NORMAL(CHIPS)':
+ C_PATH='@\tida-01606_hv_carde4_sch\.schematic1(sch_1):ins14285496@connector.\con2.normal\(chips)',
+ P_PATH='@\tida-01606_hv_carde4_sch\.schematic1(sch_1):page1_ins14285496@connector.\con2.normal\(chips)',
+ ROOM='InputPowe_smps',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ DC-1 'CON2_SIP_2PIN_BERGSTRIP_PBC02SG':
+ ROOM='InputPowe_smps';
+
+SECTION_NUMBER 1
+ '@TIDA-01606_HV_CARDE4_SCH.SCHEMATIC1(SCH_1):INS14285522@CONNECTOR.CON2.NORMAL(CHIPS)':
+ C_PATH='@\tida-01606_hv_carde4_sch\.schematic1(sch_1):ins14285522@connector.\con2.normal\(chips)',
+ P_PATH='@\tida-01606_hv_carde4_sch\.schematic1(sch_1):page1_ins14285522@connector.\con2.normal\(chips)',
+ ROOM='InputPowe_smps',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J1 'HEADER 4_0_SIP4_RUP_61300411021':;
+
+SECTION_NUMBER 1
+ '@TIDA-01606_HV_CARDE4_SCH.SCHEMATIC1(SCH_1):INS14281681@TIDA-01606_HV_CARDE4_SCH.HEADER 4_0.NORMAL(CHIPS)':
+ C_PATH='@\tida-01606_hv_carde4_sch\.schematic1(sch_1):ins14281681@\tida-01606_hv_carde4_sch\.\header 4_0.normal\(chips)',
+ P_PATH='@\tida-01606_hv_carde4_sch\.schematic1(sch_1):page1_ins14281681@\tida-01606_hv_carde4_sch\.\header 4_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ L1 'RESISTOR_0_RES0603_742792662':
+ ROOM='control_smps';
+
+SECTION_NUMBER 1
+ '@TIDA-01606_HV_CARDE4_SCH.SCHEMATIC1(SCH_1):INS14286503@TIDA-01606_HV_CARDE4_SCH.RESISTOR_0.NORMAL(CHIPS)':
+ C_PATH='@\tida-01606_hv_carde4_sch\.schematic1(sch_1):ins14286503@\tida-01606_hv_carde4_sch\.\resistor_0.normal\(chips)',
+ P_PATH='@\tida-01606_hv_carde4_sch\.schematic1(sch_1):page1_ins14286503@\tida-01606_hv_carde4_sch\.\resistor_0.normal\(chips)',
+ ROOM='control_smps',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ L2 'RESISTOR_0_RES0603_74279228260':
+ ROOM='control_smps';
+
+SECTION_NUMBER 1
+ '@TIDA-01606_HV_CARDE4_SCH.SCHEMATIC1(SCH_1):INS14303520@TIDA-01606_HV_CARDE4_SCH.RESISTOR_0.NORMAL(CHIPS)':
+ C_PATH='@\tida-01606_hv_carde4_sch\.schematic1(sch_1):ins14303520@\tida-01606_hv_carde4_sch\.\resistor_0.normal\(chips)',
+ P_PATH='@\tida-01606_hv_carde4_sch\.schematic1(sch_1):page1_ins14303520@\tida-01606_hv_carde4_sch\.\resistor_0.normal\(chips)',
+ ROOM='control_smps',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R1 'RESISTOR_RES0603_0E 0603 1%':
+ ROOM='control_smps';
+
+SECTION_NUMBER 1
+ '@TIDA-01606_HV_CARDE4_SCH.SCHEMATIC1(SCH_1):INS14283791@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@\tida-01606_hv_carde4_sch\.schematic1(sch_1):ins14283791@discrete.\resistor.normal\(chips)',
+ P_PATH='@\tida-01606_hv_carde4_sch\.schematic1(sch_1):page1_ins14283791@discrete.\resistor.normal\(chips)',
+ ROOM='control_smps',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R10 'RESISTOR_RES0603_330E 0603 5%':
+ ROOM='control_smps';
+
+SECTION_NUMBER 1
+ '@TIDA-01606_HV_CARDE4_SCH.SCHEMATIC1(SCH_1):INS14287137@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@\tida-01606_hv_carde4_sch\.schematic1(sch_1):ins14287137@discrete.\resistor.normal\(chips)',
+ P_PATH='@\tida-01606_hv_carde4_sch\.schematic1(sch_1):page1_ins14287137@discrete.\resistor.normal\(chips)',
+ ROOM='control_smps',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R11 'RESISTOR_SNPD0805_MODIFIED_332K':
+ ROOM='control_smps';
+
+SECTION_NUMBER 1
+ '@TIDA-01606_HV_CARDE4_SCH.SCHEMATIC1(SCH_1):INS14289746@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@\tida-01606_hv_carde4_sch\.schematic1(sch_1):ins14289746@discrete.\resistor.normal\(chips)',
+ P_PATH='@\tida-01606_hv_carde4_sch\.schematic1(sch_1):page1_ins14289746@discrete.\resistor.normal\(chips)',
+ ROOM='control_smps',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R12 'RESISTOR_SNPD0805_MODIFIED_332K':
+ ROOM='control_smps';
+
+SECTION_NUMBER 1
+ '@TIDA-01606_HV_CARDE4_SCH.SCHEMATIC1(SCH_1):INS14289730@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@\tida-01606_hv_carde4_sch\.schematic1(sch_1):ins14289730@discrete.\resistor.normal\(chips)',
+ P_PATH='@\tida-01606_hv_carde4_sch\.schematic1(sch_1):page1_ins14289730@discrete.\resistor.normal\(chips)',
+ ROOM='control_smps',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R13 'RESISTOR_SNPD0805_MODIFIED_332K':
+ ROOM='control_smps';
+
+SECTION_NUMBER 1
+ '@TIDA-01606_HV_CARDE4_SCH.SCHEMATIC1(SCH_1):INS14289690@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@\tida-01606_hv_carde4_sch\.schematic1(sch_1):ins14289690@discrete.\resistor.normal\(chips)',
+ P_PATH='@\tida-01606_hv_carde4_sch\.schematic1(sch_1):page1_ins14289690@discrete.\resistor.normal\(chips)',
+ ROOM='control_smps',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R14 'RESISTOR_SNPD0805_MODIFIED_332K':
+ ROOM='control_smps';
+
+SECTION_NUMBER 1
+ '@TIDA-01606_HV_CARDE4_SCH.SCHEMATIC1(SCH_1):INS14289674@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@\tida-01606_hv_carde4_sch\.schematic1(sch_1):ins14289674@discrete.\resistor.normal\(chips)',
+ P_PATH='@\tida-01606_hv_carde4_sch\.schematic1(sch_1):page1_ins14289674@discrete.\resistor.normal\(chips)',
+ ROOM='control_smps',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R15 'RESISTOR_SNPD0805_MODIFIED_332K':
+ ROOM='control_smps';
+
+SECTION_NUMBER 1
+ '@TIDA-01606_HV_CARDE4_SCH.SCHEMATIC1(SCH_1):INS14289636@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@\tida-01606_hv_carde4_sch\.schematic1(sch_1):ins14289636@discrete.\resistor.normal\(chips)',
+ P_PATH='@\tida-01606_hv_carde4_sch\.schematic1(sch_1):page1_ins14289636@discrete.\resistor.normal\(chips)',
+ ROOM='control_smps',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R16 'RESISTOR_SNPD0805_MODIFIED_332K':
+ ROOM='control_smps';
+
+SECTION_NUMBER 1
+ '@TIDA-01606_HV_CARDE4_SCH.SCHEMATIC1(SCH_1):INS14289610@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@\tida-01606_hv_carde4_sch\.schematic1(sch_1):ins14289610@discrete.\resistor.normal\(chips)',
+ P_PATH='@\tida-01606_hv_carde4_sch\.schematic1(sch_1):page1_ins14289610@discrete.\resistor.normal\(chips)',
+ ROOM='control_smps',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R17 'RESISTOR_RES0603_0E 0603 5%':
+ ROOM='control_smps';
+
+SECTION_NUMBER 1
+ '@TIDA-01606_HV_CARDE4_SCH.SCHEMATIC1(SCH_1):INS14294623@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@\tida-01606_hv_carde4_sch\.schematic1(sch_1):ins14294623@discrete.\resistor.normal\(chips)',
+ P_PATH='@\tida-01606_hv_carde4_sch\.schematic1(sch_1):page1_ins14294623@discrete.\resistor.normal\(chips)',
+ ROOM='control_smps',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R18 'RESISTOR_RES0603_7.50K 0603 1%':
+ ROOM='control_smps';
+
+SECTION_NUMBER 1
+ '@TIDA-01606_HV_CARDE4_SCH.SCHEMATIC1(SCH_1):INS14294649@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@\tida-01606_hv_carde4_sch\.schematic1(sch_1):ins14294649@discrete.\resistor.normal\(chips)',
+ P_PATH='@\tida-01606_hv_carde4_sch\.schematic1(sch_1):page1_ins14294649@discrete.\resistor.normal\(chips)',
+ ROOM='control_smps',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R19 'RESISTOR_RES0603_39E 0603 5%':
+ ROOM='control_smps';
+
+SECTION_NUMBER 1
+ '@TIDA-01606_HV_CARDE4_SCH.SCHEMATIC1(SCH_1):INS14288274@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@\tida-01606_hv_carde4_sch\.schematic1(sch_1):ins14288274@discrete.\resistor.normal\(chips)',
+ P_PATH='@\tida-01606_hv_carde4_sch\.schematic1(sch_1):page1_ins14288274@discrete.\resistor.normal\(chips)',
+ ROOM='control_smps',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R2 'RESISTOR_RES0603_56K 0603 5%':
+ ROOM='control_smps';
+
+SECTION_NUMBER 1
+ '@TIDA-01606_HV_CARDE4_SCH.SCHEMATIC1(SCH_1):INS14281966@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@\tida-01606_hv_carde4_sch\.schematic1(sch_1):ins14281966@discrete.\resistor.normal\(chips)',
+ P_PATH='@\tida-01606_hv_carde4_sch\.schematic1(sch_1):page1_ins14281966@discrete.\resistor.normal\(chips)',
+ ROOM='control_smps',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R20 'RESISTOR_RES0603_4.70K 0603 1%':
+ ROOM='control_smps';
+
+SECTION_NUMBER 1
+ '@TIDA-01606_HV_CARDE4_SCH.SCHEMATIC1(SCH_1):INS14290040@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@\tida-01606_hv_carde4_sch\.schematic1(sch_1):ins14290040@discrete.\resistor.normal\(chips)',
+ P_PATH='@\tida-01606_hv_carde4_sch\.schematic1(sch_1):page1_ins14290040@discrete.\resistor.normal\(chips)',
+ ROOM='control_smps',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R21 'RESISTOR_RES0603_4.70K 0603 1%':
+ ROOM='control_smps';
+
+SECTION_NUMBER 1
+ '@TIDA-01606_HV_CARDE4_SCH.SCHEMATIC1(SCH_1):INS14290160@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@\tida-01606_hv_carde4_sch\.schematic1(sch_1):ins14290160@discrete.\resistor.normal\(chips)',
+ P_PATH='@\tida-01606_hv_carde4_sch\.schematic1(sch_1):page1_ins14290160@discrete.\resistor.normal\(chips)',
+ ROOM='control_smps',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R22 'RESISTOR_SNPD0805_MODIFIED_3.60':
+ ROOM='control_smps';
+
+SECTION_NUMBER 1
+ '@TIDA-01606_HV_CARDE4_SCH.SCHEMATIC1(SCH_1):INS14288246@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@\tida-01606_hv_carde4_sch\.schematic1(sch_1):ins14288246@discrete.\resistor.normal\(chips)',
+ P_PATH='@\tida-01606_hv_carde4_sch\.schematic1(sch_1):page1_ins14288246@discrete.\resistor.normal\(chips)',
+ ROOM='control_smps',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R23 'RESISTOR_RES0603_100E 0603 1%':
+ ROOM='control_smps';
+
+SECTION_NUMBER 1
+ '@TIDA-01606_HV_CARDE4_SCH.SCHEMATIC1(SCH_1):INS14293922@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@\tida-01606_hv_carde4_sch\.schematic1(sch_1):ins14293922@discrete.\resistor.normal\(chips)',
+ P_PATH='@\tida-01606_hv_carde4_sch\.schematic1(sch_1):page1_ins14293922@discrete.\resistor.normal\(chips)',
+ ROOM='control_smps',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R24 'RESISTOR_RES0603_4.70K 0603 1%':
+ ROOM='control_smps';
+
+SECTION_NUMBER 1
+ '@TIDA-01606_HV_CARDE4_SCH.SCHEMATIC1(SCH_1):INS14290076@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@\tida-01606_hv_carde4_sch\.schematic1(sch_1):ins14290076@discrete.\resistor.normal\(chips)',
+ P_PATH='@\tida-01606_hv_carde4_sch\.schematic1(sch_1):page1_ins14290076@discrete.\resistor.normal\(chips)',
+ ROOM='control_smps',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R25 'RESISTOR_RES0603_4.70K 0603 1%':
+ ROOM='control_smps';
+
+SECTION_NUMBER 1
+ '@TIDA-01606_HV_CARDE4_SCH.SCHEMATIC1(SCH_1):INS14290176@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@\tida-01606_hv_carde4_sch\.schematic1(sch_1):ins14290176@discrete.\resistor.normal\(chips)',
+ P_PATH='@\tida-01606_hv_carde4_sch\.schematic1(sch_1):page1_ins14290176@discrete.\resistor.normal\(chips)',
+ ROOM='control_smps',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R26 'RESISTOR_RES0603_3.16K 0603 1%':
+ ROOM='control_smps';
+
+SECTION_NUMBER 1
+ '@TIDA-01606_HV_CARDE4_SCH.SCHEMATIC1(SCH_1):INS14288300@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@\tida-01606_hv_carde4_sch\.schematic1(sch_1):ins14288300@discrete.\resistor.normal\(chips)',
+ P_PATH='@\tida-01606_hv_carde4_sch\.schematic1(sch_1):page1_ins14288300@discrete.\resistor.normal\(chips)',
+ ROOM='control_smps',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R27 'RESISTOR_RES0603_39E 0603 5%':
+ ROOM='control_smps';
+
+SECTION_NUMBER 1
+ '@TIDA-01606_HV_CARDE4_SCH.SCHEMATIC1(SCH_1):INS14288434@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@\tida-01606_hv_carde4_sch\.schematic1(sch_1):ins14288434@discrete.\resistor.normal\(chips)',
+ P_PATH='@\tida-01606_hv_carde4_sch\.schematic1(sch_1):page1_ins14288434@discrete.\resistor.normal\(chips)',
+ ROOM='control_smps',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R28 'RESISTOR_RES0603_31.6K 0603 1%':
+ ROOM='control_smps';
+
+SECTION_NUMBER 1
+ '@TIDA-01606_HV_CARDE4_SCH.SCHEMATIC1(SCH_1):INS14288684@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@\tida-01606_hv_carde4_sch\.schematic1(sch_1):ins14288684@discrete.\resistor.normal\(chips)',
+ P_PATH='@\tida-01606_hv_carde4_sch\.schematic1(sch_1):page1_ins14288684@discrete.\resistor.normal\(chips)',
+ ROOM='control_smps',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R29 'RESISTOR_RES0603_15K 0603 1%':
+ ROOM='control_smps';
+
+SECTION_NUMBER 1
+ '@TIDA-01606_HV_CARDE4_SCH.SCHEMATIC1(SCH_1):INS14290485@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@\tida-01606_hv_carde4_sch\.schematic1(sch_1):ins14290485@discrete.\resistor.normal\(chips)',
+ P_PATH='@\tida-01606_hv_carde4_sch\.schematic1(sch_1):page1_ins14290485@discrete.\resistor.normal\(chips)',
+ ROOM='control_smps',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R3 'RESISTOR_RES0603_47K 0603 5%':
+ ROOM='control_smps';
+
+SECTION_NUMBER 1
+ '@TIDA-01606_HV_CARDE4_SCH.SCHEMATIC1(SCH_1):INS14282440@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@\tida-01606_hv_carde4_sch\.schematic1(sch_1):ins14282440@discrete.\resistor.normal\(chips)',
+ P_PATH='@\tida-01606_hv_carde4_sch\.schematic1(sch_1):page1_ins14282440@discrete.\resistor.normal\(chips)',
+ ROOM='control_smps',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R4 'RESISTOR_RES0603_0E 0603 5%':
+ ROOM='control_smps';
+
+SECTION_NUMBER 1
+ '@TIDA-01606_HV_CARDE4_SCH.SCHEMATIC1(SCH_1):INS14285676@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@\tida-01606_hv_carde4_sch\.schematic1(sch_1):ins14285676@discrete.\resistor.normal\(chips)',
+ P_PATH='@\tida-01606_hv_carde4_sch\.schematic1(sch_1):page1_ins14285676@discrete.\resistor.normal\(chips)',
+ ROOM='control_smps',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R5 'RESISTOR_RES0603_56K 0603 5%':
+ ROOM='control_smps';
+
+SECTION_NUMBER 1
+ '@TIDA-01606_HV_CARDE4_SCH.SCHEMATIC1(SCH_1):INS14282024@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@\tida-01606_hv_carde4_sch\.schematic1(sch_1):ins14282024@discrete.\resistor.normal\(chips)',
+ P_PATH='@\tida-01606_hv_carde4_sch\.schematic1(sch_1):page1_ins14282024@discrete.\resistor.normal\(chips)',
+ ROOM='control_smps',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R6 'RESISTOR_RES0402_56K 0402 5%':
+ ROOM='control_smps';
+
+SECTION_NUMBER 1
+ '@TIDA-01606_HV_CARDE4_SCH.SCHEMATIC1(SCH_1):INS14282410@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@\tida-01606_hv_carde4_sch\.schematic1(sch_1):ins14282410@discrete.\resistor.normal\(chips)',
+ P_PATH='@\tida-01606_hv_carde4_sch\.schematic1(sch_1):page1_ins14282410@discrete.\resistor.normal\(chips)',
+ ROOM='control_smps',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R7 'RESISTOR_RES0603_0E 0603 1%':
+ ROOM='control_smps';
+
+SECTION_NUMBER 1
+ '@TIDA-01606_HV_CARDE4_SCH.SCHEMATIC1(SCH_1):INS14283109@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@\tida-01606_hv_carde4_sch\.schematic1(sch_1):ins14283109@discrete.\resistor.normal\(chips)',
+ P_PATH='@\tida-01606_hv_carde4_sch\.schematic1(sch_1):page1_ins14283109@discrete.\resistor.normal\(chips)',
+ ROOM='control_smps',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R8 'RESISTOR_RES0603_47K 0603 5%':
+ ROOM='control_smps';
+
+SECTION_NUMBER 1
+ '@TIDA-01606_HV_CARDE4_SCH.SCHEMATIC1(SCH_1):INS14282536@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@\tida-01606_hv_carde4_sch\.schematic1(sch_1):ins14282536@discrete.\resistor.normal\(chips)',
+ P_PATH='@\tida-01606_hv_carde4_sch\.schematic1(sch_1):page1_ins14282536@discrete.\resistor.normal\(chips)',
+ ROOM='control_smps',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R9 'RESISTOR_RES0603_0E 0603 5%':
+ ROOM='control_smps';
+
+SECTION_NUMBER 1
+ '@TIDA-01606_HV_CARDE4_SCH.SCHEMATIC1(SCH_1):INS14286904@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@\tida-01606_hv_carde4_sch\.schematic1(sch_1):ins14286904@discrete.\resistor.normal\(chips)',
+ P_PATH='@\tida-01606_hv_carde4_sch\.schematic1(sch_1):page1_ins14286904@discrete.\resistor.normal\(chips)',
+ ROOM='control_smps',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ T1 'TRANSFORMER STEPUP_0_TOROID_SMD':;
+
+SECTION_NUMBER 1
+ '@TIDA-01606_HV_CARDE4_SCH.SCHEMATIC1(SCH_1):INS14283429@TIDA-01606_HV_CARDE4_SCH.TRANSFORMER STEPUP_0.NORMAL(CHIPS)':
+ C_PATH='@\tida-01606_hv_carde4_sch\.schematic1(sch_1):ins14283429@\tida-01606_hv_carde4_sch\.\transformer stepup_0.normal\(chips)',
+ P_PATH='@\tida-01606_hv_carde4_sch\.schematic1(sch_1):page1_ins14283429@\tida-01606_hv_carde4_sch\.\transformer stepup_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U1 'DM3AT-SF-PEJM5_0_SOT65P210X110-':;
+
+SECTION_NUMBER 1
+ '@TIDA-01606_HV_CARDE4_SCH.SCHEMATIC1(SCH_1):INS14281871@TIDA-01606_HV_CARDE4_SCH.DM3AT-SF-PEJM5_0.NORMAL(CHIPS)':
+ C_PATH='@\tida-01606_hv_carde4_sch\.schematic1(sch_1):ins14281871@\tida-01606_hv_carde4_sch\.\dm3at-sf-pejm5_0.normal\(chips)',
+ P_PATH='@\tida-01606_hv_carde4_sch\.schematic1(sch_1):page1_ins14281871@\tida-01606_hv_carde4_sch\.\dm3at-sf-pejm5_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U2 'DM3AT-SF-PEJM5_1_SOT95P280X145-':;
+
+SECTION_NUMBER 1
+ '@TIDA-01606_HV_CARDE4_SCH.SCHEMATIC1(SCH_1):INS14282667@TIDA-01606_HV_CARDE4_SCH.DM3AT-SF-PEJM5_1.NORMAL(CHIPS)':
+ C_PATH='@\tida-01606_hv_carde4_sch\.schematic1(sch_1):ins14282667@\tida-01606_hv_carde4_sch\.\dm3at-sf-pejm5_1.normal\(chips)',
+ P_PATH='@\tida-01606_hv_carde4_sch\.schematic1(sch_1):page1_ins14282667@\tida-01606_hv_carde4_sch\.\dm3at-sf-pejm5_1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U3 'DM3AT-SF-PEJM5_2_SOT95P280X145-':;
+
+SECTION_NUMBER 1
+ '@TIDA-01606_HV_CARDE4_SCH.SCHEMATIC1(SCH_1):INS14285829@TIDA-01606_HV_CARDE4_SCH.DM3AT-SF-PEJM5_2.NORMAL(CHIPS)':
+ C_PATH='@\tida-01606_hv_carde4_sch\.schematic1(sch_1):ins14285829@\tida-01606_hv_carde4_sch\.\dm3at-sf-pejm5_2.normal\(chips)',
+ P_PATH='@\tida-01606_hv_carde4_sch\.schematic1(sch_1):page1_ins14285829@\tida-01606_hv_carde4_sch\.\dm3at-sf-pejm5_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U4 'DM3AT-SF-PEJM5_3_SOIC127P1150X2':;
+
+SECTION_NUMBER 1
+ '@TIDA-01606_HV_CARDE4_SCH.SCHEMATIC1(SCH_1):INS14287693@TIDA-01606_HV_CARDE4_SCH.DM3AT-SF-PEJM5_3.NORMAL(CHIPS)':
+ C_PATH='@\tida-01606_hv_carde4_sch\.schematic1(sch_1):ins14287693@\tida-01606_hv_carde4_sch\.\dm3at-sf-pejm5_3.normal\(chips)',
+ P_PATH='@\tida-01606_hv_carde4_sch\.schematic1(sch_1):page1_ins14287693@\tida-01606_hv_carde4_sch\.\dm3at-sf-pejm5_3.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U5 'DM3AT-SF-PEJM5_4_SOT65P210X110-':;
+
+SECTION_NUMBER 1
+ '@TIDA-01606_HV_CARDE4_SCH.SCHEMATIC1(SCH_1):INS14310127@TIDA-01606_HV_CARDE4_SCH.DM3AT-SF-PEJM5_4.NORMAL(CHIPS)':
+ C_PATH='@\tida-01606_hv_carde4_sch\.schematic1(sch_1):ins14310127@\tida-01606_hv_carde4_sch\.\dm3at-sf-pejm5_4.normal\(chips)',
+ P_PATH='@\tida-01606_hv_carde4_sch\.schematic1(sch_1):page1_ins14310127@\tida-01606_hv_carde4_sch\.\dm3at-sf-pejm5_4.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+END.

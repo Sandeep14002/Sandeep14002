@@ -1,0 +1,32 @@
+\t (00:00:06) allegro 17.4 S010 Windows SPB 64-bit Edition
+\t (00:00:06)     Journal start - Thu Dec 23 14:35:47 2021
+\t (00:00:06)         Host=MSI User=kunal Pid=8808 CPUs=8
+\t (00:00:06) CmdLine= c:\cadence\spb_17.4\tools\bin\allegro.exe C:\Users\kunal\Google Drive\RupeshRoshniPrakashPoojaPrashantKunal\Kunal\TIDA-01606_HV_CardE4_Sch\Board\TIDA-01606_HV_CARDE4_SCH_rev3.brd
+\t (00:00:06) 
+   (00:00:06) Loading axlcore.cxt 
+\t (00:00:08) Opening existing design...
+\i (00:00:09) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged TIDA-01606_HV_CARDE4_SCH_rev3
+\d (00:00:09) Design opened: C:/Users/kunal/Google Drive/RupeshRoshniPrakashPoojaPrashantKunal/Kunal/TIDA-01606_HV_CardE4_Sch/Board/TIDA-01606_HV_CARDE4_SCH_rev3.brd
+\t (00:00:09) Grids are drawn 16.00, 16.00 apart for enhanced viewing.
+\i (00:00:09) trapsize 1042
+\i (00:00:09) trapsize 1075
+\i (00:00:09) trapsize 1042
+\t (00:00:09) Grids are drawn 16.00, 16.00 apart for enhanced viewing.
+\t (00:00:09) Grids are drawn 8.00, 8.00 apart for enhanced viewing.
+\i (00:00:09) trapsize 866
+\i (00:00:09) trapsize 889
+\t (00:00:09) Grids are drawn 16.00, 16.00 apart for enhanced viewing.
+\i (00:00:09) trapsize 1905
+\i (00:00:10) generaledit 
+\i (00:00:11) zoom in 1 
+\i (00:00:11) setwindow pcb
+\i (00:00:11) zoom in 3394.52 2243.16
+\t (00:00:11) Grids are drawn 8.00, 8.00 apart for enhanced viewing.
+\i (00:00:11) trapsize 953
+\i (00:00:12) zoom out 1 
+\i (00:00:12) setwindow pcb
+\i (00:00:12) zoom out 3394.52 2243.16
+\t (00:00:12) Grids are drawn 16.00, 16.00 apart for enhanced viewing.
+\i (00:00:12) trapsize 1905
+\i (00:00:15) exit 
+\t (00:00:16)     Journal end - Thu Dec 23 14:35:57 2021

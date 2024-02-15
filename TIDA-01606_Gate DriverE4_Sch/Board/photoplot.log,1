@@ -1,0 +1,396 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    ARTWORK LOG                                                      )
+(                                                                     )
+(    Drawing          : TIDA-01606_Gate DriverE4_Sch_Rev18.brd        )
+(    Software Version : 17.2S013                                      )
+(    Date/Time        : Mon Apr 27 11:22:47 2020                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+
+ ******************************************
+ WARNING: DRC OUT OF DATE on this layout.
+ ******************************************
+
+ ---- Photoplot outline rectangle not found; using drawing extents.
+
+
+
+Results from parameter file ...
+    DEVICE-TYPE           GERBER_RS274X
+    OUTPUT-UNITS          INCHES
+    FILM-SIZE             2400000 1600000
+    FORMAT                2.5
+    ABORT-ON-ERROR        NO
+    SCALE                 1
+    SUPPRESS-LEAD-ZEROES  YES
+    SUPPRESS-TRAIL-ZEROES NO
+    SUPPRESS-EQUAL        YES
+    UNDEF-APT-CONT        NO
+
+
+
+================================================================
+     PROCESSING FILM < TOP >
+     TO FILE < C:/Users/kunal/Google Drive/RupeshRoshniPrakashPoojaPrashantKunal/Kunal/TIDA-01606_Gate DriverE4_Sch/Board/Gerber/TOP.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.00
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.00
+  Offset y:                           0.00
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+    WARNING: rectangle or unfilled shape composed 0 width line found at (5118.00 0.00)
+           ... ignored.
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.00500                                  DARK 
+  CIRCLE     0.01500                                  DARK 
+  CIRCLE     0.02000                                  DARK 
+  CIRCLE     0.02400                                  DARK 
+  CIRCLE     0.02500                                  DARK 
+  CIRCLE     0.03000                                  DARK 
+  CIRCLE     0.06000                                  DARK 
+  CIRCLE     0.09300                                  DARK 
+  RECTANGLE  0.01969     x 0.02362      90.000 NO     DARK 
+  RECTANGLE  0.02000     x 0.04000       0.000 NO     DARK 
+  RECTANGLE  0.02000     x 0.05050       0.000 NO     DARK 
+  RECTANGLE  0.02362     x 0.03937       0.000 NO     DARK 
+  RECTANGLE  0.03937     x 0.03937       0.000 NO     DARK 
+  RECTANGLE  0.03937     x 0.03937      90.000 NO     DARK 
+  RECTANGLE  0.04331     x 0.03937       0.000 NO     DARK 
+  RECTANGLE  0.04331     x 0.03937      90.000 NO     DARK 
+  RECTANGLE  0.04500     x 0.05500      90.000 NO     DARK 
+  RECTANGLE  0.04606     x 0.07520       0.000 NO     DARK 
+  RECTANGLE  0.05118     x 0.05906       0.000 NO     DARK 
+  RECTANGLE  0.05118     x 0.05906      90.000 NO     DARK 
+  RECTANGLE  0.06299     x 0.07087      90.000 NO     DARK 
+  RECTANGLE  0.06500     x 0.01300       0.000 NO     DARK 
+  RECTANGLE  0.07800     x 0.02200       0.000 NO     DARK 
+  RECTANGLE  0.10200     x 0.08900      90.000 NO     DARK 
+  RECTANGLE  0.10300     x 0.06400      90.000 NO     DARK 
+  RECTANGLE  0.11811     x 0.10236       0.000 NO     DARK 
+  OBLONG     0.01181     x 0.02362       0.000 NO     DARK 
+  PAD SHAPE  PS_R91_83_D5300            90.000 NO     DARK 
+  PAD SHAPE  PS_R91_83_D5300           270.000 NO     DARK 
+
+     TOP created with warnings
+
+
+================================================================
+     PROCESSING FILM < PWR_LAYER >
+     TO FILE < C:/Users/kunal/Google Drive/RupeshRoshniPrakashPoojaPrashantKunal/Kunal/TIDA-01606_Gate DriverE4_Sch/Board/Gerber/PWR_LAYER.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.00
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.00
+  Offset y:                           0.00
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.01500                                  DARK 
+  CIRCLE     0.02400                                  DARK 
+  CIRCLE     0.05500                                  DARK 
+  CIRCLE     0.09300                                  DARK 
+
+     PWR_LAYER created with warnings
+
+
+================================================================
+     PROCESSING FILM < GND_LAYER >
+     TO FILE < C:/Users/kunal/Google Drive/RupeshRoshniPrakashPoojaPrashantKunal/Kunal/TIDA-01606_Gate DriverE4_Sch/Board/Gerber/GND_LAYER.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.00
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.00
+  Offset y:                           0.00
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.02400                                  DARK 
+  CIRCLE     0.05500                                  DARK 
+  CIRCLE     0.09300                                  DARK 
+
+     GND_LAYER created with warnings
+
+
+================================================================
+     PROCESSING FILM < BOTTOM >
+     TO FILE < C:/Users/kunal/Google Drive/RupeshRoshniPrakashPoojaPrashantKunal/Kunal/TIDA-01606_Gate DriverE4_Sch/Board/Gerber/BOTTOM.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.00
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.00
+  Offset y:                           0.00
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+    WARNING: rectangle or unfilled shape having Multiple 0 width lines; all will be treated the same as the first.
+           ... ignored.
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.01500                                  DARK 
+  CIRCLE     0.02000                                  DARK 
+  CIRCLE     0.02400                                  DARK 
+  CIRCLE     0.02500                                  DARK 
+  CIRCLE     0.03000                                  DARK 
+  CIRCLE     0.06000                                  DARK 
+  CIRCLE     0.09300                                  DARK 
+  RECTANGLE  0.03937     x 0.03937       0.000 NO     DARK 
+  RECTANGLE  0.04331     x 0.03937       0.000 NO     DARK 
+  RECTANGLE  0.04331     x 0.03937      90.000 NO     DARK 
+  RECTANGLE  0.04500     x 0.05500       0.000 NO     DARK 
+  RECTANGLE  0.04500     x 0.05500      90.000 NO     DARK 
+  RECTANGLE  0.05000     x 0.02500      90.000 NO     DARK 
+  RECTANGLE  0.05118     x 0.05906       0.000 NO     DARK 
+  RECTANGLE  0.05118     x 0.05906      90.000 NO     DARK 
+  RECTANGLE  0.06299     x 0.07087      90.000 NO     DARK 
+  RECTANGLE  0.07900     x 0.02400      90.000 NO     DARK 
+
+     BOTTOM created with warnings
+
+
+================================================================
+     PROCESSING FILM < SilkscreenTOP >
+     TO FILE < C:/Users/kunal/Google Drive/RupeshRoshniPrakashPoojaPrashantKunal/Kunal/TIDA-01606_Gate DriverE4_Sch/Board/Gerber/SilkscreenTOP.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                8.00
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.00
+  Offset y:                           0.00
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+    WARNING: 0 width line found at (890.00 594.00)
+           ... using undefined line width of 8.00
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.00394                                  DARK 
+  CIRCLE     0.00500                                  DARK 
+  CIRCLE     0.00600                                  DARK 
+  CIRCLE     0.00787                                  DARK 
+  CIRCLE     0.00800                                  DARK 
+  CIRCLE     0.01000                                  DARK 
+
+     SilkscreenTOP created with warnings
+
+
+================================================================
+     PROCESSING FILM < SoldermaskTOP >
+     TO FILE < C:/Users/kunal/Google Drive/RupeshRoshniPrakashPoojaPrashantKunal/Kunal/TIDA-01606_Gate DriverE4_Sch/Board/Gerber/SoldermaskTOP.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.00
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.00
+  Offset y:                           0.00
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.04400                                  DARK 
+  CIRCLE     0.07000                                  DARK 
+  CIRCLE     0.07500                                  DARK 
+  CIRCLE     0.11000                                  DARK 
+  RECTANGLE  0.01969     x 0.02362      90.000 NO     DARK 
+  RECTANGLE  0.02000     x 0.04000       0.000 NO     DARK 
+  RECTANGLE  0.02000     x 0.05050       0.000 NO     DARK 
+  RECTANGLE  0.02762     x 0.04337       0.000 NO     DARK 
+  RECTANGLE  0.03937     x 0.03937       0.000 NO     DARK 
+  RECTANGLE  0.03937     x 0.03937      90.000 NO     DARK 
+  RECTANGLE  0.04331     x 0.03937       0.000 NO     DARK 
+  RECTANGLE  0.04331     x 0.03937      90.000 NO     DARK 
+  RECTANGLE  0.05100     x 0.06100      90.000 NO     DARK 
+  RECTANGLE  0.05606     x 0.08520       0.000 NO     DARK 
+  RECTANGLE  0.05906     x 0.06693       0.000 NO     DARK 
+  RECTANGLE  0.05906     x 0.06693      90.000 NO     DARK 
+  RECTANGLE  0.07087     x 0.07874      90.000 NO     DARK 
+  RECTANGLE  0.07500     x 0.01800       0.000 NO     DARK 
+  RECTANGLE  0.07800     x 0.02200       0.000 NO     DARK 
+  RECTANGLE  0.10200     x 0.08900      90.000 NO     DARK 
+  RECTANGLE  0.10300     x 0.06400      90.000 NO     DARK 
+  RECTANGLE  0.12211     x 0.10636       0.000 NO     DARK 
+  OBLONG     0.01581     x 0.02762       0.000 NO     DARK 
+  PAD SHAPE  PS_R91_83_D5300            90.000 NO     DARK 
+  PAD SHAPE  PS_R91_83_D5300           270.000 NO     DARK 
+
+     SoldermaskTOP created with warnings
+
+
+================================================================
+     PROCESSING FILM < SilkscreenBOTTOM >
+     TO FILE < C:/Users/kunal/Google Drive/RupeshRoshniPrakashPoojaPrashantKunal/Kunal/TIDA-01606_Gate DriverE4_Sch/Board/Gerber/SilkscreenBOTTOM.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                8.00
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.00
+  Offset y:                           0.00
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.00600                                  DARK 
+  CIRCLE     0.00787                                  DARK 
+  CIRCLE     0.00800                                  DARK 
+  CIRCLE     0.01000                                  DARK 
+
+     SilkscreenBOTTOM created with warnings
+
+
+================================================================
+     PROCESSING FILM < SoldermaskBOTTOM >
+     TO FILE < C:/Users/kunal/Google Drive/RupeshRoshniPrakashPoojaPrashantKunal/Kunal/TIDA-01606_Gate DriverE4_Sch/Board/Gerber/SoldermaskBOTTOM.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.00
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.00
+  Offset y:                           0.00
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.04400                                  DARK 
+  CIRCLE     0.07000                                  DARK 
+  CIRCLE     0.07500                                  DARK 
+  CIRCLE     0.11000                                  DARK 
+  RECTANGLE  0.03937     x 0.03937       0.000 NO     DARK 
+  RECTANGLE  0.04331     x 0.03937       0.000 NO     DARK 
+  RECTANGLE  0.04331     x 0.03937      90.000 NO     DARK 
+  RECTANGLE  0.05100     x 0.06100       0.000 NO     DARK 
+  RECTANGLE  0.05100     x 0.06100      90.000 NO     DARK 
+  RECTANGLE  0.05500     x 0.03000      90.000 NO     DARK 
+  RECTANGLE  0.05906     x 0.06693       0.000 NO     DARK 
+  RECTANGLE  0.05906     x 0.06693      90.000 NO     DARK 
+  RECTANGLE  0.07087     x 0.07874      90.000 NO     DARK 
+  RECTANGLE  0.08500     x 0.03000      90.000 NO     DARK 
+
+     SoldermaskBOTTOM created with warnings
+
+
+================================================================
+     PROCESSING FILM < DrillDimensions >
+     TO FILE < C:/Users/kunal/Google Drive/RupeshRoshniPrakashPoojaPrashantKunal/Kunal/TIDA-01606_Gate DriverE4_Sch/Board/Gerber/DrillDimensions.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                8.00
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.00
+  Offset y:                           0.00
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+    WARNING: Multiple 0 width lines; all will be treated the same as the first.
+           ... using undefined line width of 8.00
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.00800                                  DARK 
+
+     DrillDimensions created with warnings
+
+
+------------------------------------------------------
+ SUMMARY:
+        TOP created with warnings
+        PWR_LAYER created with warnings
+        GND_LAYER created with warnings
+        BOTTOM created with warnings
+        SilkscreenTOP created with warnings
+        SoldermaskTOP created with warnings
+        SilkscreenBOTTOM created with warnings
+        SoldermaskBOTTOM created with warnings
+        DrillDimensions created with warnings
+
+ ARTWORK had warnings

@@ -1,0 +1,590 @@
+\t (00:00:00) allegro 17.4 P001 Windows SPB 64-bit Edition
+\t (00:00:00)     Journal start - Fri Aug 27 12:32:05 2021
+\t (00:00:00)         Host=MSI User=kunal Pid=17040 CPUs=8
+\t (00:00:00) CmdLine= c:\cadence\spb_17.4\tools\bin\allegro.exe C:\Users\kunal\Google Drive\RupeshRoshniPrakashPoojaPrashantKunal\Kunal\TIDA-01606_HV_CardE4_Sch\Board\TIDA-01606_HV_CARDE4_SCH_rev3.brd
+\t (00:00:00) 
+   (00:00:00) Loading axlcore.cxt 
+\t (00:00:00) Opening existing design...
+\i (00:00:00) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged TIDA-01606_HV_CARDE4_SCH_rev3
+\d (00:00:00) Design opened: C:/Users/kunal/Google Drive/RupeshRoshniPrakashPoojaPrashantKunal/Kunal/TIDA-01606_HV_CardE4_Sch/Board/TIDA-01606_HV_CARDE4_SCH_rev3.brd
+\t (00:00:01) Grids are drawn 64.00, 64.00 apart for enhanced viewing.
+\i (00:00:01) trapsize 5898
+\i (00:00:01) trapsize 6402
+\i (00:00:01) trapsize 5898
+\t (00:00:01) Grids are drawn 64.00, 64.00 apart for enhanced viewing.
+\t (00:00:01) Grids are drawn 32.00, 32.00 apart for enhanced viewing.
+\i (00:00:01) trapsize 3600
+\i (00:00:01) trapsize 3771
+\i (00:00:01) trapsize 3771
+\i (00:00:01) generaledit 
+\i (00:00:05) zoom in 1 
+\i (00:00:05) setwindow pcb
+\i (00:00:05) zoom in 3023.78 2181.61
+\t (00:00:05) Grids are drawn 16.00, 16.00 apart for enhanced viewing.
+\i (00:00:05) trapsize 1886
+\i (00:00:06) roam start
+\i (00:00:06) roam x 32
+\i (00:00:06) roam x 144
+\i (00:00:06) roam x 96
+\i (00:00:06) roam x 64
+\i (00:00:06) roam x 32
+\i (00:00:06) roam end
+\i (00:00:07) zoom in 1 
+\i (00:00:07) setwindow pcb
+\i (00:00:07) zoom in 3806.73 2603.98
+\t (00:00:07) Grids are drawn 8.00, 8.00 apart for enhanced viewing.
+\i (00:00:07) trapsize 943
+\i (00:00:07) zoom in 1 
+\i (00:00:07) setwindow pcb
+\i (00:00:07) zoom in 3642.69 2324.93
+\t (00:00:07) Grids are drawn 4.00, 4.00 apart for enhanced viewing.
+\i (00:00:07) trapsize 471
+\i (00:00:12) zoom out 1 
+\i (00:00:12) setwindow pcb
+\i (00:00:12) zoom out 3727.54 2531.40
+\t (00:00:12) Grids are drawn 8.00, 8.00 apart for enhanced viewing.
+\i (00:00:12) trapsize 943
+\i (00:00:13) roam start
+\i (00:00:13) roam x -16
+\i (00:00:13) roam x -112
+\i (00:00:13) roam x -80
+\i (00:00:13) roam x -32
+\i (00:00:13) roam x -16
+\i (00:00:13) roam x -80
+\i (00:00:13) roam x -16
+\i (00:00:13) roam x -32
+\i (00:00:13) roam x -112
+\i (00:00:13) roam x -16
+\i (00:00:14) roam x -16
+\i (00:00:14) roam x -16
+\i (00:00:14) roam x -32
+\i (00:00:14) roam x -96
+\i (00:00:14) roam x -64
+\i (00:00:14) roam end
+\i (00:00:16) cmgr 
+\i (00:00:17) generaledit 
+\i (00:00:20) QtSignal m_dockWsQtWidgetContents m_domainSelector currentChanged Spacing
+\i (00:00:21) QtSignal m_domainSelector WS_Spacing itemSelectionChanged "Spacing Constraint Set" +
+\i (00:00:21) QtSignal "All Layers"
+\i (00:00:21) QtSignal m_domainSelector WS_Spacing itemClicked "Spacing Constraint Set" "All Layers"
+\i (00:00:26) QtSignal inCell text editingFinished 8
+\i (00:00:27) QtFillin OK
+\i (00:00:28) QtFillin Retry
+\i (00:00:30) QtFillin OK
+\i (00:00:31) QtFillin Cancel
+\i (00:00:31) QtSignal inCell text editingFinished 8
+\i (00:00:35) status 
+\i (00:00:36) generaledit 
+\i (00:00:37) setwindow form.status
+\i (00:00:37) FORM status fill_update  
+\t (00:00:37) Updating dynamic shape (1 of 6) Gnd_Amc, Boundary/Bottom @ (3249.00 2472.00) ...
+\t (00:00:37) Updating dynamic shape (2 of 6) Gnd_Amc, Boundary/Top @ (3249.00 2745.00) ...
+\t (00:00:37) Updating dynamic shape (3 of 6) 0, Boundary/G1 @ (1938.00 1642.00) ...
+\t (00:00:37) Updating dynamic shape (4 of 6) 6V, Boundary/Top @ (3459.00 2515.00) ...
+\t (00:00:37) Updating dynamic shape (5 of 6) 0, Boundary/Top @ (1938.00 1642.00) ...
+\t (00:00:37) Updating dynamic shape (6 of 6) 0, Boundary/Bottom @ (1938.00 1642.00) ...
+\i (00:00:37) FORM status force_update  
+\t (00:00:37) Updating dynamic shape (1 of 6) Gnd_Amc, Boundary/Bottom @ (3249.00 2472.00) ...
+\t (00:00:37) Updating dynamic shape (2 of 6) Gnd_Amc, Boundary/Top @ (3249.00 2745.00) ...
+\t (00:00:37) Updating dynamic shape (3 of 6) 0, Boundary/G1 @ (1938.00 1642.00) ...
+\t (00:00:37) Updating dynamic shape (4 of 6) 6V, Boundary/Top @ (3459.00 2515.00) ...
+\t (00:00:37) Updating dynamic shape (5 of 6) 0, Boundary/Top @ (1938.00 1642.00) ...
+\t (00:00:37) Updating dynamic shape (6 of 6) 0, Boundary/Bottom @ (1938.00 1642.00) ...
+\i (00:00:38) FORM status force_update  
+\t (00:00:38) Updating dynamic shape (1 of 6) Gnd_Amc, Boundary/Bottom @ (3249.00 2472.00) ...
+\t (00:00:38) Updating dynamic shape (2 of 6) Gnd_Amc, Boundary/Top @ (3249.00 2745.00) ...
+\t (00:00:38) Updating dynamic shape (3 of 6) 0, Boundary/G1 @ (1938.00 1642.00) ...
+\t (00:00:38) Updating dynamic shape (4 of 6) 6V, Boundary/Top @ (3459.00 2515.00) ...
+\t (00:00:38) Updating dynamic shape (5 of 6) 0, Boundary/Top @ (1938.00 1642.00) ...
+\t (00:00:38) Updating dynamic shape (6 of 6) 0, Boundary/Bottom @ (1938.00 1642.00) ...
+\i (00:00:38) FORM status drc_update  
+\t (00:00:38) Running DRC, wait...
+\t (00:00:38) Performing DRC...
+\t (00:00:38) Multithreaded DRC update (8 threads).
+\t (00:00:38) DRC done; 7 errors detected.
+\t (00:00:38) DRC done.
+\i (00:00:38) FORM status drc_update  
+\t (00:00:38) Running DRC, wait...
+\t (00:00:38) Performing DRC...
+\t (00:00:38) Multithreaded DRC update (8 threads).
+\t (00:00:38) DRC done; 7 errors detected.
+\t (00:00:38) DRC done.
+\i (00:00:39) FORM status drc_update  
+\t (00:00:39) Running DRC, wait...
+\t (00:00:39) Performing DRC...
+\t (00:00:39) Multithreaded DRC update (8 threads).
+\t (00:00:39) DRC done; 7 errors detected.
+\t (00:00:39) DRC done.
+\i (00:00:39) FORM status drc_update  
+\t (00:00:39) Running DRC, wait...
+\t (00:00:39) Performing DRC...
+\t (00:00:39) Multithreaded DRC update (8 threads).
+\t (00:00:39) DRC done; 7 errors detected.
+\t (00:00:39) DRC done.
+\i (00:00:39) FORM status drc_update  
+\t (00:00:39) Running DRC, wait...
+\t (00:00:39) Performing DRC...
+\t (00:00:39) Multithreaded DRC update (8 threads).
+\t (00:00:39) DRC done; 7 errors detected.
+\t (00:00:39) DRC done.
+\i (00:00:40) FORM status drc_color 1 
+\i (00:00:40) setwindow pcb
+\i (00:00:40) reports drc 
+\i (00:00:40) generaledit 
+\i (00:00:41) zoom in 1 
+\i (00:00:41) setwindow pcb
+\i (00:00:41) zoom in 2183.30 2373.02
+\t (00:00:41) Grids are drawn 4.00, 4.00 apart for enhanced viewing.
+\i (00:00:41) trapsize 471
+\i (00:00:41) zoom in 1 
+\i (00:00:41) setwindow pcb
+\i (00:00:41) zoom in 2183.30 2373.01
+\t (00:00:41) Grids are drawn 2.00, 2.00 apart for enhanced viewing.
+\i (00:00:41) trapsize 236
+\i (00:00:41) zoom in 1 
+\i (00:00:41) setwindow pcb
+\i (00:00:41) zoom in 2183.30 2373.02
+\i (00:00:41) trapsize 118
+\i (00:00:41) zoom in 1 
+\i (00:00:41) setwindow pcb
+\i (00:00:41) zoom in 2190.14 2376.32
+\i (00:00:41) trapsize 59
+\i (00:00:41) zoom in 1 
+\i (00:00:41) setwindow pcb
+\i (00:00:41) zoom in 2190.14 2376.32
+\i (00:00:41) trapsize 29
+\i (00:00:42) zoom center 
+\t (00:00:42) Pick center for the new display.
+\i (00:00:42) pick 2087.44,2101.00 
+\t (00:00:42) last pick:  2087.44 2101.00
+\i (00:00:42) trapsize 29
+\i (00:00:43) zoom out 1 
+\i (00:00:43) setwindow pcb
+\i (00:00:43) zoom out 2079.61 2107.13
+\i (00:00:43) trapsize 59
+\i (00:00:43) zoom out 1 
+\i (00:00:43) setwindow pcb
+\i (00:00:43) zoom out 2077.84 2106.31
+\i (00:00:43) trapsize 118
+\i (00:00:44) roam start
+\i (00:00:44) roam x 64
+\i (00:00:44) roam x 16
+\i (00:00:44) roam end
+\i (00:00:46) slide 
+\t (00:00:46) Pick element to slide.
+\i (00:00:47) pick grid 2117.40 2103.95
+\t (00:00:47) last pick:  2117.00 2104.00
+\t (00:00:47) last pick:  2117.40 2101.00
+\t (00:00:47) Waiting for the destination pick.
+\i (00:00:48) pick grid 2115.75 2101.36
+\t (00:00:48) last pick:  2116.00 2101.00
+\t (00:00:48) DRC errors detected.
+\t (00:00:48) Pick another element to slide.
+\i (00:00:49) pick grid 2107.26 2097.83
+\t (00:00:49) last pick:  2107.00 2098.00
+\t (00:00:49) last pick:  2102.87 2099.07
+\t (00:00:49) Waiting for the destination pick.
+\i (00:00:50) pick grid 2108.68 2099.00
+\t (00:00:50) last pick:  2109.00 2099.00
+\t (00:00:50) DRC errors detected.
+\t (00:00:50) Pick another element to slide.
+\i (00:00:51) pick grid 2140.50 2094.53
+\t (00:00:51) last pick:  2141.00 2095.00
+\t (00:00:51) last pick:  2140.50 2101.00
+\t (00:00:51) Waiting for the destination pick.
+\i (00:00:53) pick grid 2144.50 2099.47
+\t (00:00:53) last pick:  2145.00 2099.00
+\t (00:00:53) DRC errors detected.
+\t (00:00:53) Pick another element to slide.
+\i (00:00:53) pick grid 2131.07 2098.30
+\t (00:00:53) last pick:  2131.00 2098.00
+\t (00:00:53) last pick:  2133.80 2099.02
+\t (00:00:53) Waiting for the destination pick.
+\t (00:00:53) Start slide location has pre-existing DRC errors.
+\i (00:00:54) pick grid 2119.28 2100.18
+\t (00:00:54) last pick:  2119.00 2100.00
+\t (00:00:54) DRC errors detected.
+\t (00:00:54) Pick another element to slide.
+\i (00:00:54) pick grid 2103.96 2101.36
+\t (00:00:54) last pick:  2104.00 2101.00
+\t (00:00:54) last pick:  2100.61 2101.33
+\t (00:00:54) Waiting for the destination pick.
+\i (00:00:55) pick grid 2091.94 2095.47
+\t (00:00:55) last pick:  2092.00 2095.00
+\t (00:00:55) DRC errors detected.
+\t (00:00:55) Pick another element to slide.
+\i (00:00:56) pick grid 2115.04 2095.23
+\t (00:00:56) last pick:  2115.00 2095.00
+\t (00:00:56) last pick:  2115.04 2099.07
+\t (00:00:56) Waiting for the destination pick.
+\t (00:00:56) Start slide location has pre-existing DRC errors.
+\i (00:00:56) pick grid 2117.63 2099.47
+\t (00:00:56) last pick:  2118.00 2099.00
+\t (00:00:56) DRC errors detected.
+\t (00:00:56) Pick another element to slide.
+\i (00:00:57) pick grid 2130.36 2098.53
+\t (00:00:57) last pick:  2130.00 2099.00
+\t (00:00:57) last pick:  2131.49 2099.07
+\t (00:00:57) Waiting for the destination pick.
+\i (00:00:57) pick grid 2135.55 2103.01
+\t (00:00:57) last pick:  2136.00 2103.00
+\t (00:00:57) DRC errors detected.
+\t (00:00:57) Pick another element to slide.
+\i (00:00:57) pick grid 2150.87 2096.41
+\t (00:00:57) last pick:  2151.00 2096.00
+\t (00:00:57) last pick:  2150.87 2100.20
+\t (00:00:57) Waiting for the destination pick.
+\t (00:00:57) Start slide location has pre-existing DRC errors.
+\i (00:00:58) pick grid 2151.57 2097.83
+\t (00:00:58) last pick:  2152.00 2098.00
+\t (00:00:58) DRC errors detected.
+\t (00:00:58) Pick another element to slide.
+\i (00:00:58) zoom out 1 
+\i (00:00:58) setwindow pcb
+\i (00:00:58) zoom out 2117.87 2099.24
+\i (00:00:58) trapsize 236
+\i (00:00:58) roam start
+\i (00:00:58) roam x 16
+\i (00:00:58) roam x 144
+\i (00:00:59) roam end
+\i (00:00:59) zoom in 1 
+\i (00:00:59) setwindow pcb
+\i (00:00:59) zoom in 2163.55 2102.55
+\i (00:00:59) trapsize 118
+\i (00:00:59) roam start
+\i (00:00:59) roam x -112
+\i (00:00:59) roam y 32
+\i (00:00:59) roam x -144
+\i (00:00:59) roam y 16
+\i (00:00:59) roam x -112
+\i (00:00:59) roam x -80
+\i (00:00:59) roam y 16
+\i (00:00:59) roam end
+\i (00:01:00) zoom out 1 
+\i (00:01:00) setwindow pcb
+\i (00:01:00) zoom out 2049.04 2094.31
+\i (00:01:00) trapsize 236
+\i (00:01:01) prepopup 2105.61 2098.56
+\i (00:01:01) done 
+\i (00:01:01) generaledit 
+\i (00:01:03) delete 
+\i (00:01:05) setwindow text
+\i (00:01:05) close
+\i (00:01:06) setwindow form.status
+\i (00:01:06) FORM status done  
+\i (00:01:08) setwindow form.find
+\i (00:01:08) FORM find all_off  
+\i (00:01:09) FORM find clines YES 
+\i (00:01:11) setwindow pcb
+\i (00:01:11) pick grid 2122.58 2104.22
+\t (00:01:11) last pick:  2123.00 2104.00
+\t (00:01:11) Connect Line "3.3V, Etch/Top"
+\i (00:01:11) pick grid 1980.69 2095.73
+\t (00:01:11) last pick:  1981.00 2096.00
+\i (00:01:14) add connect 
+\t (00:01:14) Pick first element.
+\i (00:01:18) setwindow form.mini
+\i (00:01:18) FORM mini acon_line_width 15.00 
+\i (00:01:18) setwindow pcb
+\i (00:01:18) zoom in 1 
+\i (00:01:18) setwindow pcb
+\i (00:01:18) zoom in 2047.63 2115.06
+\i (00:01:18) trapsize 118
+\i (00:01:19) pick grid 2067.20 2133.92
+\t (00:01:19) last pick:  2067.00 2134.00
+\t (00:01:19) last pick:  2066.00 2138.00
+\t (00:01:19) Target Symbol Pin is defined on TOP.
+\t (00:01:19) last pick:  2066.00 2138.00
+\i (00:01:22) setwindow form.mini
+\i (00:01:22) FORM mini acon_line_width 10 
+\i (00:01:22) setwindow pcb
+\i (00:01:22) mouse_pos 2163.83 2122.37
+\i (00:01:22) mouse_pos 2159.82 2122.37
+\i (00:01:24) pick grid 2076.15 2104.45
+\t (00:01:24) last pick:  2076.00 2104.00
+\t (00:01:24) No DRC errors detected.
+\i (00:01:26) roam start
+\i (00:01:26) roam x 80
+\i (00:01:26) roam x 144
+\i (00:01:26) roam y 16
+\i (00:01:26) roam x 48
+\i (00:01:26) roam x 16
+\i (00:01:26) roam end
+\i (00:01:26) mouse_pos 2202.48 2106.09
+\i (00:01:27) pick grid 2181.04 2107.74
+\t (00:01:27) last pick:  2181.00 2108.00
+\t (00:01:27) No DRC errors detected.
+\t (00:01:27) Pick first element.
+\i (00:01:27) zoom out 1 
+\i (00:01:27) setwindow pcb
+\i (00:01:27) zoom out 2179.15 2106.80
+\i (00:01:27) trapsize 236
+\i (00:01:28) prepopup 2188.58 2118.60
+\i (00:01:28) done 
+\i (00:01:28) generaledit 
+\i (00:01:29) zoom out 1 
+\i (00:01:29) setwindow pcb
+\i (00:01:29) zoom out 2140.03 2089.84
+\t (00:01:29) Grids are drawn 4.00, 4.00 apart for enhanced viewing.
+\i (00:01:29) trapsize 471
+\i (00:01:29) roam start
+\i (00:01:29) roam x 48
+\i (00:01:29) roam y 64
+\i (00:01:29) roam x 32
+\i (00:01:29) roam y 32
+\i (00:01:29) roam x 96
+\i (00:01:29) roam x 128
+\i (00:01:29) roam x 112
+\i (00:01:29) roam y -48
+\i (00:01:29) roam x 64
+\i (00:01:29) roam y -48
+\i (00:01:29) roam y -16
+\i (00:01:29) roam x 16
+\i (00:01:29) roam y -16
+\i (00:01:29) roam x 16
+\i (00:01:29) roam y -16
+\i (00:01:29) roam x 16
+\i (00:01:29) roam y -32
+\i (00:01:29) roam end
+\i (00:01:30) roam start
+\i (00:01:30) roam y -32
+\i (00:01:30) roam x 16
+\i (00:01:30) roam y -144
+\i (00:01:30) roam y -96
+\i (00:01:30) roam x 16
+\i (00:01:30) roam y -48
+\i (00:01:30) roam y -32
+\i (00:01:30) roam end
+\i (00:01:30) zoom out 1 
+\i (00:01:30) setwindow pcb
+\i (00:01:30) zoom out 2612.31 2381.13
+\t (00:01:30) Grids are drawn 8.00, 8.00 apart for enhanced viewing.
+\i (00:01:30) trapsize 943
+\i (00:01:31) roam start
+\i (00:01:31) roam x 48
+\i (00:01:31) roam x 128
+\i (00:01:31) roam y 32
+\i (00:01:31) roam x 144
+\i (00:01:31) roam y 16
+\i (00:01:31) roam x 112
+\i (00:01:31) roam y 16
+\i (00:01:31) roam x 80
+\i (00:01:31) roam y 16
+\i (00:01:31) roam x 16
+\i (00:01:31) roam x 16
+\i (00:01:31) roam x 48
+\i (00:01:31) roam x 32
+\i (00:01:31) roam x 32
+\i (00:01:31) roam x 32
+\i (00:01:31) roam x 48
+\i (00:01:31) roam y -16
+\i (00:01:31) roam x 32
+\i (00:01:32) roam x 16
+\i (00:01:32) roam y -16
+\i (00:01:32) roam end
+\i (00:01:35) status 
+\i (00:01:35) generaledit 
+\i (00:01:36) setwindow form.status
+\i (00:01:36) FORM status drc_update  
+\t (00:01:36) Running DRC, wait...
+\t (00:01:36) Performing DRC...
+\t (00:01:36) Multithreaded DRC update (8 threads).
+\t (00:01:36) DRC done; 3 errors detected.
+\t (00:01:36) DRC done.
+\i (00:01:36) FORM status drc_update  
+\t (00:01:36) Running DRC, wait...
+\t (00:01:36) Performing DRC...
+\t (00:01:36) Multithreaded DRC update (8 threads).
+\t (00:01:36) DRC done; 3 errors detected.
+\t (00:01:36) DRC done.
+\i (00:01:36) FORM status drc_update  
+\t (00:01:36) Running DRC, wait...
+\t (00:01:36) Performing DRC...
+\t (00:01:36) Multithreaded DRC update (8 threads).
+\t (00:01:36) DRC done; 3 errors detected.
+\t (00:01:36) DRC done.
+\i (00:01:36) FORM status drc_update  
+\t (00:01:36) Running DRC, wait...
+\t (00:01:36) Performing DRC...
+\t (00:01:36) Multithreaded DRC update (8 threads).
+\t (00:01:37) DRC done; 3 errors detected.
+\t (00:01:37) DRC done.
+\i (00:01:37) FORM status refresh  
+\i (00:01:37) FORM status refresh  
+\i (00:01:37) FORM status refresh  
+\i (00:01:37) FORM status refresh  
+\i (00:01:38) FORM status refresh  
+\i (00:01:38) FORM status force_update  
+\t (00:01:38) Updating dynamic shape (1 of 6) Gnd_Amc, Boundary/Bottom @ (3249.00 2472.00) ...
+\t (00:01:38) Updating dynamic shape (2 of 6) Gnd_Amc, Boundary/Top @ (3249.00 2745.00) ...
+\t (00:01:38) Updating dynamic shape (3 of 6) 0, Boundary/G1 @ (1938.00 1642.00) ...
+\t (00:01:38) Updating dynamic shape (4 of 6) 6V, Boundary/Top @ (3459.00 2515.00) ...
+\t (00:01:38) Updating dynamic shape (5 of 6) 0, Boundary/Top @ (1938.00 1642.00) ...
+\t (00:01:38) Updating dynamic shape (6 of 6) 0, Boundary/Bottom @ (1938.00 1642.00) ...
+\i (00:01:38) FORM status force_update  
+\t (00:01:38) Updating dynamic shape (1 of 6) Gnd_Amc, Boundary/Bottom @ (3249.00 2472.00) ...
+\t (00:01:38) Updating dynamic shape (2 of 6) Gnd_Amc, Boundary/Top @ (3249.00 2745.00) ...
+\t (00:01:38) Updating dynamic shape (3 of 6) 0, Boundary/G1 @ (1938.00 1642.00) ...
+\t (00:01:38) Updating dynamic shape (4 of 6) 6V, Boundary/Top @ (3459.00 2515.00) ...
+\t (00:01:38) Updating dynamic shape (5 of 6) 0, Boundary/Top @ (1938.00 1642.00) ...
+\t (00:01:38) Updating dynamic shape (6 of 6) 0, Boundary/Bottom @ (1938.00 1642.00) ...
+\i (00:01:39) FORM status refresh  
+\i (00:01:39) FORM status refresh  
+\i (00:01:40) FORM status drc_color 1 
+\i (00:01:40) setwindow pcb
+\i (00:01:40) reports drc 
+\i (00:01:40) generaledit 
+\i (00:01:41) zoom center 
+\t (00:01:41) Pick center for the new display.
+\i (00:01:41) pick 2360.00,1879.00 
+\t (00:01:41) last pick:  2360.00 1879.00
+\i (00:01:41) trapsize 943
+\i (00:01:42) zoom in 1 
+\i (00:01:42) setwindow pcb
+\i (00:01:42) zoom in 2356.23 2024.19
+\t (00:01:42) Grids are drawn 4.00, 4.00 apart for enhanced viewing.
+\i (00:01:42) trapsize 471
+\i (00:01:43) zoom in 1 
+\i (00:01:43) setwindow pcb
+\i (00:01:43) zoom in 2356.23 2024.19
+\t (00:01:43) Grids are drawn 2.00, 2.00 apart for enhanced viewing.
+\i (00:01:43) trapsize 236
+\i (00:01:43) zoom in 1 
+\i (00:01:43) setwindow pcb
+\i (00:01:43) zoom in 2356.23 2024.19
+\i (00:01:43) trapsize 118
+\i (00:01:43) zoom out 1 
+\i (00:01:43) setwindow pcb
+\i (00:01:43) zoom out 2350.81 2029.37
+\i (00:01:43) trapsize 236
+\i (00:01:45) slide 
+\t (00:01:45) Pick element to slide.
+\i (00:01:46) pick grid 2339.97 2005.81
+\t (00:01:46) last pick:  2340.00 2006.00
+\t (00:01:46) last pick:  2340.00 2005.81
+\t (00:01:46) Waiting for the destination pick.
+\t (00:01:46) Start slide location has pre-existing DRC errors.
+\i (00:01:47) pick grid 2335.25 2004.40
+\t (00:01:47) last pick:  2335.00 2004.00
+\t (00:01:47) No DRC errors detected.
+\t (00:01:47) Pick another element to slide.
+\i (00:01:48) setwindow text
+\i (00:01:48) close
+\i (00:01:49) setwindow form.status
+\i (00:01:49) FORM status force_update  
+\w (00:01:49) Shape Update can not be run while command active.
+\i (00:01:49) FORM status force_update  
+\w (00:01:49) Shape Update can not be run while command active.
+\i (00:01:49) FORM status drc_update  
+\w (00:01:49) DRC Update can not be run while command active.
+\i (00:01:50) FORM status drc_update  
+\w (00:01:50) DRC Update can not be run while command active.
+\i (00:01:50) FORM status drc_update  
+\w (00:01:50) DRC Update can not be run while command active.
+\i (00:01:50) FORM status refresh  
+\i (00:01:50) FORM status refresh  
+\i (00:01:51) FORM status refresh  
+\i (00:01:52) FORM status force_update  
+\w (00:01:52) Shape Update can not be run while command active.
+\i (00:01:56) FORM status drc_update  
+\w (00:01:56) DRC Update can not be run while command active.
+\i (00:01:57) FORM status force_update  
+\w (00:01:57) Shape Update can not be run while command active.
+\i (00:02:01) setwindow pcb
+\i (00:02:01) prepopup 2426.23 1949.71
+\i (00:02:01) done 
+\i (00:02:01) generaledit 
+\i (00:02:02) setwindow form.status
+\i (00:02:02) FORM status done  
+\i (00:02:04) setwindow pcb
+\i (00:02:04) status 
+\i (00:02:04) generaledit 
+\i (00:02:05) setwindow form.status
+\i (00:02:05) FORM status force_update  
+\t (00:02:05) Updating dynamic shape (1 of 6) Gnd_Amc, Boundary/Bottom @ (3249.00 2472.00) ...
+\t (00:02:05) Updating dynamic shape (2 of 6) Gnd_Amc, Boundary/Top @ (3249.00 2745.00) ...
+\t (00:02:05) Updating dynamic shape (3 of 6) 0, Boundary/G1 @ (1938.00 1642.00) ...
+\t (00:02:05) Updating dynamic shape (4 of 6) 6V, Boundary/Top @ (3459.00 2515.00) ...
+\t (00:02:05) Updating dynamic shape (5 of 6) 0, Boundary/Top @ (1938.00 1642.00) ...
+\t (00:02:05) Updating dynamic shape (6 of 6) 0, Boundary/Bottom @ (1938.00 1642.00) ...
+\i (00:02:05) FORM status drc_update  
+\t (00:02:05) Running DRC, wait...
+\t (00:02:05) Performing DRC...
+\t (00:02:05) Multithreaded DRC update (8 threads).
+\t (00:02:05) No DRC errors detected.
+\t (00:02:05) DRC done.
+\i (00:02:06) FORM status refresh  
+\i (00:02:07) FORM status done  
+\i (00:02:09) setwindow pcb
+\i (00:02:09) zoom out 1 
+\i (00:02:09) setwindow pcb
+\i (00:02:09) zoom out 2443.67 2029.85
+\t (00:02:09) Grids are drawn 4.00, 4.00 apart for enhanced viewing.
+\i (00:02:09) trapsize 471
+\i (00:02:09) zoom out 1 
+\i (00:02:09) setwindow pcb
+\i (00:02:09) zoom out 2446.51 2029.85
+\t (00:02:09) Grids are drawn 8.00, 8.00 apart for enhanced viewing.
+\i (00:02:09) trapsize 943
+\i (00:02:09) zoom out 1 
+\i (00:02:09) setwindow pcb
+\i (00:02:09) zoom out 1801.64 1945.00
+\t (00:02:09) Grids are drawn 16.00, 16.00 apart for enhanced viewing.
+\i (00:02:09) trapsize 1886
+\i (00:02:10) roam start
+\i (00:02:10) roam x 64
+\i (00:02:10) roam y -48
+\i (00:02:10) roam x 64
+\i (00:02:10) roam y -48
+\i (00:02:10) roam x 32
+\i (00:02:10) roam y -16
+\i (00:02:10) roam x 16
+\i (00:02:10) roam x 16
+\i (00:02:10) roam x 80
+\i (00:02:10) roam x 48
+\i (00:02:10) roam x 16
+\i (00:02:10) roam y 16
+\i (00:02:11) roam end
+\i (00:02:13) save 
+\i (00:02:14) fillin yes 
+   (00:02:14) Loading consmgr.cxt 
+   (00:02:14) Loading acns_formula.cxt 
+\i (00:02:14) generaledit 
+\i (00:02:27) nctape_full 
+\i (00:02:28) setwindow form.nc_drill
+\i (00:02:28) FORM nc_drill auto_tool_select YES 
+\i (00:02:29) FORM nc_drill parameters  
+\i (00:02:30) setwindow form.nc_parameters
+\i (00:02:30) FORM nc_parameters enhanced_format YES 
+\i (00:02:30) FORM nc_parameters done  
+\i (00:02:31) setwindow form.nc_drill
+\i (00:02:31) FORM nc_drill execute  
+\t (00:02:31) Starting Generating NC Drill...
+\i (00:02:34) FORM nc_drill cancel  
+\i (00:02:34) setwindow pcb
+\i (00:02:34) generaledit 
+\i (00:02:36) artwork 
+\i (00:02:37) setwindow form.film_control
+\i (00:02:37) FORM film_control select_all  
+\i (00:02:39) FORM film_control create  
+\i (00:02:40) fillin yes 
+\t (00:02:40) Checking db records
+\t (00:02:40)     checking for orphans...
+\t (00:02:40)     Checked 100 percent
+\t (00:02:40) Done dbdoctor.
+\t (00:02:40) Starting Create artwork films...
+\w (00:02:40) WARNING(SPMHGE-269): artwork had warnings, use Viewlog to review the log file.
+\w (00:02:41) Artwork generated with warnings.
+\i (00:02:43) setwindow pcb
+\i (00:02:43) setwindow text
+\i (00:02:43) close
+\i (00:02:44) setwindow form.film_control
+\i (00:02:44) FORM film_control ok  
+\i (00:02:44) setwindow pcb
+\i (00:02:44) generaledit 
+\i (00:02:47) save 
+\i (00:02:47) fillin yes 
+   (00:02:47) Loading signal.cxt 
+\i (00:02:48) generaledit 
+\i (00:02:49) exit 
+\t (00:02:50)     Journal end - Fri Aug 27 12:34:54 2021

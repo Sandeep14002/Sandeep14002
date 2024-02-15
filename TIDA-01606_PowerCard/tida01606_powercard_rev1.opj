@@ -1,0 +1,77 @@
+(ExpressProject ""
+  (ProjectVersion "19981106")
+  (SoftwareVersion "17.4-2019 S019 (3960720)  [7/14/2021]-[02/12/24]")
+  (Folder "Design Resources"
+    (Folder "Library")
+    ("Allegro Netlist Directory" "allegro")
+    (File ".\tida01606_powercard_rev1.dbk"
+      (Type "Schematic Design")
+      (DisplayName ".\tida01606_powercard_rev1.DBK"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x")
+    (DOCKED "TRUE")
+    (DOCKING_POSITION "59420")
+    (NoModify)
+    ("Allegro Netlist Input Board File"
+       "c:\github_orcad_projects\grid-tinv_tida-01606\tida-01606_powercard\board\solutionstida01606_powercard_rev17.brd")
+    ("Allegro Netlist Output Board File"
+       ".\allegro\tida01606_powercard_0_0.brd"))
+  (Folder "Layout"
+    (File ".\allegro\tida01606_powercard_0_0.brd"
+      (Type "Board File")
+      (OutputBoard ".\allegro\tida01606_powercard_0_0.brd")
+      (InputBoard ".\board\solutionstida01606_powercard_rev17.brd")
+      (NetListPath ".\allegro")
+      (ActiveBoard "1")))
+  (Folder "Outputs"
+    (File ".\allegro\pstxnet.dat"
+      (Type "Report")
+      (DisplayName "pstxnet.dat"))
+    (File ".\allegro\pstxprt.dat"
+      (Type "Report")
+      (DisplayName "pstxprt.dat"))
+    (File ".\allegro\pstchip.dat"
+      (Type "Report")
+      (DisplayName "pstchip.dat")))
+  (Folder "Referenced Projects")
+  (Folder "PSpice Resources"
+    (Folder "Simulation Profiles")
+    (Folder "Model Libraries"
+      (Sort User))
+    (Folder "Stimulus Files"
+      (Sort User))
+    (Folder "Include Files"
+      (Sort User)))
+  (Folder "Logs"
+    (File ".\allegro\netlist.log"
+      (Type "Log File")
+      (LogFile
+         "C:\GITHUB_ORCAD_PROJECTS\GRID-TINV_TIDA-01606\TIDA-01606_POWERCARD\allegro\netlist.log"))
+    (File ".\allegro\netrev.lst"
+      (Type "Log File")
+      (LogFile
+         "C:\GITHUB_ORCAD_PROJECTS\GRID-TINV_TIDA-01606\TIDA-01606_POWERCARD\allegro\netrev.lst"))
+    (File ".\allegro\eco.txt"
+      (Type "Log File")
+      (LogFile
+         "C:\GITHUB_ORCAD_PROJECTS\GRID-TINV_TIDA-01606\TIDA-01606_POWERCARD\allegro\eco.txt"))
+    (File ".\allegro\genfeed.log"
+      (Type "Log File")
+      (LogFile
+         "C:\GITHUB_ORCAD_PROJECTS\GRID-TINV_TIDA-01606\TIDA-01606_POWERCARD\allegro\genfeed.log")))
+  (PartMRUSelector)
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Layout")
+      (Path "Outputs")
+      (Path "PSpice Resources")
+      (Path "Logs")
+      (Select "Design Resources"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 0 275 0 803"))
+      (Tab 0)))
+  (MPSSessionName "sande"))

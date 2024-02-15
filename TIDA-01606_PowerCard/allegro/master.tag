@@ -1,0 +1,1 @@
+tida01606_powercard_0_0.brd

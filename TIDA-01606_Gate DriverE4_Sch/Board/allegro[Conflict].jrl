@@ -1,0 +1,2740 @@
+\t (00:00:01) allegro 17.2 S013 Windows SPB 64-bit Edition
+\t (00:00:01)     Journal start - Mon Apr 20 18:01:30 2020
+\t (00:00:01)         Host=KUKU User=kunal Pid=5668 CPUs=4
+\t (00:00:01) CmdLine= c:\cadence\spb_17.2\tools\bin\allegro.exe -mpssession kunal C:\Users\kunal\Google Drive\RupeshRoshniPrakashPoojaPrashantKunal\Kunal\TIDA-01606_Gate DriverE4_Sch\Board\TIDA-01606_Gate DriverE4_Sch.brd
+\t (00:00:01) 
+   (00:00:02) Loading axlcore.cxt 
+   (00:00:02) *Error* load: can't access file - "./FloWare/flw_startup"
+\t (00:00:04) Opening existing design...
+\d (00:00:04) Design opened: C:/Users/kunal/Google Drive/RupeshRoshniPrakashPoojaPrashantKunal/Kunal/TIDA-01606_Gate DriverE4_Sch/Board/TIDA-01606_Gate DriverE4_Sch.brd
+\t (00:00:05) Grids are drawn 400.00, 400.00 apart for enhanced viewability.
+\i (00:00:05) trapsize 41929
+\i (00:00:05) trapsize 45147
+\t (00:00:05) Grids are drawn 400.00, 400.00 apart for enhanced viewability.
+\i (00:00:05) trapsize 45147
+\t (00:00:06) Grids are drawn 3200.00, 3200.00 apart for enhanced viewability.
+\i (00:00:06) placementedit 
+\i (00:00:10) zoom out 1 
+\i (00:00:10) setwindow pcb
+\i (00:00:10) zoom out 8801.84 6317.56
+\t (00:00:10) Grids are drawn 400.00, 400.00 apart for enhanced viewability.
+\i (00:00:10) trapsize 45147
+\i (00:00:11) zoom in 1 
+\i (00:00:11) setwindow pcb
+\i (00:00:11) zoom in 8892.13 6317.56
+\t (00:00:11) Grids are drawn 200.00, 200.00 apart for enhanced viewability.
+\i (00:00:11) trapsize 22573
+\i (00:00:11) zoom in 1 
+\i (00:00:11) setwindow pcb
+\i (00:00:11) zoom in -340.37 6317.56
+\i (00:00:11) trapsize 11287
+\i (00:00:11) zoom out 1 
+\i (00:00:11) setwindow pcb
+\i (00:00:11) zoom out -340.37 6317.56
+\i (00:00:11) trapsize 22573
+\i (00:00:11) zoom out 1 
+\i (00:00:11) setwindow pcb
+\i (00:00:11) zoom out -340.37 6317.56
+\t (00:00:11) Grids are drawn 400.00, 400.00 apart for enhanced viewability.
+\i (00:00:12) trapsize 45147
+\i (00:00:12) zoom out 1 
+\i (00:00:12) setwindow pcb
+\i (00:00:12) zoom out 8892.13 6317.56
+\i (00:00:12) trapsize 45147
+\i (00:00:12) zoom out 1 
+\i (00:00:12) setwindow pcb
+\i (00:00:12) zoom out 8892.13 6317.56
+\i (00:00:12) trapsize 45147
+\i (00:00:15) save_as 
+\i (00:00:24) fillin "TIDA-01606_Gate DriverE4_Sch_Rev1.brd"
+\i (00:00:24) placementedit 
+\i (00:00:25) place manual 
+\i (00:00:27) setwindow form.plc_manual
+\i (00:00:27) FORM plc_manual tree 'MULTISEL YES' C1 'Components by refdes' 
+\w (00:00:27) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\t (00:00:27) Placing C1 / CAP NP_SNPD0805_MODIFIED_0.1U 0 / SNPD0805_MODIFIED on Top.
+\i (00:00:27) FORM plc_manual tree  C1 'Components by refdes' 
+\i (00:00:28) setwindow pcb
+\i (00:00:28) zoom in 1 
+\i (00:00:28) setwindow pcb
+\i (00:00:28) zoom in 26950.82 21215.98
+\t (00:00:28) Grids are drawn 200.00, 200.00 apart for enhanced viewability.
+\i (00:00:28) trapsize 22573
+\i (00:00:28) zoom in 1 
+\i (00:00:28) setwindow pcb
+\i (00:00:28) zoom in 8688.97 21215.98
+\i (00:00:28) trapsize 11287
+\i (00:00:28) zoom in 1 
+\i (00:00:28) setwindow pcb
+\i (00:00:28) zoom in 8688.98 21215.99
+\i (00:00:28) trapsize 5643
+\i (00:00:28) zoom in 1 
+\i (00:00:28) setwindow pcb
+\i (00:00:28) zoom in 7639.31 20809.67
+\i (00:00:28) trapsize 2822
+\i (00:00:30) setwindow form.plc_manual
+\i (00:00:30) FORM plc_manual cancel  
+\i (00:00:31) setwindow pcb
+\i (00:00:31) placementedit 
+\i (00:00:31) zoom out 1 
+\i (00:00:31) setwindow pcb
+\i (00:00:31) zoom out 7543.38 20674.23
+\i (00:00:31) trapsize 5643
+\i (00:00:31) zoom out 1 
+\i (00:00:31) setwindow pcb
+\i (00:00:31) zoom out 7543.38 20674.23
+\i (00:00:31) trapsize 11287
+\i (00:00:31) zoom out 1 
+\i (00:00:31) setwindow pcb
+\i (00:00:31) zoom out 7543.37 20674.23
+\i (00:00:31) trapsize 22573
+\i (00:00:31) zoom out 1 
+\i (00:00:31) setwindow pcb
+\i (00:00:31) zoom out 3722.82 20674.22
+\t (00:00:31) Grids are drawn 400.00, 400.00 apart for enhanced viewability.
+\i (00:00:31) trapsize 45147
+\i (00:00:32) zoom out 1 
+\i (00:00:32) setwindow pcb
+\i (00:00:32) zoom out 17018.54 15798.38
+\i (00:00:32) trapsize 45147
+\i (00:00:34) save 
+\i (00:00:36) fillin yes 
+\i (00:00:36) placementedit 
+\i (00:02:13) shape add rect 
+\i (00:02:21) setwindow form.mini
+\i (00:02:21) FORM mini class BOUNDARY 
+\t (00:02:21) Cannot add shape on Boundary class.
+\i (00:02:28) FORM mini class BOARD GEOMETRY 
+\i (00:02:31) FORM mini one_click YES 
+\i (00:02:36) FORM mini rec_width 130.00 
+\i (00:02:38) FORM mini rec_height 40.00 
+\i (00:02:45) setwindow pcb
+\i (00:02:45) zoom in 1 
+\i (00:02:45) setwindow pcb
+\i (00:02:45) zoom in -10972.43 15978.96
+\t (00:02:45) Grids are drawn 200.00, 200.00 apart for enhanced viewability.
+\i (00:02:45) trapsize 22573
+\i (00:02:46) zoom in 1 
+\i (00:02:46) setwindow pcb
+\i (00:02:46) zoom in -13636.08 16069.25
+\i (00:02:46) trapsize 11287
+\i (00:02:46) zoom in 1 
+\i (00:02:46) setwindow pcb
+\i (00:02:46) zoom in -13636.08 16069.26
+\i (00:02:46) trapsize 5643
+\i (00:02:46) zoom in 1 
+\i (00:02:46) setwindow pcb
+\i (00:02:46) zoom in -13636.07 16069.26
+\i (00:02:46) trapsize 2822
+\i (00:02:47) zoom in 1 
+\i (00:02:47) setwindow pcb
+\i (00:02:47) zoom in -13280.54 16069.26
+\i (00:02:47) trapsize 1411
+\i (00:02:47) zoom in 1 
+\i (00:02:47) setwindow pcb
+\i (00:02:47) zoom in -13280.54 16069.27
+\i (00:02:47) trapsize 705
+\i (00:02:47) zoom in 1 
+\i (00:02:47) setwindow pcb
+\i (00:02:47) zoom in -13280.53 16069.27
+\i (00:02:47) trapsize 353
+\i (00:02:47) zoom in 1 
+\i (00:02:47) setwindow pcb
+\i (00:02:47) zoom in -13280.53 16069.27
+\i (00:02:47) trapsize 176
+\i (00:02:49) zoom out 1 
+\i (00:02:49) setwindow pcb
+\i (00:02:49) zoom out -13051.27 16030.12
+\i (00:02:49) trapsize 353
+\i (00:03:01) zoom out 1 
+\i (00:03:01) setwindow pcb
+\i (00:03:01) zoom out -13303.10 16138.05
+\i (00:03:01) trapsize 705
+\i (00:03:01) zoom out 1 
+\i (00:03:01) setwindow pcb
+\i (00:03:01) zoom out -13303.09 16138.06
+\i (00:03:01) trapsize 1411
+\i (00:03:02) zoom out 1 
+\i (00:03:02) setwindow pcb
+\i (00:03:02) zoom out -13303.10 16138.05
+\i (00:03:02) trapsize 2822
+\i (00:03:04) zoom in 1 
+\i (00:03:04) setwindow pcb
+\i (00:03:04) zoom in -14031.10 15664.01
+\i (00:03:04) trapsize 1411
+\i (00:03:05) zoom in 1 
+\i (00:03:05) setwindow pcb
+\i (00:03:05) zoom in -14104.46 15991.33
+\i (00:03:05) trapsize 705
+\i (00:03:05) zoom in 1 
+\i (00:03:05) setwindow pcb
+\i (00:03:05) zoom in -14104.46 15991.33
+\i (00:03:05) trapsize 353
+\i (00:03:06) zoom out 1 
+\i (00:03:06) setwindow pcb
+\i (00:03:06) zoom out -14079.77 15934.20
+\i (00:03:06) trapsize 705
+\i (00:03:06) zoom out 1 
+\i (00:03:06) setwindow pcb
+\i (00:03:06) zoom out -14079.77 15934.19
+\i (00:03:06) trapsize 1411
+\i (00:03:06) zoom out 1 
+\i (00:03:06) setwindow pcb
+\i (00:03:06) zoom out -14079.76 15934.20
+\i (00:03:06) trapsize 2822
+\i (00:03:06) zoom out 1 
+\i (00:03:06) setwindow pcb
+\i (00:03:06) zoom out -14079.77 15934.20
+\i (00:03:06) trapsize 5643
+\i (00:03:06) zoom out 1 
+\i (00:03:06) setwindow pcb
+\i (00:03:06) zoom out -14068.47 15934.20
+\i (00:03:06) trapsize 11287
+\i (00:03:06) zoom out 1 
+\i (00:03:06) setwindow pcb
+\i (00:03:06) zoom out -14068.47 15934.20
+\i (00:03:06) trapsize 22574
+\i (00:03:06) zoom out 1 
+\i (00:03:06) setwindow pcb
+\i (00:03:06) zoom out -7947.49 15934.19
+\t (00:03:06) Grids are drawn 400.00, 400.00 apart for enhanced viewability.
+\i (00:03:07) trapsize 45147
+\i (00:03:07) zoom out 1 
+\i (00:03:07) setwindow pcb
+\i (00:03:07) zoom out 5099.81 15527.49
+\i (00:03:07) trapsize 45147
+\i (00:03:07) zoom out 1 
+\i (00:03:07) setwindow pcb
+\i (00:03:07) zoom out 5099.81 15527.49
+\i (00:03:07) trapsize 45147
+\i (00:03:07) zoom out 1 
+\i (00:03:07) setwindow pcb
+\i (00:03:07) zoom out 5099.81 15527.49
+\i (00:03:07) trapsize 45147
+\i (00:03:07) zoom out 1 
+\i (00:03:07) setwindow pcb
+\i (00:03:07) zoom out 5099.81 15527.49
+\i (00:03:07) trapsize 45147
+\i (00:03:08) zoom in 1 
+\i (00:03:08) setwindow pcb
+\i (00:03:08) zoom in -8534.50 11012.82
+\t (00:03:08) Grids are drawn 200.00, 200.00 apart for enhanced viewability.
+\i (00:03:08) trapsize 22573
+\i (00:03:08) zoom in 1 
+\i (00:03:08) setwindow pcb
+\i (00:03:08) zoom in -9053.69 11012.82
+\i (00:03:08) trapsize 11287
+\i (00:03:08) zoom in 1 
+\i (00:03:08) setwindow pcb
+\i (00:03:08) zoom in -9053.69 11012.83
+\i (00:03:08) trapsize 5643
+\i (00:03:08) zoom in 1 
+\i (00:03:08) setwindow pcb
+\i (00:03:08) zoom in -9053.69 11012.83
+\i (00:03:08) trapsize 2822
+\i (00:03:39) setwindow form.mini
+\i (00:03:39) FORM mini rec_width 5118.00 
+\i (00:03:52) FORM mini rec_height 1574.00 
+\i (00:03:53) setwindow pcb
+\i (00:03:53) zoom out 1 
+\i (00:03:53) setwindow pcb
+\i (00:03:53) zoom out -8969.04 12000.42
+\i (00:03:53) trapsize 5643
+\i (00:03:53) zoom out 1 
+\i (00:03:53) setwindow pcb
+\i (00:03:53) zoom out -9002.90 12000.41
+\i (00:03:53) trapsize 11287
+\i (00:03:53) zoom out 1 
+\i (00:03:53) setwindow pcb
+\i (00:03:53) zoom out -8664.29 11413.51
+\i (00:03:53) trapsize 22573
+\i (00:03:54) zoom out 1 
+\i (00:03:54) setwindow pcb
+\i (00:03:54) zoom out -11057.07 4551.20
+\t (00:03:54) Grids are drawn 400.00, 400.00 apart for enhanced viewability.
+\i (00:03:54) trapsize 45147
+\i (00:03:54) zoom in 1 
+\i (00:03:54) setwindow pcb
+\i (00:03:54) zoom in -12146.24 9477.83
+\t (00:03:54) Grids are drawn 200.00, 200.00 apart for enhanced viewability.
+\i (00:03:54) trapsize 22573
+\i (00:03:54) zoom in 1 
+\i (00:03:55) setwindow pcb
+\i (00:03:55) zoom in -13816.67 9387.54
+\i (00:03:55) trapsize 11287
+\i (00:03:56) pick grid -11536.76 10403.34
+\t (00:03:56) last pick:  -11500.00 10400.00
+   (00:03:56) WARNING(SPMHA2-118): 'DESIGN_OUTLINE' and 'CUTOUT' are the preferred subclasses for defining an outline. Use these subclasses instead of the 'OUTLINE' subclass. [help]
+\i (00:04:05) fillin confirm
+\i (00:04:05) zoom in 1 
+\i (00:04:05) setwindow pcb
+\i (00:04:05) zoom in -9460.01 10471.06
+\i (00:04:05) trapsize 5643
+\i (00:04:06) zoom in 1 
+\i (00:04:06) setwindow pcb
+\i (00:04:06) zoom in -9967.90 10290.48
+\i (00:04:06) trapsize 2822
+\i (00:04:06) zoom in 1 
+\i (00:04:06) setwindow pcb
+\i (00:04:06) zoom in -9967.90 10290.49
+\i (00:04:06) trapsize 1411
+\i (00:04:07) prepopup -9849.39 10490.83
+\i (00:04:08) done 
+\i (00:04:08) placementedit 
+\i (00:04:08) zoom out 1 
+\i (00:04:08) setwindow pcb
+\i (00:04:08) zoom out -9513.61 10324.35
+\i (00:04:08) trapsize 2822
+\i (00:04:09) zoom in 1 
+\i (00:04:09) setwindow pcb
+\i (00:04:09) zoom in -9519.26 10341.29
+\i (00:04:09) trapsize 1411
+\i (00:04:09) zoom in 1 
+\i (00:04:09) setwindow pcb
+\i (00:04:09) zoom in -9519.25 10344.11
+\i (00:04:09) trapsize 705
+\i (00:04:11) zoom out 1 
+\i (00:04:11) setwindow pcb
+\i (00:04:11) zoom out -9527.72 10393.49
+\i (00:04:11) trapsize 1411
+\i (00:04:11) zoom out 1 
+\i (00:04:11) setwindow pcb
+\i (00:04:11) zoom out -9527.71 10393.50
+\i (00:04:11) trapsize 2822
+\i (00:04:11) zoom out 1 
+\i (00:04:11) setwindow pcb
+\i (00:04:11) zoom out -9527.72 10393.50
+\i (00:04:11) trapsize 5643
+\i (00:04:11) zoom out 1 
+\i (00:04:11) setwindow pcb
+\i (00:04:11) zoom out -9527.71 10393.49
+\i (00:04:11) trapsize 11287
+\i (00:04:14) zoom in 1 
+\i (00:04:14) setwindow pcb
+\i (00:04:14) zoom in -9776.02 9535.71
+\i (00:04:14) trapsize 5643
+\i (00:04:27) save 
+\i (00:04:28) fillin yes 
+\i (00:04:28) placementedit 
+\i (01:26:16) zoom in 1 
+\i (01:26:16) setwindow pcb
+\i (01:26:16) zoom in -11672.18 10664.38
+\i (01:26:16) trapsize 2822
+\i (01:26:16) zoom in 1 
+\i (01:26:16) setwindow pcb
+\i (01:26:16) zoom in -11395.65 10263.71
+\i (01:26:16) trapsize 1411
+\i (01:26:17) zoom out 1 
+\i (01:26:17) setwindow pcb
+\i (01:26:17) zoom out -11367.43 10393.51
+\i (01:26:17) trapsize 2822
+\i (01:26:47) xhilite 
+\i (01:26:47) xrefdes U6 
+\t (01:26:47) Can not select unplaced component U6.
+\t (01:26:47) Can not select unplaced component U6.
+\i (01:26:47) xname_flush 
+\i (01:26:47) done 
+\i (01:26:47) placementedit 
+\i (01:26:51) zoom out 1 
+\i (01:26:51) setwindow pcb
+\i (01:26:51) zoom out -11564.95 9834.82
+\i (01:26:51) trapsize 5643
+\i (01:26:52) place manual 
+\i (01:26:58) refdes U6 
+\t (01:26:58) Placing U6 / DM3AT-SF-PEJM5_2_TSSOP14_SN74LV / TSSOP14 on Top.
+\i (01:26:58) xname_flush 
+\i (01:27:01) zoom in 1 
+\i (01:27:01) setwindow pcb
+\i (01:27:01) zoom in -10052.54 8175.67
+\i (01:27:01) trapsize 2822
+\i (01:27:02) zoom in 1 
+\i (01:27:02) setwindow pcb
+\i (01:27:02) zoom in -10052.54 8175.68
+\i (01:27:02) trapsize 1411
+\i (01:27:04) pick grid -10120.26 9050.40
+\t (01:27:04) last pick:  -10100.00 9100.00
+\i (01:28:09) roam start
+\i (01:28:09) roam y -64
+\i (01:28:09) roam end
+\i (01:28:10) zoom out 1 
+\i (01:28:10) setwindow pcb
+\i (01:28:10) zoom out -10086.40 8944.55
+\i (01:28:10) trapsize 2822
+\i (01:28:10) zoom out 1 
+\i (01:28:10) setwindow pcb
+\i (01:28:10) zoom out -10086.40 8944.55
+\i (01:28:10) trapsize 5643
+\i (01:28:11) zoom in 1 
+\i (01:28:11) setwindow pcb
+\i (01:28:11) zoom in -11452.08 9136.42
+\i (01:28:11) trapsize 2822
+\i (01:28:11) zoom in 1 
+\i (01:28:11) setwindow pcb
+\i (01:28:11) zoom in -11452.08 9136.42
+\i (01:28:11) trapsize 1411
+\i (01:28:37) setwindow form.plc_manual
+\i (01:28:37) FORM plc_manual tree 'MULTISEL YES' D13 'Components by refdes' 
+\w (01:28:37) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\t (01:28:37) Placing D13 / LED_SNPD0805_LED_LED GREEN / SNPD0805_LED on Top.
+\i (01:28:37) FORM plc_manual tree  D13 'Components by refdes' 
+\i (01:28:38) FORM plc_manual tree 'MULTISEL YES' D12 'Components by refdes' 
+\t (01:28:38) Placing D12 / LED_SNPD0805_LED_LED GREEN / SNPD0805_LED on Top.
+\i (01:28:38) FORM plc_manual tree  D12 'Components by refdes' 
+\i (01:28:41) FORM plc_manual tree 'MULTISEL YES' R42 'Components by refdes' 
+\i (01:28:41) FORM plc_manual tree  R42 'Components by refdes' 
+\i (01:28:42) setwindow pcb
+\i (01:28:42) zoom in 1 
+\i (01:28:42) setwindow pcb
+\i (01:28:42) zoom in -11342.04 8958.66
+\i (01:28:42) trapsize 705
+\i (01:28:43) prepopup -11342.03 8948.79
+\i (01:28:44) rotate 
+\t (01:28:44) Spin the element(s).
+\i (01:28:45) iangle 90.000
+\t (01:28:45) last angle:  +90.000 Degrees
+\i (01:28:46) pick grid -11354.73 8954.43
+\t (01:28:46) last pick:  -11400.00 9000.00
+\t (01:28:46) Placing D13 / LED_SNPD0805_LED_LED GREEN / SNPD0805_LED on Top.
+\i (01:28:47) prepopup -11175.55 8982.65
+\i (01:28:48) rotate 
+\t (01:28:48) Spin the element(s).
+\i (01:28:48) iangle 90.000
+\t (01:28:48) last angle:  +90.000 Degrees
+\i (01:28:49) pick grid -11253.15 9002.40
+\t (01:28:49) last pick:  -11300.00 9000.00
+\w (01:28:49) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\t (01:28:49) Placing R42 / RESISTOR_SNPD0805_MODIFIED_620E / SNPD0805_MODIFIED on Top.
+\i (01:28:51) pick grid -11121.94 9153.36
+\t (01:28:51) last pick:  -11100.00 9200.00
+\i (01:29:14) pick grid -11285.60 9003.81
+\t (01:29:14) last pick:  -11300.00 9000.00
+\t (01:29:14) Moving D13 / LED_SNPD0805_LED_LED GREEN / SNPD0805_LED.
+\t (01:29:14) last pick:  -11300.00 9000.00
+\i (01:29:16) pick grid -11148.75 8988.29
+\t (01:29:16) last pick:  -11100.00 9000.00
+\i (01:29:17) pick grid -11381.54 9019.33
+\t (01:29:17) last pick:  -11400.00 9000.00
+\t (01:29:17) Moving D12 / LED_SNPD0805_LED_LED GREEN / SNPD0805_LED.
+\t (01:29:17) last pick:  -11400.00 9000.00
+\i (01:29:17) prepopup -11334.98 9023.56
+\i (01:29:18) rotate 
+\t (01:29:18) Spin the element(s).
+\i (01:29:19) iangle 180.000
+\t (01:29:19) last angle:  270.000 Degrees
+\i (01:29:20) pick grid -11350.50 8998.17
+\t (01:29:20) last pick:  -11400.00 9000.00
+\i (01:29:21) pick grid -11081.03 8981.24
+\t (01:29:21) last pick:  -11100.00 9000.00
+\t (01:29:21) Moving D13 / LED_SNPD0805_LED_LED GREEN / SNPD0805_LED.
+\t (01:29:21) last pick:  -11100.00 9000.00
+\i (01:29:21) prepopup -11222.11 9067.30
+\i (01:29:22) rotate 
+\t (01:29:22) Spin the element(s).
+\i (01:29:24) iangle 180.000
+\t (01:29:24) last angle:  270.000 Degrees
+\i (01:29:25) pick grid -11459.13 8988.29
+\t (01:29:25) last pick:  -11500.00 9000.00
+\i (01:29:26) pick grid -11382.95 8999.58
+\t (01:29:26) last pick:  -11400.00 9000.00
+\t (01:29:26) Moving D12 / LED_SNPD0805_LED_LED GREEN / SNPD0805_LED.
+\t (01:29:26) last pick:  -11400.00 9000.00
+\i (01:29:26) pick grid -11344.85 8999.58
+\t (01:29:26) last pick:  -11300.00 9000.00
+\i (01:29:27) pick grid -11470.42 8998.17
+\t (01:29:27) last pick:  -11500.00 9000.00
+\t (01:29:27) Moving D13 / LED_SNPD0805_LED_LED GREEN / SNPD0805_LED.
+\t (01:29:27) last pick:  -11500.00 9000.00
+\i (01:29:27) pick grid -11447.85 8998.17
+\t (01:29:27) last pick:  -11400.00 9000.00
+\i (01:29:28) pick grid -11097.96 9204.15
+\t (01:29:28) last pick:  -11100.00 9200.00
+\t (01:29:28) Moving R42 / RESISTOR_SNPD0805_MODIFIED_620E / SNPD0805_MODIFIED.
+\t (01:29:28) last pick:  -11100.00 9200.00
+\i (01:29:29) prepopup -11112.07 9000.99
+\i (01:29:30) rotate 
+\t (01:29:30) Spin the element(s).
+\i (01:29:31) iangle 90.000
+\t (01:29:31) last angle:  90.000 Degrees
+\i (01:29:31) pick grid -11150.16 8995.35
+\t (01:29:31) last pick:  -11200.00 9000.00
+\i (01:29:57) refdes J1 
+\t (01:29:57) Placing J1 / HEADER 8X2_0_CONN8X2_HEADER 8X2 / CONN8X2 on Top.
+\i (01:29:57) xname_flush 
+\i (01:29:58) zoom out 1 
+\i (01:29:58) setwindow pcb
+\i (01:29:58) zoom out -10985.09 8971.36
+\i (01:29:58) trapsize 1411
+\i (01:29:58) zoom out 1 
+\i (01:29:58) setwindow pcb
+\i (01:29:58) zoom out -10985.09 8977.01
+\i (01:29:58) trapsize 2822
+\i (01:30:02) zoom in 1 
+\i (01:30:02) setwindow pcb
+\i (01:30:02) zoom in -10979.45 9016.51
+\i (01:30:02) trapsize 1411
+\i (01:30:02) zoom in 1 
+\i (01:30:02) setwindow pcb
+\i (01:30:02) zoom in -10979.45 9016.51
+\i (01:30:02) trapsize 705
+\i (01:30:03) pick grid -10979.45 9016.51
+\t (01:30:03) last pick:  -11000.00 9000.00
+\i (01:30:19) setwindow form.plc_manual
+\i (01:30:19) FORM plc_manual tree 'MULTISEL YES' R43 'Components by refdes' 
+\t (01:30:19) Placing R43 / RESISTOR_SNPD0805_MODIFIED_1.3K / SNPD0805_MODIFIED on Top.
+\i (01:30:19) FORM plc_manual tree  R43 'Components by refdes' 
+\i (01:30:19) setwindow pcb
+\i (01:30:19) zoom in 1 
+\i (01:30:19) setwindow pcb
+\i (01:30:19) zoom in -11126.18 9232.37
+\i (01:30:19) trapsize 353
+\i (01:30:20) pick grid -11150.87 9234.48
+\t (01:30:20) last pick:  -11200.00 9200.00
+\i (01:30:31) zoom out 1 
+\i (01:30:31) setwindow pcb
+\i (01:30:31) zoom out -11184.02 9133.61
+\i (01:30:31) trapsize 705
+\i (01:30:32) pick grid -11192.48 9180.17
+\t (01:30:32) last pick:  -11200.00 9200.00
+\t (01:30:32) Moving R42 / RESISTOR_SNPD0805_MODIFIED_620E / SNPD0805_MODIFIED.
+\t (01:30:32) last pick:  -11200.00 9000.00
+\i (01:30:33) prepopup -11246.09 9150.54
+\i (01:30:34) oops 
+\t (01:30:34) last pick:  -11200.00 9200.00
+\i (01:30:42) define grid 
+\t (01:30:42) Spacing fields allow simple equations to aid calculations; prefix with =
+\i (01:30:48) setwindow form.grid
+\i (01:30:48) FORM grid non_etch non_etch_x_grids 25 
+\i (01:30:50) FORM grid non_etch non_etch_y_grids 25 
+\i (01:30:51) FORM grid all_etch all_etch_x_grids 25 
+\i (01:30:56) FORM grid done  
+\i (01:30:58) setwindow pcb
+\i (01:30:58) zoom out 1 
+\i (01:30:58) setwindow pcb
+\i (01:30:58) zoom out -11236.22 9096.93
+\i (01:30:58) trapsize 1411
+\i (01:30:59) zoom in 1 
+\i (01:30:59) setwindow pcb
+\i (01:30:59) zoom in -11174.14 8817.58
+\i (01:30:59) trapsize 705
+\i (01:31:00) pick grid -11395.64 8955.85
+\t (01:31:00) last pick:  -11400.00 8950.00
+\t (01:31:00) Moving D13 / LED_SNPD0805_LED_LED GREEN / SNPD0805_LED.
+\t (01:31:00) last pick:  -11400.00 9000.00
+\i (01:31:01) pick grid -11404.10 8964.31
+\t (01:31:01) last pick:  -11400.00 8975.00
+\i (01:31:01) pick grid -11397.05 8938.92
+\t (01:31:01) last pick:  -11400.00 8950.00
+\t (01:31:01) Moving D13 / LED_SNPD0805_LED_LED GREEN / SNPD0805_LED.
+\t (01:31:01) last pick:  -11400.00 8975.00
+\i (01:31:02) pick grid -11397.05 8934.69
+\t (01:31:02) last pick:  -11400.00 8925.00
+\i (01:31:03) pick grid -11301.11 8967.14
+\t (01:31:03) last pick:  -11300.00 8975.00
+\t (01:31:03) Moving D12 / LED_SNPD0805_LED_LED GREEN / SNPD0805_LED.
+\t (01:31:03) last pick:  -11300.00 9000.00
+\i (01:31:04) pick grid -11309.58 8913.52
+\t (01:31:04) last pick:  -11300.00 8925.00
+\i (01:31:04) pick grid -11195.30 8977.01
+\t (01:31:04) last pick:  -11200.00 8975.00
+\t (01:31:04) Moving R42 / RESISTOR_SNPD0805_MODIFIED_620E / SNPD0805_MODIFIED.
+\t (01:31:04) last pick:  -11200.00 9000.00
+\i (01:31:05) pick grid -11199.53 8934.69
+\t (01:31:05) last pick:  -11200.00 8925.00
+\i (01:31:06) pick grid -11203.77 9168.89
+\t (01:31:06) last pick:  -11200.00 9175.00
+\t (01:31:06) Moving R43 / RESISTOR_SNPD0805_MODIFIED_1.3K / SNPD0805_MODIFIED.
+\t (01:31:06) last pick:  -11200.00 9200.00
+\i (01:31:07) pick grid -11288.42 9096.93
+\t (01:31:07) last pick:  -11300.00 9100.00
+\i (01:31:18) setwindow form.plc_manual
+\i (01:31:18) FORM plc_manual tree 'MULTISEL YES' R40 'Components by refdes' 
+\t (01:31:18) Placing R40 / RESISTOR_SNPD0805_MODIFIED_20K / SNPD0805_MODIFIED on Top.
+\i (01:31:18) FORM plc_manual tree  R40 'Components by refdes' 
+\i (01:31:19) setwindow pcb
+\i (01:31:19) zoom in 1 
+\i (01:31:19) setwindow pcb
+\i (01:31:19) zoom in -11158.62 9139.26
+\i (01:31:19) trapsize 353
+\i (01:31:20) pick grid -11217.88 9188.64
+\t (01:31:20) last pick:  -11225.00 9200.00
+\i (01:31:30) zoom out 1 
+\i (01:31:30) setwindow pcb
+\i (01:31:30) zoom out -11093.72 9059.55
+\i (01:31:30) trapsize 705
+\i (01:31:30) zoom out 1 
+\i (01:31:30) setwindow pcb
+\i (01:31:30) zoom out -11093.72 9059.54
+\i (01:31:30) trapsize 1411
+\i (01:31:30) zoom in 1 
+\i (01:31:30) setwindow pcb
+\i (01:31:30) zoom in -11093.72 9059.55
+\i (01:31:30) trapsize 705
+\i (01:31:31) pick grid -11217.88 9209.10
+\t (01:31:31) last pick:  -11225.00 9200.00
+\t (01:31:31) Moving R42 / RESISTOR_SNPD0805_MODIFIED_620E / SNPD0805_MODIFIED.
+\t (01:31:31) last pick:  -11200.00 8925.00
+\i (01:31:32) prepopup -11181.19 8962.21
+\i (01:31:33) oops 
+\t (01:31:33) last pick:  -11225.00 9200.00
+\i (01:31:52) zoom out 1 
+\i (01:31:52) setwindow pcb
+\i (01:31:52) zoom out -11055.63 9075.07
+\i (01:31:52) trapsize 1411
+\i (01:32:45) zoom in 1 
+\i (01:32:45) setwindow pcb
+\i (01:32:45) zoom in -11278.54 9128.69
+\i (01:32:45) trapsize 705
+\i (01:33:16) pick grid -11209.40 9203.46
+\t (01:33:16) last pick:  -11200.00 9200.00
+\t (01:33:16) Moving R40 / RESISTOR_SNPD0805_MODIFIED_20K / SNPD0805_MODIFIED.
+\t (01:33:16) last pick:  -11225.00 9200.00
+\i (01:33:16) prepopup -11253.14 9269.77
+\i (01:33:17) rotate 
+\t (01:33:17) Spin the element(s).
+\i (01:33:18) iangle 180.000
+\t (01:33:18) last angle:  180.000 Degrees
+\i (01:33:19) pick grid -11288.41 9193.59
+\t (01:33:19) last pick:  -11300.00 9200.00
+\i (01:33:35) setwindow form.plc_manual
+\i (01:33:35) FORM plc_manual tree 'MULTISEL YES' Q2 'Components by refdes' 
+\t (01:33:35) Placing Q2 / PNP BEC_SOT23_BC856A-7-F / SOT23 on Top.
+\i (01:33:35) FORM plc_manual tree  Q2 'Components by refdes' 
+\i (01:33:35) setwindow pcb
+\i (01:33:35) zoom in 1 
+\i (01:33:35) setwindow pcb
+\i (01:33:35) zoom in -11217.87 9288.11
+\i (01:33:35) trapsize 353
+\i (01:33:36) roam start
+\i (01:33:36) roam x -16
+\i (01:33:36) roam end
+\i (01:33:37) roam start
+\i (01:33:37) roam x -16
+\i (01:33:37) roam y -16
+\i (01:33:37) roam x -48
+\i (01:33:37) roam y -64
+\i (01:33:37) roam end
+\i (01:33:39) pick grid -11298.40 9336.65
+\t (01:33:39) last pick:  -11300.00 9325.00
+\i (01:33:52) setwindow form.plc_manual
+\i (01:33:52) FORM plc_manual tree 'MULTISEL YES' R44 'Components by refdes' 
+\t (01:33:52) Placing R44 / RESISTOR_SNPD0805_MODIFIED_120E / SNPD0805_MODIFIED on Top.
+\i (01:33:52) FORM plc_manual tree  R44 'Components by refdes' 
+\i (01:33:52) setwindow pcb
+\i (01:33:52) zoom out 1 
+\i (01:33:52) setwindow pcb
+\i (01:33:52) zoom out -11187.65 9161.71
+\i (01:33:52) trapsize 705
+\i (01:33:53) roam start
+\i (01:33:53) roam x -16
+\i (01:33:53) roam y -96
+\i (01:33:53) roam y -16
+\i (01:33:53) roam end
+\i (01:33:54) pick grid -11303.97 9511.70
+\t (01:33:54) last pick:  -11300.00 9500.00
+\i (01:33:55) pick grid -11292.69 9504.65
+\t (01:33:55) last pick:  -11300.00 9500.00
+\t (01:33:55) Moving R44 / RESISTOR_SNPD0805_MODIFIED_120E / SNPD0805_MODIFIED.
+\t (01:33:55) last pick:  -11300.00 9500.00
+\i (01:33:56) roam start
+\i (01:33:56) roam y 16
+\i (01:33:56) roam end
+\i (01:33:56) prepopup -11404.14 9487.72
+\i (01:33:57) rotate 
+\t (01:33:57) Spin the element(s).
+\i (01:33:58) iangle 90.000
+\t (01:33:58) last angle:  90.000 Degrees
+\i (01:33:59) pick grid -11423.89 9438.34
+\t (01:33:59) last pick:  -11425.00 9450.00
+\i (01:34:04) setwindow form.plc_manual
+\i (01:34:04) FORM plc_manual tree 'MULTISEL YES' D11 'Components by refdes' 
+\t (01:34:04) Placing D11 / LED_SNPD0805_LED_LED RED / SNPD0805_LED on Top.
+\i (01:34:04) FORM plc_manual tree  D11 'Components by refdes' 
+\i (01:34:05) setwindow pcb
+\i (01:34:05) prepopup -11368.87 9642.91
+\i (01:34:06) rotate 
+\t (01:34:06) Spin the element(s).
+\i (01:34:07) iangle 90.000
+\t (01:34:07) last angle:  +90.000 Degrees
+\i (01:34:08) pick grid -11419.66 9635.86
+\t (01:34:08) last pick:  -11425.00 9625.00
+\i (01:34:09) pick grid -11440.82 9635.86
+\t (01:34:09) last pick:  -11450.00 9625.00
+\t (01:34:09) Moving R44 / RESISTOR_SNPD0805_MODIFIED_120E / SNPD0805_MODIFIED.
+\t (01:34:09) last pick:  -11425.00 9450.00
+\i (01:34:10) prepopup -11440.82 9642.91
+\i (01:34:10) oops 
+\t (01:34:10) last pick:  -11450.00 9625.00
+\i (01:34:13) pick grid -11385.80 9664.07
+\t (01:34:13) last pick:  -11375.00 9675.00
+\t (01:34:13) Moving D11 / LED_SNPD0805_LED_LED RED / SNPD0805_LED.
+\t (01:34:13) last pick:  -11425.00 9625.00
+\i (01:34:15) pick grid -11412.61 9661.25
+\t (01:34:15) last pick:  -11425.00 9650.00
+\i (01:34:27) zoom out 1 
+\i (01:34:27) setwindow pcb
+\i (01:34:27) zoom out -11188.28 9610.46
+\i (01:34:27) trapsize 1411
+\i (01:34:29) pick grid -11436.59 9412.95
+\t (01:34:29) last pick:  -11425.00 9425.00
+\t (01:34:29) Moving R44 / RESISTOR_SNPD0805_MODIFIED_120E / SNPD0805_MODIFIED.
+\t (01:34:29) last pick:  -11425.00 9450.00
+\i (01:34:30) zoom in 1 
+\i (01:34:30) setwindow pcb
+\i (01:34:30) zoom in -11447.88 9223.90
+\i (01:34:30) trapsize 705
+\i (01:34:32) pick grid -11443.65 9185.81
+\t (01:34:32) last pick:  -11450.00 9175.00
+\i (01:34:33) pick grid -11422.49 9549.80
+\t (01:34:33) last pick:  -11425.00 9550.00
+\t (01:34:33) Moving D11 / LED_SNPD0805_LED_LED RED / SNPD0805_LED.
+\t (01:34:33) last pick:  -11425.00 9650.00
+\i (01:34:35) pick grid -11450.70 9386.14
+\t (01:34:35) last pick:  -11450.00 9375.00
+\i (01:34:35) roam start
+\i (01:34:35) roam x 16
+\i (01:34:35) roam y 64
+\i (01:34:36) roam end
+\i (01:34:37) pick grid -11443.64 9118.08
+\t (01:34:37) last pick:  -11450.00 9125.00
+\t (01:34:37) Moving R44 / RESISTOR_SNPD0805_MODIFIED_120E / SNPD0805_MODIFIED.
+\t (01:34:37) last pick:  -11450.00 9175.00
+\i (01:34:38) pick grid -11442.23 9088.45
+\t (01:34:38) last pick:  -11450.00 9100.00
+\i (01:34:39) pick grid -11433.76 9376.26
+\t (01:34:39) last pick:  -11425.00 9375.00
+\t (01:34:39) Moving D11 / LED_SNPD0805_LED_LED RED / SNPD0805_LED.
+\t (01:34:39) last pick:  -11450.00 9375.00
+\i (01:34:42) pick grid -11461.98 9312.77
+\t (01:34:42) last pick:  -11450.00 9325.00
+\i (01:34:43) pick grid -11460.57 9099.74
+\t (01:34:43) last pick:  -11450.00 9100.00
+\t (01:34:43) Moving R44 / RESISTOR_SNPD0805_MODIFIED_120E / SNPD0805_MODIFIED.
+\t (01:34:43) last pick:  -11450.00 9100.00
+\i (01:34:44) pick grid -11460.57 9113.85
+\t (01:34:44) last pick:  -11450.00 9125.00
+\i (01:34:53) roam start
+\i (01:34:53) roam y -64
+\i (01:34:53) roam y -64
+\i (01:34:53) roam y -64
+\i (01:34:53) roam y -16
+\i (01:34:53) roam y -16
+\i (01:34:53) roam y -32
+\i (01:34:53) roam y -32
+\i (01:34:53) roam y -16
+\i (01:34:53) roam y -16
+\i (01:34:53) roam y -16
+\i (01:34:53) roam end
+\i (01:34:54) roam start
+\i (01:34:54) roam y 48
+\i (01:34:54) roam y 16
+\i (01:34:54) roam end
+\i (01:34:54) zoom out 1 
+\i (01:34:54) setwindow pcb
+\i (01:34:54) zoom out -11145.95 9499.01
+\i (01:34:54) trapsize 1411
+\i (01:34:54) zoom in 1 
+\i (01:34:54) setwindow pcb
+\i (01:34:54) zoom in -11145.96 9499.00
+\i (01:34:54) trapsize 705
+\i (01:34:58) setwindow form.plc_manual
+\i (01:34:58) FORM plc_manual tree 'MULTISEL YES' R8 'Components by refdes' 
+\w (01:34:58) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\t (01:34:58) Placing R8 / RESISTOR_SNPD1206_MODIFIED_0E 1 / SNPD1206_MODIFIED on Top.
+\i (01:34:58) FORM plc_manual tree  R8 'Components by refdes' 
+\i (01:34:58) FORM plc_manual tree 'MULTISEL YES' R9 'Components by refdes' 
+\i (01:34:58) FORM plc_manual tree  R9 'Components by refdes' 
+\i (01:35:05) setwindow pcb
+\i (01:35:05) prepopup -11358.99 9631.63
+\i (01:35:06) rotate 
+\t (01:35:06) Spin the element(s).
+\i (01:35:06) iangle 90.000
+\t (01:35:06) last angle:  +90.000 Degrees
+\i (01:35:10) pick grid -11436.59 9569.55
+\t (01:35:10) last pick:  -11425.00 9575.00
+\t (01:35:10) Placing R9 / RESISTOR_SNPD1206_MODIFIED_0E 1 / SNPD1206_MODIFIED on Top.
+\i (01:35:11) prepopup -11208.03 9637.27
+\i (01:35:12) rotate 
+\t (01:35:12) Spin the element(s).
+\i (01:35:13) iangle 90.000
+\t (01:35:13) last angle:  +90.000 Degrees
+\i (01:35:14) pick grid -11288.45 9578.01
+\t (01:35:14) last pick:  -11300.00 9575.00
+\i (01:35:35) setwindow form.plc_manual
+\i (01:35:35) FORM plc_manual tree 'MULTISEL YES' U2 'Components by refdes' 
+\w (01:35:35) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\t (01:35:35) Placing U2 / UCC21520ADWR_1_DPR0010A_UCC2721 / DPR0010A on Top.
+\i (01:35:35) FORM plc_manual tree  U2 'Components by refdes' 
+\i (01:35:36) setwindow pcb
+\i (01:35:36) roam start
+\i (01:35:36) roam y -32
+\i (01:35:36) roam x -32
+\i (01:35:36) roam y -64
+\i (01:35:36) roam y -16
+\i (01:35:36) roam end
+\i (01:35:47) prepopup -11312.44 9875.70
+\i (01:35:48) rotate 
+\t (01:35:48) Spin the element(s).
+\i (01:35:49) iangle -90.000
+\t (01:35:49) last angle:  +270.000 Degrees
+\i (01:35:51) pick grid -11349.12 9810.80
+\t (01:35:51) last pick:  -11350.00 9800.00
+\e (01:35:51) ERROR(SPMHGE-82): Pin numbers do not match between symbol and component. Run dev_check on device file for more information.
+\t (01:35:51) Placing U2 / UCC21520ADWR_1_DPR0010A_UCC2721 / DPR0010A on Top.
+\i (01:36:01) zoom out 1 
+\i (01:36:01) setwindow pcb
+\i (01:36:01) zoom out -11246.13 9767.06
+\i (01:36:01) trapsize 1411
+\i (01:36:02) prepopup -11054.25 9843.25
+\i (01:36:03) done 
+\i (01:36:03) placementedit 
+\i (01:36:03) zoom out 1 
+\i (01:36:03) setwindow pcb
+\i (01:36:03) zoom out -11009.10 9820.68
+\i (01:36:03) trapsize 2822
+\i (01:36:03) zoom out 1 
+\i (01:36:03) setwindow pcb
+\i (01:36:03) zoom out -11009.11 9815.03
+\t (01:36:03) Grids are drawn 50.00, 50.00 apart for enhanced viewability.
+\i (01:36:03) trapsize 5643
+\i (01:36:04) zoom in 1 
+\i (01:36:04) setwindow pcb
+\i (01:36:04) zoom in -10760.80 9149.11
+\i (01:36:04) trapsize 2822
+\i (01:36:04) zoom in 1 
+\i (01:36:04) setwindow pcb
+\i (01:36:04) zoom in -10749.51 9047.53
+\i (01:36:04) trapsize 1411
+\i (01:36:08) delete 
+\i (01:36:12) setwindow form.find
+\i (01:36:12) FORM find all_off  
+\i (01:36:14) FORM find text YES 
+\i (01:36:15) setwindow pcb
+\i (01:36:15) zoom in 1 
+\i (01:36:15) setwindow pcb
+\i (01:36:15) zoom in -11866.89 9098.33
+\i (01:36:15) trapsize 705
+\i (01:36:16) pick grid -11885.23 9135.01
+\t (01:36:16) last pick:  -11875.00 9125.00
+\t (01:36:16) Text "Resistor_Snpd0805_Modified_20K"
+\i (01:36:16) pick grid -11813.28 9291.61
+\t (01:36:16) last pick:  -11825.00 9300.00
+\t (01:36:16) Text "Pnp Bec_Sot23_Bc856a-7-f"
+\i (01:36:17) pick grid -11857.01 9057.41
+\t (01:36:17) last pick:  -11850.00 9050.00
+\i (01:36:17) zoom out 1 
+\i (01:36:17) setwindow pcb
+\i (01:36:17) zoom out -11789.29 9065.88
+\i (01:36:17) trapsize 1411
+\i (01:36:17) zoom out 1 
+\i (01:36:17) setwindow pcb
+\i (01:36:17) zoom out -11786.47 9065.88
+\i (01:36:17) trapsize 2822
+\i (01:36:17) roam start
+\i (01:36:17) roam x 16
+\i (01:36:17) roam y 80
+\i (01:36:17) roam x 48
+\i (01:36:17) roam y 96
+\i (01:36:17) roam y 16
+\i (01:36:18) roam end
+\i (01:36:18) zoom in 1 
+\i (01:36:18) setwindow pcb
+\i (01:36:18) zoom in -11107.86 8574.91
+\i (01:36:18) trapsize 1411
+\i (01:36:18) zoom in 1 
+\i (01:36:18) setwindow pcb
+\i (01:36:18) zoom in -11107.86 8574.91
+\i (01:36:18) trapsize 705
+\i (01:36:19) drag_start grid -11588.95 8559.40
+\i (01:36:19) drag_stop -11030.26 8431.01
+\i (01:36:19) pick grid -11030.26 8431.01
+\t (01:36:19) last pick:  -11025.00 8425.00
+\i (01:36:20) roam start
+\i (01:36:20) roam x 32
+\i (01:36:20) roam y -112
+\i (01:36:20) roam x 32
+\i (01:36:20) roam y -160
+\i (01:36:20) roam x 16
+\i (01:36:20) roam y -96
+\i (01:36:20) roam y -16
+\i (01:36:20) roam y -16
+\i (01:36:20) roam end
+\i (01:36:21) roam start
+\i (01:36:21) roam x 64
+\i (01:36:21) roam y -64
+\i (01:36:21) roam x 112
+\i (01:36:21) roam y -112
+\i (01:36:21) roam x 80
+\i (01:36:21) roam y -96
+\i (01:36:21) roam x 16
+\i (01:36:21) roam end
+\i (01:36:22) pick grid -10403.85 9267.63
+\t (01:36:22) last pick:  -10400.00 9275.00
+\t (01:36:22) Text "Header 8X2_0_Conn8x2_Header 8X2"
+\i (01:36:22) pick grid -10391.15 9373.44
+\t (01:36:22) last pick:  -10400.00 9375.00
+\i (01:36:23) roam start
+\i (01:36:23) roam y 64
+\i (01:36:23) roam y 16
+\i (01:36:23) roam y 16
+\i (01:36:23) roam y 16
+\i (01:36:23) roam y 16
+\i (01:36:23) roam end
+\i (01:36:24) pick grid -10423.60 9178.74
+\t (01:36:24) last pick:  -10425.00 9175.00
+\t (01:36:24) Text "Header 8X2_0_Conn8x2_Header 8X2"
+\i (01:36:24) pick grid -10408.08 9290.20
+\t (01:36:24) last pick:  -10400.00 9300.00
+\i (01:36:25) pick grid -10777.72 9149.11
+\t (01:36:25) last pick:  -10775.00 9150.00
+\t (01:36:25) Text "Resistor_Snpd0805_Modified_1.3K"
+\i (01:36:25) pick grid -10755.15 9328.29
+\t (01:36:25) last pick:  -10750.00 9325.00
+\i (01:36:26) zoom out 1 
+\i (01:36:26) setwindow pcb
+\i (01:36:26) zoom out -10726.93 9304.30
+\i (01:36:26) trapsize 1411
+\i (01:36:26) roam start
+\i (01:36:26) roam x 16
+\i (01:36:26) roam x 64
+\i (01:36:26) roam y 16
+\i (01:36:26) roam end
+\i (01:36:27) drag_start grid -9457.18 9288.79
+\i (01:36:27) drag_stop -9612.38 8995.33
+\i (01:36:27) pick grid -9612.38 8995.33
+\t (01:36:27) last pick:  -9600.00 9000.00
+\i (01:36:28) drag_start grid -9792.96 8938.90
+\i (01:36:29) drag_stop -9829.65 9102.56
+\i (01:36:29) pick grid -9784.50 9015.09
+\t (01:36:29) last pick:  -9775.00 9025.00
+\i (01:36:29) zoom in 1 
+\i (01:36:29) setwindow pcb
+\i (01:36:29) zoom in -9908.65 9023.55
+\i (01:36:29) trapsize 705
+\i (01:36:30) zoom in 1 
+\i (01:36:30) setwindow pcb
+\i (01:36:30) zoom in -9908.65 9023.56
+\i (01:36:30) trapsize 353
+\i (01:36:32) pick grid -10085.70 9015.09
+\t (01:36:32) last pick:  -10075.00 9025.00
+\t (01:36:32) Text "***"
+\i (01:36:32) pick grid -10087.82 9051.07
+\t (01:36:32) last pick:  -10100.00 9050.00
+\t (01:36:32) Text "***"
+\i (01:36:32) pick grid -10099.81 8965.01
+\t (01:36:32) last pick:  -10100.00 8975.00
+\i (01:36:33) roam start
+\i (01:36:33) roam x -144
+\i (01:36:33) roam y -112
+\i (01:36:33) roam x -128
+\i (01:36:33) roam y -96
+\i (01:36:33) roam x -96
+\i (01:36:33) roam y -80
+\i (01:36:33) roam x -32
+\i (01:36:33) roam y -64
+\i (01:36:33) roam end
+\i (01:36:33) zoom out 1 
+\i (01:36:33) setwindow pcb
+\i (01:36:33) zoom out -10334.80 9209.68
+\i (01:36:33) trapsize 705
+\i (01:36:33) zoom out 1 
+\i (01:36:33) setwindow pcb
+\i (01:36:33) zoom out -10334.80 9209.68
+\i (01:36:33) trapsize 1411
+\i (01:36:34) roam start
+\i (01:36:34) roam y 16
+\i (01:36:34) roam x -80
+\i (01:36:34) roam y 64
+\i (01:36:34) roam x -64
+\i (01:36:34) roam y 16
+\i (01:36:34) roam x -16
+\i (01:36:34) roam end
+\i (01:36:37) roam start
+\i (01:36:37) roam x -16
+\i (01:36:37) roam y -80
+\i (01:36:37) roam x -48
+\i (01:36:37) roam y -112
+\i (01:36:37) roam end
+\i (01:36:37) zoom in 1 
+\i (01:36:37) setwindow pcb
+\i (01:36:37) zoom in -11502.90 9943.42
+\i (01:36:37) trapsize 705
+\i (01:36:37) zoom in 1 
+\i (01:36:37) setwindow pcb
+\i (01:36:37) zoom in -11502.89 9943.42
+\i (01:36:37) trapsize 353
+\i (01:36:38) drag_start grid -11297.62 9930.02
+\i (01:36:38) drag_stop -11476.79 9891.93
+\i (01:36:39) pick grid -11277.16 9925.08
+\t (01:36:39) last pick:  -11275.00 9925.00
+\i (01:36:39) zoom out 1 
+\i (01:36:39) setwindow pcb
+\i (01:36:39) zoom out -11268.70 9916.62
+\i (01:36:39) trapsize 705
+\i (01:36:39) roam start
+\i (01:36:39) roam x 16
+\i (01:36:39) roam y 160
+\i (01:36:39) roam x 16
+\i (01:36:39) roam y 160
+\i (01:36:39) roam y 80
+\i (01:36:39) roam end
+\i (01:36:40) zoom out 1 
+\i (01:36:40) setwindow pcb
+\i (01:36:40) zoom out -11164.29 9513.11
+\i (01:36:40) trapsize 1411
+\i (01:36:41) zoom in 1 
+\i (01:36:41) setwindow pcb
+\i (01:36:41) zoom in -11288.45 8906.46
+\i (01:36:41) trapsize 705
+\i (01:36:41) zoom in 1 
+\i (01:36:41) setwindow pcb
+\i (01:36:41) zoom in -11288.45 8906.46
+\i (01:36:41) trapsize 353
+\i (01:36:42) zoom out 1 
+\i (01:36:42) setwindow pcb
+\i (01:36:42) zoom out -11347.00 8973.48
+\i (01:36:42) trapsize 705
+\i (01:36:42) zoom out 1 
+\i (01:36:42) setwindow pcb
+\i (01:36:42) zoom out -11346.99 8973.47
+\i (01:36:42) trapsize 1411
+\i (01:36:44) zoom in 1 
+\i (01:36:44) setwindow pcb
+\i (01:36:44) zoom in -11251.05 8838.04
+\i (01:36:44) trapsize 705
+\i (01:36:44) zoom in 1 
+\i (01:36:44) setwindow pcb
+\i (01:36:44) zoom in -11251.05 8838.04
+\i (01:36:44) trapsize 353
+\i (01:36:44) zoom in 1 
+\i (01:36:44) setwindow pcb
+\i (01:36:44) zoom in -11251.05 8838.05
+\i (01:36:44) trapsize 176
+\i (01:36:45) roam start
+\i (01:36:45) roam y -80
+\i (01:36:45) roam y -112
+\i (01:36:45) roam x 16
+\i (01:36:45) roam y -32
+\i (01:36:45) roam y -16
+\i (01:36:45) roam end
+\i (01:36:46) zoom out 1 
+\i (01:36:46) setwindow pcb
+\i (01:36:46) zoom out -11252.75 8907.61
+\i (01:36:46) trapsize 353
+\i (01:36:47) zoom in 1 
+\i (01:36:47) setwindow pcb
+\i (01:36:47) zoom in -11278.15 9014.83
+\i (01:36:47) trapsize 176
+\i (01:36:49) zoom out 1 
+\i (01:36:49) setwindow pcb
+\i (01:36:49) zoom out -11250.99 9005.31
+\i (01:36:49) trapsize 353
+\i (01:36:49) zoom out 1 
+\i (01:36:49) setwindow pcb
+\i (01:36:49) zoom out -11250.99 9005.31
+\i (01:36:49) trapsize 705
+\i (01:36:51) zoom out 1 
+\i (01:36:51) setwindow pcb
+\i (01:36:51) zoom out -11251.00 8953.10
+\i (01:36:51) trapsize 1411
+\i (01:36:52) zoom in 1 
+\i (01:36:52) setwindow pcb
+\i (01:36:52) zoom in -11250.99 8953.11
+\i (01:36:52) trapsize 705
+\i (01:36:52) roam start
+\i (01:36:52) roam x 80
+\i (01:36:52) roam y -16
+\i (01:36:52) roam x 112
+\i (01:36:52) roam y -16
+\i (01:36:52) roam x 80
+\i (01:36:52) roam y -16
+\i (01:36:52) roam end
+\i (01:36:54) roam start
+\i (01:36:54) roam x 48
+\i (01:36:54) roam y -16
+\i (01:36:54) roam x 96
+\i (01:36:54) roam y -16
+\i (01:36:55) roam x 16
+\i (01:36:55) roam x 16
+\i (01:36:55) roam end
+\i (01:37:08) move 
+\t (01:37:08) Select element(s) to move.
+\i (01:37:08) pick grid -10038.37 9013.78
+\t (01:37:08) last pick:  -10050.00 9025.00
+\t (01:37:08) last pick:  -10100.00 9100.00
+\t (01:37:08) Moving U6 / DM3AT-SF-PEJM5_2_TSSOP14_SN74LV / TSSOP14.
+\t (01:37:08) Pick new location for the element(s).
+\i (01:37:09) roam start
+\i (01:37:09) roam x -16
+\i (01:37:09) roam y -64
+\i (01:37:09) roam y -96
+\i (01:37:09) roam end
+\i (01:37:11) pick grid -10392.49 9336.86
+\t (01:37:11) last pick:  -10400.00 9325.00
+\i (01:37:14) zoom out 1 
+\i (01:37:14) setwindow pcb
+\i (01:37:14) zoom out -10752.25 9439.85
+\i (01:37:14) trapsize 1411
+\i (01:37:17) save 
+\i (01:37:18) fillin yes 
+\i (01:37:18) placementedit 
+\i (01:37:19) zoom out 1 
+\i (01:37:19) setwindow pcb
+\i (01:37:19) zoom out -11031.60 9174.62
+\i (01:37:19) trapsize 2822
+\i (01:37:19) zoom out 1 
+\i (01:37:19) setwindow pcb
+\i (01:37:19) zoom out -11031.61 9174.61
+\i (01:37:19) trapsize 5643
+\i (01:37:20) zoom in 1 
+\i (01:37:20) setwindow pcb
+\i (01:37:20) zoom in -11731.39 10359.72
+\i (01:37:20) trapsize 2822
+\i (01:37:20) zoom in 1 
+\i (01:37:20) setwindow pcb
+\i (01:37:20) zoom in -11731.39 10359.73
+\i (01:37:20) trapsize 1411
+\i (01:37:31) place manual 
+\i (01:37:33) setwindow form.plc_manual
+\i (01:37:33) FORM plc_manual tree 'MULTISEL YES' C9 'Components by refdes' 
+\t (01:37:33) Placing C9 / CAP_CAP_SMD_PTH_470UF50V_0.1U 6 / CAP_SMD_PTH_470UF50V on Top.
+\i (01:37:33) FORM plc_manual tree  C9 'Components by refdes' 
+\i (01:37:50) setwindow pcb
+\i (01:37:50) prepopup -11389.96 10167.86
+\i (01:37:52) rotate 
+\t (01:37:52) Spin the element(s).
+\i (01:37:53) iangle 90.000
+\t (01:37:53) last angle:  +90.000 Degrees
+\i (01:37:54) pick grid -11310.96 10015.49
+\t (01:37:54) last pick:  -11300.00 10025.00
+\i (01:37:55) pick grid -10865.13 9978.81
+\t (01:37:55) last pick:  -10875.00 9975.00
+\i (01:38:07) setwindow form.plc_manual
+\i (01:38:07) FORM plc_manual tree 'MULTISEL YES' U2 'Components by refdes' 
+\t (01:38:07) Placing U2 / UCC21520ADWR_1_DPR0010A_UCC2721 / DPR0010A on Top.
+\i (01:38:07) FORM plc_manual tree  U2 'Components by refdes' 
+\i (01:38:09) setwindow pcb
+\i (01:38:09) prepopup -10946.96 9809.50
+\i (01:38:11) rotate 
+\t (01:38:11) Spin the element(s).
+\i (01:38:11) iangle -90.000
+\t (01:38:11) last angle:  +270.000 Degrees
+\i (01:38:31) prepopup -11294.03 9786.93
+\i (01:38:31) oops 
+\t (01:38:31) last pick:  -10875.00 9975.00
+\i (01:38:32) pick grid -11234.77 10108.60
+\t (01:38:32) last pick:  -11225.00 10100.00
+\t (01:38:32) Moving C9 / CAP_CAP_SMD_PTH_470UF50V_0.1U 6 / CAP_SMD_PTH_470UF50V.
+\t (01:38:32) last pick:  -11300.00 10025.00
+\i (01:38:32) prepopup -11206.55 10136.82
+\i (01:38:33) rotate 
+\t (01:38:33) Spin the element(s).
+\i (01:38:35) iangle 180.000
+\t (01:38:35) last angle:  270.000 Degrees
+\i (01:38:36) pick grid -11279.92 10263.80
+\t (01:38:36) last pick:  -11275.00 10275.00
+\i (01:38:57) setwindow form.plc_manual
+\i (01:38:57) FORM plc_manual tree 'MULTISEL YES' D3 'Components by refdes' 
+\w (01:38:57) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\t (01:38:57) Placing D3 / DIODE ZENER_DO214_LSM115JE3/TR1 / DO214 on Top.
+\i (01:38:57) FORM plc_manual tree  D3 'Components by refdes' 
+\i (01:38:57) FORM plc_manual tree 'MULTISEL YES' D2 'Components by refdes' 
+\t (01:38:57) Placing D2 / DIODE ZENER_DO214_B160-13-F / DO214 on Top.
+\i (01:38:57) FORM plc_manual tree  D2 'Components by refdes' 
+\i (01:39:05) setwindow pcb
+\i (01:39:05) pick grid -10752.26 10263.80
+\t (01:39:05) last pick:  -10750.00 10275.00
+\t (01:39:05) Placing D3 / DIODE ZENER_DO214_LSM115JE3/TR1 / DO214 on Top.
+\i (01:39:05) pick grid -10842.56 10080.39
+\t (01:39:05) last pick:  -10850.00 10075.00
+\i (01:39:14) zoom in 1 
+\i (01:39:14) setwindow pcb
+\i (01:39:14) zoom in -10794.59 9990.09
+\i (01:39:14) trapsize 705
+\i (01:39:14) zoom in 1 
+\i (01:39:14) setwindow pcb
+\i (01:39:14) zoom in -10794.59 9990.09
+\i (01:39:14) trapsize 353
+\i (01:39:14) pick grid -10810.81 10048.65
+\t (01:39:14) last pick:  -10800.00 10050.00
+\t (01:39:14) Moving D3 / DIODE ZENER_DO214_LSM115JE3/TR1 / DO214.
+\t (01:39:14) last pick:  -10850.00 10075.00
+\i (01:39:15) zoom out 1 
+\i (01:39:15) setwindow pcb
+\i (01:39:15) zoom out -10835.50 10007.73
+\i (01:39:15) trapsize 705
+\i (01:39:15) zoom in 1 
+\i (01:39:15) setwindow pcb
+\i (01:39:15) zoom in -10835.51 10007.73
+\i (01:39:15) trapsize 353
+\i (01:39:15) pick grid -10835.50 10007.73
+\t (01:39:15) last pick:  -10825.00 10000.00
+\i (01:39:16) zoom out 1 
+\i (01:39:16) setwindow pcb
+\i (01:39:16) zoom out -10779.78 9980.22
+\i (01:39:16) trapsize 705
+\i (01:39:16) zoom out 1 
+\i (01:39:16) setwindow pcb
+\i (01:39:16) zoom out -10779.77 9980.22
+\i (01:39:16) trapsize 1411
+\i (01:39:16) pick grid -10830.56 10031.01
+\t (01:39:16) last pick:  -10825.00 10025.00
+\t (01:39:16) Moving D3 / DIODE ZENER_DO214_LSM115JE3/TR1 / DO214.
+\t (01:39:16) last pick:  -10825.00 10000.00
+\i (01:39:18) pick grid -10920.86 10121.30
+\t (01:39:18) last pick:  -10925.00 10125.00
+\i (01:39:38) pick grid -10689.48 10253.92
+\t (01:39:38) last pick:  -10700.00 10250.00
+\t (01:39:38) Moving D2 / DIODE ZENER_DO214_B160-13-F / DO214.
+\t (01:39:38) last pick:  -10750.00 10275.00
+\i (01:39:38) pick grid -10703.59 9991.50
+\t (01:39:38) last pick:  -10700.00 10000.00
+\i (01:39:39) pick grid -10841.85 10115.66
+\t (01:39:39) last pick:  -10850.00 10125.00
+\t (01:39:39) Moving D3 / DIODE ZENER_DO214_LSM115JE3/TR1 / DO214.
+\t (01:39:39) last pick:  -10925.00 10125.00
+\i (01:39:40) prepopup -10855.96 10234.17
+\i (01:39:40) rotate 
+\t (01:39:40) Spin the element(s).
+\i (01:39:41) iangle 90.000
+\t (01:39:41) last angle:  90.000 Degrees
+\i (01:39:42) pick grid -10968.83 10160.81
+\t (01:39:42) last pick:  -10975.00 10150.00
+\i (01:39:46) zoom in 1 
+\i (01:39:46) setwindow pcb
+\i (01:39:46) zoom in -10957.54 10242.64
+\i (01:39:46) trapsize 705
+\i (01:39:47) pick grid -10954.71 10165.04
+\t (01:39:47) last pick:  -10950.00 10175.00
+\t (01:39:47) Moving D3 / DIODE ZENER_DO214_LSM115JE3/TR1 / DO214.
+\t (01:39:47) last pick:  -10975.00 10150.00
+\i (01:39:48) pick grid -10963.18 10239.82
+\t (01:39:48) last pick:  -10975.00 10250.00
+\i (01:39:53) pick grid -10946.25 10249.69
+\t (01:39:53) last pick:  -10950.00 10250.00
+\t (01:39:53) Moving D3 / DIODE ZENER_DO214_LSM115JE3/TR1 / DO214.
+\t (01:39:53) last pick:  -10975.00 10250.00
+\i (01:39:54) pick grid -10964.59 10262.39
+\t (01:39:54) last pick:  -10975.00 10250.00
+\i (01:39:57) pick grid -10738.85 9988.69
+\t (01:39:57) last pick:  -10750.00 10000.00
+\t (01:39:57) Moving D2 / DIODE ZENER_DO214_B160-13-F / DO214.
+\t (01:39:57) last pick:  -10700.00 10000.00
+\i (01:39:58) pick grid -10841.84 10063.46
+\t (01:39:58) last pick:  -10850.00 10075.00
+\i (01:40:04) setwindow form.plc_manual
+\i (01:40:04) FORM plc_manual tree 'MULTISEL YES' R6 'Components by refdes' 
+\t (01:40:04) Placing R6 / RESISTOR_SNPD0805_MODIFIED_17.8 / SNPD0805_MODIFIED on Top.
+\i (01:40:04) FORM plc_manual tree  R6 'Components by refdes' 
+\i (01:40:12) setwindow pcb
+\i (01:40:12) prepopup -10782.59 10236.99
+\i (01:40:13) rotate 
+\t (01:40:13) Spin the element(s).
+\i (01:40:13) iangle 90.000
+\t (01:40:13) last angle:  +90.000 Degrees
+\i (01:40:15) pick grid -10863.01 10262.39
+\t (01:40:15) last pick:  -10875.00 10250.00
+\i (01:40:22) zoom out 1 
+\i (01:40:22) setwindow pcb
+\i (01:40:22) zoom out -10793.88 10080.39
+\i (01:40:22) trapsize 1411
+\i (01:40:23) roam start
+\i (01:40:23) roam y 16
+\i (01:40:23) roam y 48
+\i (01:40:23) roam y 16
+\i (01:40:23) roam y 16
+\i (01:40:23) roam end
+\i (01:40:30) setwindow form.plc_manual
+\i (01:40:30) FORM plc_manual tree 'MULTISEL YES' C8 'Components by refdes' 
+\t (01:40:30) Placing C8 / CAP NP_SNPD1206_MODIFIED_0.33U / SNPD1206_MODIFIED on Top.
+\i (01:40:30) FORM plc_manual tree  C8 'Components by refdes' 
+\i (01:40:31) setwindow pcb
+\i (01:40:31) zoom in 1 
+\i (01:40:31) setwindow pcb
+\i (01:40:31) zoom in -10824.91 9847.58
+\i (01:40:31) trapsize 705
+\i (01:40:31) prepopup -10824.91 9847.58
+\i (01:40:32) rotate 
+\t (01:40:32) Spin the element(s).
+\i (01:40:33) iangle -90.000
+\t (01:40:33) last angle:  +270.000 Degrees
+\i (01:40:33) pick grid -10864.41 9878.62
+\t (01:40:33) last pick:  -10875.00 9875.00
+\i (01:40:39) pick grid -10848.89 9870.16
+\t (01:40:39) last pick:  -10850.00 9875.00
+\t (01:40:39) Moving C8 / CAP NP_SNPD1206_MODIFIED_0.33U / SNPD1206_MODIFIED.
+\t (01:40:39) last pick:  -10875.00 9875.00
+\i (01:40:39) pick grid -10851.71 9836.30
+\t (01:40:39) last pick:  -10850.00 9825.00
+\i (01:40:54) setwindow form.plc_manual
+\i (01:40:54) FORM plc_manual tree 'MULTISEL YES' R4 'Components by refdes' 
+\t (01:40:54) Placing R4 / RESISTOR_SNPD1206_MODIFIED_0E 1 / SNPD1206_MODIFIED on Top.
+\i (01:40:54) FORM plc_manual tree  R4 'Components by refdes' 
+\i (01:40:55) setwindow pcb
+\i (01:40:55) prepopup -10651.37 9837.71
+\i (01:40:56) rotate 
+\t (01:40:56) Spin the element(s).
+\i (01:40:57) iangle -90.000
+\t (01:40:57) last angle:  +270.000 Degrees
+\i (01:40:59) pick grid -10713.45 9830.65
+\t (01:40:59) last pick:  -10725.00 9825.00
+\i (01:41:16) zoom out 1 
+\i (01:41:16) setwindow pcb
+\i (01:41:16) zoom out -10657.01 9833.47
+\i (01:41:16) trapsize 1411
+\i (01:41:32) setwindow form.plc_manual
+\i (01:41:32) FORM plc_manual tree 'MULTISEL YES' D5 'Components by refdes' 
+\t (01:41:32) Placing D5 / DIODE ZENER_DO214_LSM115JE3/TR1 / DO214 on Top.
+\i (01:41:32) FORM plc_manual tree  D5 'Components by refdes' 
+\i (01:41:33) setwindow pcb
+\i (01:41:33) zoom in 1 
+\i (01:41:33) setwindow pcb
+\i (01:41:33) zoom in -10750.14 9551.31
+\i (01:41:33) trapsize 705
+\i (01:41:33) prepopup -10751.54 9531.56
+\i (01:41:34) pick grid -10751.54 9537.20
+\t (01:41:34) last pick:  -10750.00 9525.00
+\i (01:41:34) pick grid -10757.19 9531.56
+\t (01:41:34) last pick:  -10750.00 9525.00
+\t (01:41:34) Moving D5 / DIODE ZENER_DO214_LSM115JE3/TR1 / DO214.
+\t (01:41:34) last pick:  -10750.00 9525.00
+\i (01:41:35) pick grid -10836.19 9555.54
+\t (01:41:35) last pick:  -10825.00 9550.00
+\i (01:41:43) pick grid -10805.16 9558.36
+\t (01:41:43) last pick:  -10800.00 9550.00
+\t (01:41:43) Moving C8 / CAP NP_SNPD1206_MODIFIED_0.33U / SNPD1206_MODIFIED.
+\t (01:41:43) last pick:  -10850.00 9825.00
+\i (01:41:43) prepopup -10847.48 9569.65
+\i (01:41:44) oops 
+\t (01:41:44) last pick:  -10800.00 9550.00
+\i (01:41:45) pick grid -10826.32 9542.84
+\t (01:41:45) last pick:  -10825.00 9550.00
+\t (01:41:45) Moving C8 / CAP NP_SNPD1206_MODIFIED_0.33U / SNPD1206_MODIFIED.
+\t (01:41:45) last pick:  -10850.00 9825.00
+\i (01:41:46) prepopup -10826.32 9552.72
+\i (01:41:46) oops 
+\t (01:41:46) last pick:  -10825.00 9550.00
+\i (01:41:48) pick grid -10769.88 9573.88
+\t (01:41:48) last pick:  -10775.00 9575.00
+\t (01:41:48) Moving D5 / DIODE ZENER_DO214_LSM115JE3/TR1 / DO214.
+\t (01:41:48) last pick:  -10825.00 9550.00
+\i (01:41:48) prepopup -10798.10 9600.69
+\i (01:41:50) rotate 
+\t (01:41:50) Spin the element(s).
+\i (01:41:50) iangle 90.000
+\t (01:41:50) last angle:  90.000 Degrees
+\i (01:41:51) pick grid -10837.61 9580.94
+\t (01:41:51) last pick:  -10850.00 9575.00
+\i (01:41:52) zoom out 1 
+\i (01:41:52) setwindow pcb
+\i (01:41:52) zoom out -10933.54 9672.64
+\i (01:41:52) trapsize 1411
+\i (01:41:52) roam start
+\i (01:41:52) roam x 16
+\i (01:41:52) roam y -16
+\i (01:41:52) roam x 16
+\i (01:41:53) roam x 64
+\i (01:41:53) roam end
+\i (01:42:24) setwindow form.plc_manual
+\i (01:42:24) FORM plc_manual tree 'MULTISEL YES' R11 'Components by refdes' 
+\t (01:42:24) Placing R11 / RESISTOR_SNPD0805_MODIFIED_17.8 / SNPD0805_MODIFIED on Top.
+\i (01:42:24) FORM plc_manual tree  R11 'Components by refdes' 
+\i (01:42:25) setwindow pcb
+\i (01:42:25) roam start
+\i (01:42:25) roam y 48
+\i (01:42:25) roam y 64
+\i (01:42:25) roam y 16
+\i (01:42:25) roam end
+\i (01:42:26) zoom in 1 
+\i (01:42:26) setwindow pcb
+\i (01:42:26) zoom in -10698.65 9585.17
+\i (01:42:26) trapsize 705
+\i (01:42:26) prepopup -10714.16 9573.88
+\i (01:42:27) rotate 
+\t (01:42:27) Spin the element(s).
+\i (01:42:27) iangle 90.000
+\t (01:42:27) last angle:  +90.000 Degrees
+\i (01:42:28) pick grid -10760.72 9573.88
+\t (01:42:28) last pick:  -10750.00 9575.00
+\i (01:44:02) zoom out 1 
+\i (01:44:02) setwindow pcb
+\i (01:44:02) zoom out -10527.93 9448.32
+\i (01:44:02) trapsize 1411
+\i (01:44:03) zoom in 1 
+\i (01:44:03) setwindow pcb
+\i (01:44:03) zoom in -10527.93 9448.32
+\i (01:44:03) trapsize 705
+\i (01:44:06) zoom out 1 
+\i (01:44:06) setwindow pcb
+\i (01:44:06) zoom out -10558.97 9538.61
+\i (01:44:06) trapsize 1411
+\i (01:44:06) zoom in 1 
+\i (01:44:06) setwindow pcb
+\i (01:44:06) zoom in -10558.97 9538.62
+\i (01:44:06) trapsize 705
+\i (01:44:15) roam start
+\i (01:44:15) roam y -16
+\i (01:44:15) roam end
+\i (01:44:22) roam start
+\i (01:44:22) roam y -48
+\i (01:44:22) roam x 16
+\i (01:44:22) roam y -96
+\i (01:44:22) roam x 16
+\i (01:44:22) roam y -80
+\i (01:44:22) roam x 16
+\i (01:44:22) roam y -64
+\i (01:44:22) roam end
+\i (01:44:23) zoom out 1 
+\i (01:44:23) setwindow pcb
+\i (01:44:23) zoom out -10412.24 10053.57
+\i (01:44:23) trapsize 1411
+\i (01:44:23) roam start
+\i (01:44:23) roam y -16
+\i (01:44:24) roam end
+\i (01:44:32) setwindow form.plc_manual
+\i (01:44:32) FORM plc_manual tree 'MULTISEL YES' C4 'Components by refdes' 
+\t (01:44:32) Placing C4 / CAP NP_SNPD0805_MODIFIED_0.1U 0 / SNPD0805_MODIFIED on Top.
+\i (01:44:32) FORM plc_manual tree  C4 'Components by refdes' 
+\i (01:44:37) setwindow pcb
+\i (01:44:37) zoom in 1 
+\i (01:44:37) setwindow pcb
+\i (01:44:37) zoom in -10519.47 10290.59
+\i (01:44:37) trapsize 705
+\i (01:44:37) pick grid -10519.46 10290.59
+\t (01:44:37) last pick:  -10525.00 10300.00
+\i (01:44:38) pick grid -10516.64 10289.18
+\t (01:44:38) last pick:  -10525.00 10300.00
+\t (01:44:38) Moving C4 / CAP NP_SNPD0805_MODIFIED_0.1U 0 / SNPD0805_MODIFIED.
+\t (01:44:38) last pick:  -10525.00 10300.00
+\i (01:44:39) pick grid -10526.52 10287.77
+\t (01:44:39) last pick:  -10525.00 10300.00
+\i (01:44:46) setwindow form.plc_manual
+\i (01:44:46) FORM plc_manual tree 'MULTISEL YES' C6 'Components by refdes' 
+\t (01:44:46) Placing C6 / CAP_CAP_SMD_PTH_470UF50V_3.3U 5 / CAP_SMD_PTH_470UF50V on Top.
+\i (01:44:46) FORM plc_manual tree  C6 'Components by refdes' 
+\i (01:44:47) setwindow pcb
+\i (01:44:47) pick grid -10554.73 10086.02
+\t (01:44:47) last pick:  -10550.00 10075.00
+\i (01:45:22) refdes C4 
+\i (01:45:22) trapsize 305
+\t (01:45:22) Moving C4 / CAP NP_SNPD0805_MODIFIED_0.1U 0 / SNPD0805_MODIFIED.
+\t (01:45:22) last pick:  -10525.00 10300.00
+\t (01:45:22) Placing C4 / CAP NP_SNPD0805_MODIFIED_0.1U 0 / SNPD0805_MODIFIED on Top.
+\i (01:45:22) xname_flush 
+\i (01:45:32) zoom out 1 
+\i (01:45:32) setwindow pcb
+\i (01:45:32) zoom out -10390.51 10293.99
+\i (01:45:32) trapsize 610
+\i (01:45:32) zoom out 1 
+\i (01:45:32) setwindow pcb
+\i (01:45:32) zoom out -10390.50 10293.99
+\i (01:45:32) trapsize 1219
+\i (01:45:33) pick grid -10263.68 10359.85
+\t (01:45:33) last pick:  -10275.00 10350.00
+\i (01:45:46) refdes C6 
+\i (01:45:46) trapsize 1219
+\t (01:45:46) Moving C6 / CAP_CAP_SMD_PTH_470UF50V_3.3U 5 / CAP_SMD_PTH_470UF50V.
+\t (01:45:46) last pick:  -10550.00 10075.00
+\t (01:45:46) Placing C6 / CAP_CAP_SMD_PTH_470UF50V_3.3U 5 / CAP_SMD_PTH_470UF50V on Top.
+\i (01:45:46) xname_flush 
+\i (01:45:52) pick grid -10270.74 9910.24
+\t (01:45:52) last pick:  -10275.00 9900.00
+\i (01:45:52) tab 
+\i (01:45:52) setwindow pcb
+\i (01:45:52) mouse_pos -10278.06 9900.48
+\i (01:45:52) tab
+\i (01:46:09) pick grid -10121.97 9968.77
+\t (01:46:09) last pick:  -10125.00 9975.00
+\t (01:46:09) Moving C6 / CAP_CAP_SMD_PTH_470UF50V_3.3U 5 / CAP_SMD_PTH_470UF50V.
+\t (01:46:09) last pick:  -10275.00 9900.00
+\i (01:46:10) pick grid -10363.42 10088.28
+\t (01:46:10) last pick:  -10375.00 10100.00
+\i (01:46:11) pick grid -9897.58 9922.43
+\t (01:46:11) last pick:  -9900.00 9925.00
+\i (01:47:32) refdes C4 
+\i (01:47:32) trapsize 305
+\t (01:47:32) Moving C4 / CAP NP_SNPD0805_MODIFIED_0.1U 0 / SNPD0805_MODIFIED.
+\t (01:47:32) last pick:  -10275.00 10350.00
+\t (01:47:32) Placing C4 / CAP NP_SNPD0805_MODIFIED_0.1U 0 / SNPD0805_MODIFIED on Top.
+\i (01:47:32) xname_flush 
+\i (01:48:16) zoom out 1 
+\i (01:48:16) setwindow pcb
+\i (01:48:16) zoom out -10122.22 10314.72
+\i (01:48:16) trapsize 610
+\i (01:48:16) zoom out 1 
+\i (01:48:16) setwindow pcb
+\i (01:48:16) zoom out -10122.21 10314.73
+\i (01:48:16) trapsize 1219
+\i (01:48:18) pick grid -10112.45 10317.17
+\t (01:48:18) last pick:  -10100.00 10325.00
+\i (01:48:18) pick grid -10080.75 10314.73
+\t (01:48:18) last pick:  -10075.00 10325.00
+\t (01:48:18) Moving C4 / CAP NP_SNPD0805_MODIFIED_0.1U 0 / SNPD0805_MODIFIED.
+\t (01:48:18) last pick:  -10100.00 10325.00
+\i (01:48:20) pick grid -10285.62 10353.75
+\t (01:48:20) last pick:  -10275.00 10350.00
+\i (01:48:33) prepopup -9927.10 10431.80
+\i (01:48:34) done 
+\i (01:48:34) placementedit 
+\i (01:48:35) zoom out 1 
+\i (01:48:35) setwindow pcb
+\i (01:48:35) zoom out -10268.55 10556.18
+\i (01:48:35) trapsize 2439
+\i (01:48:35) zoom out 1 
+\i (01:48:35) setwindow pcb
+\i (01:48:35) zoom out -10292.93 10570.82
+\i (01:48:35) trapsize 4878
+\i (01:48:36) save 
+\i (01:48:37) fillin yes 
+\i (01:48:37) placementedit 
+\i (01:48:40) zoom out 1 
+\i (01:48:40) setwindow pcb
+\i (01:48:40) zoom out -9327.12 9526.97
+\t (01:48:40) Grids are drawn 100.00, 100.00 apart for enhanced viewability.
+\i (01:48:40) trapsize 9756
+\i (01:48:41) zoom in 1 
+\i (01:48:41) setwindow pcb
+\i (01:48:41) zoom in -8058.96 8883.09
+\t (01:48:41) Grids are drawn 50.00, 50.00 apart for enhanced viewability.
+\i (01:48:41) trapsize 4878
+\i (01:48:41) zoom in 1 
+\i (01:48:41) setwindow pcb
+\i (01:48:41) zoom in -8058.96 8883.09
+\i (01:48:41) trapsize 2439
+\i (01:48:42) zoom out 1 
+\i (01:48:42) setwindow pcb
+\i (01:48:42) zoom out -8005.31 8902.61
+\i (01:48:42) trapsize 4878
+\i (01:48:43) delete 
+\i (01:48:44) zoom in 1 
+\i (01:48:44) setwindow pcb
+\i (01:48:44) zoom in -11097.86 10951.30
+\i (01:48:44) trapsize 2439
+\i (01:48:44) zoom in 1 
+\i (01:48:45) setwindow pcb
+\i (01:48:45) zoom in -11171.03 10853.75
+\i (01:48:45) trapsize 1219
+\i (01:48:47) pick grid -10885.68 10746.44
+\t (01:48:47) last pick:  -10875.00 10750.00
+\t (01:48:48) Text "Diode Zener_Do214_Lsm115je3/Tr1"
+\i (01:48:48) pick grid -10671.05 10814.73
+\t (01:48:48) last pick:  -10675.00 10825.00
+\i (01:48:48) pick grid -10958.84 10741.56
+\t (01:48:48) last pick:  -10950.00 10750.00
+\t (01:48:48) Text "Resistor_Snpd0805_Modified_17.8"
+\i (01:48:49) pick grid -10829.58 10731.81
+\t (01:48:49) last pick:  -10825.00 10725.00
+\i (01:48:49) pick grid -10832.02 10600.11
+\t (01:48:49) last pick:  -10825.00 10600.00
+\i (01:48:50) pick grid -10790.56 10556.20
+\t (01:48:50) last pick:  -10800.00 10550.00
+\t (01:48:50) Text "Cap Np_Snpd1206_Modified_0.33U"
+\i (01:48:50) pick grid -10717.39 10814.73
+\t (01:48:50) last pick:  -10725.00 10825.00
+\i (01:48:50) pick grid -10663.73 10561.08
+\t (01:48:50) last pick:  -10675.00 10550.00
+\t (01:48:50) Text "Resistor_Snpd1206_Modified_0E 1"
+\i (01:48:50) pick grid -10646.66 10690.35
+\t (01:48:50) last pick:  -10650.00 10700.00
+\i (01:48:51) pick grid -10588.13 10419.63
+\t (01:48:51) last pick:  -10600.00 10425.00
+\t (01:48:51) Text "Cap Np_Snpd0805_Modified_0.1U 0"
+\i (01:48:51) pick grid -10605.20 10770.83
+\t (01:48:51) last pick:  -10600.00 10775.00
+\i (01:48:52) pick grid -10773.49 10312.31
+\t (01:48:52) last pick:  -10775.00 10300.00
+\t (01:48:52) Text "Resistor_Snpd0805_Modified_17.8"
+\i (01:48:53) pick grid -10644.22 10746.44
+\t (01:48:53) last pick:  -10650.00 10750.00
+\i (01:48:53) roam start
+\i (01:48:53) roam y 64
+\i (01:48:53) roam y 208
+\i (01:48:53) roam y 112
+\i (01:48:53) roam y 16
+\i (01:48:53) roam end
+\i (01:48:54) pick grid -10756.41 9325.23
+\t (01:48:54) last pick:  -10750.00 9325.00
+\t (01:48:54) Text "Diode Zener_Do214_Lsm115je3/Tr1"
+\i (01:48:55) pick grid -10334.48 9773.99
+\t (01:48:55) last pick:  -10325.00 9775.00
+\i (01:48:55) roam start
+\i (01:48:55) roam y -80
+\i (01:48:55) roam end
+\i (01:48:56) pick grid -10580.81 10000.80
+\t (01:48:56) last pick:  -10575.00 10000.00
+\t (01:48:56) Text "Diode Zener_Do214_B160-13-f"
+\i (01:48:56) pick grid -10553.98 9827.64
+\t (01:48:56) last pick:  -10550.00 9825.00
+\i (01:48:56) roam start
+\i (01:48:56) roam y -16
+\i (01:48:57) roam y -80
+\i (01:48:57) roam end
+\i (01:48:57) zoom out 1 
+\i (01:48:57) setwindow pcb
+\i (01:48:57) zoom out -10551.54 9834.96
+\i (01:48:57) trapsize 2439
+\i (01:48:58) zoom out 1 
+\i (01:48:58) setwindow pcb
+\i (01:48:58) zoom out -10502.77 10137.39
+\i (01:48:58) trapsize 4878
+\i (01:48:58) zoom out 1 
+\i (01:48:58) setwindow pcb
+\i (01:48:58) zoom out -10502.77 10137.39
+\t (01:48:58) Grids are drawn 100.00, 100.00 apart for enhanced viewability.
+\i (01:48:58) trapsize 9756
+\i (01:49:05) zoom in 1 
+\i (01:49:05) setwindow pcb
+\i (01:49:05) zoom in -9619.87 9083.78
+\t (01:49:05) Grids are drawn 50.00, 50.00 apart for enhanced viewability.
+\i (01:49:05) trapsize 4878
+\i (01:49:05) zoom in 1 
+\i (01:49:05) setwindow pcb
+\i (01:49:05) zoom in -9619.86 9083.78
+\i (01:49:06) trapsize 2439
+\i (01:49:06) zoom out 1 
+\i (01:49:06) setwindow pcb
+\i (01:49:06) zoom out -9619.86 9083.79
+\i (01:49:06) trapsize 4878
+\i (01:49:15) zoom in 1 
+\i (01:49:15) setwindow pcb
+\i (01:49:15) zoom in -10195.45 9708.15
+\i (01:49:15) trapsize 2439
+\i (01:49:15) zoom in 1 
+\i (01:49:15) setwindow pcb
+\i (01:49:15) zoom in -10200.33 9708.15
+\i (01:49:15) trapsize 1219
+\i (01:49:16) place manual 
+\i (01:49:20) setwindow form.plc_manual
+\i (01:49:20) FORM plc_manual tree 'MULTISEL YES' C24 'Components by refdes' 
+\t (01:49:20) Placing C24 / CAP NP_SNPD0805_MODIFIED_0.1U_1 / SNPD0805_MODIFIED on Top.
+\i (01:49:20) FORM plc_manual tree  C24 'Components by refdes' 
+\i (01:49:23) FORM plc_manual tree 'MULTISEL YES' R18 'Components by refdes' 
+\i (01:49:23) FORM plc_manual tree  R18 'Components by refdes' 
+\i (01:49:38) setwindow pcb
+\i (01:49:38) zoom in 1 
+\i (01:49:38) setwindow pcb
+\i (01:49:38) zoom in -10144.23 9498.41
+\i (01:49:38) trapsize 610
+\i (01:49:38) zoom in 1 
+\i (01:49:38) setwindow pcb
+\i (01:49:38) zoom in -10144.22 9498.41
+\i (01:49:38) trapsize 305
+\i (01:49:39) zoom out 1 
+\i (01:49:39) setwindow pcb
+\i (01:49:39) zoom out -10199.71 9507.55
+\i (01:49:39) trapsize 610
+\i (01:49:39) roam start
+\i (01:49:39) roam end
+\i (01:49:42) pick grid -10259.45 9511.22
+\t (01:49:42) last pick:  -10250.00 9500.00
+\t (01:49:42) Placing R18 / RESISTOR_SNPD0805_MODIFIED_10E / SNPD0805_MODIFIED on Top.
+\i (01:49:43) prepopup -10252.13 9620.97
+\i (01:49:44) rotate 
+\t (01:49:44) Spin the element(s).
+\i (01:49:45) iangle 180.000
+\t (01:49:45) last angle:  +180.000 Degrees
+\i (01:49:46) pick grid -10246.04 9612.43
+\t (01:49:46) last pick:  -10250.00 9600.00
+\i (01:50:37) refdes Q1 
+\w (01:50:37) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\t (01:50:37) Placing Q1 / NAMT20_1_D8_NAMT20 / D8 on Top.
+\i (01:50:37) xname_flush 
+\i (01:50:47) zoom out 1 
+\i (01:50:47) setwindow pcb
+\i (01:50:47) zoom out -9937.51 9646.58
+\i (01:50:47) trapsize 1219
+\i (01:50:50) pick grid -10135.07 9795.35
+\t (01:50:50) last pick:  -10125.00 9800.00
+\i (01:51:01) zoom in 1 
+\i (01:51:01) setwindow pcb
+\i (01:51:01) zoom in -10144.82 9512.44
+\i (01:51:01) trapsize 610
+\i (01:51:02) roam start
+\i (01:51:02) roam y -80
+\i (01:51:02) roam y -96
+\i (01:51:02) roam y -16
+\i (01:51:02) roam end
+\i (01:51:02) pick grid -10072.87 9716.67
+\t (01:51:02) last pick:  -10075.00 9725.00
+\t (01:51:02) Moving Q1 / NAMT20_1_D8_NAMT20 / D8.
+\t (01:51:02) last pick:  -10125.00 9800.00
+\i (01:51:06) pick grid -10089.94 9763.01
+\t (01:51:06) last pick:  -10100.00 9775.00
+\i (01:51:10) pick grid -10010.68 9723.99
+\t (01:51:10) last pick:  -10000.00 9725.00
+\t (01:51:10) Moving Q1 / NAMT20_1_D8_NAMT20 / D8.
+\t (01:51:10) last pick:  -10100.00 9775.00
+\i (01:51:11) zoom out 1 
+\i (01:51:11) setwindow pcb
+\i (01:51:11) zoom out -10010.68 9776.42
+\i (01:51:11) trapsize 1219
+\i (01:51:17) pick grid -9966.77 9815.45
+\t (01:51:17) last pick:  -9975.00 9825.00
+\i (01:51:23) zoom in 1 
+\i (01:51:23) setwindow pcb
+\i (01:51:23) zoom in -10435.04 9525.22
+\i (01:51:23) trapsize 610
+\i (01:51:26) zoom out 1 
+\i (01:51:26) setwindow pcb
+\i (01:51:26) zoom out -10222.86 9475.22
+\i (01:51:26) trapsize 1219
+\i (01:51:28) zoom in 1 
+\i (01:51:28) setwindow pcb
+\i (01:51:28) zoom in -10764.29 9597.17
+\i (01:51:28) trapsize 610
+\i (01:51:31) zoom out 1 
+\i (01:51:31) setwindow pcb
+\i (01:51:31) zoom out -10521.61 9594.74
+\i (01:51:31) trapsize 1219
+\i (01:51:31) zoom out 1 
+\i (01:51:31) setwindow pcb
+\i (01:51:31) zoom out -10521.62 9594.73
+\i (01:51:31) trapsize 2439
+\i (01:51:32) roam start
+\i (01:51:32) roam x 16
+\i (01:51:32) roam y 64
+\i (01:51:32) roam y 16
+\i (01:51:32) roam end
+\i (01:51:41) zoom in 1 
+\i (01:51:41) setwindow pcb
+\i (01:51:41) zoom in -10580.81 9188.64
+\i (01:51:41) trapsize 1219
+\i (01:51:51) setwindow form.plc_manual
+\i (01:51:51) FORM plc_manual tree 'MULTISEL YES' R32 'Components by refdes' 
+\t (01:51:51) Placing R32 / RESISTOR_SNPD0805_MODIFIED_1K 0 / SNPD0805_MODIFIED on Top.
+\i (01:51:51) FORM plc_manual tree  R32 'Components by refdes' 
+\i (01:51:55) FORM plc_manual tree 'MULTISEL YES' R25 'Components by refdes' 
+\t (01:51:55) Placing R25 / RESISTOR_SNPD0805_MODIFIED_10K / SNPD0805_MODIFIED on Top.
+\i (01:51:55) FORM plc_manual tree  R25 'Components by refdes' 
+\i (01:51:56) FORM plc_manual tree 'MULTISEL YES' R24 'Components by refdes' 
+\t (01:51:56) Placing R24 / RESISTOR_SNPD0805_MODIFIED_0E 0 / SNPD0805_MODIFIED on Top.
+\i (01:51:56) FORM plc_manual tree  R24 'Components by refdes' 
+\i (01:51:58) setwindow pcb
+\i (01:51:58) zoom in 1 
+\i (01:51:58) setwindow pcb
+\i (01:51:58) zoom in -10805.19 9354.49
+\i (01:51:58) trapsize 610
+\i (01:52:00) pick grid -10799.09 9414.25
+\t (01:52:00) last pick:  -10800.00 9425.00
+\t (01:52:00) Placing R25 / RESISTOR_SNPD0805_MODIFIED_10K / SNPD0805_MODIFIED on Top.
+\i (01:52:02) pick grid -10791.77 9313.03
+\t (01:52:02) last pick:  -10800.00 9325.00
+\t (01:52:02) Placing R32 / RESISTOR_SNPD0805_MODIFIED_1K 0 / SNPD0805_MODIFIED on Top.
+\i (01:52:03) pick grid -10788.12 9222.79
+\t (01:52:03) last pick:  -10800.00 9225.00
+\i (01:52:03) pick grid -10962.50 9316.69
+\t (01:52:03) last pick:  -10950.00 9325.00
+\i (01:52:04) prepopup -11132.00 9581.31
+\i (01:52:05) done 
+\i (01:52:05) placementedit 
+\i (01:52:12) roam start
+\i (01:52:12) roam y 64
+\i (01:52:12) roam y 64
+\i (01:52:12) roam y 64
+\i (01:52:13) roam end
+\i (01:52:14) pick grid -10783.24 9227.67
+\t (01:52:14) last pick:  -10775.00 9225.00
+\i (01:52:14) move 
+\t (01:52:14) last pick:  -10800.00 9225.00
+\t (01:52:14) Moving R32 / RESISTOR_SNPD0805_MODIFIED_1K 0 / SNPD0805_MODIFIED.
+\t (01:52:14) Pick new location for the element(s).
+\i (01:52:15) pick grid -10716.17 9213.04
+\t (01:52:15) last pick:  -10725.00 9225.00
+\i (01:52:15) placementedit 
+\i (01:52:15) pick grid -10708.85 9224.02
+\t (01:52:15) last pick:  -10700.00 9225.00
+\i (01:52:15) move 
+\t (01:52:15) last pick:  -10725.00 9225.00
+\t (01:52:15) Moving R32 / RESISTOR_SNPD0805_MODIFIED_1K 0 / SNPD0805_MODIFIED.
+\t (01:52:15) Pick new location for the element(s).
+\i (01:52:16) pick grid -10788.12 9224.02
+\t (01:52:16) last pick:  -10800.00 9225.00
+\i (01:52:16) placementedit 
+\i (01:52:17) roam start
+\i (01:52:17) roam y -80
+\i (01:52:17) roam x 16
+\i (01:52:17) roam y -96
+\i (01:52:17) roam y -64
+\i (01:52:17) roam end
+\i (01:52:17) zoom out 1 
+\i (01:52:17) setwindow pcb
+\i (01:52:17) zoom out -10785.68 9477.66
+\i (01:52:17) trapsize 1219
+\i (01:52:18) roam start
+\i (01:52:18) roam y -48
+\i (01:52:18) roam y -16
+\i (01:52:18) roam end
+\i (01:52:18) zoom in 1 
+\i (01:52:18) setwindow pcb
+\i (01:52:18) zoom in -10729.58 9747.16
+\i (01:52:18) trapsize 610
+\i (01:52:19) pick grid -10834.45 9578.88
+\t (01:52:19) last pick:  -10825.00 9575.00
+\i (01:52:19) move 
+\t (01:52:19) last pick:  -10850.00 9575.00
+\t (01:52:19) Moving D5 / DIODE ZENER_DO214_LSM115JE3/TR1 / DO214.
+\t (01:52:19) Pick new location for the element(s).
+\i (01:52:20) pick grid -10839.33 9594.73
+\t (01:52:20) last pick:  -10850.00 9600.00
+\i (01:52:20) placementedit 
+\i (01:52:20) pick grid -10740.56 9582.54
+\t (01:52:20) last pick:  -10750.00 9575.00
+\i (01:52:20) move 
+\t (01:52:20) last pick:  -10750.00 9575.00
+\t (01:52:20) Moving R11 / RESISTOR_SNPD0805_MODIFIED_17.8 / SNPD0805_MODIFIED.
+\t (01:52:20) Pick new location for the element(s).
+\i (01:52:21) pick grid -10740.56 9597.17
+\t (01:52:21) last pick:  -10750.00 9600.00
+\i (01:52:21) placementedit 
+\i (01:52:21) roam start
+\i (01:52:21) roam y 64
+\i (01:52:21) roam y 192
+\i (01:52:21) roam y 64
+\i (01:52:22) roam end
+\i (01:52:23) roam start
+\i (01:52:23) roam y -64
+\i (01:52:23) roam x 16
+\i (01:52:23) roam y -64
+\i (01:52:23) roam end
+\i (01:52:24) pick grid -10796.66 9436.20
+\t (01:52:24) last pick:  -10800.00 9425.00
+\i (01:52:24) move 
+\t (01:52:24) last pick:  -10800.00 9425.00
+\t (01:52:24) Moving R24 / RESISTOR_SNPD0805_MODIFIED_0E 0 / SNPD0805_MODIFIED.
+\t (01:52:24) Pick new location for the element(s).
+\i (01:52:24) pick grid -10796.66 9438.64
+\t (01:52:24) last pick:  -10800.00 9450.00
+\i (01:52:24) placementedit 
+\i (01:52:25) pick grid -10795.44 9304.50
+\t (01:52:25) last pick:  -10800.00 9300.00
+\i (01:52:25) move 
+\t (01:52:25) last pick:  -10800.00 9325.00
+\t (01:52:25) Moving R25 / RESISTOR_SNPD0805_MODIFIED_10K / SNPD0805_MODIFIED.
+\t (01:52:25) Pick new location for the element(s).
+\i (01:52:27) pick grid -10811.30 9338.64
+\t (01:52:27) last pick:  -10800.00 9350.00
+\i (01:52:27) placementedit 
+\i (01:52:27) pick grid -10779.59 9216.70
+\t (01:52:27) last pick:  -10775.00 9225.00
+\i (01:52:27) move 
+\t (01:52:27) last pick:  -10800.00 9225.00
+\t (01:52:27) Moving R32 / RESISTOR_SNPD0805_MODIFIED_1K 0 / SNPD0805_MODIFIED.
+\t (01:52:27) Pick new location for the element(s).
+\i (01:52:28) pick grid -10788.13 9245.97
+\t (01:52:28) last pick:  -10800.00 9250.00
+\i (01:52:28) placementedit 
+\i (01:52:33) zoom out 1 
+\i (01:52:33) setwindow pcb
+\i (01:52:33) zoom out -10585.70 9448.40
+\i (01:52:33) trapsize 1219
+\i (01:52:34) prepopup -11929.54 9741.06
+\i (01:52:35) pick grid -11949.05 9848.37
+\t (01:52:35) last pick:  -11950.00 9850.00
+\i (01:52:36) save 
+\i (01:52:37) fillin yes 
+\i (01:52:37) placementedit 
+\i (01:52:38) delete 
+\i (01:52:40) roam start
+\i (01:52:40) roam x 16
+\i (01:52:40) roam x 32
+\i (01:52:40) roam y -16
+\i (01:52:40) roam x 48
+\i (01:52:40) roam end
+\i (01:52:41) pick grid -9883.28 9549.60
+\t (01:52:41) last pick:  -9875.00 9550.00
+\t (01:52:41) Text "Resistor_Snpd0805_Modified_10E"
+\i (01:52:41) pick grid -9885.72 9544.73
+\t (01:52:41) last pick:  -9875.00 9550.00
+\t (01:52:41) Text "Cap Np_Snpd0805_Modified_0.1U_1"
+\i (01:52:41) pick grid dbl -9885.72 9544.73
+\t (01:52:41) last pick:  -9875.00 9550.00
+\i (01:52:41) pick grid -9888.16 9544.73
+\t (01:52:41) last pick:  -9900.00 9550.00
+\i (01:52:42) pick grid -10041.81 9388.63
+\t (01:52:42) last pick:  -10050.00 9400.00
+\t (01:52:42) Text "Resistor_Snpd0805_Modified_10K"
+\i (01:52:42) pick grid -10046.69 9325.22
+\t (01:52:42) last pick:  -10050.00 9325.00
+\t (01:52:42) Text "Resistor_Snpd0805_Modified_1K 0"
+\i (01:52:42) pick grid -10058.88 9278.88
+\t (01:52:42) last pick:  -10050.00 9275.00
+\i (01:52:42) pick grid dbl -10058.88 9278.88
+\t (01:52:42) last pick:  -10050.00 9275.00
+\i (01:52:43) pick grid -10066.20 9213.03
+\t (01:52:43) last pick:  -10075.00 9225.00
+\i (01:52:43) pick grid -11075.91 9493.51
+\t (01:52:43) last pick:  -11075.00 9500.00
+\t (01:52:43) Text "Resistor_Snpd0805_Modified_0E 0"
+\i (01:52:44) pick grid -11071.03 9422.78
+\t (01:52:44) last pick:  -11075.00 9425.00
+\i (01:52:44) pick grid -9695.48 9827.64
+\t (01:52:44) last pick:  -9700.00 9825.00
+\t (01:52:44) Text "Namt20_1_D8_Namt20"
+\i (01:52:45) pick grid -9761.33 9683.74
+\t (01:52:45) last pick:  -9750.00 9675.00
+\i (01:52:45) pick grid -9719.87 9791.06
+\t (01:52:45) last pick:  -9725.00 9800.00
+\t (01:52:45) Text "Namt20_1_D8_Namt20"
+\i (01:52:45) pick grid -9727.19 9737.40
+\t (01:52:45) last pick:  -9725.00 9725.00
+\i (01:52:47) zoom in 1 
+\i (01:52:47) setwindow pcb
+\i (01:52:47) zoom in -9768.65 9805.69
+\i (01:52:47) trapsize 610
+\i (01:52:47) zoom in 1 
+\i (01:52:47) setwindow pcb
+\i (01:52:47) zoom in -9768.64 9805.69
+\i (01:52:47) trapsize 305
+\i (01:52:48) pick grid -9786.32 9809.35
+\t (01:52:48) last pick:  -9775.00 9800.00
+\t (01:52:48) Text "Built_By"
+\i (01:52:48) pick grid -9744.25 9727.65
+\t (01:52:48) last pick:  -9750.00 9725.00
+\i (01:52:48) zoom out 1 
+\i (01:52:48) setwindow pcb
+\i (01:52:48) zoom out -9808.88 9725.21
+\i (01:52:48) trapsize 610
+\i (01:52:50) pick grid -9993.02 9843.49
+\t (01:52:50) last pick:  -10000.00 9850.00
+\t (01:52:50) Text "Namt20"
+\i (01:52:50) pick grid -9989.36 9623.99
+\t (01:52:50) last pick:  -10000.00 9625.00
+\i (01:52:52) pick grid -10035.70 9804.47
+\t (01:52:52) last pick:  -10025.00 9800.00
+\t (01:52:52) Text "Tol"
+\i (01:52:53) pick grid -9939.36 9559.36
+\t (01:52:53) last pick:  -9950.00 9550.00
+\i (01:52:53) zoom out 1 
+\i (01:52:53) setwindow pcb
+\i (01:52:53) zoom out -10073.50 9726.43
+\i (01:52:53) trapsize 1219
+\i (01:52:54) roam start
+\i (01:52:54) roam x -16
+\i (01:52:54) roam y 96
+\i (01:52:55) roam end
+\i (01:52:55) zoom out 1 
+\i (01:52:55) setwindow pcb
+\i (01:52:55) zoom out -10254.00 9288.64
+\i (01:52:55) trapsize 2439
+\i (01:52:56) zoom in 1 
+\i (01:52:56) setwindow pcb
+\i (01:52:56) zoom in -10800.32 9966.66
+\i (01:52:56) trapsize 1219
+\i (01:52:57) prepopup -10629.60 10230.06
+\i (01:52:57) done 
+\i (01:52:58) placementedit 
+\i (01:52:58) save 
+\i (01:52:59) fillin yes 
+\i (01:52:59) placementedit 
+\i (01:53:00) roam start
+\i (01:53:00) roam y 16
+\i (01:53:00) roam y 96
+\i (01:53:00) roam y 16
+\i (01:53:00) roam y 16
+\i (01:53:00) roam end
+\i (01:53:01) zoom in 1 
+\i (01:53:01) setwindow pcb
+\i (01:53:01) zoom in -10856.42 9169.14
+\i (01:53:01) trapsize 610
+\i (01:53:09) pick grid -10423.51 9321.58
+\t (01:53:09) last pick:  -10425.00 9325.00
+\i (01:53:09) move 
+\t (01:53:09) last pick:  -10400.00 9325.00
+\t (01:53:09) Moving U6 / DM3AT-SF-PEJM5_2_TSSOP14_SN74LV / TSSOP14.
+\t (01:53:09) Pick new location for the element(s).
+\i (01:53:11) pick grid -10488.14 9338.65
+\t (01:53:11) last pick:  -10500.00 9350.00
+\i (01:53:11) placementedit 
+\i (01:53:12) zoom out 1 
+\i (01:53:12) setwindow pcb
+\i (01:53:12) zoom out -10385.71 9370.35
+\i (01:53:13) trapsize 1219
+\i (01:53:18) zoom in 1 
+\i (01:53:18) setwindow pcb
+\i (01:53:18) zoom in -10161.32 9250.85
+\i (01:53:18) trapsize 610
+\i (01:53:21) zoom out 1 
+\i (01:53:21) setwindow pcb
+\i (01:53:21) zoom out -10436.91 9271.58
+\i (01:53:21) trapsize 1219
+\i (01:53:22) roam start
+\i (01:53:22) roam y -16
+\i (01:53:22) roam y -64
+\i (01:53:22) roam x 16
+\i (01:53:22) roam y -16
+\i (01:53:22) roam end
+\i (01:53:28) zoom in 1 
+\i (01:53:28) setwindow pcb
+\i (01:53:28) zoom in -10653.99 9613.02
+\i (01:53:28) trapsize 610
+\i (01:53:31) roam start
+\i (01:53:31) roam y -64
+\i (01:53:31) roam y -144
+\i (01:53:31) roam x 16
+\i (01:53:31) roam y -64
+\i (01:53:31) roam end
+\i (01:53:31) zoom out 1 
+\i (01:53:31) setwindow pcb
+\i (01:53:31) zoom out -10583.25 9770.32
+\i (01:53:31) trapsize 1219
+\i (01:53:45) zoom in 1 
+\i (01:53:45) setwindow pcb
+\i (01:53:45) zoom in -10695.44 9784.96
+\i (01:53:45) trapsize 610
+\i (01:53:52) zoom out 1 
+\i (01:53:52) setwindow pcb
+\i (01:53:52) zoom out -10644.22 9838.62
+\i (01:53:52) trapsize 1219
+\i (01:53:53) zoom in 1 
+\i (01:53:53) setwindow pcb
+\i (01:53:53) zoom in -10792.99 9606.92
+\i (01:53:53) trapsize 610
+\i (01:53:55) zoom out 1 
+\i (01:53:55) setwindow pcb
+\i (01:53:55) zoom out -10655.19 9644.72
+\i (01:53:55) trapsize 1219
+\i (01:53:55) zoom out 1 
+\i (01:53:55) setwindow pcb
+\i (01:53:55) zoom out -10652.74 9644.72
+\i (01:53:55) trapsize 2439
+\i (01:53:56) zoom in 1 
+\i (01:53:56) setwindow pcb
+\i (01:53:56) zoom in -10608.85 9654.49
+\i (01:53:56) trapsize 1219
+\i (01:54:07) pick grid -9918.63 9791.07
+\t (01:54:07) last pick:  -9925.00 9800.00
+\i (01:54:07) move 
+\t (01:54:07) last pick:  -9975.00 9825.00
+\t (01:54:07) Moving Q1 / NAMT20_1_D8_NAMT20 / D8.
+\t (01:54:07) Pick new location for the element(s).
+\i (01:54:08) pick grid -10435.68 9752.05
+\t (01:54:08) last pick:  -10425.00 9750.00
+\i (01:54:08) placementedit 
+\i (01:54:09) pick grid -10457.63 9752.05
+\t (01:54:09) last pick:  -10450.00 9750.00
+\i (01:54:09) move 
+\t (01:54:09) last pick:  -10425.00 9750.00
+\t (01:54:09) Moving Q1 / NAMT20_1_D8_NAMT20 / D8.
+\t (01:54:09) Pick new location for the element(s).
+\i (01:54:10) pick grid -10486.90 9776.44
+\t (01:54:10) last pick:  -10475.00 9775.00
+\i (01:54:10) placementedit 
+\i (01:54:14) pick grid -10706.40 9569.13
+\t (01:54:14) last pick:  -10700.00 9575.00
+\i (01:54:14) move 
+\t (01:54:14) last pick:  -10750.00 9600.00
+\t (01:54:14) Moving R11 / RESISTOR_SNPD0805_MODIFIED_17.8 / SNPD0805_MODIFIED.
+\t (01:54:14) Pick new location for the element(s).
+\i (01:54:16) pick grid -10691.77 9588.64
+\t (01:54:16) last pick:  -10700.00 9600.00
+\i (01:54:16) placementedit 
+\i (01:54:16) pick grid -10823.47 9600.84
+\t (01:54:16) last pick:  -10825.00 9600.00
+\i (01:54:16) move 
+\t (01:54:16) last pick:  -10850.00 9600.00
+\t (01:54:16) Moving D5 / DIODE ZENER_DO214_LSM115JE3/TR1 / DO214.
+\t (01:54:16) Pick new location for the element(s).
+\i (01:54:17) pick grid -10808.84 9608.15
+\t (01:54:17) last pick:  -10800.00 9600.00
+\i (01:54:17) placementedit 
+\i (01:54:18) pick grid -10684.45 9595.96
+\t (01:54:18) last pick:  -10675.00 9600.00
+\i (01:54:18) move 
+\t (01:54:18) last pick:  -10700.00 9600.00
+\t (01:54:18) Moving R11 / RESISTOR_SNPD0805_MODIFIED_17.8 / SNPD0805_MODIFIED.
+\t (01:54:18) Pick new location for the element(s).
+\i (01:54:19) pick grid -10657.62 9588.64
+\t (01:54:19) last pick:  -10650.00 9600.00
+\i (01:54:19) placementedit 
+\i (01:54:19) pick grid -10767.37 9598.40
+\t (01:54:19) last pick:  -10775.00 9600.00
+\i (01:54:19) move 
+\t (01:54:19) last pick:  -10800.00 9600.00
+\t (01:54:19) Moving D5 / DIODE ZENER_DO214_LSM115JE3/TR1 / DO214.
+\t (01:54:19) Pick new location for the element(s).
+\i (01:54:20) pick grid -10755.18 9598.40
+\t (01:54:20) last pick:  -10750.00 9600.00
+\i (01:54:20) placementedit 
+\i (01:54:23) zoom out 1 
+\i (01:54:23) setwindow pcb
+\i (01:54:23) zoom out -10345.44 9803.27
+\i (01:54:23) trapsize 2439
+\i (01:54:27) zoom out 1 
+\i (01:54:27) setwindow pcb
+\i (01:54:27) zoom out -10130.82 9881.31
+\i (01:54:27) trapsize 4878
+\i (01:54:29) save 
+\i (01:54:30) fillin yes 
+\i (01:54:30) placementedit 
+\i (01:54:30) pick grid -11047.85 9393.53
+\t (01:54:30) last pick:  -11050.00 9400.00
+\i (01:54:32) zoom out 1 
+\i (01:54:32) setwindow pcb
+\i (01:54:32) zoom out -13223.37 9910.58
+\t (01:54:32) Grids are drawn 100.00, 100.00 apart for enhanced viewability.
+\i (01:54:32) trapsize 9756
+\i (01:54:33) zoom in 1 
+\i (01:54:33) setwindow pcb
+\i (01:54:33) zoom in -8078.47 8954.52
+\t (01:54:33) Grids are drawn 50.00, 50.00 apart for enhanced viewability.
+\i (01:54:33) trapsize 4878
+\i (01:54:33) zoom in 1 
+\i (01:54:33) setwindow pcb
+\i (01:54:33) zoom in -8078.46 8954.52
+\i (01:54:33) trapsize 2439
+\i (01:54:34) zoom out 1 
+\i (01:54:34) setwindow pcb
+\i (01:54:34) zoom out -7966.27 8939.89
+\i (01:54:34) trapsize 4878
+\i (01:54:52) place manual 
+\t (01:54:52) Selected item not valid for current operation, ignored: Ratsnest "+3V3, R18.1:Q2.2"
+\t (01:54:52) No valid items selected for the current operation, exiting.
+\i (01:54:52) placementedit 
+\i (01:54:55) place manual 
+\t (01:54:55) Selected item not valid for current operation, ignored: Ratsnest "+3V3, R18.1:Q2.2"
+\t (01:54:55) No valid items selected for the current operation, exiting.
+\i (01:54:55) placementedit 
+\i (01:55:00) prepopup -8854.04 10383.72
+\i (01:55:01) pick grid -8893.06 10920.29
+\t (01:55:01) last pick:  -8900.00 10925.00
+\i (01:55:02) place manual 
+\i (01:55:09) setwindow form.plc_manual
+\i (01:55:09) FORM plc_manual tree 'MULTISEL YES' J2 'Components by refdes' 
+\t (01:55:09) Placing J2 / HEADER 4_0_SIP4_RUP_HEADER 4 / SIP4_RUP on Top.
+\i (01:55:09) FORM plc_manual tree  J2 'Components by refdes' 
+\i (01:55:10) FORM plc_manual tree 'MULTISEL YES' J3 'Components by refdes' 
+\i (01:55:10) FORM plc_manual tree  J3 'Components by refdes' 
+\i (01:55:10) FORM plc_manual tree 'MULTISEL YES' J5 'Components by refdes' 
+\i (01:55:10) FORM plc_manual tree  J5 'Components by refdes' 
+\i (01:55:10) FORM plc_manual tree 'MULTISEL YES' J6 'Components by refdes' 
+\i (01:55:10) FORM plc_manual tree  J6 'Components by refdes' 
+\i (01:55:16) setwindow pcb
+\i (01:55:16) zoom in 1 
+\i (01:55:16) setwindow pcb
+\i (01:55:16) zoom in -6180.98 9105.73
+\i (01:55:16) trapsize 2439
+\i (01:55:16) zoom in 1 
+\i (01:55:16) setwindow pcb
+\i (01:55:16) zoom in -6180.99 9105.73
+\i (01:55:16) trapsize 1219
+\i (01:55:17) zoom in 1 
+\i (01:55:17) setwindow pcb
+\i (01:55:17) zoom in -6180.99 9105.73
+\i (01:55:17) trapsize 610
+\i (01:55:17) zoom out 1 
+\i (01:55:17) setwindow pcb
+\i (01:55:17) zoom out -6335.86 9227.68
+\i (01:55:17) trapsize 1219
+\i (01:55:18) prepopup -6555.36 9188.66
+\i (01:55:19) rotate 
+\t (01:55:19) Spin the element(s).
+\i (01:55:19) iangle 90.000
+\t (01:55:19) last angle:  +90.000 Degrees
+\i (01:55:22) pick grid -6760.23 8895.99
+\t (01:55:22) last pick:  -6750.00 8900.00
+\t (01:55:22) Placing J3 / HEADER 4_1_SIP4_RUP_HEADER 4 / SIP4_RUP on Top.
+\i (01:55:23) zoom out 1 
+\i (01:55:23) setwindow pcb
+\i (01:55:23) zoom out -7301.67 9069.16
+\i (01:55:23) trapsize 2439
+\i (01:55:24) prepopup -7565.08 9186.22
+\i (01:55:25) rotate 
+\t (01:55:25) Spin the element(s).
+\i (01:55:25) iangle 90.000
+\t (01:55:25) last angle:  +90.000 Degrees
+\i (01:55:26) zoom in 1 
+\i (01:55:26) setwindow pcb
+\i (01:55:26) zoom in -7706.54 9078.91
+\i (01:55:26) trapsize 1219
+\i (01:55:28) pick grid -7696.78 8908.19
+\t (01:55:28) last pick:  -7700.00 8900.00
+\t (01:55:28) Placing J5 / HEADER 4_2_SIP4_RUP_HEADER 4 / SIP4_RUP on Top.
+\i (01:55:28) zoom out 1 
+\i (01:55:28) setwindow pcb
+\i (01:55:28) zoom out -7996.76 9032.57
+\i (01:55:28) trapsize 2439
+\i (01:55:28) roam start
+\i (01:55:28) roam x -128
+\i (01:55:28) roam x -128
+\i (01:55:28) roam x -16
+\i (01:55:28) roam x -16
+\i (01:55:29) roam x -64
+\i (01:55:29) roam y 16
+\i (01:55:29) roam x -48
+\i (01:55:29) roam y 16
+\i (01:55:29) roam end
+\i (01:55:29) zoom in 1 
+\i (01:55:29) setwindow pcb
+\i (01:55:29) zoom in -8288.23 9047.19
+\i (01:55:29) trapsize 1219
+\i (01:55:30) prepopup -8185.79 9059.39
+\i (01:55:31) rotate 
+\t (01:55:31) Spin the element(s).
+\i (01:55:31) iangle 90.000
+\t (01:55:31) last angle:  +90.000 Degrees
+\i (01:55:33) pick grid -8463.83 8900.86
+\t (01:55:33) last pick:  -8475.00 8900.00
+\t (01:55:33) Placing J6 / HEADER 4_3_SIP4_RUP_HEADER 4 / SIP4_RUP on Top.
+\i (01:55:34) roam start
+\i (01:55:34) roam x -128
+\i (01:55:34) roam y 16
+\i (01:55:34) roam x -160
+\i (01:55:34) roam y 16
+\i (01:55:34) roam x -16
+\i (01:55:34) roam x -16
+\i (01:55:34) roam end
+\i (01:55:35) prepopup -9461.35 9105.73
+\i (01:55:36) rotate 
+\t (01:55:36) Spin the element(s).
+\i (01:55:36) iangle 90.000
+\t (01:55:36) last angle:  +90.000 Degrees
+\i (01:55:38) pick grid -9707.68 8910.61
+\t (01:55:38) last pick:  -9700.00 8900.00
+\i (01:55:39) zoom out 1 
+\i (01:55:39) setwindow pcb
+\i (01:55:39) zoom out -9283.31 8956.95
+\i (01:55:39) trapsize 2439
+\i (01:55:39) zoom out 1 
+\i (01:55:39) setwindow pcb
+\i (01:55:39) zoom out -9283.31 8956.95
+\i (01:55:39) trapsize 4878
+\i (01:55:40) prepopup -7858.98 9639.86
+\i (01:55:40) done 
+\i (01:55:40) placementedit 
+\i (01:55:42) save 
+\i (01:55:43) fillin yes 
+\i (01:55:43) placementedit 
+\i (01:56:10) zoom in 1 
+\i (01:56:10) setwindow pcb
+\i (01:56:10) zoom in -6288.31 8888.67
+\i (01:56:10) trapsize 2439
+\i (01:56:11) zoom in 1 
+\i (01:56:11) setwindow pcb
+\i (01:56:11) zoom in -6288.31 8888.67
+\i (01:56:11) trapsize 1219
+\i (01:56:12) place manual 
+\i (01:56:14) setwindow form.plc_manual
+\i (01:56:14) FORM plc_manual tree 'MULTISEL YES' C1 'Components by refdes' 
+\t (01:56:14) Placing C1 / CAP NP_SNPD0805_MODIFIED_0.1U 0 / SNPD0805_MODIFIED on Top.
+\i (01:56:14) FORM plc_manual tree  C1 'Components by refdes' 
+\i (01:56:27) setwindow pcb
+\i (01:56:27) pick grid -6515.13 9056.96
+\t (01:56:27) last pick:  -6525.00 9050.00
+\i (01:56:31) setwindow form.plc_manual
+\i (01:56:31) FORM plc_manual tree 'MULTISEL YES' R1 'Components by refdes' 
+\t (01:56:31) Placing R1 / RESISTOR_SNPD0805_MODIFIED_4.7K / SNPD0805_MODIFIED on Top.
+\i (01:56:31) FORM plc_manual tree  R1 'Components by refdes' 
+\i (01:56:32) setwindow pcb
+\i (01:56:32) prepopup -6541.96 9186.22
+\i (01:56:33) rotate 
+\t (01:56:33) Spin the element(s).
+\i (01:56:34) iangle 180.000
+\t (01:56:34) last angle:  +180.000 Degrees
+\i (01:56:35) pick grid -6515.13 9156.95
+\t (01:56:35) last pick:  -6525.00 9150.00
+\i (01:56:54) setwindow form.plc_manual
+\i (01:56:54) FORM plc_manual tree 'MULTISEL YES' C2 'Components by refdes' 
+\t (01:56:54) Placing C2 / CAP NP_SNPD0805_MODIFIED_4.7U 0 / SNPD0805_MODIFIED on Top.
+\i (01:56:54) FORM plc_manual tree  C2 'Components by refdes' 
+\i (01:56:54) FORM plc_manual tree 'MULTISEL YES' C3 'Components by refdes' 
+\i (01:56:54) FORM plc_manual tree  C3 'Components by refdes' 
+\i (01:56:59) setwindow pcb
+\i (01:56:59) zoom in 1 
+\i (01:56:59) setwindow pcb
+\i (01:56:59) zoom in -6556.59 9310.60
+\i (01:56:59) trapsize 610
+\i (01:57:00) pick grid -6527.32 9261.82
+\t (01:57:00) last pick:  -6525.00 9250.00
+\t (01:57:00) Placing C3 / CAP NP_SNPD0805_MODIFIED_4.7U 0 / SNPD0805_MODIFIED on Top.
+\i (01:57:01) roam start
+\i (01:57:01) roam y -64
+\i (01:57:01) roam x -16
+\i (01:57:01) roam y -64
+\i (01:57:01) roam end
+\i (01:57:03) pick grid -6524.89 9361.81
+\t (01:57:03) last pick:  -6525.00 9350.00
+\i (01:57:10) prepopup -6426.12 9460.58
+\i (01:57:11) done 
+\i (01:57:11) placementedit 
+\i (01:57:12) zoom out 1 
+\i (01:57:12) setwindow pcb
+\i (01:57:12) zoom out -6654.16 9413.03
+\i (01:57:12) trapsize 1219
+\i (01:57:13) save 
+\i (01:57:14) fillin yes 
+\i (01:57:14) placementedit 
+\i (01:57:15) zoom out 1 
+\i (01:57:15) setwindow pcb
+\i (01:57:15) zoom out -6868.78 9069.13
+\i (01:57:15) trapsize 2439
+\i (01:57:15) zoom out 1 
+\i (01:57:15) setwindow pcb
+\i (01:57:15) zoom out -6868.77 9069.14
+\i (01:57:15) trapsize 4878
+\i (01:57:20) xdehilite 
+\i (01:57:20) xrefdes Q1 
+\i (01:57:20) xname_flush 
+\i (01:57:20) done 
+\i (01:57:20) placementedit 
+\i (01:57:25) xhilite 
+\i (01:57:25) xrefdes C4 
+\i (01:57:25) xname_flush 
+\i (01:57:25) trapsize 305
+\t (01:57:25) Symbol "C4" highlighted.
+\i (01:57:25) done 
+\i (01:57:26) placementedit 
+\i (01:57:53) pick grid -10247.21 10333.63
+\t (01:57:53) last pick:  -10250.00 10325.00
+\i (01:57:54) move 
+\t (01:57:54) last pick:  -10275.00 10350.00
+\t (01:57:54) Moving C4 / CAP NP_SNPD0805_MODIFIED_0.1U 0 / SNPD0805_MODIFIED.
+\t (01:57:54) Pick new location for the element(s).
+\i (01:57:54) zoom out 1 
+\i (01:57:54) setwindow pcb
+\i (01:57:54) zoom out -10136.85 10383.01
+\i (01:57:54) trapsize 610
+\i (01:57:54) zoom out 1 
+\i (01:57:54) setwindow pcb
+\i (01:57:54) zoom out -10136.85 10384.24
+\i (01:57:54) trapsize 1219
+\i (01:57:54) zoom out 1 
+\i (01:57:54) setwindow pcb
+\i (01:57:54) zoom out -10136.84 10384.24
+\i (01:57:54) trapsize 2439
+\i (01:57:54) zoom out 1 
+\i (01:57:54) setwindow pcb
+\i (01:57:54) zoom out -10136.85 10442.77
+\i (01:57:54) trapsize 4878
+\i (01:57:54) zoom out 1 
+\i (01:57:54) setwindow pcb
+\i (01:57:54) zoom out -10136.85 10462.29
+\t (01:57:54) Grids are drawn 100.00, 100.00 apart for enhanced viewability.
+\i (01:57:54) trapsize 9756
+\i (01:57:54) zoom out 1 
+\i (01:57:54) setwindow pcb
+\i (01:57:54) zoom out -8741.86 10520.83
+\t (01:57:54) Grids are drawn 200.00, 200.00 apart for enhanced viewability.
+\i (01:57:54) trapsize 19511
+\i (01:57:55) zoom in 1 
+\i (01:57:55) setwindow pcb
+\i (01:57:55) zoom in -6088.31 10091.57
+\t (01:57:55) Grids are drawn 100.00, 100.00 apart for enhanced viewability.
+\i (01:57:55) trapsize 9756
+\i (01:57:55) zoom in 1 
+\i (01:57:55) setwindow pcb
+\i (01:57:55) zoom in -6088.30 10091.57
+\t (01:57:55) Grids are drawn 50.00, 50.00 apart for enhanced viewability.
+\i (01:57:55) trapsize 4878
+\i (01:57:55) zoom in 1 
+\i (01:57:55) setwindow pcb
+\i (01:57:55) zoom in -6205.37 9925.73
+\i (01:57:55) trapsize 2439
+\i (01:57:55) zoom in 1 
+\i (01:57:55) setwindow pcb
+\i (01:57:55) zoom in -6259.03 9808.66
+\i (01:57:55) trapsize 1219
+\i (01:57:56) zoom in 1 
+\i (01:57:56) setwindow pcb
+\i (01:57:56) zoom in -6554.14 9481.85
+\i (01:57:56) trapsize 610
+\i (01:57:56) zoom in 1 
+\i (01:57:56) setwindow pcb
+\i (01:57:56) zoom in -6554.14 9481.85
+\i (01:57:56) trapsize 305
+\i (01:57:57) roam start
+\i (01:57:57) roam y 16
+\i (01:57:57) roam y 64
+\i (01:57:57) roam y 16
+\i (01:57:57) roam x -16
+\i (01:57:57) roam y 64
+\i (01:57:57) roam y 32
+\i (01:57:57) roam end
+\i (01:57:58) pick grid -6519.53 9438.52
+\t (01:57:58) last pick:  -6525.00 9450.00
+\i (01:57:58) placementedit 
+\i (01:57:58) zoom out 1 
+\i (01:57:58) setwindow pcb
+\i (01:57:58) zoom out -6517.70 9455.59
+\i (01:57:58) trapsize 610
+\i (01:57:58) zoom out 1 
+\i (01:57:58) setwindow pcb
+\i (01:57:58) zoom out -6517.69 9455.59
+\i (01:57:58) trapsize 1219
+\i (01:57:58) zoom out 1 
+\i (01:57:58) setwindow pcb
+\i (01:57:58) zoom out -6517.69 9455.59
+\i (01:57:58) trapsize 2439
+\i (01:57:59) zoom out 1 
+\i (01:57:59) setwindow pcb
+\i (01:57:59) zoom out -6517.69 9455.59
+\i (01:57:59) trapsize 4878
+\i (01:57:59) zoom out 1 
+\i (01:57:59) setwindow pcb
+\i (01:57:59) zoom out -6517.69 9455.60
+\t (01:57:59) Grids are drawn 100.00, 100.00 apart for enhanced viewability.
+\i (01:57:59) trapsize 9756
+\i (01:57:59) zoom out 1 
+\i (01:57:59) setwindow pcb
+\i (01:57:59) zoom out -6517.70 9455.60
+\t (01:57:59) Grids are drawn 200.00, 200.00 apart for enhanced viewability.
+\i (01:57:59) trapsize 19511
+\i (01:58:01) place manual 
+\t (01:58:01) Moving C4 / CAP NP_SNPD0805_MODIFIED_0.1U 0 / SNPD0805_MODIFIED.
+\t (01:58:01) last pick:  -6525.00 9450.00
+\i (01:58:02) zoom in 1 
+\i (01:58:02) setwindow pcb
+\i (01:58:02) zoom in -6400.63 10431.16
+\t (01:58:02) Grids are drawn 100.00, 100.00 apart for enhanced viewability.
+\i (01:58:02) trapsize 9756
+\i (01:58:02) zoom in 1 
+\i (01:58:02) setwindow pcb
+\i (01:58:02) zoom in -6400.62 10392.14
+\t (01:58:02) Grids are drawn 50.00, 50.00 apart for enhanced viewability.
+\i (01:58:02) trapsize 4878
+\i (01:58:02) zoom in 1 
+\i (01:58:02) setwindow pcb
+\i (01:58:02) zoom in -6400.62 10382.38
+\i (01:58:02) trapsize 2439
+\i (01:58:03) zoom in 1 
+\i (01:58:03) setwindow pcb
+\i (01:58:03) zoom in -6551.83 9699.49
+\i (01:58:03) trapsize 1219
+\i (01:58:03) zoom in 1 
+\i (01:58:03) setwindow pcb
+\i (01:58:03) zoom in -6551.83 9689.73
+\i (01:58:03) trapsize 610
+\i (01:58:03) roam start
+\i (01:58:03) roam y 32
+\i (01:58:03) roam x -48
+\i (01:58:03) roam y 176
+\i (01:58:03) roam x -16
+\i (01:58:03) roam y 96
+\i (01:58:03) roam y 16
+\i (01:58:03) roam end
+\i (01:58:04) pick grid -6520.01 9461.80
+\t (01:58:04) last pick:  -6525.00 9450.00
+\i (01:58:04) placementedit 
+\i (01:58:05) prepopup -6504.16 9544.73
+\i (01:58:06) pick grid -6504.16 9603.26
+\t (01:58:06) last pick:  -6500.00 9600.00
+\i (01:58:06) pick grid -6618.79 9630.09
+\t (01:58:06) last pick:  -6625.00 9625.00
+\i (01:58:06) pick grid dbl -6618.79 9630.09
+\t (01:58:06) last pick:  -6625.00 9625.00
+\i (01:58:07) place manual 
+\i (01:58:09) place manual 
+\i (01:58:10) place manual 
+\i (01:58:10) place manual 
+\i (01:58:11) place manual 
+\i (01:58:11) place manual 
+\i (01:58:12) place manual 
+\i (01:58:12) place manual 
+\i (01:58:13) place manual 
+\i (01:58:14) place manual 
+\i (01:58:14) prepopup -6933.41 9622.77
+\i (01:58:15) done 
+\i (01:58:15) placementedit 
+\i (01:58:16) save 
+\i (01:58:17) fillin yes 
+\i (01:58:17) placementedit 
+\i (01:58:17) pick grid -6151.74 9503.27
+\t (01:58:17) last pick:  -6150.00 9500.00
+\i (01:58:18) place manual 
+\i (01:58:23) pick grid -6613.91 9610.58
+\t (01:58:23) last pick:  -6625.00 9600.00
+\i (01:58:24) pick grid -6729.76 9616.68
+\t (01:58:24) last pick:  -6725.00 9625.00
+\i (01:58:24) place manual 
+\i (01:58:25) place manual 
+\i (01:58:26) place manual 
+\i (01:58:27) prepopup -6023.69 9481.32
+\i (01:58:28) prepopup -6052.96 9569.12
+\i (01:58:29) done 
+\i (01:58:29) placementedit 
+\i (01:58:38) xhilite 
+\i (01:58:38) xrefdes C14 
+\t (01:58:38) Can not select unplaced component C14.
+\t (01:58:38) Can not select unplaced component C14.
+\i (01:58:38) xname_flush 
+\i (01:58:38) done 
+\i (01:58:38) placementedit 
+\i (01:58:40) zoom out 1 
+\i (01:58:40) setwindow pcb
+\i (01:58:40) zoom out -6439.53 9521.56
+\i (01:58:40) trapsize 1219
+\i (01:58:40) zoom out 1 
+\i (01:58:40) setwindow pcb
+\i (01:58:40) zoom out -6439.53 9521.56
+\i (01:58:40) trapsize 2439
+\i (01:58:40) zoom out 1 
+\i (01:58:40) setwindow pcb
+\i (01:58:40) zoom out -6439.53 9521.55
+\i (01:58:40) trapsize 4878
+\i (01:58:42) zoom in 1 
+\i (01:58:42) setwindow pcb
+\i (01:58:42) zoom in -10273.52 10126.41
+\i (01:58:42) trapsize 2439
+\i (01:58:42) zoom in 1 
+\i (01:58:42) setwindow pcb
+\i (01:58:42) zoom in -10273.52 10126.41
+\i (01:58:42) trapsize 1219
+\i (01:58:42) zoom in 1 
+\i (01:58:42) setwindow pcb
+\i (01:58:42) zoom in -10273.51 10126.41
+\i (01:58:42) trapsize 610
+\i (01:58:42) zoom out 1 
+\i (01:58:42) setwindow pcb
+\i (01:58:42) zoom out -10036.93 9981.30
+\i (01:58:42) trapsize 1219
+\i (01:58:43) zoom out 1 
+\i (01:58:43) setwindow pcb
+\i (01:58:43) zoom out -10036.93 9981.30
+\i (01:58:43) trapsize 2439
+\i (01:58:43) place manual 
+\i (01:58:44) place manual 
+\i (01:58:47) quickplace 
+\i (01:58:50) setwindow form.quickplc
+\i (01:58:50) FORM quickplc done  
+\i (01:58:50) setwindow pcb
+\i (01:58:50) placementedit 
+\i (01:58:52) done 
+\i (01:58:52) place manual 
+\i (01:58:53) FORM plc_manual placement_list 
+\i (01:58:53) FORM plc_manual categories Components by refdes 
+\i (01:58:53) trapsize 2439
+\i (01:58:55) setwindow form.find
+\i (01:58:55) FORM find find_by_name  
+\i (01:59:05) setwindow pcb
+\i (01:59:05) zoom in 1 
+\i (01:59:05) setwindow pcb
+\i (01:59:05) zoom in -10773.49 9113.04
+\i (01:59:05) trapsize 1219
+\i (01:59:05) zoom in 1 
+\i (01:59:05) setwindow pcb
+\i (01:59:05) zoom in -10773.49 9113.04
+\i (01:59:05) trapsize 610
+\i (01:59:05) zoom out 1 
+\i (01:59:05) setwindow pcb
+\i (01:59:05) zoom out -10738.13 9149.63
+\i (01:59:05) trapsize 1219
+\i (01:59:06) zoom out 1 
+\i (01:59:06) setwindow pcb
+\i (01:59:06) zoom out -10738.12 9149.63
+\i (01:59:06) trapsize 2439
+\i (01:59:20) setwindow form.findname
+\i (01:59:20) FORM findname done  
+\i (01:59:20) setwindow pcb
+\i (01:59:20) zoom out 1 
+\i (01:59:20) setwindow pcb
+\i (01:59:20) zoom out -10323.51 9949.59
+\i (01:59:20) trapsize 4878
+\i (01:59:21) zoom in 1 
+\i (01:59:21) setwindow pcb
+\i (01:59:21) zoom in -12099.05 10456.89
+\i (01:59:21) trapsize 2439
+\i (01:59:21) zoom in 1 
+\i (01:59:21) setwindow pcb
+\i (01:59:21) zoom in -12099.04 10456.89
+\i (01:59:21) trapsize 1219
+\i (01:59:21) zoom in 1 
+\i (01:59:21) setwindow pcb
+\i (01:59:21) zoom in -12099.04 10456.89
+\i (01:59:21) trapsize 610
+\i (01:59:22) zoom out 1 
+\i (01:59:22) setwindow pcb
+\i (01:59:22) zoom out -11738.07 10415.43
+\i (01:59:22) trapsize 1219
+\i (01:59:23) zoom out 1 
+\i (01:59:23) setwindow pcb
+\i (01:59:23) zoom out -11389.31 10354.46
+\i (01:59:23) trapsize 2439
+\i (01:59:23) zoom out 1 
+\i (01:59:23) setwindow pcb
+\i (01:59:23) zoom out -11389.31 10354.45
+\i (01:59:23) trapsize 4878
+\i (01:59:23) zoom out 1 
+\i (01:59:23) setwindow pcb
+\i (01:59:23) zoom out -11389.32 10354.46
+\t (01:59:23) Grids are drawn 100.00, 100.00 apart for enhanced viewability.
+\i (01:59:23) trapsize 9756
+\i (01:59:24) zoom in 1 
+\i (01:59:24) setwindow pcb
+\i (01:59:24) zoom in -8657.73 8481.37
+\t (01:59:24) Grids are drawn 50.00, 50.00 apart for enhanced viewability.
+\i (01:59:24) trapsize 4878
+\i (01:59:24) zoom in 1 
+\i (01:59:24) setwindow pcb
+\i (01:59:24) zoom in -8657.72 8481.38
+\i (01:59:24) trapsize 2439
+\i (01:59:25) place manual 
+\i (01:59:27) trapsize 2513
+\i (01:59:34) setwindow form.mini
+\i (01:59:34) FORM mini tree 'MULTISEL YES' C14 'Components by refdes' 
+\i (01:59:34) FORM mini tree  C40 'Components by refdes' 
+\i (01:59:34) setwindow pcb
+\i (01:59:34) placementedit 
+\i (01:59:37) setwindow form.mini
+\i (01:59:37) FORM mini tree 'MULTISEL YES' C14 'Components by refdes' 
+\i (01:59:37) FORM mini tree  C14 'Components by refdes' 
+\i (01:59:37) setwindow pcb
+\i (01:59:37) place manual 
+\t (01:59:37) Placing C14 / CAP_CAP_SMD_PTH_470UF50V_3.3U 5 / CAP_SMD_PTH_470UF50V on Top.
+\i (01:59:38) roam start
+\i (01:59:38) roam x -32
+\i (01:59:38) roam y -64
+\i (01:59:38) roam x -144
+\i (01:59:38) roam y -176
+\i (01:59:38) roam x -128
+\i (01:59:38) roam y -160
+\i (01:59:38) roam x -64
+\i (01:59:38) roam y -64
+\i (01:59:39) roam end
+\i (01:59:39) roam start
+\i (01:59:39) roam y 16
+\i (01:59:39) roam x 16
+\i (01:59:39) roam y 144
+\i (01:59:39) roam x 16
+\i (01:59:39) roam y 48
+\i (01:59:39) roam end
+\i (01:59:40) zoom in 1 
+\i (01:59:40) setwindow pcb
+\i (01:59:40) zoom in -9816.22 10080.55
+\i (01:59:40) trapsize 1257
+\i (01:59:41) zoom in 1 
+\i (01:59:41) setwindow pcb
+\i (01:59:41) zoom in -9816.22 10080.56
+\i (01:59:41) trapsize 628
+\i (01:59:55) roam start
+\i (01:59:55) roam y -16
+\i (01:59:55) roam x -32
+\i (01:59:55) roam y -80
+\i (01:59:55) roam x -32
+\i (01:59:55) roam y -48
+\i (01:59:55) roam y -16
+\i (01:59:55) roam end
+\i (01:59:56) prepopup -10085.05 10324.47
+\i (01:59:57) pop mirror 
+\t (01:59:57) Placing C14 / CAP_CAP_SMD_PTH_470UF50V_3.3U 5 / CAP_SMD_PTH_470UF50V on Bottom.
+\i (01:59:58) prepopup -10073.74 10409.92
+\i (01:59:58) pop mirror 
+\t (01:59:58) Placing C14 / CAP_CAP_SMD_PTH_470UF50V_3.3U 5 / CAP_SMD_PTH_470UF50V on Top.
+\i (01:59:59) prepopup -10066.20 10436.31
+\i (02:00:00) pop mirror 
+\t (02:00:00) Placing C14 / CAP_CAP_SMD_PTH_470UF50V_3.3U 5 / CAP_SMD_PTH_470UF50V on Bottom.
+\i (02:00:00) prepopup -10042.32 10450.13
+\i (02:00:01) pop mirror 
+\t (02:00:01) Placing C14 / CAP_CAP_SMD_PTH_470UF50V_3.3U 5 / CAP_SMD_PTH_470UF50V on Top.
+\i (02:00:02) prepopup -10076.25 10500.39
+\i (02:00:03) rotate 
+\t (02:00:03) Spin the element(s).
+\i (02:00:04) iangle 180.000
+\t (02:00:04) last angle:  +180.000 Degrees
+\i (02:00:04) pick grid -10113.95 10453.90
+\t (02:00:04) last pick:  -10125.00 10450.00
+\i (02:00:04) placementedit 
+\i (02:00:05) roam start
+\i (02:00:05) roam x -16
+\i (02:00:05) roam y 80
+\i (02:00:05) roam x -16
+\i (02:00:05) roam y 128
+\i (02:00:05) roam x -16
+\i (02:00:05) roam end
+\i (02:00:05) zoom out 1 
+\i (02:00:05) setwindow pcb
+\i (02:00:05) zoom out -10108.92 10269.17
+\i (02:00:05) trapsize 1257
+\i (02:00:06) roam start
+\i (02:00:06) roam y -16
+\i (02:00:06) roam y -64
+\i (02:00:06) roam y -16
+\i (02:00:06) roam end
+\i (02:00:06) pick grid -10164.22 10095.76
+\t (02:00:06) last pick:  -10175.00 10100.00
+\i (02:00:06) move 
+\t (02:00:06) last pick:  -10375.00 10100.00
+\t (02:00:06) Moving C6 / CAP_CAP_SMD_PTH_470UF50V_3.3U 5 / CAP_SMD_PTH_470UF50V.
+\t (02:00:06) Pick new location for the element(s).
+\i (02:00:07) pick grid -10121.50 10005.29
+\t (02:00:07) last pick:  -10125.00 10000.00
+\i (02:00:07) placementedit 
+\i (02:00:08) roam start
+\i (02:00:08) roam y -64
+\i (02:00:08) roam y -64
+\i (02:00:08) roam y -80
+\i (02:00:08) roam x 16
+\i (02:00:08) roam y -32
+\i (02:00:08) roam end
+\i (02:00:08) pick grid -10301.19 10580.81
+\t (02:00:08) last pick:  -10300.00 10575.00
+\i (02:00:09) roam start
+\i (02:00:09) roam y 128
+\i (02:00:09) roam y 80
+\i (02:00:09) roam y 16
+\i (02:00:09) roam y 16
+\i (02:00:09) roam end
+\i (02:00:10) pick grid -10208.20 10374.73
+\t (02:00:10) last pick:  -10200.00 10375.00
+\i (02:00:10) move 
+\t (02:00:10) last pick:  -10125.00 10450.00
+\t (02:00:10) Moving C14 / CAP_CAP_SMD_PTH_470UF50V_3.3U 5 / CAP_SMD_PTH_470UF50V.
+\t (02:00:10) Pick new location for the element(s).
+\i (02:00:12) pick grid -10243.38 10289.28
+\t (02:00:12) last pick:  -10250.00 10300.00
+\i (02:00:12) placementedit 
+\i (02:00:13) pick grid -9982.01 9955.02
+\t (02:00:13) last pick:  -9975.00 9950.00
+\i (02:00:13) move 
+\t (02:00:13) last pick:  -10125.00 10000.00
+\t (02:00:13) Moving C6 / CAP_CAP_SMD_PTH_470UF50V_3.3U 5 / CAP_SMD_PTH_470UF50V.
+\t (02:00:13) Pick new location for the element(s).
+\i (02:00:15) pick grid -10213.22 9904.76
+\t (02:00:15) last pick:  -10225.00 9900.00
+\i (02:00:15) placementedit 
+\i (02:00:15) pick grid -10240.87 10249.07
+\t (02:00:15) last pick:  -10250.00 10250.00
+\i (02:00:15) move 
+\t (02:00:15) last pick:  -10250.00 10300.00
+\t (02:00:15) Moving C14 / CAP_CAP_SMD_PTH_470UF50V_3.3U 5 / CAP_SMD_PTH_470UF50V.
+\t (02:00:15) Pick new location for the element(s).
+\i (02:00:18) pick grid -10014.68 10324.47
+\t (02:00:18) last pick:  -10025.00 10325.00
+\i (02:00:18) placementedit 
+\i (02:00:18) pick grid -9763.35 10010.31
+\t (02:00:18) last pick:  -9775.00 10000.00
+\i (02:00:19) move 
+\t (02:00:19) Select element(s) to move.
+\i (02:00:20) prepopup -9733.20 10120.90
+\i (02:00:20) done 
+\i (02:00:21) placementedit 
+\i (02:00:21) save 
+\i (02:00:22) fillin yes 
+\i (02:00:23) placementedit 
+\i (02:00:23) zoom out 1 
+\i (02:00:23) setwindow pcb
+\i (02:00:23) zoom out -9620.10 10093.25
+\i (02:00:23) trapsize 2513
+\i (02:00:23) zoom out 1 
+\i (02:00:23) setwindow pcb
+\i (02:00:23) zoom out -9685.45 10048.02
+\i (02:00:23) trapsize 5026
+\i (02:00:23) zoom out 1 
+\i (02:00:23) setwindow pcb
+\i (02:00:23) zoom out -9715.60 10017.85
+\t (02:00:23) Grids are drawn 100.00, 100.00 apart for enhanced viewability.
+\i (02:00:23) trapsize 10053
+\i (02:00:23) zoom out 1 
+\i (02:00:23) setwindow pcb
+\i (02:00:23) zoom out -6217.15 9997.75
+\t (02:00:23) Grids are drawn 200.00, 200.00 apart for enhanced viewability.
+\i (02:00:23) trapsize 20106
+\i (02:00:24) zoom in 1 
+\i (02:00:24) setwindow pcb
+\i (02:00:24) zoom in -8810.81 9233.72
+\t (02:00:24) Grids are drawn 100.00, 100.00 apart for enhanced viewability.
+\i (02:00:24) trapsize 10053
+\i (02:00:24) zoom in 1 
+\i (02:00:24) setwindow pcb
+\i (02:00:24) zoom in -8810.80 9233.73
+\t (02:00:24) Grids are drawn 50.00, 50.00 apart for enhanced viewability.
+\i (02:00:24) trapsize 5026
+\i (03:09:54) exit 
+\t (03:09:55)     Journal end - Mon Apr 20 21:11:23 2020

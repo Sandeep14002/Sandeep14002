@@ -1,0 +1,616 @@
+
+
+   ---- Transcoding 'C:\Users\kunal\Downloads\TIDA-01606_GERBERS\TIDA-01606_Power CardE4_Gerbers\TIDA-01606_Power CardE4-RoundHoles.TXT' ----   Wed Apr 22 11:43:37 2020
+
+T21  --> T19
+T23  --> T20
+T24  --> T21
+T25  --> T23
+T26  --> T24
+T28  --> T25
+T29  --> T26
+T30  --> T27
+T31  --> T28
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\kunal\Downloads\TIDA-01606_GERBERS\TIDA-01606_Power CardE4_Gerbers\TIDA-01606_Power CardE4-SlotHoles.TXT' ----   Wed Apr 22 11:43:37 2020
+
+T19  --> T29
+T20  --> T30
+T27  --> T31
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\kunal\Downloads\TIDA-01606_GERBERS\TIDA-01606_Power CardE4_Gerbers\TIDA-01606_Power CardE4-RoundHoles.TXT' ----   Wed Apr 22 12:08:51 2020
+
+T21  --> T19
+T23  --> T20
+T24  --> T21
+T25  --> T23
+T26  --> T24
+T28  --> T25
+T29  --> T26
+T30  --> T27
+T31  --> T28
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\kunal\Downloads\TIDA-01606_GERBERS\TIDA-01606_Power CardE4_Gerbers\TIDA-01606_Power CardE4-SlotHoles.TXT' ----   Wed Apr 22 12:08:51 2020
+
+T19  --> T29
+T20  --> T30
+T27  --> T31
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\kunal\Google Drive\RupeshRoshniPrakashPoojaPrashantKunal\Kunal\TIDA01606_PowerCard\TIDA-01606_Power CardE4_Gerbers\TIDA-01606_Power CardE4-RoundHoles.TXT' ----   Mon Apr 27 12:00:47 2020
+
+T21  --> T19
+T23  --> T20
+T24  --> T21
+T25  --> T23
+T26  --> T24
+T28  --> T25
+T29  --> T26
+T30  --> T27
+T31  --> T28
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\kunal\Google Drive\RupeshRoshniPrakashPoojaPrashantKunal\Kunal\TIDA01606_PowerCard\TIDA-01606_Power CardE4_Gerbers\TIDA-01606_Power CardE4-SlotHoles.TXT' ----   Mon Apr 27 12:00:47 2020
+
+T19  --> T29
+T20  --> T30
+T27  --> T31
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\kunal\Google Drive\RupeshRoshniPrakashPoojaPrashantKunal\Kunal\TIDA01606_PowerCard\TIDA-01606_Power CardE4_Gerbers\TIDA-01606_Power CardE4-RoundHoles.TXT' ----   Mon Apr 27 15:54:47 2020
+
+T21  --> T19
+T23  --> T20
+T24  --> T21
+T25  --> T23
+T26  --> T24
+T28  --> T25
+T29  --> T26
+T30  --> T27
+T31  --> T28
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\kunal\Google Drive\RupeshRoshniPrakashPoojaPrashantKunal\Kunal\TIDA01606_PowerCard\TIDA-01606_Power CardE4_Gerbers\TIDA-01606_Power CardE4-SlotHoles.TXT' ----   Mon Apr 27 15:54:47 2020
+
+T19  --> T29
+T20  --> T30
+T27  --> T31
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\kunal\Google Drive\RupeshRoshniPrakashPoojaPrashantKunal\Kunal\TIDA01606_PowerCard\TIDA-01606_Power CardE4_Gerbers\TIDA-01606_Power CardE4-RoundHoles.TXT' ----   Wed Apr 29 10:48:15 2020
+
+T21  --> T19
+T23  --> T20
+T24  --> T21
+T25  --> T23
+T26  --> T24
+T28  --> T25
+T29  --> T26
+T30  --> T27
+T31  --> T28
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\kunal\Google Drive\RupeshRoshniPrakashPoojaPrashantKunal\Kunal\TIDA01606_PowerCard\TIDA-01606_Power CardE4_Gerbers\TIDA-01606_Power CardE4-SlotHoles.TXT' ----   Wed Apr 29 10:48:15 2020
+
+T19  --> T29
+T20  --> T30
+T27  --> T31
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\kunal\Google Drive\RupeshRoshniPrakashPoojaPrashantKunal\Kunal\TIDA01606_PowerCard\TIDA-01606_Power CardE4_Gerbers\TIDA-01606_Power CardE4-RoundHoles.TXT' ----   Thu Apr 30 10:33:41 2020
+
+T21  --> T19
+T23  --> T20
+T24  --> T21
+T25  --> T23
+T26  --> T24
+T28  --> T25
+T29  --> T26
+T30  --> T27
+T31  --> T28
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\kunal\Google Drive\RupeshRoshniPrakashPoojaPrashantKunal\Kunal\TIDA01606_PowerCard\TIDA-01606_Power CardE4_Gerbers\TIDA-01606_Power CardE4-SlotHoles.TXT' ----   Thu Apr 30 10:33:41 2020
+
+T19  --> T29
+T20  --> T30
+T27  --> T31
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\kunal\Google Drive\RupeshRoshniPrakashPoojaPrashantKunal\Kunal\TIDA01606_PowerCard\TIDA-01606_Power CardE4_Gerbers\TIDA-01606_Power CardE4-RoundHoles.TXT' ----   Thu Apr 30 15:03:52 2020
+
+T21  --> T19
+T23  --> T20
+T24  --> T21
+T25  --> T23
+T26  --> T24
+T28  --> T25
+T29  --> T26
+T30  --> T27
+T31  --> T28
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\kunal\Google Drive\RupeshRoshniPrakashPoojaPrashantKunal\Kunal\TIDA01606_PowerCard\TIDA-01606_Power CardE4_Gerbers\TIDA-01606_Power CardE4-SlotHoles.TXT' ----   Thu Apr 30 15:03:52 2020
+
+T19  --> T29
+T20  --> T30
+T27  --> T31
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\kunal\Google Drive\RupeshRoshniPrakashPoojaPrashantKunal\Kunal\TIDA01606_PowerCard\TIDA-01606_Power CardE4_Gerbers\TIDA-01606_Power CardE4-RoundHoles.TXT' ----   Thu Apr 30 15:07:00 2020
+
+T21  --> T19
+T23  --> T20
+T24  --> T21
+T25  --> T23
+T26  --> T24
+T28  --> T25
+T29  --> T26
+T30  --> T27
+T31  --> T28
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\kunal\Google Drive\RupeshRoshniPrakashPoojaPrashantKunal\Kunal\TIDA01606_PowerCard\TIDA-01606_Power CardE4_Gerbers\TIDA-01606_Power CardE4-SlotHoles.TXT' ----   Thu Apr 30 15:07:00 2020
+
+T19  --> T29
+T20  --> T30
+T27  --> T31
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\kunal\Google Drive\RupeshRoshniPrakashPoojaPrashantKunal\Kunal\TIDA01606_PowerCard\TIDA-01606_Power CardE4_Gerbers\TIDA-01606_Power CardE4-RoundHoles.TXT' ----   Fri May 01 10:22:59 2020
+
+T21  --> T19
+T23  --> T20
+T24  --> T21
+T25  --> T23
+T26  --> T24
+T28  --> T25
+T29  --> T26
+T30  --> T27
+T31  --> T28
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\kunal\Google Drive\RupeshRoshniPrakashPoojaPrashantKunal\Kunal\TIDA01606_PowerCard\TIDA-01606_Power CardE4_Gerbers\TIDA-01606_Power CardE4-SlotHoles.TXT' ----   Fri May 01 10:22:59 2020
+
+T19  --> T29
+T20  --> T30
+T27  --> T31
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\kunal\Google Drive\RupeshRoshniPrakashPoojaPrashantKunal\Kunal\TIDA01606_PowerCard\TIDA-01606_Power CardE4_Gerbers\TIDA-01606_Power CardE4-RoundHoles.TXT' ----   Mon May 04 10:22:32 2020
+
+T21  --> T19
+T23  --> T20
+T24  --> T21
+T25  --> T23
+T26  --> T24
+T28  --> T25
+T29  --> T26
+T30  --> T27
+T31  --> T28
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\kunal\Google Drive\RupeshRoshniPrakashPoojaPrashantKunal\Kunal\TIDA01606_PowerCard\TIDA-01606_Power CardE4_Gerbers\TIDA-01606_Power CardE4-SlotHoles.TXT' ----   Mon May 04 10:22:32 2020
+
+T19  --> T29
+T20  --> T30
+T27  --> T31
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\kunal\Google Drive\RupeshRoshniPrakashPoojaPrashantKunal\Kunal\TIDA01606_PowerCard\TIDA-01606_Power CardE4_Gerbers\TIDA-01606_Power CardE4-RoundHoles.TXT' ----   Mon May 04 18:06:50 2020
+
+T21  --> T19
+T23  --> T20
+T24  --> T21
+T25  --> T23
+T26  --> T24
+T28  --> T25
+T29  --> T26
+T30  --> T27
+T31  --> T28
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\kunal\Google Drive\RupeshRoshniPrakashPoojaPrashantKunal\Kunal\TIDA01606_PowerCard\TIDA-01606_Power CardE4_Gerbers\TIDA-01606_Power CardE4-SlotHoles.TXT' ----   Mon May 04 18:06:50 2020
+
+T19  --> T29
+T20  --> T30
+T27  --> T31
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\kunal\Google Drive\RupeshRoshniPrakashPoojaPrashantKunal\Kunal\TIDA01606_PowerCard\TIDA-01606_Power CardE4_Gerbers\TIDA-01606_Power CardE4-RoundHoles.TXT' ----   Tue May 05 10:30:32 2020
+
+T21  --> T19
+T23  --> T20
+T24  --> T21
+T25  --> T23
+T26  --> T24
+T28  --> T25
+T29  --> T26
+T30  --> T27
+T31  --> T28
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\kunal\Google Drive\RupeshRoshniPrakashPoojaPrashantKunal\Kunal\TIDA01606_PowerCard\TIDA-01606_Power CardE4_Gerbers\TIDA-01606_Power CardE4-SlotHoles.TXT' ----   Tue May 05 10:30:32 2020
+
+T19  --> T29
+T20  --> T30
+T27  --> T31
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\kunal\Google Drive\RupeshRoshniPrakashPoojaPrashantKunal\Kunal\TIDA01606_PowerCard\TIDA-01606_Power CardE4_Gerbers\TIDA-01606_Power CardE4-RoundHoles.TXT' ----   Wed May 06 10:30:25 2020
+
+T21  --> T19
+T23  --> T20
+T24  --> T21
+T25  --> T23
+T26  --> T24
+T28  --> T25
+T29  --> T26
+T30  --> T27
+T31  --> T28
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\kunal\Google Drive\RupeshRoshniPrakashPoojaPrashantKunal\Kunal\TIDA01606_PowerCard\TIDA-01606_Power CardE4_Gerbers\TIDA-01606_Power CardE4-SlotHoles.TXT' ----   Wed May 06 10:30:26 2020
+
+T19  --> T29
+T20  --> T30
+T27  --> T31
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\kunal\Google Drive\RupeshRoshniPrakashPoojaPrashantKunal\Kunal\TIDA01606_PowerCard\TIDA-01606_Power CardE4_Gerbers\TIDA-01606_Power CardE4-RoundHoles.TXT' ----   Thu May 07 10:47:25 2020
+
+T21  --> T19
+T23  --> T20
+T24  --> T21
+T25  --> T23
+T26  --> T24
+T28  --> T25
+T29  --> T26
+T30  --> T27
+T31  --> T28
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\kunal\Google Drive\RupeshRoshniPrakashPoojaPrashantKunal\Kunal\TIDA01606_PowerCard\TIDA-01606_Power CardE4_Gerbers\TIDA-01606_Power CardE4-SlotHoles.TXT' ----   Thu May 07 10:47:25 2020
+
+T19  --> T29
+T20  --> T30
+T27  --> T31
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\kunal\Google Drive\RupeshRoshniPrakashPoojaPrashantKunal\Kunal\TIDA01606_PowerCard\TIDA-01606_Power CardE4_Gerbers\TIDA-01606_Power CardE4-RoundHoles.TXT' ----   Fri May 08 10:55:16 2020
+
+T21  --> T19
+T23  --> T20
+T24  --> T21
+T25  --> T23
+T26  --> T24
+T28  --> T25
+T29  --> T26
+T30  --> T27
+T31  --> T28
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\kunal\Google Drive\RupeshRoshniPrakashPoojaPrashantKunal\Kunal\TIDA01606_PowerCard\TIDA-01606_Power CardE4_Gerbers\TIDA-01606_Power CardE4-SlotHoles.TXT' ----   Fri May 08 10:55:16 2020
+
+T19  --> T29
+T20  --> T30
+T27  --> T31
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\kunal\Google Drive\RupeshRoshniPrakashPoojaPrashantKunal\Kunal\TIDA01606_PowerCard\TIDA-01606_Power CardE4_Gerbers\TIDA-01606_Power CardE4-RoundHoles.TXT' ----   Sat May 09 10:27:41 2020
+
+T21  --> T19
+T23  --> T20
+T24  --> T21
+T25  --> T23
+T26  --> T24
+T28  --> T25
+T29  --> T26
+T30  --> T27
+T31  --> T28
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\kunal\Google Drive\RupeshRoshniPrakashPoojaPrashantKunal\Kunal\TIDA01606_PowerCard\TIDA-01606_Power CardE4_Gerbers\TIDA-01606_Power CardE4-SlotHoles.TXT' ----   Sat May 09 10:27:41 2020
+
+T19  --> T29
+T20  --> T30
+T27  --> T31
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\kunal\Google Drive\RupeshRoshniPrakashPoojaPrashantKunal\Kunal\TIDA01606_PowerCard\TIDA-01606_Power CardE4_Gerbers\TIDA-01606_Power CardE4-RoundHoles.TXT' ----   Mon May 11 12:09:36 2020
+
+T21  --> T19
+T23  --> T20
+T24  --> T21
+T25  --> T23
+T26  --> T24
+T28  --> T25
+T29  --> T26
+T30  --> T27
+T31  --> T28
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\kunal\Google Drive\RupeshRoshniPrakashPoojaPrashantKunal\Kunal\TIDA01606_PowerCard\TIDA-01606_Power CardE4_Gerbers\TIDA-01606_Power CardE4-SlotHoles.TXT' ----   Mon May 11 12:09:36 2020
+
+T19  --> T29
+T20  --> T30
+T27  --> T31
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\kunal\Google Drive\RupeshRoshniPrakashPoojaPrashantKunal\Kunal\TIDA01606_PowerCard\TIDA-01606_Power CardE4_Gerbers\TIDA-01606_Power CardE4-RoundHoles.TXT' ----   Wed May 13 15:26:10 2020
+
+T21  --> T19
+T23  --> T20
+T24  --> T21
+T25  --> T23
+T26  --> T24
+T28  --> T25
+T29  --> T26
+T30  --> T27
+T31  --> T28
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\kunal\Google Drive\RupeshRoshniPrakashPoojaPrashantKunal\Kunal\TIDA01606_PowerCard\TIDA-01606_Power CardE4_Gerbers\TIDA-01606_Power CardE4-SlotHoles.TXT' ----   Wed May 13 15:26:10 2020
+
+T19  --> T29
+T20  --> T30
+T27  --> T31
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\kunal\Google Drive\RupeshRoshniPrakashPoojaPrashantKunal\Kunal\TIDA01606_PowerCard\TIDA-01606_Power CardE4_Gerbers\TIDA-01606_Power CardE4-RoundHoles.TXT' ----   Sat May 16 15:28:26 2020
+
+T21  --> T19
+T23  --> T20
+T24  --> T21
+T25  --> T23
+T26  --> T24
+T28  --> T25
+T29  --> T26
+T30  --> T27
+T31  --> T28
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\kunal\Google Drive\RupeshRoshniPrakashPoojaPrashantKunal\Kunal\TIDA01606_PowerCard\TIDA-01606_Power CardE4_Gerbers\TIDA-01606_Power CardE4-SlotHoles.TXT' ----   Sat May 16 15:28:26 2020
+
+T19  --> T29
+T20  --> T30
+T27  --> T31
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\kunal\Google Drive\RupeshRoshniPrakashPoojaPrashantKunal\Kunal\TIDA01606_PowerCard\TIDA-01606_Power CardE4_Gerbers\TIDA-01606_Power CardE4-RoundHoles.TXT' ----   Mon May 18 11:21:14 2020
+
+T21  --> T19
+T23  --> T20
+T24  --> T21
+T25  --> T23
+T26  --> T24
+T28  --> T25
+T29  --> T26
+T30  --> T27
+T31  --> T28
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\kunal\Google Drive\RupeshRoshniPrakashPoojaPrashantKunal\Kunal\TIDA01606_PowerCard\TIDA-01606_Power CardE4_Gerbers\TIDA-01606_Power CardE4-SlotHoles.TXT' ----   Mon May 18 11:21:14 2020
+
+T19  --> T29
+T20  --> T30
+T27  --> T31
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\kunal\Google Drive\RupeshRoshniPrakashPoojaPrashantKunal\Kunal\TIDA01606_PowerCard\TIDA-01606_Power CardE4_Gerbers\TIDA-01606_Power CardE4-RoundHoles.TXT' ----   Tue May 19 10:22:44 2020
+
+T21  --> T19
+T23  --> T20
+T24  --> T21
+T25  --> T23
+T26  --> T24
+T28  --> T25
+T29  --> T26
+T30  --> T27
+T31  --> T28
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\kunal\Google Drive\RupeshRoshniPrakashPoojaPrashantKunal\Kunal\TIDA01606_PowerCard\TIDA-01606_Power CardE4_Gerbers\TIDA-01606_Power CardE4-SlotHoles.TXT' ----   Tue May 19 10:22:44 2020
+
+T19  --> T29
+T20  --> T30
+T27  --> T31
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\kunal\Google Drive\RupeshRoshniPrakashPoojaPrashantKunal\Kunal\TIDA01606_PowerCard\TIDA-01606_Power CardE4_Gerbers\TIDA-01606_Power CardE4-RoundHoles.TXT' ----   Fri May 29 19:33:08 2020
+
+T21  --> T19
+T23  --> T20
+T24  --> T21
+T25  --> T23
+T26  --> T24
+T28  --> T25
+T29  --> T26
+T30  --> T27
+T31  --> T28
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\kunal\Google Drive\RupeshRoshniPrakashPoojaPrashantKunal\Kunal\TIDA01606_PowerCard\TIDA-01606_Power CardE4_Gerbers\TIDA-01606_Power CardE4-SlotHoles.TXT' ----   Fri May 29 19:33:08 2020
+
+T19  --> T29
+T20  --> T30
+T27  --> T31
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\kunal\Google Drive\RupeshRoshniPrakashPoojaPrashantKunal\Kunal\TIDA01606_PowerCard\TIDA-01606_Power CardE4_Gerbers\TIDA-01606_Power CardE4-RoundHoles.TXT' ----   Fri May 29 19:34:17 2020
+
+T21  --> T19
+T23  --> T20
+T24  --> T21
+T25  --> T23
+T26  --> T24
+T28  --> T25
+T29  --> T26
+T30  --> T27
+T31  --> T28
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\kunal\Google Drive\RupeshRoshniPrakashPoojaPrashantKunal\Kunal\TIDA01606_PowerCard\TIDA-01606_Power CardE4_Gerbers\TIDA-01606_Power CardE4-SlotHoles.TXT' ----   Fri May 29 19:34:17 2020
+
+T19  --> T29
+T20  --> T30
+T27  --> T31
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\kunal\Google Drive\RupeshRoshniPrakashPoojaPrashantKunal\Kunal\TIDA01606_PowerCard\TIDA-01606_Power CardE4_Gerbers\TIDA-01606_Power CardE4-RoundHoles.TXT' ----   Fri May 29 19:37:25 2020
+
+T21  --> T19
+T23  --> T20
+T24  --> T21
+T25  --> T23
+T26  --> T24
+T28  --> T25
+T29  --> T26
+T30  --> T27
+T31  --> T28
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\kunal\Google Drive\RupeshRoshniPrakashPoojaPrashantKunal\Kunal\TIDA01606_PowerCard\TIDA-01606_Power CardE4_Gerbers\TIDA-01606_Power CardE4-SlotHoles.TXT' ----   Fri May 29 19:37:25 2020
+
+T19  --> T29
+T20  --> T30
+T27  --> T31
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\kunal\Google Drive\RupeshRoshniPrakashPoojaPrashantKunal\Kunal\TIDA01606_PowerCard\TIDA-01606_Power CardE4_Gerbers\TIDA-01606_Power CardE4-RoundHoles.TXT' ----   Sat May 30 11:03:08 2020
+
+T21  --> T19
+T23  --> T20
+T24  --> T21
+T25  --> T23
+T26  --> T24
+T28  --> T25
+T29  --> T26
+T30  --> T27
+T31  --> T28
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\kunal\Google Drive\RupeshRoshniPrakashPoojaPrashantKunal\Kunal\TIDA01606_PowerCard\TIDA-01606_Power CardE4_Gerbers\TIDA-01606_Power CardE4-SlotHoles.TXT' ----   Sat May 30 11:03:08 2020
+
+T19  --> T29
+T20  --> T30
+T27  --> T31
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\kunal\Google Drive\RupeshRoshniPrakashPoojaPrashantKunal\Kunal\TIDA01606_PowerCard\TIDA-01606_Power CardE4_Gerbers\TIDA-01606_Power CardE4-RoundHoles.TXT' ----   Mon Jun 01 10:48:18 2020
+
+T21  --> T19
+T23  --> T20
+T24  --> T21
+T25  --> T23
+T26  --> T24
+T28  --> T25
+T29  --> T26
+T30  --> T27
+T31  --> T28
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\kunal\Google Drive\RupeshRoshniPrakashPoojaPrashantKunal\Kunal\TIDA01606_PowerCard\TIDA-01606_Power CardE4_Gerbers\TIDA-01606_Power CardE4-SlotHoles.TXT' ----   Mon Jun 01 10:48:18 2020
+
+T19  --> T29
+T20  --> T30
+T27  --> T31
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\kunal\Google Drive\RupeshRoshniPrakashPoojaPrashantKunal\Kunal\TIDA01606_PowerCard\TIDA-01606_Power CardE4_Gerbers\TIDA-01606_Power CardE4-RoundHoles.TXT' ----   Tue Jun 02 11:21:22 2020
+
+T21  --> T19
+T23  --> T20
+T24  --> T21
+T25  --> T23
+T26  --> T24
+T28  --> T25
+T29  --> T26
+T30  --> T27
+T31  --> T28
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\kunal\Google Drive\RupeshRoshniPrakashPoojaPrashantKunal\Kunal\TIDA01606_PowerCard\TIDA-01606_Power CardE4_Gerbers\TIDA-01606_Power CardE4-SlotHoles.TXT' ----   Tue Jun 02 11:21:22 2020
+
+T19  --> T29
+T20  --> T30
+T27  --> T31
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\kunal\Google Drive\RupeshRoshniPrakashPoojaPrashantKunal\Kunal\TIDA01606_PowerCard\TIDA-01606_Power CardE4_Gerbers\TIDA-01606_Power CardE4-RoundHoles.TXT' ----   Wed Jun 03 11:01:06 2020
+
+T21  --> T19
+T23  --> T20
+T24  --> T21
+T25  --> T23
+T26  --> T24
+T28  --> T25
+T29  --> T26
+T30  --> T27
+T31  --> T28
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\kunal\Google Drive\RupeshRoshniPrakashPoojaPrashantKunal\Kunal\TIDA01606_PowerCard\TIDA-01606_Power CardE4_Gerbers\TIDA-01606_Power CardE4-SlotHoles.TXT' ----   Wed Jun 03 11:01:06 2020
+
+T19  --> T29
+T20  --> T30
+T27  --> T31
+-----------------------------------------------------------------

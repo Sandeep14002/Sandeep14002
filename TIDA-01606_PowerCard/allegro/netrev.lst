@@ -1,0 +1,90 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Allegro Netrev Import Logic                                      )
+(                                                                     )
+(    Drawing          : solutionstida01606_powercard_rev17.brd        )
+(    Software Version : 17.4S019                                      )
+(    Date/Time        : Mon Feb 12 16:26:44 2024                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+------ Directives ------------
+
+Ripup etch:                  No
+Ripup delete first segment:  No
+Ripup retain bondwire:       No
+Ripup symbols:               Always
+Missing symbol has error:    No
+DRC update:                  Yes
+Schematic directory:         'C:\GITHUB_ORCAD_PROJECTS\GRID-TINV_TIDA-01606\TIDA-01606_POWERCARD\allegro'
+Design Directory:            'C:/GitHub_Orcad_Projects/Grid-TInv_TIDA-01606/TIDA-01606_PowerCard/allegro'
+Old design name:             'c:/github_orcad_projects/grid-tinv_tida-01606/tida-01606_powercard/board/solutionstida01606_powercard_rev17.brd'
+New design name:             'C:/GitHub_Orcad_Projects/Grid-TInv_TIDA-01606/TIDA-01606_PowerCard/allegro/tida01606_powercard_0_0.brd'
+
+CmdLine: netrev.exe -y 1 -i C:\GITHUB_ORCAD_PROJECTS\GRID-TINV_TIDA-01606\TIDA-01606_POWERCARD\allegro c:\github_orcad_projects\grid-tinv_tida-01606\tida-01606_powercard\board\solutionstida01606_powercard_rev17.brd C:/GitHub_Orcad_Projects/Grid-TInv_TIDA-01606/TIDA-01606_PowerCard/allegro/tida01606_powercard_0_0.brd
+
+------ Preparing to read pst files ------
+
+Starting to read C:/GITHUB_ORCAD_PROJECTS/GRID-TINV_TIDA-01606/TIDA-01606_POWERCARD/allegro/pstchip.dat 
+   Finished reading C:/GITHUB_ORCAD_PROJECTS/GRID-TINV_TIDA-01606/TIDA-01606_POWERCARD/allegro/pstchip.dat (00:00:00.01)
+Starting to read C:/GITHUB_ORCAD_PROJECTS/GRID-TINV_TIDA-01606/TIDA-01606_POWERCARD/allegro/pstxprt.dat 
+   Finished reading C:/GITHUB_ORCAD_PROJECTS/GRID-TINV_TIDA-01606/TIDA-01606_POWERCARD/allegro/pstxprt.dat (00:00:00.00)
+Starting to read C:/GITHUB_ORCAD_PROJECTS/GRID-TINV_TIDA-01606/TIDA-01606_POWERCARD/allegro/pstxnet.dat 
+   Finished reading C:/GITHUB_ORCAD_PROJECTS/GRID-TINV_TIDA-01606/TIDA-01606_POWERCARD/allegro/pstxnet.dat (00:00:00.00)
+
+------ Oversights/Warnings/Errors ------
+
+
+------ Library Paths ------
+MODULEPATH =  . 
+           c:/cadence/spb_17.4/share/local/pcb/modules 
+
+PSMPATH =  . 
+           symbols 
+           .. 
+           ../symbols 
+           c:/cadence/spb_17.4/share/local/pcb/symbols 
+           c:/cadence/spb_17.4/share/pcb/pcb_lib/symbols 
+           c:/cadence/spb_17.4/share/pcb/allegrolib/symbols 
+
+PADPATH =  . 
+           symbols 
+           .. 
+           ../symbols 
+           c:/cadence/spb_17.4/share/local/pcb/padstacks 
+           c:/cadence/spb_17.4/share/pcb/pcb_lib/symbols 
+           c:/cadence/spb_17.4/share/pcb/allegrolib/symbols 
+
+
+------ Summary Statistics ------
+
+
+netrev run on Feb 12 16:26:44 2024
+   DESIGN NAME : 'TIDA01606_POWERCARD_0_0'
+   PACKAGING ON Jul 14 2021 08:12:08
+
+   COMPILE 'logic'
+   CHECK_PIN_NAMES OFF
+   CROSS_REFERENCE OFF
+   FEEDBACK OFF
+   INCREMENTAL OFF
+   INTERFACE_TYPE PHYSICAL
+   MAX_ERRORS 500
+   MERGE_MINIMUM 5
+   NET_NAME_CHARS '#%&()*+-./:=>?@[]^_`|'
+   NET_NAME_LENGTH 24
+   OVERSIGHTS ON
+   REPLACE_CHECK OFF
+   SINGLE_NODE_NETS ON
+   SPLIT_MINIMUM 0
+   SUPPRESS   20
+   WARNINGS ON
+
+ No error detected
+ No oversight detected
+ No warning detected
+
+cpu time      0:00:26
+elapsed time  0:00:00
+

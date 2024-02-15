@@ -1,0 +1,20 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: TIDA-01606E4_Gate Driver_PCB.PcbDoc   2/15/2019  8:39:35 AM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : TIDA-01606_Gate DriverE4-RoundHoles.TXT
+ASCII SlotHoles File : TIDA-01606_Gate DriverE4-SlotHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      8mil (0.2mm)                                              Round             5         PTH        0.00inch (0.00mm)
+T2      12mil (0.305mm)                                           Round             123       PTH        0.00inch (0.00mm)
+T3      40mil (1.016mm)                                           Round             7         PTH        0.00inch (0.00mm)
+T4      43mil (1.1mm)           +/-6mil (0.15mm)                  Round             16        PTH        0.00inch (0.00mm)
+T5      43mil (1.1mm)                                             Round             16        PTH        0.00inch (0.00mm)
+T6      20mil (0.508mm)                                           Slot              2         NPTH       0.00inch (0.00mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              169
+
+Total Processing Time (hh:mm:ss) : 00:00:00

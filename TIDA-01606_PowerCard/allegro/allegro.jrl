@@ -1,0 +1,56 @@
+\t (00:00:03) allegro 17.4 S019 Windows SPB 64-bit Edition
+\t (00:00:03)     Journal start - Mon Feb 12 16:26:48 2024
+\t (00:00:03)         Host=RUPESH User=Rupesh Pid=5780 CPUs=12
+\t (00:00:03) CmdLine= allegro.exe -proj C:/GITHUB_ORCAD_PROJECTS/GRID-TINV_TIDA-01606/TIDA-01606_POWERCARD/TIDA01606_POWERCARD_0_0.opj C:/GitHub_Orcad_Projects/Grid-TInv_TIDA-01606/TIDA-01606_PowerCard/allegro/tida01606_powercard_0_0.brd
+\t (00:00:03) 
+   (00:00:03) Loading axlcore.cxt 
+\t (00:00:06) Opening existing design...
+\i (00:00:06) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged "tida01606_powercard_0_0"
+\d (00:00:06) Design opened: C:/GitHub_Orcad_Projects/Grid-TInv_TIDA-01606/TIDA-01606_PowerCard/allegro/tida01606_powercard_0_0.brd
+\t (00:00:06) Grids are drawn 16.000, 16.000 apart for enhanced viewing.
+\i (00:00:06) trapsize 11670
+\i (00:00:06) trapsize 11982
+\i (00:00:06) trapsize 11670
+\t (00:00:06) Grids are drawn 16.000, 16.000 apart for enhanced viewing.
+\t (00:00:06) Grids are drawn 8.000, 8.000 apart for enhanced viewing.
+\i (00:00:06) trapsize 9549
+\t (00:00:06) Grids are drawn 16.000, 16.000 apart for enhanced viewing.
+\i (00:00:06) trapsize 10831
+\t (00:00:06) > Sending response DoneOpenBoard
+\i (00:00:06) generaledit 
+\i (00:00:07) zoom out 1 
+\i (00:00:07) setwindow pcb
+\i (00:00:07) zoom out 7771.418 7887.024
+\t (00:00:07) Grids are drawn 32.000, 32.000 apart for enhanced viewing.
+\i (00:00:07) trapsize 21663
+\i (00:00:07) zoom out 1 
+\i (00:00:07) setwindow pcb
+\i (00:00:07) zoom out 7771.417 7887.024
+\t (00:00:07) Grids are drawn 64.000, 64.000 apart for enhanced viewing.
+\i (00:00:07) trapsize 43326
+\i (00:00:08) zoom out 1 
+\i (00:00:08) setwindow pcb
+\i (00:00:08) zoom out 7147.525 7947.679
+\t (00:00:08) Grids are drawn 128.000, 128.000 apart for enhanced viewing.
+\i (00:00:08) trapsize 86652
+\i (00:00:09) zoom in 1 
+\i (00:00:09) setwindow pcb
+\i (00:00:09) zoom in 3992.889 2627.263
+\t (00:00:09) Grids are drawn 64.000, 64.000 apart for enhanced viewing.
+\i (00:00:09) trapsize 43326
+\i (00:00:11) zoom out 1 
+\i (00:00:11) setwindow pcb
+\i (00:00:11) zoom out 6150.518 4308.307
+\t (00:00:11) Grids are drawn 128.000, 128.000 apart for enhanced viewing.
+\i (00:00:11) trapsize 86652
+\i (00:00:12) zoom in 1 
+\i (00:00:12) setwindow pcb
+\i (00:00:12) zoom in 1947.908 5901.009
+\t (00:00:12) Grids are drawn 64.000, 64.000 apart for enhanced viewing.
+\i (00:00:12) trapsize 43326
+\i (00:00:33) save 
+\i (00:00:34) fillin yes 
+\t (00:00:34) > Sending response DoneOpenBoard
+\i (00:00:35) generaledit 
+\i (00:02:57) exit 
+\t (00:02:58)     Journal end - Mon Feb 12 16:29:43 2024

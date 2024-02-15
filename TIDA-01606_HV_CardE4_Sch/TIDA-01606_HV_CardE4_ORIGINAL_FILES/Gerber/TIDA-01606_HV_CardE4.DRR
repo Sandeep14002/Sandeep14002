@@ -1,0 +1,19 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: TIDA-01606E4_ISOHVCARD_PCB.PcbDoc   2/15/2019  8:58:50 AM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : TIDA-01606_HV_CardE4-RoundHoles.TXT
+ASCII SlotHoles File : TIDA-01606_HV_CardE4-SlotHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      20mil (0.508mm)                                           Round             10        PTH        0.00inch (0.00mm)
+T2      28mil (0.711mm)                                           Round             11        PTH        0.00inch (0.00mm)
+T3      40mil (1.016mm)                                           Round             4         PTH        0.00inch (0.00mm)
+T4      43mil (1.1mm)                                             Round             4         PTH        0.00inch (0.00mm)
+T5      25mil (0.635mm)                                           Slot              1         NPTH       0.00inch (0.00mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              30
+
+Total Processing Time (hh:mm:ss) : 00:00:01

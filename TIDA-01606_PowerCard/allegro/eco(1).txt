@@ -1,0 +1,1393 @@
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   1  |
+|------------------------------------------------------------------------------|
+|  c:.../tida01606_powercard/board/solutionstida01606_powercard_rev8.brd       |
+|                                                    Mon Aug 23 16:13:37 2021  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+  3.3V_U18     pins ADDED TO this existing net (pins not previously on any net)
+                                 C131.1                         
+                                 U20.5                          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  DC+          pins ADDED TO this existing net (pins not previously on any net)
+                                 R132.2                         
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  GND          pins ADDED TO this existing net (pins not previously on any net)
+                                 C131.2                         
+                                 C134.1                         
+                                 R206.2                         
+                                 U20.2                          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  GND_AMC1     pins MOVED FROM this net (to net name listed on right)
+                                 C28.2           3492.00 2358.07
+                                                                         VINV_A
+                                 D13.3           3103.00 2586.00
+                                                                         VINV_A
+                                 U1.4            3242.00 2418.68
+                                                                         VINV_A
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  GND_AMC2     pins MOVED FROM this net (to net name listed on right)
+                                 C35.2           3492.00 4906.07
+                                                                         VINV_B
+                                 D15.3           3103.00 5136.00
+                                                                         VINV_B
+                                 U5.4            3242.00 4968.68
+                                                                         VINV_B
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  GND_AMC3     pins MOVED FROM this net (to net name listed on right)
+                                 C18.2           3492.00 7406.07
+                                                                         VINV_C
+                                 D17.3           3103.00 7636.00
+                                                                         VINV_C
+                                 U8.4            3242.00 7478.00
+                                                                         VINV_C
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N13953647    pins ADDED TO this existing net (pins not previously on any net)
+                                 U3.11           8052.39 3266.50
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N13955752    pins ADDED TO this existing net (pins not previously on any net)
+                                 U4.11           8056.39 5324.50
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N13956997    pins ADDED TO this existing net (pins not previously on any net)
+                                 U6.11           8052.39 7376.50
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   2  |
+|------------------------------------------------------------------------------|
+|  c:.../tida01606_powercard/board/solutionstida01606_powercard_rev8.brd       |
+|                                                    Mon Aug 23 16:13:37 2021  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+  N13971489    pins MOVED FROM this net (to net name listed on right)
+                                 R143.2          8219.00 8345.00
+                                                                      N14612483
+                                 U18.13          8298.00 8231.00
+                                                                           PD_N
+                                 U18.14          8248.00 8231.00
+                                                                      N14613330
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N13971549    pins MOVED FROM this net (to net name listed on right)
+                                 C71.2           8288.00 8347.00
+                                                                      N14612495
+                                 R142.2          8288.00 8477.00
+                                                                      N14612495
+                                 R144.1          8288.00 8412.00
+                                                                      N14612495
+                                 U18.12          8348.00 8231.00
+                                                                           PD_P
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N14612483    pins ADDED TO this new net
+                                 U20.1                          
+                                 U20.4                          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N14612495    pins ADDED TO this new net
+                                 U20.3                          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N14613330    pins ADDED TO this new net
+                                 C133.2                         
+                                 R131.1                         
+                                 R136.2                         
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N14613438    pins ADDED TO this new net
+                                 R132.1                         
+                                 R133.2                         
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N14613442    pins ADDED TO this new net
+                                 R133.1                         
+                                 R134.2                         
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N14613446    pins ADDED TO this new net
+                                 R134.1                         
+                                 R135.2                         
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N14613580    pins ADDED TO this new net
+                                 R137.1                         
+                                 R138.2                         
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   3  |
+|------------------------------------------------------------------------------|
+|  c:.../tida01606_powercard/board/solutionstida01606_powercard_rev8.brd       |
+|                                                    Mon Aug 23 16:13:37 2021  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+  N14613584    pins ADDED TO this new net
+                                 R138.1                         
+                                 R166.2                         
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N14613588    pins ADDED TO this new net
+                                 R166.1                         
+                                 R205.2                         
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  NEU          pins ADDED TO this existing net (pins not previously on any net)
+                                 RF4.2                          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  PD_N         pins ADDED TO this new net
+                                 C133.1                         
+                                 R131.2                         
+                                 R135.1                         
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  PD_P         pins ADDED TO this new net
+                                 R205.1                         
+                                 R206.1                         
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  PGND         pins ADDED TO this existing net (pins not previously on any net)
+                                 R137.2                         
+                                 RF4.1                          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  PH_A         pins ADDED TO this existing net (pins not previously on any net)
+                                 RF1.2                          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  PH_B         pins ADDED TO this existing net (pins not previously on any net)
+                                 RF2.2                          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  PH_C         pins ADDED TO this existing net (pins not previously on any net)
+                                 RF3.2                          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  VINV_A       pins ADDED TO this existing net (pins not previously on any net)
+                                 RF1.1                          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  VINV_B       pins ADDED TO this existing net (pins not previously on any net)
+                                 RF2.1                          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  VINV_C       pins ADDED TO this existing net (pins not previously on any net)
+                                 RF3.1                          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  VMID_SEN_C   pins ADDED TO this new net
+                                 C134.2                         
+                                 R136.1                         
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   4  |
+|------------------------------------------------------------------------------|
+|  c:.../tida01606_powercard/board/solutionstida01606_powercard_rev8.brd       |
+|                                                    Mon Aug 23 16:13:37 2021  |
+|------------------------------------------------------------------------------|
+| COMPONENT DEFINITION added to design                                         |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    device type                                                               |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ CAP NP_1210MODIFIED_4.7U 1210 100V
+ CAP NP_1210MODIFIED_10U 1210 35V
+ CAP NP_BOXCAPACITOR10MM_SLIM_0.1U 1206 50V
+ CAP NP_SNPD0805_MODIFIED_0.047U 0805 100V
+ CAP NP_SNPD0805_MODIFIED_2.2U 0805 10V
+ CAP NP_SNPD0805_MODIFIED_4.7U 0805 50V
+ CAP NP_SNPD1206_MODIFIED_10U 1206 25V
+ CAPACITOR NON-POL_BOXCAPACITOR10MM_0.068UF 630V TH
+ CAPACITOR NON-POL_BOXCAPACITOR15MM_0.15UF 630V TH
+ CAPACITOR NON-POL_BOXCAP_37_5MM_10UF TH
+ CAPACITOR NON-POL_CAP400_2200PF 3KV 20%
+ CAPACITOR NON-POL_RES0603_0.1UF 0603 25V
+ CAPACITOR NON-POL_RES0603_0.1UF 0603  25V
+ CAPACITOR NON-POL_RES0603_1U 0603 25V
+ CAPACITOR NON-POL_RES0603_1UF 0603 25V
+ CAPACITOR NON-POL_RES0603_82PF 0603 50V
+ CAPACITOR NON-POL_RES0603_82PF 0603  50V
+ CAPACITOR NON-POL_RES0603_100PF 0603 50V
+ CAPACITOR NON-POL_SNPD0805_MODIFIED_2.2UF 0805 10V
+ CAPACITOR NON-POL_SNPD1206_MODIFIED_10UF 1206 25V
+ CAPACITOR POL_0_CAP_B45_NCH_ELE 120UF 600V TH
+ CAP_CAPAE830X1050N_ELE 33U 20V SMD
+ CAP_CAPAE830X1050N_ELE 100U 50V SMD
+ CON2_2_CUI_PJ-002AH-SMT-TR_PJ-002AH-SMT-TR
+ CON2_3_RELAY_T9AS1D12-15_REV1_T9AS1D12-15
+ CON2_SIP_2PIN_BERGSTRIP_61300211121
+ CSD18534Q5A_TRANS_CSD18534Q5A_CSD18534Q5A
+ D1G2C1_0_SOT23_TL431_MMBZ27VALT1G
+ DIODE ZENER_DO214_REV3_BZV55C15-TP 15V
+ DIODE ZENER_SOD123_B0520LW-7-F 20V
+ DIODE ZENER_SOD123_MMSZ5232B-7-F 5.6V
+ DM3AT-SF-PEJM5_1_SOT95P280X145-6N_SN6505BDBVR
+ DM3AT-SF-PEJM5_2_SOT95P280X145-5N_TLV70450DBVR
+ DM3AT-SF-PEJM5_2_SOT223_4_TLV1117LV33DCYR
+ DM3AT-SF-PEJM5_3_VREG_PTH08080WAZT_PTH08080WAZT
+ DM3AT-SF-PEJM5_5_DDC0005A_N_REF2033AIDDCR
+ DM3AT-SF-PEJM5_6_RNP0030B_LM76003RNPR
+ FUSE_FUSE600_47
+ HEADER 4_0_NPTC041KFXC-RC_4PIN_NPTC041KFXC-RC
+ HEADER 4_1_JUMPER4MODIFIED_PPTC041LFBN-RC
+ HEADER 8X2_0_NPTC082KFMS-RC_NPTC082KFMS-RC
+ HEADER 30X2_1_HSEC8-130-01-L-DV-A_REV3_HSEC8-130-01-L-DV-A
+ HEADER 30X2_2_SAMTEC_HSEC8_160_REV1_HSEC8-160-01-L-DV-A-BL
+ IKW25T120_L2_5_TO247AC_IKW20N60TFKSA1
+ IKW25T120_L2_6_TO247AC_IKW20N60TFKSA1
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   5  |
+|------------------------------------------------------------------------------|
+|  c:.../tida01606_powercard/board/solutionstida01606_powercard_rev8.brd       |
+|                                                    Mon Aug 23 16:13:37 2021  |
+|------------------------------------------------------------------------------|
+| COMPONENT DEFINITION added to design                                         |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    device type                                                               |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ IKW25T120_L2_7_TO247AC_IKW20N60TFKSA1
+ IKW25T120_L2_8_TO247AC_IKW20N60TFKSA1
+ IKW25T120_L2_9_TO247AC_IKW20N60TFKSA1
+ IKW25T120_L2_10_TO247AC_IKW20N60TFKSA1
+ INDUCTOR IRON_INDUCTOR_SMD_PTH_22UH
+ INDUCTOR_CONN2_HIGHAMP_0.006E 15A
+ IRF1010E/TO_4_TO247AC_LSIC1MO120E0080
+ IRF1010E/TO_5_TO247AC_LSIC1MO120E0080
+ IRF1010E/TO_6_TO247AC_LSIC1MO120E0080
+ IRF1010E/TO_7_TO247AC_LSIC1MO120E0080
+ IRF1010E/TO_8_TO247AC_LSIC1MO120E0080
+ IRF1010E/TO_9_TO247AC_LSIC1MO120E0080
+ LED_LED0603_LED GREEN 150060VS55040
+ OPA340_0_DBV5_OPA340NA/250
+ RESISTOR_RES0603_10E 0603 5%
+ RESISTOR_RES0603_100K 0603 1%
+ RESISTOR_RES_PSR400IT_0.001E 1052 1%
+ RESISTOR_RES_SQM7_TYCO_0.68E 5% TH
+ RESISTOR_SNPD0805_MODIFIED_0E 0805 5%
+ RESISTOR_SNPD0805_MODIFIED_1K 0805 0.1%
+ RESISTOR_SNPD0805_MODIFIED_1M 0805 0.1%
+ RESISTOR_SNPD0805_MODIFIED_3.3K 0805 5%
+ RESISTOR_SNPD0805_MODIFIED_11K 0805 0.1%
+ RESISTOR_SNPD0805_MODIFIED_11K 0805 1%
+ RESISTOR_SNPD0805_MODIFIED_200E 0805 1%
+ RESISTOR_SNPD0805_MODIFIED_330E 0805 5%
+ RESISTOR_SNPD1206_MODIFIED_0E 1206 1%
+ RESISTOR_SNPD1206_MODIFIED_10K 1206 5%
+ SOCKET8_0_SOIC127P1150X280-8N_AMC1306M05DWVR
+ TRANSFORMER STEPUP_0_TOROID_SMD_6PIN_1123_340UH
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   6  |
+|------------------------------------------------------------------------------|
+|  c:.../tida01606_powercard/board/solutionstida01606_powercard_rev8.brd       |
+|                                                    Mon Aug 23 16:13:37 2021  |
+|------------------------------------------------------------------------------|
+| COMPONENTS DELETED from design                                               |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    ref des        |    device type      |   x   |   y                        |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ NT1                 JUMPER_3_NETTIE_JUMPER 7937.00 3177.00
+ NT2                 JUMPER_3_NETTIE_JUMPER 7904.00 5387.00
+ NT3                 JUMPER_3_NETTIE_JUMPER 8242.00 7329.00
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   7  |
+|------------------------------------------------------------------------------|
+|  c:.../tida01606_powercard/board/solutionstida01606_powercard_rev8.brd       |
+|                                                    Mon Aug 23 16:13:37 2021  |
+|------------------------------------------------------------------------------|
+| COMPONENTS ADDED to design                                                   |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    ref des        |    device type                                           |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ C131                CAPACITOR NON-POL_RES0603_0.1UF 0603 25V 
+ C133                CAPACITOR NON-POL_RES0603_100PF 0603 50V 
+ C134                CAPACITOR NON-POL_RES0603_0.1UF 0603 25V 
+ R131                RESISTOR_SNPD0805_MODIFIED_11K 0805 0.1% 
+ R132                RESISTOR_SNPD0805_MODIFIED_1M 0805 0.1% 
+ R133                RESISTOR_SNPD0805_MODIFIED_1M 0805 0.1% 
+ R134                RESISTOR_SNPD0805_MODIFIED_1M 0805 0.1% 
+ R135                RESISTOR_SNPD0805_MODIFIED_1K 0805 0.1% 
+ R136                RESISTOR_RES0603_68.1E 0603 1% 
+ R137                RESISTOR_SNPD0805_MODIFIED_1M 0805 0.1% 
+ R138                RESISTOR_SNPD0805_MODIFIED_1M 0805 0.1% 
+ R166                RESISTOR_SNPD0805_MODIFIED_1M 0805 0.1% 
+ R205                RESISTOR_SNPD0805_MODIFIED_1K 0805 0.1% 
+ R206                RESISTOR_SNPD0805_MODIFIED_11K 0805 0.1% 
+ RF1                 FUSE_FUSE600_47       
+ RF2                 FUSE_FUSE600_47       
+ RF3                 FUSE_FUSE600_47       
+ RF4                 FUSE_FUSE600_47       
+ U20                 OPA340_0_DBV5_OPA340NA/250 
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   8  |
+|------------------------------------------------------------------------------|
+|  c:.../tida01606_powercard/board/solutionstida01606_powercard_rev8.brd       |
+|                                                    Mon Aug 23 16:13:37 2021  |
+|------------------------------------------------------------------------------|
+| COMPONENTS CHANGED from one device type to another in design                 |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    ref des        | new device type     |   x   |   y   |  old  device type  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ C1                  CAPACITOR NON-POL_BOXCAPACITOR15MM_0.15UF 630V TH 8939.00 7069.00 CAPACITOR NON-POL_BOXCAPACITOR1
+ C2                  CAPACITOR NON-POL_BOXCAPACITOR15MM_0.15UF 630V TH 8939.00 5013.00 CAPACITOR NON-POL_BOXCAPACITOR1
+ C3                  CAPACITOR NON-POL_BOXCAPACITOR15MM_0.15UF 630V TH 8939.00 2956.00 CAPACITOR NON-POL_BOXCAPACITOR1
+ C4                  CAPACITOR POL_0_CAP_B45_NCH_ELE 120UF 600V TH 14040.0 6658.00 CAPACITOR POL_0_CAP_B45_NCH_ELE
+ C5                  CAPACITOR POL_0_CAP_B45_NCH_ELE 120UF 600V TH 14040.0 2834.00 CAPACITOR POL_0_CAP_B45_NCH_ELE
+ C6                  CAPACITOR POL_0_CAP_B45_NCH_ELE 120UF 600V TH 13030.7 2834.00 CAPACITOR POL_0_CAP_B45_NCH_ELE
+ C7                  CAPACITOR POL_0_CAP_B45_NCH_ELE 120UF 600V TH 13030.7 6658.00 CAPACITOR POL_0_CAP_B45_NCH_ELE
+ C8                  CAPACITOR NON-POL_BOXCAP_37_5MM_10UF TH 5202.00 2774.32 CAPACITOR NON-POL_BOXCAP_37_5MM
+ C9                  CAPACITOR NON-POL_BOXCAP_37_5MM_10UF TH 5202.00 5329.32 CAPACITOR NON-POL_BOXCAP_37_5MM
+ C10                 CAPACITOR NON-POL_BOXCAP_37_5MM_10UF TH 5202.00 7824.32 CAPACITOR NON-POL_BOXCAP_37_5MM
+ C11                 CAPACITOR NON-POL_BOXCAPACITOR15MM_0.15UF 630V TH 7476.00 1715.00 CAPACITOR NON-POL_BOXCAPACITOR1
+ C12                 CAPACITOR NON-POL_BOXCAPACITOR15MM_0.15UF 630V TH 7327.00 3771.00 CAPACITOR NON-POL_BOXCAPACITOR1
+ C13                 CAPACITOR NON-POL_BOXCAPACITOR15MM_0.15UF 630V TH 7327.00 5827.00 CAPACITOR NON-POL_BOXCAPACITOR1
+ C14                 CAPACITOR NON-POL_RES0603_0.1UF 0603 25V 3352.46 6936.00 CAPACITOR NON-POL_RES0603_0.1UF
+ C15                 CAPACITOR NON-POL_SNPD0805_MODIFIED_2.2UF 0805 10V 3350.40 6861.00 CAPACITOR NON-POL_SNPD0805_MODI
+ C16                 CAP NP_1210MODIFIED_10U 1210 35V 5016.00 1943.00 CAP NP_1210MODIFIED_10U 1210 35
+ C17                 CAP NP_1210MODIFIED_10U 1210 35V 5016.00 4503.99 CAP NP_1210MODIFIED_10U 1210 35
+ C18                 CAPACITOR NON-POL_RES0603_0.1UF 0603 25V 3492.00 7439.53 CAPACITOR NON-POL_RES0603_0.1UF
+ C20                 CAPACITOR NON-POL_SNPD0805_MODIFIED_2.2UF 0805 10V 3350.40 1813.00 CAPACITOR NON-POL_SNPD0805_MODI
+ C21                 CAPACITOR NON-POL_RES0603_0.1UF 0603 25V 3349.46 1889.00 CAPACITOR NON-POL_RES0603_0.1UF
+ C22                 CAPACITOR NON-POL_SNPD1206_MODIFIED_10UF 1206 25V 8280.00 3094.88 CAPACITOR NON-POL_SNPD1206_MODI
+ C23                 CAPACITOR NON-POL_RES0603_0.1UF 0603 25V 8185.00 3079.53 CAPACITOR NON-POL_RES0603_0.1UF
+ C24                 CAPACITOR NON-POL_SNPD1206_MODIFIED_10UF 1206 25V 8277.00 5148.88 CAPACITOR NON-POL_SNPD1206_MODI
+ C25                 CAPACITOR NON-POL_RES0603_0.1UF 0603 25V 8185.00 5135.53 CAPACITOR NON-POL_RES0603_0.1UF
+ C28                 CAPACITOR NON-POL_RES0603_0.1UF 0603 25V 3492.00 2391.53 CAPACITOR NON-POL_RES0603_0.1UF
+ C29                 CAPACITOR NON-POL_RES0603_0.1UF 0603 25V 3351.46 4439.00 CAPACITOR NON-POL_RES0603_0.1UF
+ C30                 CAPACITOR NON-POL_SNPD0805_MODIFIED_2.2UF 0805 10V 3349.40 4361.00 CAPACITOR NON-POL_SNPD0805_MODI
+ C31                 CAPACITOR NON-POL_SNPD1206_MODIFIED_10UF 1206 25V 8280.00 7206.88 CAPACITOR NON-POL_SNPD1206_MODI
+ C32                 CAPACITOR NON-POL_RES0603_0.1UF 0603 25V 8190.00 7190.53 CAPACITOR NON-POL_RES0603_0.1UF
+ C35                 CAPACITOR NON-POL_RES0603_0.1UF 0603  25V 3492.00 4939.53 CAPACITOR NON-POL_RES0603_0.1_1
+ C36                 CAPACITOR NON-POL_RES0603_0.1UF 0603 25V 10417.4 8395.00 CAPACITOR NON-POL_RES0603_0.1UF
+ C37                 CAPACITOR NON-POL_RES0603_1UF 0603 25V 10416.4 8332.00 CAPACITOR NON-POL_RES0603_1UF 0
+ C38                 CAP NP_SNPD0805_MODIFIED_2.2U 0805 10V 14894.4 8191.00 CAP NP_SNPD0805_MODIFIED_2.2U 0
+ C39                 CAPACITOR NON-POL_RES0603_0.1UF 0603 25V 11282.4 2583.00 CAPACITOR NON-POL_RES0603_0.1UF
+ C40                 CAPACITOR NON-POL_RES0603_0.1UF 0603 25V 10168.0 8349.46 CAPACITOR NON-POL_RES0603_0.1UF
+ C41                 CAPACITOR NON-POL_RES0603_0.1UF 0603 25V 10598.0 8347.46 CAPACITOR NON-POL_RES0603_0.1UF
+ C42                 CAPACITOR NON-POL_RES0603_0.1UF 0603 25V 11252.0 4673.46 CAPACITOR NON-POL_RES0603_0.1UF
+ C43                 CAP NP_SNPD1206_MODIFIED_10U 1206 25V 11850.1 8164.00 CAP NP_SNPD1206_MODIFIED_10U 12
+ C45                 CAPACITOR NON-POL_RES0603_0.1UF 0603 25V 10073.0 7867.53 CAPACITOR NON-POL_RES0603_0.1UF
+ C46                 CAPACITOR NON-POL_RES0603_0.1UF 0603 25V 9148.00 9235.53 CAPACITOR NON-POL_RES0603_0.1UF
+ C47                 CAPACITOR NON-POL_RES0603_0.1UF 0603 25V 8119.00 8133.46 CAPACITOR NON-POL_RES0603_0.1UF
+ C48                 CAP_CAPAE830X1050N_ELE 33U 20V SMD 13670.0 8106.15 CAP_CAPAE830X1050N_ELE 33U 20V
+ C49                 CAP NP_SNPD1206_MODIFIED_10U 1206 25V 11586.0 8455.88 CAP NP_SNPD1206_MODIFIED_10U 12
+ C50                 CAPACITOR NON-POL_RES0603_0.1UF 0603 25V 11254.0 6729.46 CAPACITOR NON-POL_RES0603_0.1UF
+ C51                 CAPACITOR NON-POL_RES0603_0.1UF 0603 25V 8078.00 7901.46 CAPACITOR NON-POL_RES0603_0.1UF
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   9  |
+|------------------------------------------------------------------------------|
+|  c:.../tida01606_powercard/board/solutionstida01606_powercard_rev8.brd       |
+|                                                    Mon Aug 23 16:13:37 2021  |
+|------------------------------------------------------------------------------|
+| COMPONENTS CHANGED from one device type to another in design                 |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    ref des        | new device type     |   x   |   y   |  old  device type  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ C52                 CAPACITOR NON-POL_RES0603_0.1UF 0603 25V 7578.00 8444.53 CAPACITOR NON-POL_RES0603_0.1UF
+ C53                 CAPACITOR NON-POL_RES0603_0.1UF 0603 25V 7791.46 8349.00 CAPACITOR NON-POL_RES0603_0.1UF
+ C54                 CAPACITOR NON-POL_RES0603_0.1UF 0603 25V 8773.00 7897.53 CAPACITOR NON-POL_RES0603_0.1UF
+ C55                 CAPACITOR NON-POL_RES0603_0.1UF 0603 25V 8730.00 8378.46 CAPACITOR NON-POL_RES0603_0.1UF
+ C56                 CAPACITOR NON-POL_RES0603_1UF 0603 25V 8184.00 8133.46 CAPACITOR NON-POL_RES0603_1UF 0
+ C57                 CAPACITOR NON-POL_RES0603_0.1UF 0603 25V 9298.00 8124.53 CAPACITOR NON-POL_RES0603_0.1UF
+ C58                 CAPACITOR NON-POL_RES0603_1UF 0603 25V 9363.00 8124.53 CAPACITOR NON-POL_RES0603_1UF 0
+ C59                 CAPACITOR NON-POL_RES0603_0.1UF 0603 25V 9320.00 7995.53 CAPACITOR NON-POL_RES0603_0.1UF
+ C60                 CAPACITOR NON-POL_RES0603_0.1UF 0603 25V 9954.00 7892.53 CAPACITOR NON-POL_RES0603_0.1UF
+ C61                 CAP_CAPAE830X1050N_ELE 100U 50V SMD 12242.0 8752.84 CAP_CAPAE830X1050N_ELE 100U 50V
+ C62                 CAP_CAPAE830X1050N_ELE 100U 50V SMD 12241.0 8288.15 CAP_CAPAE830X1050N_ELE 100U 50V
+ C63                 CAPACITOR NON-POL_RES0603_0.1UF 0603 25V 9914.00 8404.53 CAPACITOR NON-POL_RES0603_0.1UF
+ C65                 CAP NP_BOXCAPACITOR10MM_SLIM_0.1U 1206 50V 4397.00 1664.00 CAP NP_BOXCAPACITOR10MM_SLIM_0.
+ C67                 CAP NP_BOXCAPACITOR10MM_SLIM_0.1U 1206 50V 4405.00 4212.00 CAP NP_BOXCAPACITOR10MM_SLIM_0.
+ C68                 CAP NP_BOXCAPACITOR10MM_SLIM_0.1U 1206 50V 4401.00 6714.00 CAP NP_BOXCAPACITOR10MM_SLIM_0.
+ C69                 CAPACITOR NON-POL_RES0603_0.1UF 0603 25V 9501.46 8342.00 CAPACITOR NON-POL_RES0603_0.1UF
+ C70                 CAPACITOR NON-POL_RES0603_0.1UF 0603 25V 9335.00 8373.46 CAPACITOR NON-POL_RES0603_0.1UF
+ C71                 CAPACITOR NON-POL_RES0603_0.1UF 0603 25V 8321.46 8347.00 CAPACITOR NON-POL_RES0603_0.1UF
+ C72                 CAPACITOR NON-POL_RES0603_0.1UF 0603 25V 8154.00 8378.46 CAPACITOR NON-POL_RES0603_0.1UF
+ C73                 CAPACITOR POL_0_CAP_B45_NCH_ELE 120UF 600V TH 14040.0 5384.00 CAPACITOR POL_0_CAP_B45_NCH_ELE
+ C74                 CAPACITOR POL_0_CAP_B45_NCH_ELE 120UF 600V TH 14040.0 4109.00 CAPACITOR POL_0_CAP_B45_NCH_ELE
+ C75                 CAPACITOR POL_0_CAP_B45_NCH_ELE 120UF 600V TH 13030.7 4109.00 CAPACITOR POL_0_CAP_B45_NCH_ELE
+ C76                 CAPACITOR POL_0_CAP_B45_NCH_ELE 120UF 600V TH 13025.7 5384.00 CAPACITOR POL_0_CAP_B45_NCH_ELE
+ C77                 CAPACITOR NON-POL_RES0603_100PF 0603 50V 10598.0 8214.46 CAPACITOR NON-POL_RES0603_100PF
+ C78                 CAPACITOR NON-POL_RES0603_82PF 0603 50V 3318.46 2529.00 CAPACITOR NON-POL_RES0603_82PF
+ C79                 CAPACITOR NON-POL_RES0603_100PF 0603 50V 10168.0 8209.46 CAPACITOR NON-POL_RES0603_100PF
+ C80                 CAPACITOR NON-POL_RES0603_82PF 0603  50V 3314.53 5079.00 CAPACITOR NON-POL_RES0603_82P_1
+ C81                 CAPACITOR NON-POL_RES0603_100PF 0603 50V 10245.4 7900.00 CAPACITOR NON-POL_RES0603_100PF
+ C82                 CAPACITOR NON-POL_RES0603_82PF 0603 50V 3318.46 7579.00 CAPACITOR NON-POL_RES0603_82PF
+ C83                 CAPACITOR NON-POL_RES0603_100PF 0603 50V 8268.46 7947.00 CAPACITOR NON-POL_RES0603_100PF
+ C84                 CAPACITOR NON-POL_RES0603_100PF 0603 50V 9445.53 7942.00 CAPACITOR NON-POL_RES0603_100PF
+ C85                 CAPACITOR NON-POL_RES0603_100PF 0603 50V 8589.46 7947.00 CAPACITOR NON-POL_RES0603_100PF
+ C86                 CAPACITOR NON-POL_RES0603_100PF 0603 50V 9770.46 7942.00 CAPACITOR NON-POL_RES0603_100PF
+ C87                 CAPACITOR NON-POL_RES0603_100PF 0603 50V 8543.46 8348.00 CAPACITOR NON-POL_RES0603_100PF
+ C88                 CAPACITOR NON-POL_RES0603_100PF 0603 50V 9724.46 8343.00 CAPACITOR NON-POL_RES0603_100PF
+ C90                 CAPACITOR NON-POL_RES0603_0.1UF 0603 25V 11013.5 2418.00 CAPACITOR NON-POL_RES0603_0.1UF
+ C91                 CAPACITOR NON-POL_RES0603_0.1UF 0603 25V 11155.4 4568.00 CAPACITOR NON-POL_RES0603_0.1UF
+ C92                 CAPACITOR NON-POL_RES0603_0.1UF 0603 25V 11013.5 6563.00 CAPACITOR NON-POL_RES0603_0.1UF
+ C93                 CAP NP_1210MODIFIED_10U 1210 35V 4202.99 1924.00 CAP NP_1210MODIFIED_10U 1210 35
+ C95                 CAP NP_1210MODIFIED_10U 1210 35V 4191.00 4474.00 CAP NP_1210MODIFIED_10U 1210 35
+ C97                 CAP NP_1210MODIFIED_10U 1210 35V 3987.00 1888.99 CAP NP_1210MODIFIED_10U 1210 35
+ C98                 CAP NP_1210MODIFIED_10U 1210 35V 3987.00 4438.99 CAP NP_1210MODIFIED_10U 1210 35
+ C101                CAP NP_SNPD0805_MODIFIED_4.7U 0805 50V 3909.59 2189.00 CAP NP_SNPD0805_MODIFIED_4.7U 0
+ C102                CAP NP_SNPD0805_MODIFIED_4.7U 0805 50V 3909.59 4739.00 CAP NP_SNPD0805_MODIFIED_4.7U 0
+ C105                CAP NP_1210MODIFIED_10U 1210 35V 3886.00 2069.00 CAP NP_1210MODIFIED_10U 1210 35
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page  10  |
+|------------------------------------------------------------------------------|
+|  c:.../tida01606_powercard/board/solutionstida01606_powercard_rev8.brd       |
+|                                                    Mon Aug 23 16:13:37 2021  |
+|------------------------------------------------------------------------------|
+| COMPONENTS CHANGED from one device type to another in design                 |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    ref des        | new device type     |   x   |   y   |  old  device type  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ C106                CAP NP_1210MODIFIED_10U 1210 35V 3886.00 4619.00 CAP NP_1210MODIFIED_10U 1210 35
+ C107                CAP NP_1210MODIFIED_10U 1210 35V 5016.00 6993.00 CAP NP_1210MODIFIED_10U 1210 35
+ C110                CAP NP_1210MODIFIED_10U 1210 35V 4191.00 6974.00 CAP NP_1210MODIFIED_10U 1210 35
+ C112                CAP NP_1210MODIFIED_10U 1210 35V 3987.00 6928.00 CAP NP_1210MODIFIED_10U 1210 35
+ C114                CAP NP_SNPD0805_MODIFIED_4.7U 0805 50V 3909.59 7239.00 CAP NP_SNPD0805_MODIFIED_4.7U 0
+ C116                CAP NP_1210MODIFIED_10U 1210 35V 3886.00 7119.00 CAP NP_1210MODIFIED_10U 1210 35
+ C117                CAPACITOR NON-POL_RES0603_1U 0603 25V 11970.0 7963.53 CAPACITOR NON-POL_RES0603_1U 06
+ C118                CAPACITOR NON-POL_RES0603_100PF 0603 50V 12213.0 7954.46 CAPACITOR NON-POL_RES0603_100PF
+ C120                CAPACITOR NON-POL_BOXCAPACITOR10MM_0.068UF 630V TH 8940.00 7183.00 CAPACITOR NON-POL_BOXCAPACITO_1
+ C121                CAPACITOR NON-POL_BOXCAPACITOR10MM_0.068UF 630V TH 8940.00 5127.00 CAPACITOR NON-POL_BOXCAPACITO_1
+ C122                CAPACITOR NON-POL_BOXCAPACITOR10MM_0.068UF 630V TH 8940.00 3071.00 CAPACITOR NON-POL_BOXCAPACITO_1
+ C123                CAP NP_1210MODIFIED_4.7U 1210 100V 14692.9 8718.00 CAP NP_1210MODIFIED_4.7U 1210 1
+ C124                CAP NP_SNPD0805_MODIFIED_0.047U 0805 100V 14701.4 8606.00 CAP NP_SNPD0805_MODIFIED_0.047U
+ C125                CAP NP_SNPD0805_MODIFIED_4.7U 0805 50V 14893.4 8278.00 CAP NP_SNPD0805_MODIFIED_4.7U 0
+ C126                CAP_CAPAE830X1050N_ELE 33U 20V SMD 14023.0 8105.15 CAP_CAPAE830X1050N_ELE 33U 20V
+ C127                CAPACITOR NON-POL_BOXCAPACITOR10MM_0.068UF 630V TH 7425.00 5827.00 CAPACITOR NON-POL_BOXCAPACITO_1
+ C128                CAPACITOR NON-POL_BOXCAPACITOR10MM_0.068UF 630V TH 7574.00 1715.00 CAPACITOR NON-POL_BOXCAPACITO_1
+ C129                CAPACITOR NON-POL_BOXCAPACITOR10MM_0.068UF 630V TH 7419.00 3771.00 CAPACITOR NON-POL_BOXCAPACITO_1
+ C130                CAPACITOR NON-POL_CAP400_2200PF 3KV 20% 6390.00 8481.00 CAPACITOR NON-POL_CAP400_2200PF
+ D1                  DIODE ZENER_DO214_REV3_BZV55C15-TP 15V 2568.86 4636.00 DIODE ZENER_DO214_REV3_BZV55C15
+ D2                  DIODE ZENER_DO214_REV3_BZV55C15-TP 15V 2562.13 6583.00 DIODE ZENER_DO214_REV3_BZV55C15
+ D4                  DIODE ZENER_DO214_REV3_BZV55C15-TP 15V 2562.13 8799.00 DIODE ZENER_DO214_REV3_BZV55C15
+ D5                  DIODE ZENER_DO214_REV3_BZV55C15-TP 15V 2563.00 3014.00 DIODE ZENER_DO214_REV3_BZV55C15
+ D9                  DIODE ZENER_SOD123_B0520LW-7-F 20V 4143.00 1809.00 DIODE ZENER_SOD123_B0520LW-7-F
+ D11                 DIODE ZENER_SOD123_B0520LW-7-F 20V 4134.00 4359.00 DIODE ZENER_SOD123_B0520LW-7-F
+ D12                 D1G2C1_0_SOT23_TL431_MMBZ27VALT1G 3135.75 2586.00 D1G2C1_0_SOT23_TL431_MMBZ27VALT
+ D18                 LED_LED0603_LED GREEN 150060VS55040 12744.5 8148.00 LED_LED0603_LED GREEN 150060VS5
+ D19                 LED_LED0603_LED GREEN 150060VS55040 11506.0 8350.47 LED_LED0603_LED GREEN 150060VS5
+ D24                 DIODE ZENER_SOD123_B0520LW-7-F 20V 4143.00 2099.00 DIODE ZENER_SOD123_B0520LW-7-F
+ D25                 DIODE ZENER_SOD123_B0520LW-7-F 20V 4134.00 4649.00 DIODE ZENER_SOD123_B0520LW-7-F
+ D26                 LED_LED0603_LED GREEN 150060VS55040 3667.00 2181.47 LED_LED0603_LED GREEN 150060VS5
+ D27                 LED_LED0603_LED GREEN 150060VS55040 3667.00 4731.47 LED_LED0603_LED GREEN 150060VS5
+ D28                 DIODE ZENER_SOD123_MMSZ5232B-7-F 5.6V 3767.00 2347.00 DIODE ZENER_SOD123_MMSZ5232B-7-
+ D29                 DIODE ZENER_SOD123_MMSZ5232B-7-F 5.6V 3767.00 4888.00 DIODE ZENER_SOD123_MMSZ5232B-7-
+ D30                 DIODE ZENER_SOD123_B0520LW-7-F 20V 4134.00 6859.00 DIODE ZENER_SOD123_B0520LW-7-F
+ D31                 DIODE ZENER_SOD123_B0520LW-7-F 20V 4134.00 7149.00 DIODE ZENER_SOD123_B0520LW-7-F
+ D32                 LED_LED0603_LED GREEN 150060VS55040 3667.00 7231.47 LED_LED0603_LED GREEN 150060VS5
+ D33                 DIODE ZENER_SOD123_MMSZ5232B-7-F 5.6V 3767.00 7388.00 DIODE ZENER_SOD123_MMSZ5232B-7-
+ J5                  HEADER 30X2_2_SAMTEC_HSEC8_160_REV1_HSEC8-160-01-L-DV-A-BL 8868.88 8969.51 HEADER 30X2_2_SAMTEC_HSEC8_160_
+ J7                  HEADER 4_0_NPTC041KFXC-RC_4PIN_NPTC041KFXC-RC 10293.0 2187.00 HEADER 4_0_NPTC041KFXC-RC_4PIN_
+ J9                  HEADER 4_0_NPTC041KFXC-RC_4PIN_NPTC041KFXC-RC 7402.00 4243.00 HEADER 4_0_NPTC041KFXC-RC_4PIN_
+ J10                 CON2_SIP_2PIN_BERGSTRIP_61300211121 9425.00 9227.00 CON2_SIP_2PIN_BERGSTRIP_6130021
+ J11                 CON2_SIP_2PIN_BERGSTRIP_61300211121 9706.00 9323.00 CON2_SIP_2PIN_BERGSTRIP_6130021
+ J12                 HEADER 4_0_NPTC041KFXC-RC_4PIN_NPTC041KFXC-RC 7402.00 6299.00 HEADER 4_0_NPTC041KFXC-RC_4PIN_
+ J13                 HEADER 30X2_1_HSEC8-130-01-L-DV-A_REV3_HSEC8-130-01-L-DV-A 11207.2 8969.51 HEADER 30X2_1_HSEC8-130-01-L-DV
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page  11  |
+|------------------------------------------------------------------------------|
+|  c:.../tida01606_powercard/board/solutionstida01606_powercard_rev8.brd       |
+|                                                    Mon Aug 23 16:13:37 2021  |
+|------------------------------------------------------------------------------|
+| COMPONENTS CHANGED from one device type to another in design                 |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    ref des        | new device type     |   x   |   y   |  old  device type  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ J14                 HEADER 4_0_NPTC041KFXC-RC_4PIN_NPTC041KFXC-RC 9329.00 2187.00 HEADER 4_0_NPTC041KFXC-RC_4PIN_
+ J15                 HEADER 4_0_NPTC041KFXC-RC_4PIN_NPTC041KFXC-RC 8366.00 4243.00 HEADER 4_0_NPTC041KFXC-RC_4PIN_
+ J16                 HEADER 4_0_NPTC041KFXC-RC_4PIN_NPTC041KFXC-RC 8366.00 6299.00 HEADER 4_0_NPTC041KFXC-RC_4PIN_
+ J17                 HEADER 4_0_NPTC041KFXC-RC_4PIN_NPTC041KFXC-RC 8366.00 2187.00 HEADER 4_0_NPTC041KFXC-RC_4PIN_
+ J18                 HEADER 4_0_NPTC041KFXC-RC_4PIN_NPTC041KFXC-RC 9329.00 4243.00 HEADER 4_0_NPTC041KFXC-RC_4PIN_
+ J19                 HEADER 4_0_NPTC041KFXC-RC_4PIN_NPTC041KFXC-RC 9329.00 6299.00 HEADER 4_0_NPTC041KFXC-RC_4PIN_
+ J20                 HEADER 4_0_NPTC041KFXC-RC_4PIN_NPTC041KFXC-RC 7402.00 2187.00 HEADER 4_0_NPTC041KFXC-RC_4PIN_
+ J21                 HEADER 4_0_NPTC041KFXC-RC_4PIN_NPTC041KFXC-RC 10293.0 4243.00 HEADER 4_0_NPTC041KFXC-RC_4PIN_
+ J22                 HEADER 4_0_NPTC041KFXC-RC_4PIN_NPTC041KFXC-RC 10293.0 6299.00 HEADER 4_0_NPTC041KFXC-RC_4PIN_
+ J23                 HEADER 8X2_0_NPTC082KFMS-RC_NPTC082KFMS-RC 11025.0 2172.00 HEADER 8X2_0_NPTC082KFMS-RC_NPT
+ J24                 HEADER 8X2_0_NPTC082KFMS-RC_NPTC082KFMS-RC 11025.0 4228.00 HEADER 8X2_0_NPTC082KFMS-RC_NPT
+ J25                 HEADER 8X2_0_NPTC082KFMS-RC_NPTC082KFMS-RC 11025.0 6285.00 HEADER 8X2_0_NPTC082KFMS-RC_NPT
+ J26                 CON2_SIP_2PIN_BERGSTRIP_61300211121 13403.0 7864.00 CON2_SIP_2PIN_BERGSTRIP_6130021
+ J28                 CON2_SIP_2PIN_BERGSTRIP_61300211121 13403.0 8018.00 CON2_SIP_2PIN_BERGSTRIP_6130021
+ J33                 CON2_2_CUI_PJ-002AH-SMT-TR_PJ-002AH-SMT-TR 13383.7 9083.11 CON2_2_CUI_PJ-002AH-SMT-TR_PJ-0
+ J34                 CON2_SIP_2PIN_BERGSTRIP_61300211121 13754.0 8776.00 CON2_SIP_2PIN_BERGSTRIP_6130021
+ J38                 HEADER 4_1_JUMPER4MODIFIED_PPTC041LFBN-RC 12982.0 7576.00 HEADER 4_1_JUMPER4MODIFIED_PPTC
+ K1                  CON2_3_RELAY_T9AS1D12-15_REV1_T9AS1D12-15 2632.00 4266.00 CON2_3_RELAY_T9AS1D12-15_REV1_T
+ K2                  CON2_3_RELAY_T9AS1D12-15_REV1_T9AS1D12-15 2637.00 6213.00 CON2_3_RELAY_T9AS1D12-15_REV1_T
+ K3                  CON2_3_RELAY_T9AS1D12-15_REV1_T9AS1D12-15 2632.00 8429.00 CON2_3_RELAY_T9AS1D12-15_REV1_T
+ K4                  CON2_3_RELAY_T9AS1D12-15_REV1_T9AS1D12-15 2632.00 2644.00 CON2_3_RELAY_T9AS1D12-15_REV1_T
+ L2                  INDUCTOR_CONN2_HIGHAMP_0.006E 15A 3940.00 2884.00 INDUCTOR_CONN2_HIGHAMP_0.006E 1
+ L4                  INDUCTOR_CONN2_HIGHAMP_0.006E 15A 3940.00 5434.00 INDUCTOR_CONN2_HIGHAMP_0.006E 1
+ L6                  INDUCTOR_CONN2_HIGHAMP_0.006E 15A 3940.00 7934.00 INDUCTOR_CONN2_HIGHAMP_0.006E 1
+ L16                 INDUCTOR IRON_INDUCTOR_SMD_PTH_22UH 14702.0 8002.00 INDUCTOR IRON_INDUCTOR_SMD_PTH_
+ Q1                  IRF1010E/TO_4_TO247AC_LSIC1MO120E0080 8251.00 2442.00 IRF1010E/TO_4_TO247AC_LSIC1MO12
+ Q2                  IRF1010E/TO_7_TO247AC_LSIC1MO120E0080 7287.00 2442.00 IRF1010E/TO_7_TO247AC_LSIC1MO12
+ Q3                  IKW25T120_L2_6_TO247AC_IKW20N60TFKSA1 9214.00 2442.00 IKW25T120_L2_6_TO247AC_IKW20N60
+ Q4                  IKW25T120_L2_5_TO247AC_IKW20N60TFKSA1 10178.0 2442.00 IKW25T120_L2_5_TO247AC_IKW20N60
+ Q5                  IRF1010E/TO_5_TO247AC_LSIC1MO120E0080 8251.00 4498.00 IRF1010E/TO_5_TO247AC_LSIC1MO12
+ Q6                  IRF1010E/TO_8_TO247AC_LSIC1MO120E0080 7287.00 4498.00 IRF1010E/TO_8_TO247AC_LSIC1MO12
+ Q7                  IKW25T120_L2_8_TO247AC_IKW20N60TFKSA1 9214.00 4498.00 IKW25T120_L2_8_TO247AC_IKW20N60
+ Q8                  IKW25T120_L2_7_TO247AC_IKW20N60TFKSA1 10178.0 4498.00 IKW25T120_L2_7_TO247AC_IKW20N60
+ Q9                  IRF1010E/TO_6_TO247AC_LSIC1MO120E0080 8251.00 6555.00 IRF1010E/TO_6_TO247AC_LSIC1MO12
+ Q10                 IRF1010E/TO_9_TO247AC_LSIC1MO120E0080 7287.00 6555.00 IRF1010E/TO_9_TO247AC_LSIC1MO12
+ Q11                 IKW25T120_L2_10_TO247AC_IKW20N60TFKSA1 9214.00 6555.00 IKW25T120_L2_10_TO247AC_IKW20N6
+ Q12                 IKW25T120_L2_9_TO247AC_IKW20N60TFKSA1 10178.0 6555.00 IKW25T120_L2_9_TO247AC_IKW20N60
+ Q13                 CSD18534Q5A_TRANS_CSD18534Q5A_CSD18534Q5A 13208.0 7815.00 CSD18534Q5A_TRANS_CSD18534Q5A_C
+ Q14                 CSD18534Q5A_TRANS_CSD18534Q5A_CSD18534Q5A 13209.0 8131.00 CSD18534Q5A_TRANS_CSD18534Q5A_C
+ R5                  RESISTOR_RES_PSR400IT_0.001E 1052 1% 3312.00 2884.00 RESISTOR_RES_PSR400IT_0.001E 10
+ R16                 RESISTOR_RES_SQM7_TYCO_0.68E 5% TH 5992.00 3547.00 RESISTOR_RES_SQM7_TYCO_0.68E 5%
+ R17                 RESISTOR_RES_SQM7_TYCO_0.68E 5% TH 5992.00 6107.00 RESISTOR_RES_SQM7_TYCO_0.68E 5%
+ R18                 RESISTOR_RES_SQM7_TYCO_0.68E 5% TH 5992.00 8597.00 RESISTOR_RES_SQM7_TYCO_0.68E 5%
+ R25                 RESISTOR_RES0603_100K 0603 1% 10103.0 8209.46 RESISTOR_RES0603_34.0K 0603 1%
+ R26                 RESISTOR_RES0603_100K 0603 1% 10663.0 8214.46 RESISTOR_RES0603_34.0K 0603 1%
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page  12  |
+|------------------------------------------------------------------------------|
+|  c:.../tida01606_powercard/board/solutionstida01606_powercard_rev8.brd       |
+|                                                    Mon Aug 23 16:13:37 2021  |
+|------------------------------------------------------------------------------|
+| COMPONENTS CHANGED from one device type to another in design                 |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    ref des        | new device type     |   x   |   y   |  old  device type  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ R31                 RESISTOR_RES0603_100K 0603 1% 10245.4 7837.00 RESISTOR_RES0603_34.0K 0603 1%
+ R35                 RESISTOR_SNPD0805_MODIFIED_3.3K 0805 5% 9264.40 9287.00 RESISTOR_SNPD0805_MODIFIED_3.3K
+ R39                 RESISTOR_SNPD0805_MODIFIED_11K 0805 0.1% 8252.40 7869.00 RESISTOR_SNPD0805_MODIFIED_11K
+ R41                 RESISTOR_RES_PSR400IT_0.001E 1052 1% 3312.00 5434.00 RESISTOR_RES_PSR400IT_0.001E 10
+ R42                 RESISTOR_SNPD0805_MODIFIED_1M 0805 0.1% 1420.00 4168.40 RESISTOR_SNPD0805_MODIFIED_1M 0
+ R43                 RESISTOR_SNPD0805_MODIFIED_1M 0805 0.1% 1420.00 4328.40 RESISTOR_SNPD0805_MODIFIED_1M 0
+ R44                 RESISTOR_SNPD0805_MODIFIED_1M 0805 0.1% 1420.00 4488.40 RESISTOR_SNPD0805_MODIFIED_1M 0
+ R45                 RESISTOR_SNPD0805_MODIFIED_1K 0805 0.1% 1420.00 4648.40 RESISTOR_SNPD0805_MODIFIED_1K 0
+ R47                 RESISTOR_RES_PSR400IT_0.001E 1052 1% 3321.00 7934.00 RESISTOR_RES_PSR400IT_0.001E 10
+ R48                 RESISTOR_SNPD0805_MODIFIED_1M 0805 0.1% 1670.00 4168.40 RESISTOR_SNPD0805_MODIFIED_1M 0
+ R49                 RESISTOR_SNPD0805_MODIFIED_1M 0805 0.1% 1670.00 4328.40 RESISTOR_SNPD0805_MODIFIED_1M 0
+ R50                 RESISTOR_SNPD0805_MODIFIED_1M 0805 0.1% 1670.00 4488.40 RESISTOR_SNPD0805_MODIFIED_1M 0
+ R51                 RESISTOR_SNPD0805_MODIFIED_1K 0805 0.1% 1670.00 4648.40 RESISTOR_SNPD0805_MODIFIED_1K 0
+ R56                 RESISTOR_SNPD0805_MODIFIED_11K 0805 0.1% 8381.00 7902.59 RESISTOR_SNPD0805_MODIFIED_11K
+ R59                 RESISTOR_SNPD0805_MODIFIED_200E 0805 1% 12923.0 7802.59 RESISTOR_SNPD0805_MODIFIED_200E
+ R61                 RESISTOR_SNPD0805_MODIFIED_11K 0805 1% 8597.40 7857.00 RESISTOR_SNPD0805_MODIFIED_11_1
+ R66                 RESISTOR_SNPD0805_MODIFIED_200E 0805 1% 12909.0 8119.59 RESISTOR_SNPD0805_MODIFIED_200E
+ R67                 RESISTOR_SNPD0805_MODIFIED_1M 0805 0.1% 1425.00 6135.40 RESISTOR_SNPD0805_MODIFIED_1M 0
+ R68                 RESISTOR_SNPD0805_MODIFIED_1M 0805 0.1% 1425.00 6295.40 RESISTOR_SNPD0805_MODIFIED_1M 0
+ R69                 RESISTOR_SNPD0805_MODIFIED_1M 0805 0.1% 1425.00 6455.40 RESISTOR_SNPD0805_MODIFIED_1M 0
+ R70                 RESISTOR_SNPD0805_MODIFIED_1K 0805 0.1% 1425.00 6615.40 RESISTOR_SNPD0805_MODIFIED_1K 0
+ R72                 RESISTOR_SNPD0805_MODIFIED_330E 0805 5% 13242.0 8498.40 RESISTOR_SNPD0805_MODIFIED_330E
+ R73                 RESISTOR_SNPD0805_MODIFIED_1M 0805 0.1% 1675.00 6295.40 RESISTOR_SNPD0805_MODIFIED_1M 0
+ R74                 RESISTOR_SNPD0805_MODIFIED_1M 0805 0.1% 1675.00 6455.40 RESISTOR_SNPD0805_MODIFIED_1M 0
+ R75                 RESISTOR_SNPD0805_MODIFIED_1K 0805 0.1% 1675.00 6615.40 RESISTOR_SNPD0805_MODIFIED_1K 0
+ R78                 RESISTOR_SNPD0805_MODIFIED_11K 0805 0.1% 8470.00 7903.59 RESISTOR_SNPD0805_MODIFIED_11K
+ R79                 RESISTOR_SNPD0805_MODIFIED_11K 0805 0.1% 8551.40 8429.00 RESISTOR_SNPD0805_MODIFIED_11K
+ R80                 RESISTOR_SNPD0805_MODIFIED_1M 0805 0.1% 1417.00 8292.40 RESISTOR_SNPD0805_MODIFIED_1M 0
+ R81                 RESISTOR_SNPD0805_MODIFIED_1M 0805 0.1% 1417.00 8452.40 RESISTOR_SNPD0805_MODIFIED_1M 0
+ R82                 RESISTOR_SNPD0805_MODIFIED_1M 0805 0.1% 1417.00 8612.40 RESISTOR_SNPD0805_MODIFIED_1M 0
+ R83                 RESISTOR_SNPD0805_MODIFIED_1K 0805 0.1% 1417.00 8772.40 RESISTOR_SNPD0805_MODIFIED_1K 0
+ R85                 RESISTOR_SNPD0805_MODIFIED_1M 0805 0.1% 1670.00 8295.40 RESISTOR_SNPD0805_MODIFIED_1M 0
+ R86                 RESISTOR_SNPD0805_MODIFIED_1M 0805 0.1% 1670.00 8455.40 RESISTOR_SNPD0805_MODIFIED_1M 0
+ R87                 RESISTOR_SNPD0805_MODIFIED_1M 0805 0.1% 1670.00 8615.40 RESISTOR_SNPD0805_MODIFIED_1M 0
+ R88                 RESISTOR_SNPD0805_MODIFIED_1K 0805 0.1% 1670.00 8775.40 RESISTOR_SNPD0805_MODIFIED_1K 0
+ R89                 RESISTOR_SNPD0805_MODIFIED_11K 0805 0.1% 8428.00 8392.40 RESISTOR_SNPD0805_MODIFIED_11K
+ R94                 RESISTOR_SNPD0805_MODIFIED_11K 0805 0.1% 9438.59 7864.00 RESISTOR_SNPD0805_MODIFIED_11K
+ R95                 RESISTOR_SNPD0805_MODIFIED_1M 0805 0.1% 3077.00 3561.40 RESISTOR_SNPD0805_MODIFIED_1M 0
+ R96                 RESISTOR_SNPD0805_MODIFIED_1M 0805 0.1% 3077.00 3711.40 RESISTOR_SNPD0805_MODIFIED_1M 0
+ R97                 RESISTOR_SNPD0805_MODIFIED_1M 0805 0.1% 3077.00 3861.40 RESISTOR_SNPD0805_MODIFIED_1M 0
+ R98                 RESISTOR_SNPD0805_MODIFIED_1K 0805 0.1% 3077.00 4011.40 RESISTOR_SNPD0805_MODIFIED_1M 0
+ R100                RESISTOR_SNPD0805_MODIFIED_1M 0805 0.1% 3307.00 3561.40 RESISTOR_SNPD0805_MODIFIED_1M 0
+ R101                RESISTOR_SNPD0805_MODIFIED_1M 0805 0.1% 3307.00 3711.40 RESISTOR_SNPD0805_MODIFIED_1M 0
+ R102                RESISTOR_SNPD0805_MODIFIED_1M 0805 0.1% 3307.00 3861.40 RESISTOR_SNPD0805_MODIFIED_1M 0
+ R103                RESISTOR_SNPD0805_MODIFIED_1K 0805 0.1% 3307.00 4011.40 RESISTOR_SNPD0805_MODIFIED_1M 0
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page  13  |
+|------------------------------------------------------------------------------|
+|  c:.../tida01606_powercard/board/solutionstida01606_powercard_rev8.brd       |
+|                                                    Mon Aug 23 16:13:37 2021  |
+|------------------------------------------------------------------------------|
+| COMPONENTS CHANGED from one device type to another in design                 |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    ref des        | new device type     |   x   |   y   |  old  device type  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ R104                RESISTOR_SNPD0805_MODIFIED_11K 0805 0.1% 9562.00 7897.59 RESISTOR_SNPD0805_MODIFIED_11K
+ R105                RESISTOR_SNPD0805_MODIFIED_11K 0805 0.1% 9775.40 7864.00 RESISTOR_SNPD0805_MODIFIED_11K
+ R106                RESISTOR_SNPD0805_MODIFIED_1M 0805 0.1% 3029.00 6030.40 RESISTOR_SNPD0805_MODIFIED_1M 0
+ R107                RESISTOR_SNPD0805_MODIFIED_1M 0805 0.1% 3029.00 6190.40 RESISTOR_SNPD0805_MODIFIED_1M 0
+ R108                RESISTOR_SNPD0805_MODIFIED_1M 0805 0.1% 3029.00 6350.40 RESISTOR_SNPD0805_MODIFIED_1M 0
+ R109                RESISTOR_SNPD0805_MODIFIED_1K 0805 0.1% 3029.00 6510.40 RESISTOR_SNPD0805_MODIFIED_1M 0
+ R110                RESISTOR_SNPD0805_MODIFIED_1M 0805 0.1% 1675.00 6135.40 RESISTOR_SNPD0805_MODIFIED_1M 0
+ R112                RESISTOR_SNPD0805_MODIFIED_1M 0805 0.1% 3279.00 6030.40 RESISTOR_SNPD0805_MODIFIED_1M 0
+ R113                RESISTOR_SNPD0805_MODIFIED_1M 0805 0.1% 3279.00 6190.40 RESISTOR_SNPD0805_MODIFIED_1M 0
+ R114                RESISTOR_SNPD0805_MODIFIED_1M 0805 0.1% 3279.00 6350.40 RESISTOR_SNPD0805_MODIFIED_1M 0
+ R115                RESISTOR_SNPD0805_MODIFIED_1K 0805 0.1% 3279.00 6510.40 RESISTOR_SNPD0805_MODIFIED_1M 0
+ R116                RESISTOR_SNPD0805_MODIFIED_11K 0805 0.1% 9651.00 7898.59 RESISTOR_SNPD0805_MODIFIED_11K
+ R117                RESISTOR_SNPD0805_MODIFIED_11K 0805 0.1% 9732.40 8424.00 RESISTOR_SNPD0805_MODIFIED_11K
+ R118                RESISTOR_SNPD0805_MODIFIED_1M 0805 0.1% 3073.00 8394.40 RESISTOR_SNPD0805_MODIFIED_1M 0
+ R119                RESISTOR_SNPD0805_MODIFIED_1M 0805 0.1% 3073.00 8554.40 RESISTOR_SNPD0805_MODIFIED_1M 0
+ R120                RESISTOR_SNPD0805_MODIFIED_1M 0805 0.1% 3073.00 8714.40 RESISTOR_SNPD0805_MODIFIED_1M 0
+ R121                RESISTOR_SNPD0805_MODIFIED_1K 0805 0.1% 3073.00 8874.40 RESISTOR_SNPD0805_MODIFIED_1M 0
+ R123                RESISTOR_SNPD0805_MODIFIED_1M 0805 0.1% 3324.00 8394.40 RESISTOR_SNPD0805_MODIFIED_1M 0
+ R124                RESISTOR_SNPD0805_MODIFIED_1M 0805 0.1% 3324.00 8554.40 RESISTOR_SNPD0805_MODIFIED_1M 0
+ R125                RESISTOR_SNPD0805_MODIFIED_1M 0805 0.1% 3324.00 8714.40 RESISTOR_SNPD0805_MODIFIED_1M 0
+ R126                RESISTOR_SNPD0805_MODIFIED_1K 0805 0.1% 3324.00 8874.40 RESISTOR_SNPD0805_MODIFIED_1M 0
+ R127                RESISTOR_SNPD0805_MODIFIED_11K 0805 0.1% 9609.00 8387.40 RESISTOR_SNPD0805_MODIFIED_11K
+ R140                RESISTOR_RES0603_10E 0603 5% 9400.00 8373.46 RESISTOR_RES0603_10K 0603 5%
+ R143                RESISTOR_RES0603_10E 0603 5% 8219.00 8378.46 RESISTOR_RES0603_10K 0603 5%
+ R168                RESISTOR_SNPD1206_MODIFIED_10K 1206 5% 8230.11 2334.00 RESISTOR_SNPD1206_MODIFIED_10K
+ R169                RESISTOR_SNPD1206_MODIFIED_10K 1206 5% 8230.11 4394.00 RESISTOR_SNPD1206_MODIFIED_10K
+ R170                RESISTOR_SNPD1206_MODIFIED_10K 1206 5% 8230.11 6444.00 RESISTOR_SNPD1206_MODIFIED_10K
+ R171                RESISTOR_SNPD1206_MODIFIED_10K 1206 5% 10160.1 2334.00 RESISTOR_SNPD1206_MODIFIED_10K
+ R172                RESISTOR_SNPD1206_MODIFIED_10K 1206 5% 9190.11 2334.00 RESISTOR_SNPD1206_MODIFIED_10K
+ R173                RESISTOR_SNPD1206_MODIFIED_10K 1206 5% 10160.1 4394.00 RESISTOR_SNPD1206_MODIFIED_10K
+ R174                RESISTOR_SNPD1206_MODIFIED_10K 1206 5% 9190.11 4394.00 RESISTOR_SNPD1206_MODIFIED_10K
+ R175                RESISTOR_SNPD1206_MODIFIED_10K 1206 5% 10160.1 6444.00 RESISTOR_SNPD1206_MODIFIED_10K
+ R176                RESISTOR_SNPD1206_MODIFIED_10K 1206 5% 9190.11 6444.00 RESISTOR_SNPD1206_MODIFIED_10K
+ R177                RESISTOR_SNPD0805_MODIFIED_0E 0805 5% 12096.4 7849.00 RESISTOR_SNPD0805_MODIFIED_0E 0
+ R178                RESISTOR_RES0603_10E 0603 5% 9616.53 7782.00 RESISTOR_RES0603_10K 0603 5%
+ R179                RESISTOR_RES0603_10E 0603 5% 8504.46 7756.00 RESISTOR_RES0603_10K 0603 5%
+ R192                RESISTOR_SNPD1206_MODIFIED_0E 1206 1% 7270.11 2334.00 RESISTOR_SNPD1206_MODIFIED_0E 1
+ R193                RESISTOR_SNPD1206_MODIFIED_0E 1206 1% 7270.11 4394.00 RESISTOR_SNPD1206_MODIFIED_0E 1
+ R194                RESISTOR_SNPD1206_MODIFIED_0E 1206 1% 7270.11 6444.00 RESISTOR_SNPD1206_MODIFIED_0E 1
+ R195                RESISTOR_SNPD0805_MODIFIED_0E 0805 5% 8222.00 8676.59 RESISTOR_SNPD0805_MODIFIED_0E 0
+ R196                RESISTOR_SNPD0805_MODIFIED_0E 0805 5% 8503.40 9174.00 RESISTOR_SNPD0805_MODIFIED_0E 0
+ T1                  TRANSFORMER STEPUP_0_TOROID_SMD_6PIN_1123_340UH 4598.50 1955.00 TRANSFORMER STEPUP_0_TOROID_SMD
+ T2                  TRANSFORMER STEPUP_0_TOROID_SMD_6PIN_1123_340UH 4598.50 4505.00 TRANSFORMER STEPUP_0_TOROID_SMD
+ T3                  TRANSFORMER STEPUP_0_TOROID_SMD_6PIN_1123_340UH 4597.50 7005.00 TRANSFORMER STEPUP_0_TOROID_SMD
+ U1                  SOCKET8_0_SOIC127P1150X280-8N_AMC1306M05DWVR 3317.00 2208.84 SOCKET8_0_SOIC127P1150X280-8N_A
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page  14  |
+|------------------------------------------------------------------------------|
+|  c:.../tida01606_powercard/board/solutionstida01606_powercard_rev8.brd       |
+|                                                    Mon Aug 23 16:13:37 2021  |
+|------------------------------------------------------------------------------|
+| COMPONENTS CHANGED from one device type to another in design                 |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    ref des        | new device type     |   x   |   y   |  old  device type  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ U2                  DM3AT-SF-PEJM5_1_SOT95P280X145-6N_SN6505BDBVR 5200.40 1958.59 DM3AT-SF-PEJM5_1_SOT95P280X145-
+ U5                  SOCKET8_0_SOIC127P1150X280-8N_AMC1306M05DWVR 3317.00 4758.84 SOCKET8_0_SOIC127P1150X280-8N_A
+ U7                  DM3AT-SF-PEJM5_1_SOT95P280X145-6N_SN6505BDBVR 5201.59 4508.59 DM3AT-SF-PEJM5_1_SOT95P280X145-
+ U8                  SOCKET8_0_SOIC127P1150X280-8N_AMC1306M05DWVR 3317.00 7268.15 SOCKET8_0_SOIC127P1150X280-8N_A
+ U10                 DM3AT-SF-PEJM5_2_SOT95P280X145-5N_TLV70450DBVR 3892.40 1923.59 DM3AT-SF-PEJM5_2_SOT95P280X145-
+ U11                 DM3AT-SF-PEJM5_6_RNP0030B_LM76003RNPR 14734.4 8434.85 DM3AT-SF-PEJM5_6_RNP0030B_LM760
+ U12                 DM3AT-SF-PEJM5_3_VREG_PTH08080WAZT_PTH08080WAZT 12867.0 8515.03 DM3AT-SF-PEJM5_3_VREG_PTH08080W
+ U15                 DM3AT-SF-PEJM5_2_SOT223_4_TLV1117LV33DCYR 11857.0 8390.94 DM3AT-SF-PEJM5_2_SOT223_4_TLV11
+ U21                 DM3AT-SF-PEJM5_2_SOT95P280X145-5N_TLV70450DBVR 3892.40 4473.59 DM3AT-SF-PEJM5_2_SOT95P280X145-
+ U22                 DM3AT-SF-PEJM5_1_SOT95P280X145-6N_SN6505BDBVR 5200.40 7008.59 DM3AT-SF-PEJM5_1_SOT95P280X145-
+ U23                 DM3AT-SF-PEJM5_2_SOT95P280X145-5N_TLV70450DBVR 3892.40 6973.59 DM3AT-SF-PEJM5_2_SOT95P280X145-
+ U24                 DM3AT-SF-PEJM5_5_DDC0005A_N_REF2033AIDDCR 12086.0 7960.59 DM3AT-SF-PEJM5_5_DDC0005A_N_REF
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page  15  |
+|------------------------------------------------------------------------------|
+|  c:.../tida01606_powercard/board/solutionstida01606_powercard_rev8.brd       |
+|                                                    Mon Aug 23 16:13:37 2021  |
+|------------------------------------------------------------------------------|
+| COMPONENT PROPERTIES added to design                                         |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   ref  des   |   x   |   y   |   property   |             value              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ C131                           ROOM           pic_pic
+ C133                           ROOM           pic_pic
+ C134                           ROOM           pic_pic
+ R131                           ROOM           pic_pic
+ R132                           ROOM           pic_pic
+ R133                           ROOM           pic_pic
+ R134                           ROOM           pic_pic
+ R135                           ROOM           pic_pic
+ R136                           ROOM           pic_pic
+ R137                           ROOM           pic_pic
+ R138                           ROOM           pic_pic
+ R166                           ROOM           pic_pic
+ R205                           ROOM           pic_pic
+ R206                           ROOM           pic_pic
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page  16  |
+|------------------------------------------------------------------------------|
+|  c:.../tida01606_powercard/board/solutionstida01606_powercard_rev8.brd       |
+|                                                    Mon Aug 23 16:13:37 2021  |
+|------------------------------------------------------------------------------|
+| SLOT PROPERTIES added to design                                              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   slot_id    |   x   |   y   |   property   |             value              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ C1.2           8939.00 7069.00 PRIM_FILE      .\pstchip.dat
+ C1.2           8939.00 7069.00 ROOM           pic_pic
+ C2.2           8939.00 5013.00 PRIM_FILE      .\pstchip.dat
+ C2.2           8939.00 5013.00 ROOM           pic_pic
+ C3.2           8939.00 2956.00 PRIM_FILE      .\pstchip.dat
+ C3.2           8939.00 2956.00 ROOM           pic_pic
+ C4.2           14040.0 6658.00 PRIM_FILE      .\pstchip.dat
+ C4.2           14040.0 6658.00 ROOM           ControlSMPS
+ C5.2           14040.0 2834.00 PRIM_FILE      .\pstchip.dat
+ C5.2           14040.0 2834.00 ROOM           ControlSMPS
+ C6.2           13030.7 2834.00 PRIM_FILE      .\pstchip.dat
+ C6.2           13030.7 2834.00 ROOM           ControlSMPS
+ C7.2           13030.7 6658.00 PRIM_FILE      .\pstchip.dat
+ C7.2           13030.7 6658.00 ROOM           ControlSMPS
+ C8.2           5202.00 2774.32 PRIM_FILE      .\pstchip.dat
+ C8.2           5202.00 2774.32 ROOM           pic_pic
+ C9.2           5202.00 5329.32 PRIM_FILE      .\pstchip.dat
+ C9.2           5202.00 5329.32 ROOM           pic_pic
+ C10.2          5202.00 7824.32 PRIM_FILE      .\pstchip.dat
+ C10.2          5202.00 7824.32 ROOM           pic_pic
+ C11.2          7476.00 1715.00 PRIM_FILE      .\pstchip.dat
+ C11.2          7476.00 1715.00 ROOM           pic_pic
+ C12.2          7327.00 3771.00 PRIM_FILE      .\pstchip.dat
+ C12.2          7327.00 3771.00 ROOM           pic_pic
+ C13.2          7327.00 5827.00 PRIM_FILE      .\pstchip.dat
+ C13.2          7327.00 5827.00 ROOM           pic_pic
+ C14.2          3352.46 6936.00 PRIM_FILE      .\pstchip.dat
+ C14.2          3352.46 6936.00 ROOM           pic_pic
+ C15.2          3350.40 6861.00 PRIM_FILE      .\pstchip.dat
+ C15.2          3350.40 6861.00 ROOM           pic_pic
+ C16.2          5016.00 1943.00 PRIM_FILE      .\pstchip.dat
+ C16.2          5016.00 1943.00 ROOM           control_smps
+ C17.2          5016.00 4503.99 PRIM_FILE      .\pstchip.dat
+ C17.2          5016.00 4503.99 ROOM           control_smps
+ C18.2          3492.00 7439.53 PRIM_FILE      .\pstchip.dat
+ C18.2          3492.00 7439.53 ROOM           pic_pic
+ C20.2          3350.40 1813.00 PRIM_FILE      .\pstchip.dat
+ C20.2          3350.40 1813.00 ROOM           pic_pic
+ C21.2          3349.46 1889.00 PRIM_FILE      .\pstchip.dat
+ C21.2          3349.46 1889.00 ROOM           pic_pic
+ C22.2          8280.00 3094.88 PRIM_FILE      .\pstchip.dat
+ C22.2          8280.00 3094.88 ROOM           pic_pic
+ C23.2          8185.00 3079.53 PRIM_FILE      .\pstchip.dat
+ C23.2          8185.00 3079.53 ROOM           pic_pic
+ C24.2          8277.00 5148.88 PRIM_FILE      .\pstchip.dat
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page  17  |
+|------------------------------------------------------------------------------|
+|  c:.../tida01606_powercard/board/solutionstida01606_powercard_rev8.brd       |
+|                                                    Mon Aug 23 16:13:37 2021  |
+|------------------------------------------------------------------------------|
+| SLOT PROPERTIES added to design                                              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   slot_id    |   x   |   y   |   property   |             value              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ C24.2          8277.00 5148.88 ROOM           pic_pic
+ C25.2          8185.00 5135.53 PRIM_FILE      .\pstchip.dat
+ C25.2          8185.00 5135.53 ROOM           pic_pic
+ C28.2          3492.00 2391.53 PRIM_FILE      .\pstchip.dat
+ C28.2          3492.00 2391.53 ROOM           pic_pic
+ C29.2          3351.46 4439.00 PRIM_FILE      .\pstchip.dat
+ C29.2          3351.46 4439.00 ROOM           pic_pic
+ C30.2          3349.40 4361.00 PRIM_FILE      .\pstchip.dat
+ C30.2          3349.40 4361.00 ROOM           pic_pic
+ C31.2          8280.00 7206.88 PRIM_FILE      .\pstchip.dat
+ C31.2          8280.00 7206.88 ROOM           pic_pic
+ C32.2          8190.00 7190.53 PRIM_FILE      .\pstchip.dat
+ C32.2          8190.00 7190.53 ROOM           pic_pic
+ C35.2          3492.00 4939.53 PRIM_FILE      .\pstchip.dat
+ C35.2          3492.00 4939.53 ROOM           pic_pic
+ C36.2          10417.4 8395.00 PRIM_FILE      .\pstchip.dat
+ C36.2          10417.4 8395.00 ROOM           pic_pic
+ C37.2          10416.4 8332.00 PRIM_FILE      .\pstchip.dat
+ C37.2          10416.4 8332.00 ROOM           pic_pic
+ C38.2          14894.4 8191.00 PRIM_FILE      .\pstchip.dat
+ C38.2          14894.4 8191.00 ROOM           control_smps
+ C39.2          11282.4 2583.00 PRIM_FILE      .\pstchip.dat
+ C39.2          11282.4 2583.00 ROOM           pic_pic
+ C40.2          10168.0 8349.46 PRIM_FILE      .\pstchip.dat
+ C40.2          10168.0 8349.46 ROOM           pic_pic
+ C41.2          10598.0 8347.46 PRIM_FILE      .\pstchip.dat
+ C41.2          10598.0 8347.46 ROOM           pic_pic
+ C42.2          11252.0 4673.46 PRIM_FILE      .\pstchip.dat
+ C42.2          11252.0 4673.46 ROOM           pic_pic
+ C43.2          11850.1 8164.00 PRIM_FILE      .\pstchip.dat
+ C43.2          11850.1 8164.00 ROOM           control_smps
+ C45.2          10073.0 7867.53 PRIM_FILE      .\pstchip.dat
+ C45.2          10073.0 7867.53 ROOM           pic_pic
+ C46.2          9148.00 9235.53 PRIM_FILE      .\pstchip.dat
+ C46.2          9148.00 9235.53 ROOM           pic_pic
+ C47.2          8119.00 8133.46 PRIM_FILE      .\pstchip.dat
+ C47.2          8119.00 8133.46 ROOM           pic_pic
+ C48.2          13670.0 8106.15 PRIM_FILE      .\pstchip.dat
+ C48.2          13670.0 8106.15 ROOM           24Vcc3_smps
+ C49.2          11586.0 8455.88 PRIM_FILE      .\pstchip.dat
+ C49.2          11586.0 8455.88 ROOM           control_smps
+ C50.2          11254.0 6729.46 PRIM_FILE      .\pstchip.dat
+ C50.2          11254.0 6729.46 ROOM           pic_pic
+ C51.2          8078.00 7901.46 PRIM_FILE      .\pstchip.dat
+ C51.2          8078.00 7901.46 ROOM           pic_pic
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page  18  |
+|------------------------------------------------------------------------------|
+|  c:.../tida01606_powercard/board/solutionstida01606_powercard_rev8.brd       |
+|                                                    Mon Aug 23 16:13:37 2021  |
+|------------------------------------------------------------------------------|
+| SLOT PROPERTIES added to design                                              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   slot_id    |   x   |   y   |   property   |             value              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ C52.2          7578.00 8444.53 PRIM_FILE      .\pstchip.dat
+ C52.2          7578.00 8444.53 ROOM           pic_pic
+ C53.2          7791.46 8349.00 PRIM_FILE      .\pstchip.dat
+ C53.2          7791.46 8349.00 ROOM           pic_pic
+ C54.2          8773.00 7897.53 PRIM_FILE      .\pstchip.dat
+ C54.2          8773.00 7897.53 ROOM           pic_pic
+ C55.2          8730.00 8378.46 PRIM_FILE      .\pstchip.dat
+ C55.2          8730.00 8378.46 ROOM           pic_pic
+ C56.2          8184.00 8133.46 PRIM_FILE      .\pstchip.dat
+ C56.2          8184.00 8133.46 ROOM           pic_pic
+ C57.2          9298.00 8124.53 PRIM_FILE      .\pstchip.dat
+ C57.2          9298.00 8124.53 ROOM           pic_pic
+ C58.2          9363.00 8124.53 PRIM_FILE      .\pstchip.dat
+ C58.2          9363.00 8124.53 ROOM           pic_pic
+ C59.2          9320.00 7995.53 PRIM_FILE      .\pstchip.dat
+ C59.2          9320.00 7995.53 ROOM           pic_pic
+ C60.2          9954.00 7892.53 PRIM_FILE      .\pstchip.dat
+ C60.2          9954.00 7892.53 ROOM           pic_pic
+ C61.2          12242.0 8752.84 PRIM_FILE      .\pstchip.dat
+ C61.2          12242.0 8752.84 ROOM           24Vcc3_smps
+ C62.2          12241.0 8288.15 PRIM_FILE      .\pstchip.dat
+ C62.2          12241.0 8288.15 ROOM           24Vcc3_smps
+ C63.2          9914.00 8404.53 PRIM_FILE      .\pstchip.dat
+ C63.2          9914.00 8404.53 ROOM           pic_pic
+ C65.2          4397.00 1664.00 PRIM_FILE      .\pstchip.dat
+ C65.2          4397.00 1664.00 ROOM           control_smps
+ C67.2          4405.00 4212.00 PRIM_FILE      .\pstchip.dat
+ C67.2          4405.00 4212.00 ROOM           control_smps
+ C68.2          4401.00 6714.00 PRIM_FILE      .\pstchip.dat
+ C68.2          4401.00 6714.00 ROOM           control_smps
+ C69.2          9501.46 8342.00 PRIM_FILE      .\pstchip.dat
+ C69.2          9501.46 8342.00 ROOM           pic_pic
+ C70.2          9335.00 8373.46 PRIM_FILE      .\pstchip.dat
+ C70.2          9335.00 8373.46 ROOM           pic_pic
+ C71.2          8321.46 8347.00 PRIM_FILE      .\pstchip.dat
+ C71.2          8321.46 8347.00 ROOM           pic_pic
+ C72.2          8154.00 8378.46 PRIM_FILE      .\pstchip.dat
+ C72.2          8154.00 8378.46 ROOM           pic_pic
+ C73.2          14040.0 5384.00 PRIM_FILE      .\pstchip.dat
+ C73.2          14040.0 5384.00 ROOM           ControlSMPS
+ C74.2          14040.0 4109.00 PRIM_FILE      .\pstchip.dat
+ C74.2          14040.0 4109.00 ROOM           ControlSMPS
+ C75.2          13030.7 4109.00 PRIM_FILE      .\pstchip.dat
+ C75.2          13030.7 4109.00 ROOM           ControlSMPS
+ C76.2          13025.7 5384.00 PRIM_FILE      .\pstchip.dat
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page  19  |
+|------------------------------------------------------------------------------|
+|  c:.../tida01606_powercard/board/solutionstida01606_powercard_rev8.brd       |
+|                                                    Mon Aug 23 16:13:37 2021  |
+|------------------------------------------------------------------------------|
+| SLOT PROPERTIES added to design                                              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   slot_id    |   x   |   y   |   property   |             value              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ C76.2          13025.7 5384.00 ROOM           ControlSMPS
+ C77.2          10598.0 8214.46 PRIM_FILE      .\pstchip.dat
+ C77.2          10598.0 8214.46 ROOM           pic_pic
+ C78.2          3318.46 2529.00 PRIM_FILE      .\pstchip.dat
+ C78.2          3318.46 2529.00 ROOM           pic_pic
+ C79.2          10168.0 8209.46 PRIM_FILE      .\pstchip.dat
+ C79.2          10168.0 8209.46 ROOM           pic_pic
+ C80.2          3314.53 5079.00 PRIM_FILE      .\pstchip.dat
+ C80.2          3314.53 5079.00 ROOM           pic_pic
+ C81.2          10245.4 7900.00 PRIM_FILE      .\pstchip.dat
+ C81.2          10245.4 7900.00 ROOM           pic_pic
+ C82.2          3318.46 7579.00 PRIM_FILE      .\pstchip.dat
+ C82.2          3318.46 7579.00 ROOM           pic_pic
+ C83.2          8268.46 7947.00 PRIM_FILE      .\pstchip.dat
+ C83.2          8268.46 7947.00 ROOM           pic_pic
+ C84.2          9445.53 7942.00 PRIM_FILE      .\pstchip.dat
+ C84.2          9445.53 7942.00 ROOM           pic_pic
+ C85.2          8589.46 7947.00 PRIM_FILE      .\pstchip.dat
+ C85.2          8589.46 7947.00 ROOM           pic_pic
+ C86.2          9770.46 7942.00 PRIM_FILE      .\pstchip.dat
+ C86.2          9770.46 7942.00 ROOM           pic_pic
+ C87.2          8543.46 8348.00 PRIM_FILE      .\pstchip.dat
+ C87.2          8543.46 8348.00 ROOM           pic_pic
+ C88.2          9724.46 8343.00 PRIM_FILE      .\pstchip.dat
+ C88.2          9724.46 8343.00 ROOM           pic_pic
+ C90.2          11013.5 2418.00 PRIM_FILE      .\pstchip.dat
+ C90.2          11013.5 2418.00 ROOM           pic_pic
+ C91.2          11155.4 4568.00 PRIM_FILE      .\pstchip.dat
+ C91.2          11155.4 4568.00 ROOM           pic_pic
+ C92.2          11013.5 6563.00 PRIM_FILE      .\pstchip.dat
+ C92.2          11013.5 6563.00 ROOM           pic_pic
+ C93.2          4202.99 1924.00 PRIM_FILE      .\pstchip.dat
+ C93.2          4202.99 1924.00 ROOM           control_smps
+ C95.2          4191.00 4474.00 PRIM_FILE      .\pstchip.dat
+ C95.2          4191.00 4474.00 ROOM           control_smps
+ C97.2          3987.00 1888.99 PRIM_FILE      .\pstchip.dat
+ C97.2          3987.00 1888.99 ROOM           control_smps
+ C98.2          3987.00 4438.99 PRIM_FILE      .\pstchip.dat
+ C98.2          3987.00 4438.99 ROOM           control_smps
+ C101.2         3909.59 2189.00 PRIM_FILE      .\pstchip.dat
+ C101.2         3909.59 2189.00 ROOM           control_smps
+ C102.2         3909.59 4739.00 PRIM_FILE      .\pstchip.dat
+ C102.2         3909.59 4739.00 ROOM           control_smps
+ C105.2         3886.00 2069.00 PRIM_FILE      .\pstchip.dat
+ C105.2         3886.00 2069.00 ROOM           control_smps
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page  20  |
+|------------------------------------------------------------------------------|
+|  c:.../tida01606_powercard/board/solutionstida01606_powercard_rev8.brd       |
+|                                                    Mon Aug 23 16:13:37 2021  |
+|------------------------------------------------------------------------------|
+| SLOT PROPERTIES added to design                                              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   slot_id    |   x   |   y   |   property   |             value              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ C106.2         3886.00 4619.00 PRIM_FILE      .\pstchip.dat
+ C106.2         3886.00 4619.00 ROOM           control_smps
+ C107.2         5016.00 6993.00 PRIM_FILE      .\pstchip.dat
+ C107.2         5016.00 6993.00 ROOM           control_smps
+ C110.2         4191.00 6974.00 PRIM_FILE      .\pstchip.dat
+ C110.2         4191.00 6974.00 ROOM           control_smps
+ C112.2         3987.00 6928.00 PRIM_FILE      .\pstchip.dat
+ C112.2         3987.00 6928.00 ROOM           control_smps
+ C114.2         3909.59 7239.00 PRIM_FILE      .\pstchip.dat
+ C114.2         3909.59 7239.00 ROOM           control_smps
+ C116.2         3886.00 7119.00 PRIM_FILE      .\pstchip.dat
+ C116.2         3886.00 7119.00 ROOM           control_smps
+ C117.2         11970.0 7963.53 PRIM_FILE      .\pstchip.dat
+ C117.2         11970.0 7963.53 ROOM           pic_pic
+ C118.2         12213.0 7954.46 PRIM_FILE      .\pstchip.dat
+ C118.2         12213.0 7954.46 ROOM           pic_pic
+ C120.2         8940.00 7183.00 PRIM_FILE      .\pstchip.dat
+ C120.2         8940.00 7183.00 ROOM           pic_pic
+ C121.2         8940.00 5127.00 PRIM_FILE      .\pstchip.dat
+ C121.2         8940.00 5127.00 ROOM           pic_pic
+ C122.2         8940.00 3071.00 PRIM_FILE      .\pstchip.dat
+ C122.2         8940.00 3071.00 ROOM           pic_pic
+ C123.2         14692.9 8718.00 PRIM_FILE      .\pstchip.dat
+ C123.2         14692.9 8718.00 ROOM           control_smps
+ C124.2         14701.4 8606.00 PRIM_FILE      .\pstchip.dat
+ C124.2         14701.4 8606.00 ROOM           control_smps
+ C125.2         14893.4 8278.00 PRIM_FILE      .\pstchip.dat
+ C125.2         14893.4 8278.00 ROOM           control_smps
+ C126.2         14023.0 8105.15 PRIM_FILE      .\pstchip.dat
+ C126.2         14023.0 8105.15 ROOM           24Vcc3_smps
+ C127.2         7425.00 5827.00 PRIM_FILE      .\pstchip.dat
+ C127.2         7425.00 5827.00 ROOM           pic_pic
+ C128.2         7574.00 1715.00 PRIM_FILE      .\pstchip.dat
+ C128.2         7574.00 1715.00 ROOM           pic_pic
+ C129.2         7419.00 3771.00 PRIM_FILE      .\pstchip.dat
+ C129.2         7419.00 3771.00 ROOM           pic_pic
+ C130.2         6390.00 8481.00 PRIM_FILE      .\pstchip.dat
+ C130.2         6390.00 8481.00 ROOM           pic_pic
+ C131.2                         PRIM_FILE      .\pstchip.dat
+ C131.2                         ROOM           pic_pic
+ C133.2                         PRIM_FILE      .\pstchip.dat
+ C133.2                         ROOM           pic_pic
+ C134.2                         PRIM_FILE      .\pstchip.dat
+ C134.2                         ROOM           pic_pic
+ D1.1           2568.86 4636.00 PRIM_FILE      .\pstchip.dat
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page  21  |
+|------------------------------------------------------------------------------|
+|  c:.../tida01606_powercard/board/solutionstida01606_powercard_rev8.brd       |
+|                                                    Mon Aug 23 16:13:37 2021  |
+|------------------------------------------------------------------------------|
+| SLOT PROPERTIES added to design                                              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   slot_id    |   x   |   y   |   property   |             value              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ D1.1           2568.86 4636.00 ROOM           supplyReg_pic
+ D2.1           2562.13 6583.00 PRIM_FILE      .\pstchip.dat
+ D2.1           2562.13 6583.00 ROOM           supplyReg_pic
+ D4.1           2562.13 8799.00 PRIM_FILE      .\pstchip.dat
+ D4.1           2562.13 8799.00 ROOM           supplyReg_pic
+ D5.1           2563.00 3014.00 PRIM_FILE      .\pstchip.dat
+ D5.1           2563.00 3014.00 ROOM           supplyReg_pic
+ D9.1           4143.00 1809.00 PRIM_FILE      .\pstchip.dat
+ D9.1           4143.00 1809.00 ROOM           control_smps
+ D11.1          4134.00 4359.00 PRIM_FILE      .\pstchip.dat
+ D11.1          4134.00 4359.00 ROOM           control_smps
+ D12.3          3135.75 2586.00 PRIM_FILE      .\pstchip.dat
+ D18.1          12744.5 8148.00 PRIM_FILE      .\pstchip.dat
+ D18.1          12744.5 8148.00 ROOM           lcd_led_pic
+ D19.1          11506.0 8350.47 PRIM_FILE      .\pstchip.dat
+ D19.1          11506.0 8350.47 ROOM           lcd_led_pic
+ D24.1          4143.00 2099.00 PRIM_FILE      .\pstchip.dat
+ D24.1          4143.00 2099.00 ROOM           control_smps
+ D25.1          4134.00 4649.00 PRIM_FILE      .\pstchip.dat
+ D25.1          4134.00 4649.00 ROOM           control_smps
+ D26.1          3667.00 2181.47 PRIM_FILE      .\pstchip.dat
+ D26.1          3667.00 2181.47 ROOM           lcd_led_pic
+ D27.1          3667.00 4731.47 PRIM_FILE      .\pstchip.dat
+ D27.1          3667.00 4731.47 ROOM           lcd_led_pic
+ D28.1          3767.00 2347.00 PRIM_FILE      .\pstchip.dat
+ D28.1          3767.00 2347.00 ROOM           control_smps
+ D29.1          3767.00 4888.00 PRIM_FILE      .\pstchip.dat
+ D29.1          3767.00 4888.00 ROOM           control_smps
+ D30.1          4134.00 6859.00 PRIM_FILE      .\pstchip.dat
+ D30.1          4134.00 6859.00 ROOM           control_smps
+ D31.1          4134.00 7149.00 PRIM_FILE      .\pstchip.dat
+ D31.1          4134.00 7149.00 ROOM           control_smps
+ D32.1          3667.00 7231.47 PRIM_FILE      .\pstchip.dat
+ D32.1          3667.00 7231.47 ROOM           lcd_led_pic
+ D33.1          3767.00 7388.00 PRIM_FILE      .\pstchip.dat
+ D33.1          3767.00 7388.00 ROOM           control_smps
+ J5.P2          8868.88 8969.51 PRIM_FILE      .\pstchip.dat
+ J7.4           10293.0 2187.00 PRIM_FILE      .\pstchip.dat
+ J9.4           7402.00 4243.00 PRIM_FILE      .\pstchip.dat
+ J10.2          9425.00 9227.00 PRIM_FILE      .\pstchip.dat
+ J10.2          9425.00 9227.00 ROOM           InputPowe_smps
+ J11.2          9706.00 9323.00 PRIM_FILE      .\pstchip.dat
+ J11.2          9706.00 9323.00 ROOM           InputPowe_smps
+ J12.4          7402.00 6299.00 PRIM_FILE      .\pstchip.dat
+ J13.180        11207.2 8969.51 PRIM_FILE      .\pstchip.dat
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page  22  |
+|------------------------------------------------------------------------------|
+|  c:.../tida01606_powercard/board/solutionstida01606_powercard_rev8.brd       |
+|                                                    Mon Aug 23 16:13:37 2021  |
+|------------------------------------------------------------------------------|
+| SLOT PROPERTIES added to design                                              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   slot_id    |   x   |   y   |   property   |             value              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ J14.4          9329.00 2187.00 PRIM_FILE      .\pstchip.dat
+ J15.4          8366.00 4243.00 PRIM_FILE      .\pstchip.dat
+ J16.4          8366.00 6299.00 PRIM_FILE      .\pstchip.dat
+ J17.4          8366.00 2187.00 PRIM_FILE      .\pstchip.dat
+ J18.4          9329.00 4243.00 PRIM_FILE      .\pstchip.dat
+ J19.4          9329.00 6299.00 PRIM_FILE      .\pstchip.dat
+ J20.4          7402.00 2187.00 PRIM_FILE      .\pstchip.dat
+ J21.4          10293.0 4243.00 PRIM_FILE      .\pstchip.dat
+ J22.4          10293.0 6299.00 PRIM_FILE      .\pstchip.dat
+ J23.9          11025.0 2172.00 PRIM_FILE      .\pstchip.dat
+ J24.9          11025.0 4228.00 PRIM_FILE      .\pstchip.dat
+ J25.9          11025.0 6285.00 PRIM_FILE      .\pstchip.dat
+ J26.2          13403.0 7864.00 PRIM_FILE      .\pstchip.dat
+ J26.2          13403.0 7864.00 ROOM           InputPowe_smps
+ J28.2          13403.0 8018.00 PRIM_FILE      .\pstchip.dat
+ J28.2          13403.0 8018.00 ROOM           InputPowe_smps
+ J33.3          13383.7 9083.11 PRIM_FILE      .\pstchip.dat
+ J33.3          13383.7 9083.11 ROOM           InputPowe_smps
+ J34.2          13754.0 8776.00 PRIM_FILE      .\pstchip.dat
+ J34.2          13754.0 8776.00 ROOM           InputPowe_smps
+ J38.4          12982.0 7576.00 PRIM_FILE      .\pstchip.dat
+ K1.4           2632.00 4266.00 PRIM_FILE      .\pstchip.dat
+ K2.4           2637.00 6213.00 PRIM_FILE      .\pstchip.dat
+ K3.4           2632.00 8429.00 PRIM_FILE      .\pstchip.dat
+ K4.4           2632.00 2644.00 PRIM_FILE      .\pstchip.dat
+ L2.2           3940.00 2884.00 PRIM_FILE      .\pstchip.dat
+ L2.2           3940.00 2884.00 ROOM           supply_gprs
+ L4.2           3940.00 5434.00 PRIM_FILE      .\pstchip.dat
+ L4.2           3940.00 5434.00 ROOM           supply_gprs
+ L6.2           3940.00 7934.00 PRIM_FILE      .\pstchip.dat
+ L6.2           3940.00 7934.00 ROOM           supply_gprs
+ L16.2          14702.0 8002.00 PRIM_FILE      .\pstchip.dat
+ Q1.3           8251.00 2442.00 PRIM_FILE      .\pstchip.dat
+ Q2.3           7287.00 2442.00 PRIM_FILE      .\pstchip.dat
+ Q3.1           9214.00 2442.00 PRIM_FILE      .\pstchip.dat
+ Q4.1           10178.0 2442.00 PRIM_FILE      .\pstchip.dat
+ Q5.3           8251.00 4498.00 PRIM_FILE      .\pstchip.dat
+ Q6.3           7287.00 4498.00 PRIM_FILE      .\pstchip.dat
+ Q7.1           9214.00 4498.00 PRIM_FILE      .\pstchip.dat
+ Q8.1           10178.0 4498.00 PRIM_FILE      .\pstchip.dat
+ Q9.3           8251.00 6555.00 PRIM_FILE      .\pstchip.dat
+ Q10.3          7287.00 6555.00 PRIM_FILE      .\pstchip.dat
+ Q11.1          9214.00 6555.00 PRIM_FILE      .\pstchip.dat
+ Q12.1          10178.0 6555.00 PRIM_FILE      .\pstchip.dat
+ Q13.8          13208.0 7815.00 PRIM_FILE      .\pstchip.dat
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page  23  |
+|------------------------------------------------------------------------------|
+|  c:.../tida01606_powercard/board/solutionstida01606_powercard_rev8.brd       |
+|                                                    Mon Aug 23 16:13:37 2021  |
+|------------------------------------------------------------------------------|
+| SLOT PROPERTIES added to design                                              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   slot_id    |   x   |   y   |   property   |             value              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ Q14.8          13209.0 8131.00 PRIM_FILE      .\pstchip.dat
+ R5.2           3312.00 2884.00 PRIM_FILE      .\pstchip.dat
+ R5.2           3312.00 2884.00 ROOM           pic_pic
+ R16.2          5992.00 3547.00 PRIM_FILE      .\pstchip.dat
+ R16.2          5992.00 3547.00 ROOM           pic_pic
+ R17.2          5992.00 6107.00 PRIM_FILE      .\pstchip.dat
+ R17.2          5992.00 6107.00 ROOM           pic_pic
+ R18.2          5992.00 8597.00 PRIM_FILE      .\pstchip.dat
+ R18.2          5992.00 8597.00 ROOM           pic_pic
+ R25.2          10103.0 8209.46 PRIM_FILE      .\pstchip.dat
+ R25.2          10103.0 8209.46 ROOM           pic_pic
+ R26.2          10663.0 8214.46 PRIM_FILE      .\pstchip.dat
+ R26.2          10663.0 8214.46 ROOM           pic_pic
+ R31.2          10245.4 7837.00 PRIM_FILE      .\pstchip.dat
+ R31.2          10245.4 7837.00 ROOM           pic_pic
+ R35.2          9264.40 9287.00 PRIM_FILE      .\pstchip.dat
+ R35.2          9264.40 9287.00 ROOM           pic_pic
+ R39.2          8252.40 7869.00 PRIM_FILE      .\pstchip.dat
+ R39.2          8252.40 7869.00 ROOM           pic_pic
+ R41.2          3312.00 5434.00 PRIM_FILE      .\pstchip.dat
+ R41.2          3312.00 5434.00 ROOM           pic_pic
+ R42.2          1420.00 4168.40 PRIM_FILE      .\pstchip.dat
+ R42.2          1420.00 4168.40 ROOM           pic_pic
+ R43.2          1420.00 4328.40 PRIM_FILE      .\pstchip.dat
+ R43.2          1420.00 4328.40 ROOM           pic_pic
+ R44.2          1420.00 4488.40 PRIM_FILE      .\pstchip.dat
+ R44.2          1420.00 4488.40 ROOM           pic_pic
+ R45.2          1420.00 4648.40 PRIM_FILE      .\pstchip.dat
+ R45.2          1420.00 4648.40 ROOM           pic_pic
+ R47.2          3321.00 7934.00 PRIM_FILE      .\pstchip.dat
+ R47.2          3321.00 7934.00 ROOM           pic_pic
+ R48.2          1670.00 4168.40 PRIM_FILE      .\pstchip.dat
+ R48.2          1670.00 4168.40 ROOM           pic_pic
+ R49.2          1670.00 4328.40 PRIM_FILE      .\pstchip.dat
+ R49.2          1670.00 4328.40 ROOM           pic_pic
+ R50.2          1670.00 4488.40 PRIM_FILE      .\pstchip.dat
+ R50.2          1670.00 4488.40 ROOM           pic_pic
+ R51.2          1670.00 4648.40 PRIM_FILE      .\pstchip.dat
+ R51.2          1670.00 4648.40 ROOM           pic_pic
+ R56.2          8381.00 7902.59 PRIM_FILE      .\pstchip.dat
+ R56.2          8381.00 7902.59 ROOM           pic_pic
+ R59.2          12923.0 7802.59 PRIM_FILE      .\pstchip.dat
+ R59.2          12923.0 7802.59 ROOM           control_smps
+ R61.2          8597.40 7857.00 PRIM_FILE      .\pstchip.dat
+ R61.2          8597.40 7857.00 ROOM           pic_pic
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page  24  |
+|------------------------------------------------------------------------------|
+|  c:.../tida01606_powercard/board/solutionstida01606_powercard_rev8.brd       |
+|                                                    Mon Aug 23 16:13:37 2021  |
+|------------------------------------------------------------------------------|
+| SLOT PROPERTIES added to design                                              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   slot_id    |   x   |   y   |   property   |             value              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ R66.2          12909.0 8119.59 PRIM_FILE      .\pstchip.dat
+ R66.2          12909.0 8119.59 ROOM           control_smps
+ R67.2          1425.00 6135.40 PRIM_FILE      .\pstchip.dat
+ R67.2          1425.00 6135.40 ROOM           pic_pic
+ R68.2          1425.00 6295.40 PRIM_FILE      .\pstchip.dat
+ R68.2          1425.00 6295.40 ROOM           pic_pic
+ R69.2          1425.00 6455.40 PRIM_FILE      .\pstchip.dat
+ R69.2          1425.00 6455.40 ROOM           pic_pic
+ R70.2          1425.00 6615.40 PRIM_FILE      .\pstchip.dat
+ R70.2          1425.00 6615.40 ROOM           pic_pic
+ R72.2          13242.0 8498.40 PRIM_FILE      .\pstchip.dat
+ R72.2          13242.0 8498.40 ROOM           control_smps
+ R73.2          1675.00 6295.40 PRIM_FILE      .\pstchip.dat
+ R73.2          1675.00 6295.40 ROOM           pic_pic
+ R74.2          1675.00 6455.40 PRIM_FILE      .\pstchip.dat
+ R74.2          1675.00 6455.40 ROOM           pic_pic
+ R75.2          1675.00 6615.40 PRIM_FILE      .\pstchip.dat
+ R75.2          1675.00 6615.40 ROOM           pic_pic
+ R78.2          8470.00 7903.59 PRIM_FILE      .\pstchip.dat
+ R78.2          8470.00 7903.59 ROOM           pic_pic
+ R79.2          8551.40 8429.00 PRIM_FILE      .\pstchip.dat
+ R79.2          8551.40 8429.00 ROOM           pic_pic
+ R80.2          1417.00 8292.40 PRIM_FILE      .\pstchip.dat
+ R80.2          1417.00 8292.40 ROOM           pic_pic
+ R81.2          1417.00 8452.40 PRIM_FILE      .\pstchip.dat
+ R81.2          1417.00 8452.40 ROOM           pic_pic
+ R82.2          1417.00 8612.40 PRIM_FILE      .\pstchip.dat
+ R82.2          1417.00 8612.40 ROOM           pic_pic
+ R83.2          1417.00 8772.40 PRIM_FILE      .\pstchip.dat
+ R83.2          1417.00 8772.40 ROOM           pic_pic
+ R85.2          1670.00 8295.40 PRIM_FILE      .\pstchip.dat
+ R85.2          1670.00 8295.40 ROOM           pic_pic
+ R86.2          1670.00 8455.40 PRIM_FILE      .\pstchip.dat
+ R86.2          1670.00 8455.40 ROOM           pic_pic
+ R87.2          1670.00 8615.40 PRIM_FILE      .\pstchip.dat
+ R87.2          1670.00 8615.40 ROOM           pic_pic
+ R88.2          1670.00 8775.40 PRIM_FILE      .\pstchip.dat
+ R88.2          1670.00 8775.40 ROOM           pic_pic
+ R89.2          8428.00 8392.40 PRIM_FILE      .\pstchip.dat
+ R89.2          8428.00 8392.40 ROOM           pic_pic
+ R94.2          9438.59 7864.00 PRIM_FILE      .\pstchip.dat
+ R94.2          9438.59 7864.00 ROOM           pic_pic
+ R95.2          3077.00 3561.40 PRIM_FILE      .\pstchip.dat
+ R95.2          3077.00 3561.40 ROOM           pic_pic
+ R96.2          3077.00 3711.40 PRIM_FILE      .\pstchip.dat
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page  25  |
+|------------------------------------------------------------------------------|
+|  c:.../tida01606_powercard/board/solutionstida01606_powercard_rev8.brd       |
+|                                                    Mon Aug 23 16:13:37 2021  |
+|------------------------------------------------------------------------------|
+| SLOT PROPERTIES added to design                                              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   slot_id    |   x   |   y   |   property   |             value              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ R96.2          3077.00 3711.40 ROOM           pic_pic
+ R97.2          3077.00 3861.40 PRIM_FILE      .\pstchip.dat
+ R97.2          3077.00 3861.40 ROOM           pic_pic
+ R98.2          3077.00 4011.40 PRIM_FILE      .\pstchip.dat
+ R98.2          3077.00 4011.40 ROOM           pic_pic
+ R100.2         3307.00 3561.40 PRIM_FILE      .\pstchip.dat
+ R100.2         3307.00 3561.40 ROOM           pic_pic
+ R101.2         3307.00 3711.40 PRIM_FILE      .\pstchip.dat
+ R101.2         3307.00 3711.40 ROOM           pic_pic
+ R102.2         3307.00 3861.40 PRIM_FILE      .\pstchip.dat
+ R102.2         3307.00 3861.40 ROOM           pic_pic
+ R103.2         3307.00 4011.40 PRIM_FILE      .\pstchip.dat
+ R103.2         3307.00 4011.40 ROOM           pic_pic
+ R104.2         9562.00 7897.59 PRIM_FILE      .\pstchip.dat
+ R104.2         9562.00 7897.59 ROOM           pic_pic
+ R105.2         9775.40 7864.00 PRIM_FILE      .\pstchip.dat
+ R105.2         9775.40 7864.00 ROOM           pic_pic
+ R106.2         3029.00 6030.40 PRIM_FILE      .\pstchip.dat
+ R106.2         3029.00 6030.40 ROOM           pic_pic
+ R107.2         3029.00 6190.40 PRIM_FILE      .\pstchip.dat
+ R107.2         3029.00 6190.40 ROOM           pic_pic
+ R108.2         3029.00 6350.40 PRIM_FILE      .\pstchip.dat
+ R108.2         3029.00 6350.40 ROOM           pic_pic
+ R109.2         3029.00 6510.40 PRIM_FILE      .\pstchip.dat
+ R109.2         3029.00 6510.40 ROOM           pic_pic
+ R110.2         1675.00 6135.40 PRIM_FILE      .\pstchip.dat
+ R110.2         1675.00 6135.40 ROOM           pic_pic
+ R112.2         3279.00 6030.40 PRIM_FILE      .\pstchip.dat
+ R112.2         3279.00 6030.40 ROOM           pic_pic
+ R113.2         3279.00 6190.40 PRIM_FILE      .\pstchip.dat
+ R113.2         3279.00 6190.40 ROOM           pic_pic
+ R114.2         3279.00 6350.40 PRIM_FILE      .\pstchip.dat
+ R114.2         3279.00 6350.40 ROOM           pic_pic
+ R115.2         3279.00 6510.40 PRIM_FILE      .\pstchip.dat
+ R115.2         3279.00 6510.40 ROOM           pic_pic
+ R116.2         9651.00 7898.59 PRIM_FILE      .\pstchip.dat
+ R116.2         9651.00 7898.59 ROOM           pic_pic
+ R117.2         9732.40 8424.00 PRIM_FILE      .\pstchip.dat
+ R117.2         9732.40 8424.00 ROOM           pic_pic
+ R118.2         3073.00 8394.40 PRIM_FILE      .\pstchip.dat
+ R118.2         3073.00 8394.40 ROOM           pic_pic
+ R119.2         3073.00 8554.40 PRIM_FILE      .\pstchip.dat
+ R119.2         3073.00 8554.40 ROOM           pic_pic
+ R120.2         3073.00 8714.40 PRIM_FILE      .\pstchip.dat
+ R120.2         3073.00 8714.40 ROOM           pic_pic
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page  26  |
+|------------------------------------------------------------------------------|
+|  c:.../tida01606_powercard/board/solutionstida01606_powercard_rev8.brd       |
+|                                                    Mon Aug 23 16:13:37 2021  |
+|------------------------------------------------------------------------------|
+| SLOT PROPERTIES added to design                                              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   slot_id    |   x   |   y   |   property   |             value              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ R121.2         3073.00 8874.40 PRIM_FILE      .\pstchip.dat
+ R121.2         3073.00 8874.40 ROOM           pic_pic
+ R123.2         3324.00 8394.40 PRIM_FILE      .\pstchip.dat
+ R123.2         3324.00 8394.40 ROOM           pic_pic
+ R124.2         3324.00 8554.40 PRIM_FILE      .\pstchip.dat
+ R124.2         3324.00 8554.40 ROOM           pic_pic
+ R125.2         3324.00 8714.40 PRIM_FILE      .\pstchip.dat
+ R125.2         3324.00 8714.40 ROOM           pic_pic
+ R126.2         3324.00 8874.40 PRIM_FILE      .\pstchip.dat
+ R126.2         3324.00 8874.40 ROOM           pic_pic
+ R127.2         9609.00 8387.40 PRIM_FILE      .\pstchip.dat
+ R127.2         9609.00 8387.40 ROOM           pic_pic
+ R131.2                         PRIM_FILE      .\pstchip.dat
+ R131.2                         ROOM           pic_pic
+ R132.2                         PRIM_FILE      .\pstchip.dat
+ R132.2                         ROOM           pic_pic
+ R133.2                         PRIM_FILE      .\pstchip.dat
+ R133.2                         ROOM           pic_pic
+ R134.2                         PRIM_FILE      .\pstchip.dat
+ R134.2                         ROOM           pic_pic
+ R135.2                         PRIM_FILE      .\pstchip.dat
+ R135.2                         ROOM           pic_pic
+ R136.2                         PRIM_FILE      .\pstchip.dat
+ R136.2                         ROOM           pic_pic
+ R137.2                         PRIM_FILE      .\pstchip.dat
+ R137.2                         ROOM           pic_pic
+ R138.2                         PRIM_FILE      .\pstchip.dat
+ R138.2                         ROOM           pic_pic
+ R140.2         9400.00 8373.46 PRIM_FILE      .\pstchip.dat
+ R140.2         9400.00 8373.46 ROOM           pic_pic
+ R143.2         8219.00 8378.46 PRIM_FILE      .\pstchip.dat
+ R143.2         8219.00 8378.46 ROOM           pic_pic
+ R166.2                         PRIM_FILE      .\pstchip.dat
+ R166.2                         ROOM           pic_pic
+ R168.2         8230.11 2334.00 PRIM_FILE      .\pstchip.dat
+ R168.2         8230.11 2334.00 ROOM           pic_pic
+ R169.2         8230.11 4394.00 PRIM_FILE      .\pstchip.dat
+ R169.2         8230.11 4394.00 ROOM           pic_pic
+ R170.2         8230.11 6444.00 PRIM_FILE      .\pstchip.dat
+ R170.2         8230.11 6444.00 ROOM           pic_pic
+ R171.2         10160.1 2334.00 PRIM_FILE      .\pstchip.dat
+ R171.2         10160.1 2334.00 ROOM           pic_pic
+ R172.2         9190.11 2334.00 PRIM_FILE      .\pstchip.dat
+ R172.2         9190.11 2334.00 ROOM           pic_pic
+ R173.2         10160.1 4394.00 PRIM_FILE      .\pstchip.dat
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page  27  |
+|------------------------------------------------------------------------------|
+|  c:.../tida01606_powercard/board/solutionstida01606_powercard_rev8.brd       |
+|                                                    Mon Aug 23 16:13:37 2021  |
+|------------------------------------------------------------------------------|
+| SLOT PROPERTIES added to design                                              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   slot_id    |   x   |   y   |   property   |             value              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ R173.2         10160.1 4394.00 ROOM           pic_pic
+ R174.2         9190.11 4394.00 PRIM_FILE      .\pstchip.dat
+ R174.2         9190.11 4394.00 ROOM           pic_pic
+ R175.2         10160.1 6444.00 PRIM_FILE      .\pstchip.dat
+ R175.2         10160.1 6444.00 ROOM           pic_pic
+ R176.2         9190.11 6444.00 PRIM_FILE      .\pstchip.dat
+ R176.2         9190.11 6444.00 ROOM           pic_pic
+ R177.2         12096.4 7849.00 PRIM_FILE      .\pstchip.dat
+ R177.2         12096.4 7849.00 ROOM           control_smps
+ R178.2         9616.53 7782.00 PRIM_FILE      .\pstchip.dat
+ R178.2         9616.53 7782.00 ROOM           pic_pic
+ R179.2         8504.46 7756.00 PRIM_FILE      .\pstchip.dat
+ R179.2         8504.46 7756.00 ROOM           pic_pic
+ R192.2         7270.11 2334.00 PRIM_FILE      .\pstchip.dat
+ R192.2         7270.11 2334.00 ROOM           pic_pic
+ R193.2         7270.11 4394.00 PRIM_FILE      .\pstchip.dat
+ R193.2         7270.11 4394.00 ROOM           pic_pic
+ R194.2         7270.11 6444.00 PRIM_FILE      .\pstchip.dat
+ R194.2         7270.11 6444.00 ROOM           pic_pic
+ R195.2         8222.00 8676.59 PRIM_FILE      .\pstchip.dat
+ R195.2         8222.00 8676.59 ROOM           pic_pic
+ R196.2         8503.40 9174.00 PRIM_FILE      .\pstchip.dat
+ R196.2         8503.40 9174.00 ROOM           control_smps
+ R205.2                         PRIM_FILE      .\pstchip.dat
+ R205.2                         ROOM           pic_pic
+ R206.2                         PRIM_FILE      .\pstchip.dat
+ R206.2                         ROOM           pic_pic
+ RF1.2                          PRIM_FILE      .\pstchip.dat
+ RF2.2                          PRIM_FILE      .\pstchip.dat
+ RF3.2                          PRIM_FILE      .\pstchip.dat
+ RF4.2                          PRIM_FILE      .\pstchip.dat
+ T1.5           4598.50 1955.00 PRIM_FILE      .\pstchip.dat
+ T2.5           4598.50 4505.00 PRIM_FILE      .\pstchip.dat
+ T3.5           4597.50 7005.00 PRIM_FILE      .\pstchip.dat
+ U1.8           3317.00 2208.84 PRIM_FILE      .\pstchip.dat
+ U1.8           3317.00 2208.84 ROOM           3
+ U2.2           5200.40 1958.59 PRIM_FILE      .\pstchip.dat
+ U5.8           3317.00 4758.84 PRIM_FILE      .\pstchip.dat
+ U5.8           3317.00 4758.84 ROOM           3
+ U7.2           5201.59 4508.59 PRIM_FILE      .\pstchip.dat
+ U8.8           3317.00 7268.15 PRIM_FILE      .\pstchip.dat
+ U8.8           3317.00 7268.15 ROOM           3
+ U10.3          3892.40 1923.59 PRIM_FILE      .\pstchip.dat
+ U11.8          14734.4 8434.85 PRIM_FILE      .\pstchip.dat
+ U12.4          12867.0 8515.03 PRIM_FILE      .\pstchip.dat
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page  28  |
+|------------------------------------------------------------------------------|
+|  c:.../tida01606_powercard/board/solutionstida01606_powercard_rev8.brd       |
+|                                                    Mon Aug 23 16:13:37 2021  |
+|------------------------------------------------------------------------------|
+| SLOT PROPERTIES added to design                                              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   slot_id    |   x   |   y   |   property   |             value              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ U15.4          11857.0 8390.94 PRIM_FILE      .\pstchip.dat
+ U20.1                          PRIM_FILE      .\pstchip.dat
+ U21.3          3892.40 4473.59 PRIM_FILE      .\pstchip.dat
+ U22.2          5200.40 7008.59 PRIM_FILE      .\pstchip.dat
+ U23.3          3892.40 6973.59 PRIM_FILE      .\pstchip.dat
+ U24.5          12086.0 7960.59 PRIM_FILE      .\pstchip.dat
+|------------------------------------------------------------------------------|
+|       Nets changed          :      60                                        |
+|       Comp definitions added:      75                                        |
+|       Components added      :      19                                        |
+|       Components deleted    :       3                                        |
+|       Components changed    :     282                                        |
+|       Comp property added   :      14                                        |
+|       Slot property added   :     546                                        |
+|                                                                              |
+|   Total ECO changes reported:     999                                        |
+|------------------------------------------------------------------------------|

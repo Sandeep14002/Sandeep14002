@@ -1,0 +1,247 @@
+{
+	"Gate Swap" : [],
+	"Ref Des" : [],
+	"Pin Swap" : [],
+	"Component Property" : [],
+	"Net Property" : [],
+	"Pin Property" : [],
+	"Component" : [],
+	"Net" : [
+		{
+			"Name" : "GND_AMC3",
+			"C_PATH" : "@tida01606_powercard_0.schematic1(sch_1):gnd_amc3",
+			"Logical" : null,
+			"Physical" : "GND_AMC3"
+		},
+		{
+			"Name" : "GND_AMC2",
+			"C_PATH" : "@tida01606_powercard_0.schematic1(sch_1):gnd_amc2",
+			"Logical" : null,
+			"Physical" : "GND_AMC2"
+		},
+		{
+			"Name" : "GND_AMC1",
+			"C_PATH" : "@tida01606_powercard_0.schematic1(sch_1):gnd_amc1",
+			"Logical" : null,
+			"Physical" : "GND_AMC1"
+		}
+	],
+	"Connection" : [
+		{
+			"Name" : "C100.2",
+			"C_PATH" : "@tida01606_powercard_0.schematic1(sch_1):ins14289358@discrete.\\cap np.normal\\(chips):\\2\\",
+			"Logical" : "VINV_B",
+			"Physical" : "GND_AMC2"
+		},
+		{
+			"Name" : "C101.2",
+			"C_PATH" : "@tida01606_powercard_0.schematic1(sch_1):ins14288705@discrete.\\cap np.normal\\(chips):\\2\\",
+			"Logical" : "VINV_A",
+			"Physical" : "GND_AMC1"
+		},
+		{
+			"Name" : "C102.2",
+			"C_PATH" : "@tida01606_powercard_0.schematic1(sch_1):ins14289486@discrete.\\cap np.normal\\(chips):\\2\\",
+			"Logical" : "VINV_B",
+			"Physical" : "GND_AMC2"
+		},
+		{
+			"Name" : "C103.2",
+			"C_PATH" : "@tida01606_powercard_0.schematic1(sch_1):ins14288721@discrete.\\cap np.normal\\(chips):\\2\\",
+			"Logical" : "VINV_A",
+			"Physical" : "GND_AMC1"
+		},
+		{
+			"Name" : "C104.2",
+			"C_PATH" : "@tida01606_powercard_0.schematic1(sch_1):ins14289502@discrete.\\cap np.normal\\(chips):\\2\\",
+			"Logical" : "VINV_B",
+			"Physical" : "GND_AMC2"
+		},
+		{
+			"Name" : "C105.2",
+			"C_PATH" : "@tida01606_powercard_0.schematic1(sch_1):ins14288645@discrete.\\cap np.normal\\(chips):\\2\\",
+			"Logical" : "VINV_A",
+			"Physical" : "GND_AMC1"
+		},
+		{
+			"Name" : "C106.2",
+			"C_PATH" : "@tida01606_powercard_0.schematic1(sch_1):ins14289426@discrete.\\cap np.normal\\(chips):\\2\\",
+			"Logical" : "VINV_B",
+			"Physical" : "GND_AMC2"
+		},
+		{
+			"Name" : "C110.2",
+			"C_PATH" : "@tida01606_powercard_0.schematic1(sch_1):ins14292628@discrete.\\cap np.normal\\(chips):\\2\\",
+			"Logical" : "VINV_C",
+			"Physical" : "GND_AMC3"
+		},
+		{
+			"Name" : "C111.2",
+			"C_PATH" : "@tida01606_powercard_0.schematic1(sch_1):ins14292648@discrete.\\cap np.normal\\(chips):\\2\\",
+			"Logical" : "VINV_C",
+			"Physical" : "GND_AMC3"
+		},
+		{
+			"Name" : "C112.2",
+			"C_PATH" : "@tida01606_powercard_0.schematic1(sch_1):ins14292814@discrete.\\cap np.normal\\(chips):\\2\\",
+			"Logical" : "VINV_C",
+			"Physical" : "GND_AMC3"
+		},
+		{
+			"Name" : "C113.2",
+			"C_PATH" : "@tida01606_powercard_0.schematic1(sch_1):ins14292830@discrete.\\cap np.normal\\(chips):\\2\\",
+			"Logical" : "VINV_C",
+			"Physical" : "GND_AMC3"
+		},
+		{
+			"Name" : "C114.2",
+			"C_PATH" : "@tida01606_powercard_0.schematic1(sch_1):ins14292958@discrete.\\cap np.normal\\(chips):\\2\\",
+			"Logical" : "VINV_C",
+			"Physical" : "GND_AMC3"
+		},
+		{
+			"Name" : "C115.2",
+			"C_PATH" : "@tida01606_powercard_0.schematic1(sch_1):ins14292974@discrete.\\cap np.normal\\(chips):\\2\\",
+			"Logical" : "VINV_C",
+			"Physical" : "GND_AMC3"
+		},
+		{
+			"Name" : "C116.2",
+			"C_PATH" : "@tida01606_powercard_0.schematic1(sch_1):ins14292898@discrete.\\cap np.normal\\(chips):\\2\\",
+			"Logical" : "VINV_C",
+			"Physical" : "GND_AMC3"
+		},
+		{
+			"Name" : "C65.1",
+			"C_PATH" : "@tida01606_powercard_0.schematic1(sch_1):ins14286549@discrete.\\cap np.normal\\(chips):\\1\\",
+			"Logical" : "VINV_A",
+			"Physical" : "GND_AMC1"
+		},
+		{
+			"Name" : "C67.1",
+			"C_PATH" : "@tida01606_powercard_0.schematic1(sch_1):ins14287893@discrete.\\cap np.normal\\(chips):\\1\\",
+			"Logical" : "VINV_B",
+			"Physical" : "GND_AMC2"
+		},
+		{
+			"Name" : "C68.1",
+			"C_PATH" : "@tida01606_powercard_0.schematic1(sch_1):ins14292744@discrete.\\cap np.normal\\(chips):\\1\\",
+			"Logical" : "VINV_C",
+			"Physical" : "GND_AMC3"
+		},
+		{
+			"Name" : "C93.2",
+			"C_PATH" : "@tida01606_powercard_0.schematic1(sch_1):ins14286012@discrete.\\cap np.normal\\(chips):\\2\\",
+			"Logical" : "VINV_A",
+			"Physical" : "GND_AMC1"
+		},
+		{
+			"Name" : "C94.2",
+			"C_PATH" : "@tida01606_powercard_0.schematic1(sch_1):ins14286028@discrete.\\cap np.normal\\(chips):\\2\\",
+			"Logical" : "VINV_A",
+			"Physical" : "GND_AMC1"
+		},
+		{
+			"Name" : "C95.2",
+			"C_PATH" : "@tida01606_powercard_0.schematic1(sch_1):ins14287777@discrete.\\cap np.normal\\(chips):\\2\\",
+			"Logical" : "VINV_B",
+			"Physical" : "GND_AMC2"
+		},
+		{
+			"Name" : "C96.2",
+			"C_PATH" : "@tida01606_powercard_0.schematic1(sch_1):ins14287797@discrete.\\cap np.normal\\(chips):\\2\\",
+			"Logical" : "VINV_B",
+			"Physical" : "GND_AMC2"
+		},
+		{
+			"Name" : "C97.2",
+			"C_PATH" : "@tida01606_powercard_0.schematic1(sch_1):ins14288561@discrete.\\cap np.normal\\(chips):\\2\\",
+			"Logical" : "VINV_A",
+			"Physical" : "GND_AMC1"
+		},
+		{
+			"Name" : "C98.2",
+			"C_PATH" : "@tida01606_powercard_0.schematic1(sch_1):ins14289342@discrete.\\cap np.normal\\(chips):\\2\\",
+			"Logical" : "VINV_B",
+			"Physical" : "GND_AMC2"
+		},
+		{
+			"Name" : "C99.2",
+			"C_PATH" : "@tida01606_powercard_0.schematic1(sch_1):ins14288577@discrete.\\cap np.normal\\(chips):\\2\\",
+			"Logical" : "VINV_A",
+			"Physical" : "GND_AMC1"
+		},
+		{
+			"Name" : "D26.1",
+			"C_PATH" : "@tida01606_powercard_0.schematic1(sch_1):ins14288857@discrete.\\led.normal\\(chips):CATHODE",
+			"Logical" : "VINV_A",
+			"Physical" : "GND_AMC1"
+		},
+		{
+			"Name" : "D27.1",
+			"C_PATH" : "@tida01606_powercard_0.schematic1(sch_1):ins14289638@discrete.\\led.normal\\(chips):CATHODE",
+			"Logical" : "VINV_B",
+			"Physical" : "GND_AMC2"
+		},
+		{
+			"Name" : "D28.2",
+			"C_PATH" : "@tida01606_powercard_0.schematic1(sch_1):ins14288773@discrete.\\diode zener.normal\\(chips):ANODE",
+			"Logical" : "VINV_A",
+			"Physical" : "GND_AMC1"
+		},
+		{
+			"Name" : "D29.2",
+			"C_PATH" : "@tida01606_powercard_0.schematic1(sch_1):ins14289554@discrete.\\diode zener.normal\\(chips):ANODE",
+			"Logical" : "VINV_B",
+			"Physical" : "GND_AMC2"
+		},
+		{
+			"Name" : "D32.1",
+			"C_PATH" : "@tida01606_powercard_0.schematic1(sch_1):ins14293118@discrete.\\led.normal\\(chips):CATHODE",
+			"Logical" : "VINV_C",
+			"Physical" : "GND_AMC3"
+		},
+		{
+			"Name" : "D33.2",
+			"C_PATH" : "@tida01606_powercard_0.schematic1(sch_1):ins14293026@discrete.\\diode zener.normal\\(chips):ANODE",
+			"Logical" : "VINV_C",
+			"Physical" : "GND_AMC3"
+		},
+		{
+			"Name" : "T1.5",
+			"C_PATH" : "@tida01606_powercard_0.schematic1(sch_1):ins14285880@\\tida-01606_hv_carde4_sch\\.\\transformer stepup_0.normal\\(chips):NC2",
+			"Logical" : "VINV_A",
+			"Physical" : "GND_AMC1"
+		},
+		{
+			"Name" : "T2.5",
+			"C_PATH" : "@tida01606_powercard_0.schematic1(sch_1):ins14287645@\\tida-01606_hv_carde4_sch\\.\\transformer stepup_0.normal\\(chips):NC2",
+			"Logical" : "VINV_B",
+			"Physical" : "GND_AMC2"
+		},
+		{
+			"Name" : "T3.5",
+			"C_PATH" : "@tida01606_powercard_0.schematic1(sch_1):ins14292496@\\tida-01606_hv_carde4_sch\\.\\transformer stepup_0.normal\\(chips):NC2",
+			"Logical" : "VINV_C",
+			"Physical" : "GND_AMC3"
+		},
+		{
+			"Name" : "U10.1",
+			"C_PATH" : "@tida01606_powercard_0.schematic1(sch_1):ins14288539@\\tida-01606_hv_carde4_sch\\.\\dm3at-sf-pejm5_2.normal\\(chips):GND",
+			"Logical" : "VINV_A",
+			"Physical" : "GND_AMC1"
+		},
+		{
+			"Name" : "U21.1",
+			"C_PATH" : "@tida01606_powercard_0.schematic1(sch_1):ins14289320@\\tida-01606_hv_carde4_sch\\.\\dm3at-sf-pejm5_2.normal\\(chips):GND",
+			"Logical" : "VINV_B",
+			"Physical" : "GND_AMC2"
+		},
+		{
+			"Name" : "U23.1",
+			"C_PATH" : "@tida01606_powercard_0.schematic1(sch_1):ins14292792@\\tida-01606_hv_carde4_sch\\.\\dm3at-sf-pejm5_2.normal\\(chips):GND",
+			"Logical" : "VINV_C",
+			"Physical" : "GND_AMC3"
+		}
+	]
+}

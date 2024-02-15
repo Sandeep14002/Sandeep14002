@@ -1,0 +1,1640 @@
+FILE_TYPE = EXPANDEDPARTLIST;
+{ Using PSTWRITER 17.2.0 d001Apr-27-2020 at 10:59:51 }
+DIRECTIVES
+ PST_VERSION='PST_HDL_CENTRIC_VERSION_0';
+ ROOT_DRAWING='TIDA-01606_GATE DRIVERE4_SCH';
+ POST_TIME='Jan  9 2017 17:57:56';
+ SOURCE_TOOL='CAPTURE_WRITER';
+END_DIRECTIVES;
+
+PART_NAME
+ C1 'CAP NP_RES0603_0.1U 0603 25V':
+ ROOM='control_smps';
+
+SECTION_NUMBER 1
+ '@TIDA-01606_GATE DRIVERE4_SCH.SCHEMATIC1(SCH_1):INS14264280@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@\tida-01606_gate drivere4_sch\.schematic1(sch_1):ins14264280@discrete.\cap np.normal\(chips)',
+ P_PATH='@\tida-01606_gate drivere4_sch\.schematic1(sch_1):page1_ins14264280@discrete.\cap np.normal\(chips)',
+ ROOM='control_smps',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C10 'CAP NP_RES0603_0.1U 0603 25V':
+ ROOM='control_smps';
+
+SECTION_NUMBER 1
+ '@TIDA-01606_GATE DRIVERE4_SCH.SCHEMATIC1(SCH_1):INS14266449@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@\tida-01606_gate drivere4_sch\.schematic1(sch_1):ins14266449@discrete.\cap np.normal\(chips)',
+ P_PATH='@\tida-01606_gate drivere4_sch\.schematic1(sch_1):page1_ins14266449@discrete.\cap np.normal\(chips)',
+ ROOM='control_smps',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C11 'CAP NP_SNPD0805_MODIFIED_4.7U 0':
+ ROOM='control_smps';
+
+SECTION_NUMBER 1
+ '@TIDA-01606_GATE DRIVERE4_SCH.SCHEMATIC1(SCH_1):INS14266605@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@\tida-01606_gate drivere4_sch\.schematic1(sch_1):ins14266605@discrete.\cap np.normal\(chips)',
+ P_PATH='@\tida-01606_gate drivere4_sch\.schematic1(sch_1):page1_ins14266605@discrete.\cap np.normal\(chips)',
+ ROOM='control_smps',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C12 'CAP NP_SNPD0805_MODIFIED_4.7U 0':
+ ROOM='control_smps';
+
+SECTION_NUMBER 1
+ '@TIDA-01606_GATE DRIVERE4_SCH.SCHEMATIC1(SCH_1):INS14266621@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@\tida-01606_gate drivere4_sch\.schematic1(sch_1):ins14266621@discrete.\cap np.normal\(chips)',
+ P_PATH='@\tida-01606_gate drivere4_sch\.schematic1(sch_1):page1_ins14266621@discrete.\cap np.normal\(chips)',
+ ROOM='control_smps',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C13 'CAP NP_RES0603_0.1U 0603 25V':
+ ROOM='control_smps';
+
+SECTION_NUMBER 1
+ '@TIDA-01606_GATE DRIVERE4_SCH.SCHEMATIC1(SCH_1):INS14266637@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@\tida-01606_gate drivere4_sch\.schematic1(sch_1):ins14266637@discrete.\cap np.normal\(chips)',
+ P_PATH='@\tida-01606_gate drivere4_sch\.schematic1(sch_1):page1_ins14266637@discrete.\cap np.normal\(chips)',
+ ROOM='control_smps',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C14 'CAP_CAP2917_3.3U 50V 105C':
+ ROOM='24Vcc3_smps';
+
+SECTION_NUMBER 1
+ '@TIDA-01606_GATE DRIVERE4_SCH.SCHEMATIC1(SCH_1):INS14261560@DISCRETE.CAP.NORMAL(CHIPS)':
+ C_PATH='@\tida-01606_gate drivere4_sch\.schematic1(sch_1):ins14261560@discrete.\cap.normal\(chips)',
+ P_PATH='@\tida-01606_gate drivere4_sch\.schematic1(sch_1):page1_ins14261560@discrete.\cap.normal\(chips)',
+ ROOM='24Vcc3_smps',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C15 'CAP NP_RES0603_0.1U 0603 25V':
+ ROOM='control_smps';
+
+SECTION_NUMBER 1
+ '@TIDA-01606_GATE DRIVERE4_SCH.SCHEMATIC1(SCH_1):INS14266465@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@\tida-01606_gate drivere4_sch\.schematic1(sch_1):ins14266465@discrete.\cap np.normal\(chips)',
+ P_PATH='@\tida-01606_gate drivere4_sch\.schematic1(sch_1):page1_ins14266465@discrete.\cap np.normal\(chips)',
+ ROOM='control_smps',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C16 'CAP NP_RES0603_0.1U 0603 25V':
+ ROOM='control_smps';
+
+SECTION_NUMBER 1
+ '@TIDA-01606_GATE DRIVERE4_SCH.SCHEMATIC1(SCH_1):INS14267308@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@\tida-01606_gate drivere4_sch\.schematic1(sch_1):ins14267308@discrete.\cap np.normal\(chips)',
+ P_PATH='@\tida-01606_gate drivere4_sch\.schematic1(sch_1):page1_ins14267308@discrete.\cap np.normal\(chips)',
+ ROOM='control_smps',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C17 'CAP NP_SNPD0805_MODIFIED_4.7U 0':
+ ROOM='control_smps';
+
+SECTION_NUMBER 1
+ '@TIDA-01606_GATE DRIVERE4_SCH.SCHEMATIC1(SCH_1):INS14267464@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@\tida-01606_gate drivere4_sch\.schematic1(sch_1):ins14267464@discrete.\cap np.normal\(chips)',
+ P_PATH='@\tida-01606_gate drivere4_sch\.schematic1(sch_1):page1_ins14267464@discrete.\cap np.normal\(chips)',
+ ROOM='control_smps',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C18 'CAP NP_SNPD0805_MODIFIED_4.7U 0':
+ ROOM='control_smps';
+
+SECTION_NUMBER 1
+ '@TIDA-01606_GATE DRIVERE4_SCH.SCHEMATIC1(SCH_1):INS14267480@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@\tida-01606_gate drivere4_sch\.schematic1(sch_1):ins14267480@discrete.\cap np.normal\(chips)',
+ P_PATH='@\tida-01606_gate drivere4_sch\.schematic1(sch_1):page1_ins14267480@discrete.\cap np.normal\(chips)',
+ ROOM='control_smps',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C19 'CAP NP_RES0603_0.1U 0603 25V':
+ ROOM='control_smps';
+
+SECTION_NUMBER 1
+ '@TIDA-01606_GATE DRIVERE4_SCH.SCHEMATIC1(SCH_1):INS14267496@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@\tida-01606_gate drivere4_sch\.schematic1(sch_1):ins14267496@discrete.\cap np.normal\(chips)',
+ P_PATH='@\tida-01606_gate drivere4_sch\.schematic1(sch_1):page1_ins14267496@discrete.\cap np.normal\(chips)',
+ ROOM='control_smps',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C2 'CAP NP_SNPD0805_MODIFIED_4.7U 0':
+ ROOM='control_smps';
+
+SECTION_NUMBER 1
+ '@TIDA-01606_GATE DRIVERE4_SCH.SCHEMATIC1(SCH_1):INS14262501@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@\tida-01606_gate drivere4_sch\.schematic1(sch_1):ins14262501@discrete.\cap np.normal\(chips)',
+ P_PATH='@\tida-01606_gate drivere4_sch\.schematic1(sch_1):page1_ins14262501@discrete.\cap np.normal\(chips)',
+ ROOM='control_smps',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C20 'CAP NP_RES0603_0.1U 0603 25V':
+ ROOM='control_smps';
+
+SECTION_NUMBER 1
+ '@TIDA-01606_GATE DRIVERE4_SCH.SCHEMATIC1(SCH_1):INS14267324@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@\tida-01606_gate drivere4_sch\.schematic1(sch_1):ins14267324@discrete.\cap np.normal\(chips)',
+ P_PATH='@\tida-01606_gate drivere4_sch\.schematic1(sch_1):page1_ins14267324@discrete.\cap np.normal\(chips)',
+ ROOM='control_smps',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C21 'CAP NP_RES0603_0.1U 0603 50V':
+ ROOM='control_smps';
+
+SECTION_NUMBER 1
+ '@TIDA-01606_GATE DRIVERE4_SCH.SCHEMATIC1(SCH_1):INS14268451@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@\tida-01606_gate drivere4_sch\.schematic1(sch_1):ins14268451@discrete.\cap np.normal\(chips)',
+ P_PATH='@\tida-01606_gate drivere4_sch\.schematic1(sch_1):page1_ins14268451@discrete.\cap np.normal\(chips)',
+ ROOM='control_smps',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C22 'CAP NP_RES0603_0.1U 0603 50V':
+ ROOM='control_smps';
+
+SECTION_NUMBER 1
+ '@TIDA-01606_GATE DRIVERE4_SCH.SCHEMATIC1(SCH_1):INS14269580@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@\tida-01606_gate drivere4_sch\.schematic1(sch_1):ins14269580@discrete.\cap np.normal\(chips)',
+ P_PATH='@\tida-01606_gate drivere4_sch\.schematic1(sch_1):page1_ins14269580@discrete.\cap np.normal\(chips)',
+ ROOM='control_smps',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C23 'CAP NP_SNPD0805_MODIFIED_10U 08':
+ ROOM='control_smps';
+
+SECTION_NUMBER 1
+ '@TIDA-01606_GATE DRIVERE4_SCH.SCHEMATIC1(SCH_1):INS14269606@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@\tida-01606_gate drivere4_sch\.schematic1(sch_1):ins14269606@discrete.\cap np.normal\(chips)',
+ P_PATH='@\tida-01606_gate drivere4_sch\.schematic1(sch_1):page1_ins14269606@discrete.\cap np.normal\(chips)',
+ ROOM='control_smps',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C24 'CAP NP_RES0603_0.1U 0603 50V_1':
+ ROOM='control_smps';
+
+SECTION_NUMBER 1
+ '@TIDA-01606_GATE DRIVERE4_SCH.SCHEMATIC1(SCH_1):INS14279081@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@\tida-01606_gate drivere4_sch\.schematic1(sch_1):ins14279081@discrete.\cap np.normal\(chips)',
+ P_PATH='@\tida-01606_gate drivere4_sch\.schematic1(sch_1):page1_ins14279081@discrete.\cap np.normal\(chips)',
+ ROOM='control_smps',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C25 'CAP NP_SNPD0805_MODIFIED_100PF':
+ ROOM='control_smps';
+
+SECTION_NUMBER 1
+ '@TIDA-01606_GATE DRIVERE4_SCH.SCHEMATIC1(SCH_1):INS14269873@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@\tida-01606_gate drivere4_sch\.schematic1(sch_1):ins14269873@discrete.\cap np.normal\(chips)',
+ P_PATH='@\tida-01606_gate drivere4_sch\.schematic1(sch_1):page1_ins14269873@discrete.\cap np.normal\(chips)',
+ ROOM='control_smps',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C26 'CAP NP_RES0603_0.1U 0603 50V':
+ ROOM='control_smps';
+
+SECTION_NUMBER 1
+ '@TIDA-01606_GATE DRIVERE4_SCH.SCHEMATIC1(SCH_1):INS14270272@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@\tida-01606_gate drivere4_sch\.schematic1(sch_1):ins14270272@discrete.\cap np.normal\(chips)',
+ P_PATH='@\tida-01606_gate drivere4_sch\.schematic1(sch_1):page1_ins14270272@discrete.\cap np.normal\(chips)',
+ ROOM='control_smps',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C27 'CAP NP_SNPD0805_MODIFIED_10U _1':
+ ROOM='control_smps';
+
+SECTION_NUMBER 1
+ '@TIDA-01606_GATE DRIVERE4_SCH.SCHEMATIC1(SCH_1):INS14270298@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@\tida-01606_gate drivere4_sch\.schematic1(sch_1):ins14270298@discrete.\cap np.normal\(chips)',
+ P_PATH='@\tida-01606_gate drivere4_sch\.schematic1(sch_1):page1_ins14270298@discrete.\cap np.normal\(chips)',
+ ROOM='control_smps',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C28 'CAP NP_RES0603_0.1U 0603 50V_1':
+ ROOM='control_smps';
+
+SECTION_NUMBER 1
+ '@TIDA-01606_GATE DRIVERE4_SCH.SCHEMATIC1(SCH_1):INS14271288@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@\tida-01606_gate drivere4_sch\.schematic1(sch_1):ins14271288@discrete.\cap np.normal\(chips)',
+ P_PATH='@\tida-01606_gate drivere4_sch\.schematic1(sch_1):page1_ins14271288@discrete.\cap np.normal\(chips)',
+ ROOM='control_smps',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C29 'CAP NP_RES0603_0.1U 0603 50V':
+ ROOM='control_smps';
+
+SECTION_NUMBER 1
+ '@TIDA-01606_GATE DRIVERE4_SCH.SCHEMATIC1(SCH_1):INS14271456@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@\tida-01606_gate drivere4_sch\.schematic1(sch_1):ins14271456@discrete.\cap np.normal\(chips)',
+ P_PATH='@\tida-01606_gate drivere4_sch\.schematic1(sch_1):page1_ins14271456@discrete.\cap np.normal\(chips)',
+ ROOM='control_smps',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C3 'CAP NP_SNPD0805_MODIFIED_4.7U 0':
+ ROOM='control_smps';
+
+SECTION_NUMBER 1
+ '@TIDA-01606_GATE DRIVERE4_SCH.SCHEMATIC1(SCH_1):INS14262537@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@\tida-01606_gate drivere4_sch\.schematic1(sch_1):ins14262537@discrete.\cap np.normal\(chips)',
+ P_PATH='@\tida-01606_gate drivere4_sch\.schematic1(sch_1):page1_ins14262537@discrete.\cap np.normal\(chips)',
+ ROOM='control_smps',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C30 'CAP NP_SNPD0805_MODIFIED_10U 08':
+ ROOM='control_smps';
+
+SECTION_NUMBER 1
+ '@TIDA-01606_GATE DRIVERE4_SCH.SCHEMATIC1(SCH_1):INS14271484@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@\tida-01606_gate drivere4_sch\.schematic1(sch_1):ins14271484@discrete.\cap np.normal\(chips)',
+ P_PATH='@\tida-01606_gate drivere4_sch\.schematic1(sch_1):page1_ins14271484@discrete.\cap np.normal\(chips)',
+ ROOM='control_smps',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C31 'CAP NP_SNPD0805_MODIFIED_100PF':
+ ROOM='control_smps';
+
+SECTION_NUMBER 1
+ '@TIDA-01606_GATE DRIVERE4_SCH.SCHEMATIC1(SCH_1):INS14271564@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@\tida-01606_gate drivere4_sch\.schematic1(sch_1):ins14271564@discrete.\cap np.normal\(chips)',
+ P_PATH='@\tida-01606_gate drivere4_sch\.schematic1(sch_1):page1_ins14271564@discrete.\cap np.normal\(chips)',
+ ROOM='control_smps',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C32 'CAP NP_RES0603_0.1U 0603 50V':
+ ROOM='control_smps';
+
+SECTION_NUMBER 1
+ '@TIDA-01606_GATE DRIVERE4_SCH.SCHEMATIC1(SCH_1):INS14271788@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@\tida-01606_gate drivere4_sch\.schematic1(sch_1):ins14271788@discrete.\cap np.normal\(chips)',
+ P_PATH='@\tida-01606_gate drivere4_sch\.schematic1(sch_1):page1_ins14271788@discrete.\cap np.normal\(chips)',
+ ROOM='control_smps',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C33 'CAP NP_SNPD0805_MODIFIED_10U _1':
+ ROOM='control_smps';
+
+SECTION_NUMBER 1
+ '@TIDA-01606_GATE DRIVERE4_SCH.SCHEMATIC1(SCH_1):INS14271812@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@\tida-01606_gate drivere4_sch\.schematic1(sch_1):ins14271812@discrete.\cap np.normal\(chips)',
+ P_PATH='@\tida-01606_gate drivere4_sch\.schematic1(sch_1):page1_ins14271812@discrete.\cap np.normal\(chips)',
+ ROOM='control_smps',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C34 'CAP NP_RES0603_0.1U 0603 50V_1':
+ ROOM='control_smps';
+
+SECTION_NUMBER 1
+ '@TIDA-01606_GATE DRIVERE4_SCH.SCHEMATIC1(SCH_1):INS14273586@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@\tida-01606_gate drivere4_sch\.schematic1(sch_1):ins14273586@discrete.\cap np.normal\(chips)',
+ P_PATH='@\tida-01606_gate drivere4_sch\.schematic1(sch_1):page1_ins14273586@discrete.\cap np.normal\(chips)',
+ ROOM='control_smps',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C35 'CAP NP_RES0603_0.1U 0603 50V_1':
+ ROOM='control_smps';
+
+SECTION_NUMBER 1
+ '@TIDA-01606_GATE DRIVERE4_SCH.SCHEMATIC1(SCH_1):INS14277898@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@\tida-01606_gate drivere4_sch\.schematic1(sch_1):ins14277898@discrete.\cap np.normal\(chips)',
+ P_PATH='@\tida-01606_gate drivere4_sch\.schematic1(sch_1):page1_ins14277898@discrete.\cap np.normal\(chips)',
+ ROOM='control_smps',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C36 'CAP NP_RES0603_0.1U 0603 50V_1':
+ ROOM='control_smps';
+
+SECTION_NUMBER 1
+ '@TIDA-01606_GATE DRIVERE4_SCH.SCHEMATIC1(SCH_1):INS14274832@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@\tida-01606_gate drivere4_sch\.schematic1(sch_1):ins14274832@discrete.\cap np.normal\(chips)',
+ P_PATH='@\tida-01606_gate drivere4_sch\.schematic1(sch_1):page1_ins14274832@discrete.\cap np.normal\(chips)',
+ ROOM='control_smps',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C37 'CAP NP_SNPD0805_MODIFIED_10U 08':
+ ROOM='control_smps';
+
+SECTION_NUMBER 1
+ '@TIDA-01606_GATE DRIVERE4_SCH.SCHEMATIC1(SCH_1):INS14274858@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@\tida-01606_gate drivere4_sch\.schematic1(sch_1):ins14274858@discrete.\cap np.normal\(chips)',
+ P_PATH='@\tida-01606_gate drivere4_sch\.schematic1(sch_1):page1_ins14274858@discrete.\cap np.normal\(chips)',
+ ROOM='control_smps',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C38 'CAP NP_RES0603_0.1U 0603 50V_1':
+ ROOM='control_smps';
+
+SECTION_NUMBER 1
+ '@TIDA-01606_GATE DRIVERE4_SCH.SCHEMATIC1(SCH_1):INS14278044@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@\tida-01606_gate drivere4_sch\.schematic1(sch_1):ins14278044@discrete.\cap np.normal\(chips)',
+ P_PATH='@\tida-01606_gate drivere4_sch\.schematic1(sch_1):page1_ins14278044@discrete.\cap np.normal\(chips)',
+ ROOM='control_smps',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C39 'CAP NP_SNPD0805_MODIFIED_10U 08':
+ ROOM='control_smps';
+
+SECTION_NUMBER 1
+ '@TIDA-01606_GATE DRIVERE4_SCH.SCHEMATIC1(SCH_1):INS14278060@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@\tida-01606_gate drivere4_sch\.schematic1(sch_1):ins14278060@discrete.\cap np.normal\(chips)',
+ P_PATH='@\tida-01606_gate drivere4_sch\.schematic1(sch_1):page1_ins14278060@discrete.\cap np.normal\(chips)',
+ ROOM='control_smps',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C4 'CAP NP_RES0603_0.1U 0603 25V':
+ ROOM='control_smps';
+
+SECTION_NUMBER 1
+ '@TIDA-01606_GATE DRIVERE4_SCH.SCHEMATIC1(SCH_1):INS14262563@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@\tida-01606_gate drivere4_sch\.schematic1(sch_1):ins14262563@discrete.\cap np.normal\(chips)',
+ P_PATH='@\tida-01606_gate drivere4_sch\.schematic1(sch_1):page1_ins14262563@discrete.\cap np.normal\(chips)',
+ ROOM='control_smps',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C40 'CAP NP_RES0603_0.1U 0603 50V_1':
+ ROOM='control_smps';
+
+SECTION_NUMBER 1
+ '@TIDA-01606_GATE DRIVERE4_SCH.SCHEMATIC1(SCH_1):INS14278214@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@\tida-01606_gate drivere4_sch\.schematic1(sch_1):ins14278214@discrete.\cap np.normal\(chips)',
+ P_PATH='@\tida-01606_gate drivere4_sch\.schematic1(sch_1):page1_ins14278214@discrete.\cap np.normal\(chips)',
+ ROOM='control_smps',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C41 'CAP NP_SNPD0805_MODIFIED_10U _1':
+ ROOM='control_smps';
+
+SECTION_NUMBER 1
+ '@TIDA-01606_GATE DRIVERE4_SCH.SCHEMATIC1(SCH_1):INS14278238@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@\tida-01606_gate drivere4_sch\.schematic1(sch_1):ins14278238@discrete.\cap np.normal\(chips)',
+ P_PATH='@\tida-01606_gate drivere4_sch\.schematic1(sch_1):page1_ins14278238@discrete.\cap np.normal\(chips)',
+ ROOM='control_smps',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C42 'CAP NP_RES0603_0.1U 0603 50V_1':
+ ROOM='control_smps';
+
+SECTION_NUMBER 1
+ '@TIDA-01606_GATE DRIVERE4_SCH.SCHEMATIC1(SCH_1):INS14275399@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@\tida-01606_gate drivere4_sch\.schematic1(sch_1):ins14275399@discrete.\cap np.normal\(chips)',
+ P_PATH='@\tida-01606_gate drivere4_sch\.schematic1(sch_1):page1_ins14275399@discrete.\cap np.normal\(chips)',
+ ROOM='control_smps',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C43 'CAP NP_SNPD0805_MODIFIED_10U _1':
+ ROOM='control_smps';
+
+SECTION_NUMBER 1
+ '@TIDA-01606_GATE DRIVERE4_SCH.SCHEMATIC1(SCH_1):INS14275415@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@\tida-01606_gate drivere4_sch\.schematic1(sch_1):ins14275415@discrete.\cap np.normal\(chips)',
+ P_PATH='@\tida-01606_gate drivere4_sch\.schematic1(sch_1):page1_ins14275415@discrete.\cap np.normal\(chips)',
+ ROOM='control_smps',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C44 'CAP NP_RES0603_100PF 0603 50V':
+ ROOM='control_smps';
+
+SECTION_NUMBER 1
+ '@TIDA-01606_GATE DRIVERE4_SCH.SCHEMATIC1(SCH_1):INS14268585@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@\tida-01606_gate drivere4_sch\.schematic1(sch_1):ins14268585@discrete.\cap np.normal\(chips)',
+ P_PATH='@\tida-01606_gate drivere4_sch\.schematic1(sch_1):page1_ins14268585@discrete.\cap np.normal\(chips)',
+ ROOM='control_smps',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C45 'CAP NP_RES0603_100PF 0603 50V':
+ ROOM='control_smps';
+
+SECTION_NUMBER 1
+ '@TIDA-01606_GATE DRIVERE4_SCH.SCHEMATIC1(SCH_1):INS14271364@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@\tida-01606_gate drivere4_sch\.schematic1(sch_1):ins14271364@discrete.\cap np.normal\(chips)',
+ P_PATH='@\tida-01606_gate drivere4_sch\.schematic1(sch_1):page1_ins14271364@discrete.\cap np.normal\(chips)',
+ ROOM='control_smps',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C46 'CAP NP_RES0603_100PF 0603 50V_1':
+ ROOM='control_smps';
+
+SECTION_NUMBER 1
+ '@TIDA-01606_GATE DRIVERE4_SCH.SCHEMATIC1(SCH_1):INS14273870@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@\tida-01606_gate drivere4_sch\.schematic1(sch_1):ins14273870@discrete.\cap np.normal\(chips)',
+ P_PATH='@\tida-01606_gate drivere4_sch\.schematic1(sch_1):page1_ins14273870@discrete.\cap np.normal\(chips)',
+ ROOM='control_smps',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C47 'CAP NP_RES0603_100PF 0603 50V_1':
+ ROOM='control_smps';
+
+SECTION_NUMBER 1
+ '@TIDA-01606_GATE DRIVERE4_SCH.SCHEMATIC1(SCH_1):INS14277974@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@\tida-01606_gate drivere4_sch\.schematic1(sch_1):ins14277974@discrete.\cap np.normal\(chips)',
+ P_PATH='@\tida-01606_gate drivere4_sch\.schematic1(sch_1):page1_ins14277974@discrete.\cap np.normal\(chips)',
+ ROOM='control_smps',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C5 'CAP NP_RES0603_0.1U 0603 25V':
+ ROOM='control_smps';
+
+SECTION_NUMBER 1
+ '@TIDA-01606_GATE DRIVERE4_SCH.SCHEMATIC1(SCH_1):INS14264306@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@\tida-01606_gate drivere4_sch\.schematic1(sch_1):ins14264306@discrete.\cap np.normal\(chips)',
+ P_PATH='@\tida-01606_gate drivere4_sch\.schematic1(sch_1):page1_ins14264306@discrete.\cap np.normal\(chips)',
+ ROOM='control_smps',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C6 'CAP_CAP2917_3.3U 50V 105C':
+ ROOM='24Vcc3_smps';
+
+SECTION_NUMBER 1
+ '@TIDA-01606_GATE DRIVERE4_SCH.SCHEMATIC1(SCH_1):INS14261534@DISCRETE.CAP.NORMAL(CHIPS)':
+ C_PATH='@\tida-01606_gate drivere4_sch\.schematic1(sch_1):ins14261534@discrete.\cap.normal\(chips)',
+ P_PATH='@\tida-01606_gate drivere4_sch\.schematic1(sch_1):page1_ins14261534@discrete.\cap.normal\(chips)',
+ ROOM='24Vcc3_smps',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C7 'CAP NP_SNPD1206_MODIFIED_10U 12':
+ ROOM='control_smps';
+
+SECTION_NUMBER 1
+ '@TIDA-01606_GATE DRIVERE4_SCH.SCHEMATIC1(SCH_1):INS13755572@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@\tida-01606_gate drivere4_sch\.schematic1(sch_1):ins13755572@discrete.\cap np.normal\(chips)',
+ P_PATH='@\tida-01606_gate drivere4_sch\.schematic1(sch_1):page1_ins13755572@discrete.\cap np.normal\(chips)',
+ ROOM='control_smps',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C8 'CAP NP_RES0603_0.33U 0603 50V':
+ ROOM='control_smps';
+
+SECTION_NUMBER 1
+ '@TIDA-01606_GATE DRIVERE4_SCH.SCHEMATIC1(SCH_1):INS14260754@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@\tida-01606_gate drivere4_sch\.schematic1(sch_1):ins14260754@discrete.\cap np.normal\(chips)',
+ P_PATH='@\tida-01606_gate drivere4_sch\.schematic1(sch_1):page1_ins14260754@discrete.\cap np.normal\(chips)',
+ ROOM='control_smps',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C9 'CAP_CAP_J-V_5X6P1_0.1U 63V 105C':
+ ROOM='24Vcc3_smps';
+
+SECTION_NUMBER 1
+ '@TIDA-01606_GATE DRIVERE4_SCH.SCHEMATIC1(SCH_1):INS14260682@DISCRETE.CAP.NORMAL(CHIPS)':
+ C_PATH='@\tida-01606_gate drivere4_sch\.schematic1(sch_1):ins14260682@discrete.\cap.normal\(chips)',
+ P_PATH='@\tida-01606_gate drivere4_sch\.schematic1(sch_1):page1_ins14260682@discrete.\cap.normal\(chips)',
+ ROOM='24Vcc3_smps',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D1 'DIODE ZENER_SOD123_MBR0580-TP':
+ ROOM='control_smps';
+
+SECTION_NUMBER 1
+ '@TIDA-01606_GATE DRIVERE4_SCH.SCHEMATIC1(SCH_1):INS14262421@DISCRETE.DIODE ZENER.NORMAL(CHIPS)':
+ C_PATH='@\tida-01606_gate drivere4_sch\.schematic1(sch_1):ins14262421@discrete.\diode zener.normal\(chips)',
+ P_PATH='@\tida-01606_gate drivere4_sch\.schematic1(sch_1):page1_ins14262421@discrete.\diode zener.normal\(chips)',
+ ROOM='control_smps',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D10 'DIODE ZENER_SOD123_MMSZ4699T1G':
+ ROOM='control_smps';
+
+SECTION_NUMBER 1
+ '@TIDA-01606_GATE DRIVERE4_SCH.SCHEMATIC1(SCH_1):INS14271548@DISCRETE.DIODE ZENER.NORMAL(CHIPS)':
+ C_PATH='@\tida-01606_gate drivere4_sch\.schematic1(sch_1):ins14271548@discrete.\diode zener.normal\(chips)',
+ P_PATH='@\tida-01606_gate drivere4_sch\.schematic1(sch_1):page1_ins14271548@discrete.\diode zener.normal\(chips)',
+ ROOM='control_smps',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D11 'LED_LED0603_LED RED 0603':
+ ROOM='lcd_led_pic';
+
+SECTION_NUMBER 1
+ '@TIDA-01606_GATE DRIVERE4_SCH.SCHEMATIC1(SCH_1):INS14289583@DISCRETE.LED.NORMAL(CHIPS)':
+ C_PATH='@\tida-01606_gate drivere4_sch\.schematic1(sch_1):ins14289583@discrete.\led.normal\(chips)',
+ P_PATH='@\tida-01606_gate drivere4_sch\.schematic1(sch_1):page1_ins14289583@discrete.\led.normal\(chips)',
+ ROOM='lcd_led_pic',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D12 'LED_LED0603_LED GREEN 0603':
+ ROOM='lcd_led_pic';
+
+SECTION_NUMBER 1
+ '@TIDA-01606_GATE DRIVERE4_SCH.SCHEMATIC1(SCH_1):INS14283696@DISCRETE.LED.NORMAL(CHIPS)':
+ C_PATH='@\tida-01606_gate drivere4_sch\.schematic1(sch_1):ins14283696@discrete.\led.normal\(chips)',
+ P_PATH='@\tida-01606_gate drivere4_sch\.schematic1(sch_1):page1_ins14283696@discrete.\led.normal\(chips)',
+ ROOM='lcd_led_pic',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D13 'LED_LED0603_LED GREEN 0603':
+ ROOM='lcd_led_pic';
+
+SECTION_NUMBER 1
+ '@TIDA-01606_GATE DRIVERE4_SCH.SCHEMATIC1(SCH_1):INS14284002@DISCRETE.LED.NORMAL(CHIPS)':
+ C_PATH='@\tida-01606_gate drivere4_sch\.schematic1(sch_1):ins14284002@discrete.\led.normal\(chips)',
+ P_PATH='@\tida-01606_gate drivere4_sch\.schematic1(sch_1):page1_ins14284002@discrete.\led.normal\(chips)',
+ ROOM='lcd_led_pic',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D14 'DIODE ZENER_SOD123_MBR0580-TP':
+ ROOM='control_smps';
+
+SECTION_NUMBER 1
+ '@TIDA-01606_GATE DRIVERE4_SCH.SCHEMATIC1(SCH_1):INS14262447@DISCRETE.DIODE ZENER.NORMAL(CHIPS)':
+ C_PATH='@\tida-01606_gate drivere4_sch\.schematic1(sch_1):ins14262447@discrete.\diode zener.normal\(chips)',
+ P_PATH='@\tida-01606_gate drivere4_sch\.schematic1(sch_1):page1_ins14262447@discrete.\diode zener.normal\(chips)',
+ ROOM='control_smps',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D15 'DIODE ZENER_SOD123_MBR0580-TP':
+ ROOM='control_smps';
+
+SECTION_NUMBER 1
+ '@TIDA-01606_GATE DRIVERE4_SCH.SCHEMATIC1(SCH_1):INS14267416@DISCRETE.DIODE ZENER.NORMAL(CHIPS)':
+ C_PATH='@\tida-01606_gate drivere4_sch\.schematic1(sch_1):ins14267416@discrete.\diode zener.normal\(chips)',
+ P_PATH='@\tida-01606_gate drivere4_sch\.schematic1(sch_1):page1_ins14267416@discrete.\diode zener.normal\(chips)',
+ ROOM='control_smps',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D16 'DIODE ZENER_SOD123_MBR0580-TP':
+ ROOM='control_smps';
+
+SECTION_NUMBER 1
+ '@TIDA-01606_GATE DRIVERE4_SCH.SCHEMATIC1(SCH_1):INS14267432@DISCRETE.DIODE ZENER.NORMAL(CHIPS)':
+ C_PATH='@\tida-01606_gate drivere4_sch\.schematic1(sch_1):ins14267432@discrete.\diode zener.normal\(chips)',
+ P_PATH='@\tida-01606_gate drivere4_sch\.schematic1(sch_1):page1_ins14267432@discrete.\diode zener.normal\(chips)',
+ ROOM='control_smps',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D17 'DIODE ZENER_SOD123_MMSZ4683T1G':
+ ROOM='control_smps';
+
+SECTION_NUMBER 1
+ '@TIDA-01606_GATE DRIVERE4_SCH.SCHEMATIC1(SCH_1):INS14269925@DISCRETE.DIODE ZENER.NORMAL(CHIPS)':
+ C_PATH='@\tida-01606_gate drivere4_sch\.schematic1(sch_1):ins14269925@discrete.\diode zener.normal\(chips)',
+ P_PATH='@\tida-01606_gate drivere4_sch\.schematic1(sch_1):page1_ins14269925@discrete.\diode zener.normal\(chips)',
+ ROOM='control_smps',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D18 'DIODE ZENER_SOD123_MMSZ4683T1G':
+ ROOM='control_smps';
+
+SECTION_NUMBER 1
+ '@TIDA-01606_GATE DRIVERE4_SCH.SCHEMATIC1(SCH_1):INS14271596@DISCRETE.DIODE ZENER.NORMAL(CHIPS)':
+ C_PATH='@\tida-01606_gate drivere4_sch\.schematic1(sch_1):ins14271596@discrete.\diode zener.normal\(chips)',
+ P_PATH='@\tida-01606_gate drivere4_sch\.schematic1(sch_1):page1_ins14271596@discrete.\diode zener.normal\(chips)',
+ ROOM='control_smps',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D2 'DIODE ZENER_DO214_B160-13-F':
+ ROOM='control_smps';
+
+SECTION_NUMBER 1
+ '@TIDA-01606_GATE DRIVERE4_SCH.SCHEMATIC1(SCH_1):INS13755524@DISCRETE.DIODE ZENER.NORMAL(CHIPS)':
+ C_PATH='@\tida-01606_gate drivere4_sch\.schematic1(sch_1):ins13755524@discrete.\diode zener.normal\(chips)',
+ P_PATH='@\tida-01606_gate drivere4_sch\.schematic1(sch_1):page1_ins13755524@discrete.\diode zener.normal\(chips)',
+ ROOM='control_smps',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D3 'DIODE ZENER_DO214_LSM115JE3/TR1':
+ ROOM='control_smps';
+
+SECTION_NUMBER 1
+ '@TIDA-01606_GATE DRIVERE4_SCH.SCHEMATIC1(SCH_1):INS14261232@DISCRETE.DIODE ZENER.NORMAL(CHIPS)':
+ C_PATH='@\tida-01606_gate drivere4_sch\.schematic1(sch_1):ins14261232@discrete.\diode zener.normal\(chips)',
+ P_PATH='@\tida-01606_gate drivere4_sch\.schematic1(sch_1):page1_ins14261232@discrete.\diode zener.normal\(chips)',
+ ROOM='control_smps',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D4 'DIODE ZENER_SOD123_MBR0580-TP':
+ ROOM='control_smps';
+
+SECTION_NUMBER 1
+ '@TIDA-01606_GATE DRIVERE4_SCH.SCHEMATIC1(SCH_1):INS14266557@DISCRETE.DIODE ZENER.NORMAL(CHIPS)':
+ C_PATH='@\tida-01606_gate drivere4_sch\.schematic1(sch_1):ins14266557@discrete.\diode zener.normal\(chips)',
+ P_PATH='@\tida-01606_gate drivere4_sch\.schematic1(sch_1):page1_ins14266557@discrete.\diode zener.normal\(chips)',
+ ROOM='control_smps',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D5 'DIODE ZENER_DO214_LSM115JE3/TR1':
+ ROOM='control_smps';
+
+SECTION_NUMBER 1
+ '@TIDA-01606_GATE DRIVERE4_SCH.SCHEMATIC1(SCH_1):INS14261360@DISCRETE.DIODE ZENER.NORMAL(CHIPS)':
+ C_PATH='@\tida-01606_gate drivere4_sch\.schematic1(sch_1):ins14261360@discrete.\diode zener.normal\(chips)',
+ P_PATH='@\tida-01606_gate drivere4_sch\.schematic1(sch_1):page1_ins14261360@discrete.\diode zener.normal\(chips)',
+ ROOM='control_smps',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D6 'DIODE ZENER_SOD123_MBR0580-TP':
+ ROOM='control_smps';
+
+SECTION_NUMBER 1
+ '@TIDA-01606_GATE DRIVERE4_SCH.SCHEMATIC1(SCH_1):INS14266573@DISCRETE.DIODE ZENER.NORMAL(CHIPS)':
+ C_PATH='@\tida-01606_gate drivere4_sch\.schematic1(sch_1):ins14266573@discrete.\diode zener.normal\(chips)',
+ P_PATH='@\tida-01606_gate drivere4_sch\.schematic1(sch_1):page1_ins14266573@discrete.\diode zener.normal\(chips)',
+ ROOM='control_smps',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D7 'DIODE_DO214_RS1MB-13-F':
+ ROOM='pwmIC';
+
+SECTION_NUMBER 1
+ '@TIDA-01606_GATE DRIVERE4_SCH.SCHEMATIC1(SCH_1):INS14269949@DISCRETE.DIODE.NORMAL(CHIPS)':
+ C_PATH='@\tida-01606_gate drivere4_sch\.schematic1(sch_1):ins14269949@discrete.\diode.normal\(chips)',
+ P_PATH='@\tida-01606_gate drivere4_sch\.schematic1(sch_1):page1_ins14269949@discrete.\diode.normal\(chips)',
+ ROOM='pwmIC',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D8 'DIODE ZENER_SOD123_MMSZ4699T1G':
+ ROOM='control_smps';
+
+SECTION_NUMBER 1
+ '@TIDA-01606_GATE DRIVERE4_SCH.SCHEMATIC1(SCH_1):INS14269847@DISCRETE.DIODE ZENER.NORMAL(CHIPS)':
+ C_PATH='@\tida-01606_gate drivere4_sch\.schematic1(sch_1):ins14269847@discrete.\diode zener.normal\(chips)',
+ P_PATH='@\tida-01606_gate drivere4_sch\.schematic1(sch_1):page1_ins14269847@discrete.\diode zener.normal\(chips)',
+ ROOM='control_smps',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D9 'DIODE_DO214_RS1MB-13-F':
+ ROOM='pwmIC';
+
+SECTION_NUMBER 1
+ '@TIDA-01606_GATE DRIVERE4_SCH.SCHEMATIC1(SCH_1):INS14271612@DISCRETE.DIODE.NORMAL(CHIPS)':
+ C_PATH='@\tida-01606_gate drivere4_sch\.schematic1(sch_1):ins14271612@discrete.\diode.normal\(chips)',
+ P_PATH='@\tida-01606_gate drivere4_sch\.schematic1(sch_1):page1_ins14271612@discrete.\diode.normal\(chips)',
+ ROOM='pwmIC',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J1 'HEADER 8X2_0_CONN8X2_HEADER 8X2':;
+
+SECTION_NUMBER 1
+ '@TIDA-01606_GATE DRIVERE4_SCH.SCHEMATIC1(SCH_1):INS14284290@TIDA-01606_GATE DRIVERE4_SCH.HEADER 8X2_0.NORMAL(CHIPS)':
+ C_PATH='@\tida-01606_gate drivere4_sch\.schematic1(sch_1):ins14284290@\tida-01606_gate drivere4_sch\.\header 8x2_0.normal\(chips)',
+ P_PATH='@\tida-01606_gate drivere4_sch\.schematic1(sch_1):page1_ins14284290@\tida-01606_gate drivere4_sch\.\header 8x2_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J2 'HEADER 4_0_SIP4_RUP_HEADER 4':;
+
+SECTION_NUMBER 1
+ '@TIDA-01606_GATE DRIVERE4_SCH.SCHEMATIC1(SCH_1):INS14281551@TIDA-01606_GATE DRIVERE4_SCH.HEADER 4_0.NORMAL(CHIPS)':
+ C_PATH='@\tida-01606_gate drivere4_sch\.schematic1(sch_1):ins14281551@\tida-01606_gate drivere4_sch\.\header 4_0.normal\(chips)',
+ P_PATH='@\tida-01606_gate drivere4_sch\.schematic1(sch_1):page1_ins14281551@\tida-01606_gate drivere4_sch\.\header 4_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J3 'HEADER 4_1_SIP4_RUP_HEADER 4':;
+
+SECTION_NUMBER 1
+ '@TIDA-01606_GATE DRIVERE4_SCH.SCHEMATIC1(SCH_1):INS14281585@TIDA-01606_GATE DRIVERE4_SCH.HEADER 4_1.NORMAL(CHIPS)':
+ C_PATH='@\tida-01606_gate drivere4_sch\.schematic1(sch_1):ins14281585@\tida-01606_gate drivere4_sch\.\header 4_1.normal\(chips)',
+ P_PATH='@\tida-01606_gate drivere4_sch\.schematic1(sch_1):page1_ins14281585@\tida-01606_gate drivere4_sch\.\header 4_1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J5 'HEADER 4_2_SIP4_RUP_HEADER 4':;
+
+SECTION_NUMBER 1
+ '@TIDA-01606_GATE DRIVERE4_SCH.SCHEMATIC1(SCH_1):INS14281633@TIDA-01606_GATE DRIVERE4_SCH.HEADER 4_2.NORMAL(CHIPS)':
+ C_PATH='@\tida-01606_gate drivere4_sch\.schematic1(sch_1):ins14281633@\tida-01606_gate drivere4_sch\.\header 4_2.normal\(chips)',
+ P_PATH='@\tida-01606_gate drivere4_sch\.schematic1(sch_1):page1_ins14281633@\tida-01606_gate drivere4_sch\.\header 4_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J6 'HEADER 4_3_SIP4_RUP_HEADER 4':;
+
+SECTION_NUMBER 1
+ '@TIDA-01606_GATE DRIVERE4_SCH.SCHEMATIC1(SCH_1):INS14281653@TIDA-01606_GATE DRIVERE4_SCH.HEADER 4_3.NORMAL(CHIPS)':
+ C_PATH='@\tida-01606_gate drivere4_sch\.schematic1(sch_1):ins14281653@\tida-01606_gate drivere4_sch\.\header 4_3.normal\(chips)',
+ P_PATH='@\tida-01606_gate drivere4_sch\.schematic1(sch_1):page1_ins14281653@\tida-01606_gate drivere4_sch\.\header 4_3.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Q1 'NAMT20_1_D8_NAMT20':;
+
+SECTION_NUMBER 1
+ '@TIDA-01606_GATE DRIVERE4_SCH.SCHEMATIC1(SCH_1):INS14329683@TIDA-01606_GATE DRIVERE4_SCH.NAMT20_1.NORMAL(CHIPS)':
+ C_PATH='@\tida-01606_gate drivere4_sch\.schematic1(sch_1):ins14329683@\tida-01606_gate drivere4_sch\.\namt20_1.normal\(chips)',
+ P_PATH='@\tida-01606_gate drivere4_sch\.schematic1(sch_1):page1_ins14329683@\tida-01606_gate drivere4_sch\.\namt20_1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Q2 'PNP BEC_SOT23_BC856A-7-F':;
+
+SECTION_NUMBER 1
+ '@TIDA-01606_GATE DRIVERE4_SCH.SCHEMATIC1(SCH_1):INS14289470@PCBDEV.PNP BEC.NORMAL(CHIPS)':
+ C_PATH='@\tida-01606_gate drivere4_sch\.schematic1(sch_1):ins14289470@pcbdev.\pnp bec.normal\(chips)',
+ P_PATH='@\tida-01606_gate drivere4_sch\.schematic1(sch_1):page1_ins14289470@pcbdev.\pnp bec.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R1 'RESISTOR_SNPD0805_MODIFIED_4.7K':
+ ROOM='control_smps';
+
+SECTION_NUMBER 1
+ '@TIDA-01606_GATE DRIVERE4_SCH.SCHEMATIC1(SCH_1):INS14262655@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@\tida-01606_gate drivere4_sch\.schematic1(sch_1):ins14262655@discrete.\resistor.normal\(chips)',
+ P_PATH='@\tida-01606_gate drivere4_sch\.schematic1(sch_1):page1_ins14262655@discrete.\resistor.normal\(chips)',
+ ROOM='control_smps',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R10 'RESISTOR_SNPD0805_MODIFIED_0E 0':
+ ROOM='control_smps';
+
+SECTION_NUMBER 1
+ '@TIDA-01606_GATE DRIVERE4_SCH.SCHEMATIC1(SCH_1):INS14275819@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@\tida-01606_gate drivere4_sch\.schematic1(sch_1):ins14275819@discrete.\resistor.normal\(chips)',
+ P_PATH='@\tida-01606_gate drivere4_sch\.schematic1(sch_1):page1_ins14275819@discrete.\resistor.normal\(chips)',
+ ROOM='control_smps',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R11 'RESISTOR_SNPD0805_MODIFIED_17.8':
+ ROOM='control_smps';
+
+SECTION_NUMBER 1
+ '@TIDA-01606_GATE DRIVERE4_SCH.SCHEMATIC1(SCH_1):INS14261384@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@\tida-01606_gate drivere4_sch\.schematic1(sch_1):ins14261384@discrete.\resistor.normal\(chips)',
+ P_PATH='@\tida-01606_gate drivere4_sch\.schematic1(sch_1):page1_ins14261384@discrete.\resistor.normal\(chips)',
+ ROOM='control_smps',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R12 'RESISTOR_RES0603_4.99K 0603 1%':
+ ROOM='control_smps';
+
+SECTION_NUMBER 1
+ '@TIDA-01606_GATE DRIVERE4_SCH.SCHEMATIC1(SCH_1):INS14266775@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@\tida-01606_gate drivere4_sch\.schematic1(sch_1):ins14266775@discrete.\resistor.normal\(chips)',
+ P_PATH='@\tida-01606_gate drivere4_sch\.schematic1(sch_1):page1_ins14266775@discrete.\resistor.normal\(chips)',
+ ROOM='control_smps',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R13 'RESISTOR_RES0603_4.99K 0603 1%':
+ ROOM='control_smps';
+
+SECTION_NUMBER 1
+ '@TIDA-01606_GATE DRIVERE4_SCH.SCHEMATIC1(SCH_1):INS14266751@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@\tida-01606_gate drivere4_sch\.schematic1(sch_1):ins14266751@discrete.\resistor.normal\(chips)',
+ P_PATH='@\tida-01606_gate drivere4_sch\.schematic1(sch_1):page1_ins14266751@discrete.\resistor.normal\(chips)',
+ ROOM='control_smps',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R14 'RESISTOR_SNPD0805_MODIFIED_4.7K':
+ ROOM='control_smps';
+
+SECTION_NUMBER 1
+ '@TIDA-01606_GATE DRIVERE4_SCH.SCHEMATIC1(SCH_1):INS14267536@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@\tida-01606_gate drivere4_sch\.schematic1(sch_1):ins14267536@discrete.\resistor.normal\(chips)',
+ P_PATH='@\tida-01606_gate drivere4_sch\.schematic1(sch_1):page1_ins14267536@discrete.\resistor.normal\(chips)',
+ ROOM='control_smps',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R15 'RESISTOR_RES0603_4.99K 0603 1%':
+ ROOM='control_smps';
+
+SECTION_NUMBER 1
+ '@TIDA-01606_GATE DRIVERE4_SCH.SCHEMATIC1(SCH_1):INS14267634@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@\tida-01606_gate drivere4_sch\.schematic1(sch_1):ins14267634@discrete.\resistor.normal\(chips)',
+ P_PATH='@\tida-01606_gate drivere4_sch\.schematic1(sch_1):page1_ins14267634@discrete.\resistor.normal\(chips)',
+ ROOM='control_smps',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R16 'RESISTOR_RES0603_4.99K 0603 1%':
+ ROOM='control_smps';
+
+SECTION_NUMBER 1
+ '@TIDA-01606_GATE DRIVERE4_SCH.SCHEMATIC1(SCH_1):INS14267610@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@\tida-01606_gate drivere4_sch\.schematic1(sch_1):ins14267610@discrete.\resistor.normal\(chips)',
+ P_PATH='@\tida-01606_gate drivere4_sch\.schematic1(sch_1):page1_ins14267610@discrete.\resistor.normal\(chips)',
+ ROOM='control_smps',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R17 'RESISTOR_RES0603_10E 0603 1%':
+ ROOM='control_smps';
+
+SECTION_NUMBER 1
+ '@TIDA-01606_GATE DRIVERE4_SCH.SCHEMATIC1(SCH_1):INS14268415@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@\tida-01606_gate drivere4_sch\.schematic1(sch_1):ins14268415@discrete.\resistor.normal\(chips)',
+ P_PATH='@\tida-01606_gate drivere4_sch\.schematic1(sch_1):page1_ins14268415@discrete.\resistor.normal\(chips)',
+ ROOM='control_smps',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R18 'RESISTOR_RES0603_10E 0603 1%':
+ ROOM='control_smps';
+
+SECTION_NUMBER 1
+ '@TIDA-01606_GATE DRIVERE4_SCH.SCHEMATIC1(SCH_1):INS14279407@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@\tida-01606_gate drivere4_sch\.schematic1(sch_1):ins14279407@discrete.\resistor.normal\(chips)',
+ P_PATH='@\tida-01606_gate drivere4_sch\.schematic1(sch_1):page1_ins14279407@discrete.\resistor.normal\(chips)',
+ ROOM='control_smps',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R19 'RESISTOR_RES0603_100E 0603 1%':
+ ROOM='control_smps';
+
+SECTION_NUMBER 1
+ '@TIDA-01606_GATE DRIVERE4_SCH.SCHEMATIC1(SCH_1):INS14268561@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@\tida-01606_gate drivere4_sch\.schematic1(sch_1):ins14268561@discrete.\resistor.normal\(chips)',
+ P_PATH='@\tida-01606_gate drivere4_sch\.schematic1(sch_1):page1_ins14268561@discrete.\resistor.normal\(chips)',
+ ROOM='control_smps',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R2 'RESISTOR_RES0603_4.99K 0603 1%':
+ ROOM='control_smps';
+
+SECTION_NUMBER 1
+ '@TIDA-01606_GATE DRIVERE4_SCH.SCHEMATIC1(SCH_1):INS14263720@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@\tida-01606_gate drivere4_sch\.schematic1(sch_1):ins14263720@discrete.\resistor.normal\(chips)',
+ P_PATH='@\tida-01606_gate drivere4_sch\.schematic1(sch_1):page1_ins14263720@discrete.\resistor.normal\(chips)',
+ ROOM='control_smps',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R20 'RESISTOR_RES0603_1K 0603 5%':
+ ROOM='control_smps';
+
+SECTION_NUMBER 1
+ '@TIDA-01606_GATE DRIVERE4_SCH.SCHEMATIC1(SCH_1):INS14269899@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@\tida-01606_gate drivere4_sch\.schematic1(sch_1):ins14269899@discrete.\resistor.normal\(chips)',
+ P_PATH='@\tida-01606_gate drivere4_sch\.schematic1(sch_1):page1_ins14269899@discrete.\resistor.normal\(chips)',
+ ROOM='control_smps',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R21 'RESISTOR_SNPD1206_MODIFIED_2E 1':
+ ROOM='control_smps';
+
+SECTION_NUMBER 1
+ '@TIDA-01606_GATE DRIVERE4_SCH.SCHEMATIC1(SCH_1):INS14270167@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@\tida-01606_gate drivere4_sch\.schematic1(sch_1):ins14270167@discrete.\resistor.normal\(chips)',
+ P_PATH='@\tida-01606_gate drivere4_sch\.schematic1(sch_1):page1_ins14270167@discrete.\resistor.normal\(chips)',
+ ROOM='control_smps',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R22 'RESISTOR_SNPD1206_MODIFIED_2E 1':
+ ROOM='control_smps';
+
+SECTION_NUMBER 1
+ '@TIDA-01606_GATE DRIVERE4_SCH.SCHEMATIC1(SCH_1):INS14270193@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@\tida-01606_gate drivere4_sch\.schematic1(sch_1):ins14270193@discrete.\resistor.normal\(chips)',
+ P_PATH='@\tida-01606_gate drivere4_sch\.schematic1(sch_1):page1_ins14270193@discrete.\resistor.normal\(chips)',
+ ROOM='control_smps',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R23 'RESISTOR_SNPD1206_MODIFIED_0E 1':
+ ROOM='control_smps';
+
+SECTION_NUMBER 1
+ '@TIDA-01606_GATE DRIVERE4_SCH.SCHEMATIC1(SCH_1):INS14268820@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@\tida-01606_gate drivere4_sch\.schematic1(sch_1):ins14268820@discrete.\resistor.normal\(chips)',
+ P_PATH='@\tida-01606_gate drivere4_sch\.schematic1(sch_1):page1_ins14268820@discrete.\resistor.normal\(chips)',
+ ROOM='control_smps',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R24 'RESISTOR_RES0603_0E 0603 5%':
+ ROOM='control_smps';
+
+SECTION_NUMBER 1
+ '@TIDA-01606_GATE DRIVERE4_SCH.SCHEMATIC1(SCH_1):INS14279867@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@\tida-01606_gate drivere4_sch\.schematic1(sch_1):ins14279867@discrete.\resistor.normal\(chips)',
+ P_PATH='@\tida-01606_gate drivere4_sch\.schematic1(sch_1):page1_ins14279867@discrete.\resistor.normal\(chips)',
+ ROOM='control_smps',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R25 'RESISTOR_RES0603_10K 0603 1%':
+ ROOM='control_smps';
+
+SECTION_NUMBER 1
+ '@TIDA-01606_GATE DRIVERE4_SCH.SCHEMATIC1(SCH_1):INS14279506@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@\tida-01606_gate drivere4_sch\.schematic1(sch_1):ins14279506@discrete.\resistor.normal\(chips)',
+ P_PATH='@\tida-01606_gate drivere4_sch\.schematic1(sch_1):page1_ins14279506@discrete.\resistor.normal\(chips)',
+ ROOM='control_smps',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R26 'RESISTOR_RES0603_10E 0603 1%':
+ ROOM='control_smps';
+
+SECTION_NUMBER 1
+ '@TIDA-01606_GATE DRIVERE4_SCH.SCHEMATIC1(SCH_1):INS14271264@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@\tida-01606_gate drivere4_sch\.schematic1(sch_1):ins14271264@discrete.\resistor.normal\(chips)',
+ P_PATH='@\tida-01606_gate drivere4_sch\.schematic1(sch_1):page1_ins14271264@discrete.\resistor.normal\(chips)',
+ ROOM='control_smps',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R27 'RESISTOR_RES0603_100E 0603 1%':
+ ROOM='control_smps';
+
+SECTION_NUMBER 1
+ '@TIDA-01606_GATE DRIVERE4_SCH.SCHEMATIC1(SCH_1):INS14271332@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@\tida-01606_gate drivere4_sch\.schematic1(sch_1):ins14271332@discrete.\resistor.normal\(chips)',
+ P_PATH='@\tida-01606_gate drivere4_sch\.schematic1(sch_1):page1_ins14271332@discrete.\resistor.normal\(chips)',
+ ROOM='control_smps',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R28 'RESISTOR_RES0603_1K 0603 5%':
+ ROOM='control_smps';
+
+SECTION_NUMBER 1
+ '@TIDA-01606_GATE DRIVERE4_SCH.SCHEMATIC1(SCH_1):INS14271580@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@\tida-01606_gate drivere4_sch\.schematic1(sch_1):ins14271580@discrete.\resistor.normal\(chips)',
+ P_PATH='@\tida-01606_gate drivere4_sch\.schematic1(sch_1):page1_ins14271580@discrete.\resistor.normal\(chips)',
+ ROOM='control_smps',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R29 'RESISTOR_SNPD1206_MODIFIED_2E 1':
+ ROOM='control_smps';
+
+SECTION_NUMBER 1
+ '@TIDA-01606_GATE DRIVERE4_SCH.SCHEMATIC1(SCH_1):INS14271722@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@\tida-01606_gate drivere4_sch\.schematic1(sch_1):ins14271722@discrete.\resistor.normal\(chips)',
+ P_PATH='@\tida-01606_gate drivere4_sch\.schematic1(sch_1):page1_ins14271722@discrete.\resistor.normal\(chips)',
+ ROOM='control_smps',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R3 'RESISTOR_RES0603_4.99K 0603 1%':
+ ROOM='control_smps';
+
+SECTION_NUMBER 1
+ '@TIDA-01606_GATE DRIVERE4_SCH.SCHEMATIC1(SCH_1):INS14263538@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@\tida-01606_gate drivere4_sch\.schematic1(sch_1):ins14263538@discrete.\resistor.normal\(chips)',
+ P_PATH='@\tida-01606_gate drivere4_sch\.schematic1(sch_1):page1_ins14263538@discrete.\resistor.normal\(chips)',
+ ROOM='control_smps',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R30 'RESISTOR_SNPD1206_MODIFIED_2E 1':
+ ROOM='control_smps';
+
+SECTION_NUMBER 1
+ '@TIDA-01606_GATE DRIVERE4_SCH.SCHEMATIC1(SCH_1):INS14271738@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@\tida-01606_gate drivere4_sch\.schematic1(sch_1):ins14271738@discrete.\resistor.normal\(chips)',
+ P_PATH='@\tida-01606_gate drivere4_sch\.schematic1(sch_1):page1_ins14271738@discrete.\resistor.normal\(chips)',
+ ROOM='control_smps',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R31 'RESISTOR_SNPD1206_MODIFIED_0E 1':
+ ROOM='control_smps';
+
+SECTION_NUMBER 1
+ '@TIDA-01606_GATE DRIVERE4_SCH.SCHEMATIC1(SCH_1):INS14271418@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@\tida-01606_gate drivere4_sch\.schematic1(sch_1):ins14271418@discrete.\resistor.normal\(chips)',
+ P_PATH='@\tida-01606_gate drivere4_sch\.schematic1(sch_1):page1_ins14271418@discrete.\resistor.normal\(chips)',
+ ROOM='control_smps',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R32 'RESISTOR_RES0603_10K 0603 1%':
+ ROOM='control_smps';
+
+SECTION_NUMBER 1
+ '@TIDA-01606_GATE DRIVERE4_SCH.SCHEMATIC1(SCH_1):INS14285557@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@\tida-01606_gate drivere4_sch\.schematic1(sch_1):ins14285557@discrete.\resistor.normal\(chips)',
+ P_PATH='@\tida-01606_gate drivere4_sch\.schematic1(sch_1):page1_ins14285557@discrete.\resistor.normal\(chips)',
+ ROOM='control_smps',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R33 'RESISTOR_RES0603_10E 0603 1%':
+ ROOM='control_smps';
+
+SECTION_NUMBER 1
+ '@TIDA-01606_GATE DRIVERE4_SCH.SCHEMATIC1(SCH_1):INS14273690@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@\tida-01606_gate drivere4_sch\.schematic1(sch_1):ins14273690@discrete.\resistor.normal\(chips)',
+ P_PATH='@\tida-01606_gate drivere4_sch\.schematic1(sch_1):page1_ins14273690@discrete.\resistor.normal\(chips)',
+ ROOM='control_smps',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R34 'RESISTOR_RES0603_10E 0603 1%':
+ ROOM='control_smps';
+
+SECTION_NUMBER 1
+ '@TIDA-01606_GATE DRIVERE4_SCH.SCHEMATIC1(SCH_1):INS14277914@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@\tida-01606_gate drivere4_sch\.schematic1(sch_1):ins14277914@discrete.\resistor.normal\(chips)',
+ P_PATH='@\tida-01606_gate drivere4_sch\.schematic1(sch_1):page1_ins14277914@discrete.\resistor.normal\(chips)',
+ ROOM='control_smps',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R35 'RESISTOR_RES0603_100E 0603 1%':
+ ROOM='control_smps';
+
+SECTION_NUMBER 1
+ '@TIDA-01606_GATE DRIVERE4_SCH.SCHEMATIC1(SCH_1):INS14273844@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@\tida-01606_gate drivere4_sch\.schematic1(sch_1):ins14273844@discrete.\resistor.normal\(chips)',
+ P_PATH='@\tida-01606_gate drivere4_sch\.schematic1(sch_1):page1_ins14273844@discrete.\resistor.normal\(chips)',
+ ROOM='control_smps',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R36 'RESISTOR_SNPD1206_MODIFIED_3.3E':
+ ROOM='control_smps';
+
+SECTION_NUMBER 1
+ '@TIDA-01606_GATE DRIVERE4_SCH.SCHEMATIC1(SCH_1):INS14275221@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@\tida-01606_gate drivere4_sch\.schematic1(sch_1):ins14275221@discrete.\resistor.normal\(chips)',
+ P_PATH='@\tida-01606_gate drivere4_sch\.schematic1(sch_1):page1_ins14275221@discrete.\resistor.normal\(chips)',
+ ROOM='control_smps',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R37 'RESISTOR_RES0603_100E 0603 1%':
+ ROOM='control_smps';
+
+SECTION_NUMBER 1
+ '@TIDA-01606_GATE DRIVERE4_SCH.SCHEMATIC1(SCH_1):INS14277958@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@\tida-01606_gate drivere4_sch\.schematic1(sch_1):ins14277958@discrete.\resistor.normal\(chips)',
+ P_PATH='@\tida-01606_gate drivere4_sch\.schematic1(sch_1):page1_ins14277958@discrete.\resistor.normal\(chips)',
+ ROOM='control_smps',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R38 'RESISTOR_SNPD1206_MODIFIED_3.3E':
+ ROOM='control_smps';
+
+SECTION_NUMBER 1
+ '@TIDA-01606_GATE DRIVERE4_SCH.SCHEMATIC1(SCH_1):INS14278140@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@\tida-01606_gate drivere4_sch\.schematic1(sch_1):ins14278140@discrete.\resistor.normal\(chips)',
+ P_PATH='@\tida-01606_gate drivere4_sch\.schematic1(sch_1):page1_ins14278140@discrete.\resistor.normal\(chips)',
+ ROOM='control_smps',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R39 'RESISTOR_SNPD1206_MODIFIED_3.3E':
+ ROOM='control_smps';
+
+SECTION_NUMBER 1
+ '@TIDA-01606_GATE DRIVERE4_SCH.SCHEMATIC1(SCH_1):INS14275247@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@\tida-01606_gate drivere4_sch\.schematic1(sch_1):ins14275247@discrete.\resistor.normal\(chips)',
+ P_PATH='@\tida-01606_gate drivere4_sch\.schematic1(sch_1):page1_ins14275247@discrete.\resistor.normal\(chips)',
+ ROOM='control_smps',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R4 'RESISTOR_SNPD1206_MODIFIED_0E 1':
+ ROOM='control_smps';
+
+SECTION_NUMBER 1
+ '@TIDA-01606_GATE DRIVERE4_SCH.SCHEMATIC1(SCH_1):INS14260832@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@\tida-01606_gate drivere4_sch\.schematic1(sch_1):ins14260832@discrete.\resistor.normal\(chips)',
+ P_PATH='@\tida-01606_gate drivere4_sch\.schematic1(sch_1):page1_ins14260832@discrete.\resistor.normal\(chips)',
+ ROOM='control_smps',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R40 'RESISTOR_RES0603_20K 0603 1%':
+ ROOM='control_smps';
+
+SECTION_NUMBER 1
+ '@TIDA-01606_GATE DRIVERE4_SCH.SCHEMATIC1(SCH_1):INS14289538@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@\tida-01606_gate drivere4_sch\.schematic1(sch_1):ins14289538@discrete.\resistor.normal\(chips)',
+ P_PATH='@\tida-01606_gate drivere4_sch\.schematic1(sch_1):page1_ins14289538@discrete.\resistor.normal\(chips)',
+ ROOM='control_smps',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R41 'RESISTOR_SNPD1206_MODIFIED_3.3E':
+ ROOM='control_smps';
+
+SECTION_NUMBER 1
+ '@TIDA-01606_GATE DRIVERE4_SCH.SCHEMATIC1(SCH_1):INS14278160@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@\tida-01606_gate drivere4_sch\.schematic1(sch_1):ins14278160@discrete.\resistor.normal\(chips)',
+ P_PATH='@\tida-01606_gate drivere4_sch\.schematic1(sch_1):page1_ins14278160@discrete.\resistor.normal\(chips)',
+ ROOM='control_smps',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R42 'RESISTOR_RES0603_620E 0603 1%':
+ ROOM='control_smps';
+
+SECTION_NUMBER 1
+ '@TIDA-01606_GATE DRIVERE4_SCH.SCHEMATIC1(SCH_1):INS14283722@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@\tida-01606_gate drivere4_sch\.schematic1(sch_1):ins14283722@discrete.\resistor.normal\(chips)',
+ P_PATH='@\tida-01606_gate drivere4_sch\.schematic1(sch_1):page1_ins14283722@discrete.\resistor.normal\(chips)',
+ ROOM='control_smps',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R43 'RESISTOR_SNPD0805_MODIFIED_1.3K':
+ ROOM='control_smps';
+
+SECTION_NUMBER 1
+ '@TIDA-01606_GATE DRIVERE4_SCH.SCHEMATIC1(SCH_1):INS14284022@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@\tida-01606_gate drivere4_sch\.schematic1(sch_1):ins14284022@discrete.\resistor.normal\(chips)',
+ P_PATH='@\tida-01606_gate drivere4_sch\.schematic1(sch_1):page1_ins14284022@discrete.\resistor.normal\(chips)',
+ ROOM='control_smps',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R44 'RESISTOR_RES0402_120E 0402 5%':
+ ROOM='control_smps';
+
+SECTION_NUMBER 1
+ '@TIDA-01606_GATE DRIVERE4_SCH.SCHEMATIC1(SCH_1):INS14289613@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@\tida-01606_gate drivere4_sch\.schematic1(sch_1):ins14289613@discrete.\resistor.normal\(chips)',
+ P_PATH='@\tida-01606_gate drivere4_sch\.schematic1(sch_1):page1_ins14289613@discrete.\resistor.normal\(chips)',
+ ROOM='control_smps',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R45 'RESISTOR_RES0603_0E 0603  5%':
+ ROOM='control_smps';
+
+SECTION_NUMBER 1
+ '@TIDA-01606_GATE DRIVERE4_SCH.SCHEMATIC1(SCH_1):INS14270079@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@\tida-01606_gate drivere4_sch\.schematic1(sch_1):ins14270079@discrete.\resistor.normal\(chips)',
+ P_PATH='@\tida-01606_gate drivere4_sch\.schematic1(sch_1):page1_ins14270079@discrete.\resistor.normal\(chips)',
+ ROOM='control_smps',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R46 'RESISTOR_RES0603_NC':
+ ROOM='control_smps';
+
+SECTION_NUMBER 1
+ '@TIDA-01606_GATE DRIVERE4_SCH.SCHEMATIC1(SCH_1):INS14270141@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@\tida-01606_gate drivere4_sch\.schematic1(sch_1):ins14270141@discrete.\resistor.normal\(chips)',
+ P_PATH='@\tida-01606_gate drivere4_sch\.schematic1(sch_1):page1_ins14270141@discrete.\resistor.normal\(chips)',
+ ROOM='control_smps',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R47 'RESISTOR_RES0603_0E 0603  5%':
+ ROOM='control_smps';
+
+SECTION_NUMBER 1
+ '@TIDA-01606_GATE DRIVERE4_SCH.SCHEMATIC1(SCH_1):INS14271682@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@\tida-01606_gate drivere4_sch\.schematic1(sch_1):ins14271682@discrete.\resistor.normal\(chips)',
+ P_PATH='@\tida-01606_gate drivere4_sch\.schematic1(sch_1):page1_ins14271682@discrete.\resistor.normal\(chips)',
+ ROOM='control_smps',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R48 'RESISTOR_RES0603_NC':
+ ROOM='control_smps';
+
+SECTION_NUMBER 1
+ '@TIDA-01606_GATE DRIVERE4_SCH.SCHEMATIC1(SCH_1):INS14271706@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@\tida-01606_gate drivere4_sch\.schematic1(sch_1):ins14271706@discrete.\resistor.normal\(chips)',
+ P_PATH='@\tida-01606_gate drivere4_sch\.schematic1(sch_1):page1_ins14271706@discrete.\resistor.normal\(chips)',
+ ROOM='control_smps',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R49 'RESISTOR_SNPD0805_MODIFIED_NC':
+ ROOM='control_smps';
+
+SECTION_NUMBER 1
+ '@TIDA-01606_GATE DRIVERE4_SCH.SCHEMATIC1(SCH_1):INS14278198@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@\tida-01606_gate drivere4_sch\.schematic1(sch_1):ins14278198@discrete.\resistor.normal\(chips)',
+ P_PATH='@\tida-01606_gate drivere4_sch\.schematic1(sch_1):page1_ins14278198@discrete.\resistor.normal\(chips)',
+ ROOM='control_smps',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R5 'RESISTOR_SNPD0805_MODIFIED_0E 0':
+ ROOM='control_smps';
+
+SECTION_NUMBER 1
+ '@TIDA-01606_GATE DRIVERE4_SCH.SCHEMATIC1(SCH_1):INS14278326@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@\tida-01606_gate drivere4_sch\.schematic1(sch_1):ins14278326@discrete.\resistor.normal\(chips)',
+ P_PATH='@\tida-01606_gate drivere4_sch\.schematic1(sch_1):page1_ins14278326@discrete.\resistor.normal\(chips)',
+ ROOM='control_smps',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R50 'RESISTOR_SNPD0805_MODIFIED_NC':
+ ROOM='control_smps';
+
+SECTION_NUMBER 1
+ '@TIDA-01606_GATE DRIVERE4_SCH.SCHEMATIC1(SCH_1):INS14275309@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@\tida-01606_gate drivere4_sch\.schematic1(sch_1):ins14275309@discrete.\resistor.normal\(chips)',
+ P_PATH='@\tida-01606_gate drivere4_sch\.schematic1(sch_1):page1_ins14275309@discrete.\resistor.normal\(chips)',
+ ROOM='control_smps',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R51 'RESISTOR_RES0603_10K 0603 1%':
+ ROOM='control_smps';
+
+SECTION_NUMBER 1
+ '@TIDA-01606_GATE DRIVERE4_SCH.SCHEMATIC1(SCH_1):INS14280252@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@\tida-01606_gate drivere4_sch\.schematic1(sch_1):ins14280252@discrete.\resistor.normal\(chips)',
+ P_PATH='@\tida-01606_gate drivere4_sch\.schematic1(sch_1):page1_ins14280252@discrete.\resistor.normal\(chips)',
+ ROOM='control_smps',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R52 'RESISTOR_RES0603_10K 0603 1%':
+ ROOM='control_smps';
+
+SECTION_NUMBER 1
+ '@TIDA-01606_GATE DRIVERE4_SCH.SCHEMATIC1(SCH_1):INS14280278@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@\tida-01606_gate drivere4_sch\.schematic1(sch_1):ins14280278@discrete.\resistor.normal\(chips)',
+ P_PATH='@\tida-01606_gate drivere4_sch\.schematic1(sch_1):page1_ins14280278@discrete.\resistor.normal\(chips)',
+ ROOM='control_smps',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R53 'RESISTOR_RES0603_10K 0603 1%':
+ ROOM='control_smps';
+
+SECTION_NUMBER 1
+ '@TIDA-01606_GATE DRIVERE4_SCH.SCHEMATIC1(SCH_1):INS14280304@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@\tida-01606_gate drivere4_sch\.schematic1(sch_1):ins14280304@discrete.\resistor.normal\(chips)',
+ P_PATH='@\tida-01606_gate drivere4_sch\.schematic1(sch_1):page1_ins14280304@discrete.\resistor.normal\(chips)',
+ ROOM='control_smps',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R54 'RESISTOR_RES0603_10K 0603 1%':
+ ROOM='control_smps';
+
+SECTION_NUMBER 1
+ '@TIDA-01606_GATE DRIVERE4_SCH.SCHEMATIC1(SCH_1):INS14280330@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@\tida-01606_gate drivere4_sch\.schematic1(sch_1):ins14280330@discrete.\resistor.normal\(chips)',
+ P_PATH='@\tida-01606_gate drivere4_sch\.schematic1(sch_1):page1_ins14280330@discrete.\resistor.normal\(chips)',
+ ROOM='control_smps',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R6 'RESISTOR_SNPD0805_MODIFIED_17.8':
+ ROOM='control_smps';
+
+SECTION_NUMBER 1
+ '@TIDA-01606_GATE DRIVERE4_SCH.SCHEMATIC1(SCH_1):INS14261258@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@\tida-01606_gate drivere4_sch\.schematic1(sch_1):ins14261258@discrete.\resistor.normal\(chips)',
+ P_PATH='@\tida-01606_gate drivere4_sch\.schematic1(sch_1):page1_ins14261258@discrete.\resistor.normal\(chips)',
+ ROOM='control_smps',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R7 'RESISTOR_SNPD0805_MODIFIED_4.7K':
+ ROOM='control_smps';
+
+SECTION_NUMBER 1
+ '@TIDA-01606_GATE DRIVERE4_SCH.SCHEMATIC1(SCH_1):INS14266677@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@\tida-01606_gate drivere4_sch\.schematic1(sch_1):ins14266677@discrete.\resistor.normal\(chips)',
+ P_PATH='@\tida-01606_gate drivere4_sch\.schematic1(sch_1):page1_ins14266677@discrete.\resistor.normal\(chips)',
+ ROOM='control_smps',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R8 'RESISTOR_SNPD1206_MODIFIED_0E 1':
+ ROOM='control_smps';
+
+SECTION_NUMBER 1
+ '@TIDA-01606_GATE DRIVERE4_SCH.SCHEMATIC1(SCH_1):INS13755548@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@\tida-01606_gate drivere4_sch\.schematic1(sch_1):ins13755548@discrete.\resistor.normal\(chips)',
+ P_PATH='@\tida-01606_gate drivere4_sch\.schematic1(sch_1):page1_ins13755548@discrete.\resistor.normal\(chips)',
+ ROOM='control_smps',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R9 'RESISTOR_SNPD1206_MODIFIED_0E 1':
+ ROOM='control_smps';
+
+SECTION_NUMBER 1
+ '@TIDA-01606_GATE DRIVERE4_SCH.SCHEMATIC1(SCH_1):INS14260708@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@\tida-01606_gate drivere4_sch\.schematic1(sch_1):ins14260708@discrete.\resistor.normal\(chips)',
+ P_PATH='@\tida-01606_gate drivere4_sch\.schematic1(sch_1):page1_ins14260708@discrete.\resistor.normal\(chips)',
+ ROOM='control_smps',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ T1 'TRANSFORMER STEPUP_0_750343804_':;
+
+SECTION_NUMBER 1
+ '@TIDA-01606_GATE DRIVERE4_SCH.SCHEMATIC1(SCH_1):INS13755309@TIDA-01606_GATE DRIVERE4_SCH.TRANSFORMER STEPUP_0.NORMAL(CHIPS)':
+ C_PATH='@\tida-01606_gate drivere4_sch\.schematic1(sch_1):ins13755309@\tida-01606_gate drivere4_sch\.\transformer stepup_0.normal\(chips)',
+ P_PATH='@\tida-01606_gate drivere4_sch\.schematic1(sch_1):page1_ins13755309@\tida-01606_gate drivere4_sch\.\transformer stepup_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ T2 'TRANSFORMER STEPUP_0_750343804_':;
+
+SECTION_NUMBER 1
+ '@TIDA-01606_GATE DRIVERE4_SCH.SCHEMATIC1(SCH_1):INS13755379@TIDA-01606_GATE DRIVERE4_SCH.TRANSFORMER STEPUP_0.NORMAL(CHIPS)':
+ C_PATH='@\tida-01606_gate drivere4_sch\.schematic1(sch_1):ins13755379@\tida-01606_gate drivere4_sch\.\transformer stepup_0.normal\(chips)',
+ P_PATH='@\tida-01606_gate drivere4_sch\.schematic1(sch_1):page1_ins13755379@\tida-01606_gate drivere4_sch\.\transformer stepup_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ T3 'TRANSFORMER STEPUP_0_750343804_':;
+
+SECTION_NUMBER 1
+ '@TIDA-01606_GATE DRIVERE4_SCH.SCHEMATIC1(SCH_1):INS13755429@TIDA-01606_GATE DRIVERE4_SCH.TRANSFORMER STEPUP_0.NORMAL(CHIPS)':
+ C_PATH='@\tida-01606_gate drivere4_sch\.schematic1(sch_1):ins13755429@\tida-01606_gate drivere4_sch\.\transformer stepup_0.normal\(chips)',
+ P_PATH='@\tida-01606_gate drivere4_sch\.schematic1(sch_1):page1_ins13755429@\tida-01606_gate drivere4_sch\.\transformer stepup_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U1 'DIODE ZENER_4_DBZ0003A_N_DBZ000':
+ ROOM='control_smps';
+
+SECTION_NUMBER 1
+ '@TIDA-01606_GATE DRIVERE4_SCH.SCHEMATIC1(SCH_1):INS14262681@TIDA-01606_GATE DRIVERE4_SCH.DIODE ZENER_4.NORMAL(CHIPS)':
+ C_PATH='@\tida-01606_gate drivere4_sch\.schematic1(sch_1):ins14262681@\tida-01606_gate drivere4_sch\.\diode zener_4.normal\(chips)',
+ P_PATH='@\tida-01606_gate drivere4_sch\.schematic1(sch_1):page1_ins14262681@\tida-01606_gate drivere4_sch\.\diode zener_4.normal\(chips)',
+ ROOM='control_smps',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U2 'UCC21520ADWR_1_DPR0010A_UCC2721':
+ ROOM='DrvIC_Aph_driver';
+
+SECTION_NUMBER 1
+ '@TIDA-01606_GATE DRIVERE4_SCH.SCHEMATIC1(SCH_1):INS13755190@TIDA-01606_GATE DRIVERE4_SCH.UCC21520ADWR_1.NORMAL(CHIPS)':
+ C_PATH='@\tida-01606_gate drivere4_sch\.schematic1(sch_1):ins13755190@\tida-01606_gate drivere4_sch\.\ucc21520adwr_1.normal\(chips)',
+ P_PATH='@\tida-01606_gate drivere4_sch\.schematic1(sch_1):page1_ins13755190@\tida-01606_gate drivere4_sch\.\ucc21520adwr_1.normal\(chips)',
+ ROOM='DrvIC_Aph_driver',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U3 'DIODE ZENER_5_DBZ0003A_N_DBZ000':
+ ROOM='control_smps';
+
+SECTION_NUMBER 1
+ '@TIDA-01606_GATE DRIVERE4_SCH.SCHEMATIC1(SCH_1):INS14266701@TIDA-01606_GATE DRIVERE4_SCH.DIODE ZENER_5.NORMAL(CHIPS)':
+ C_PATH='@\tida-01606_gate drivere4_sch\.schematic1(sch_1):ins14266701@\tida-01606_gate drivere4_sch\.\diode zener_5.normal\(chips)',
+ P_PATH='@\tida-01606_gate drivere4_sch\.schematic1(sch_1):page1_ins14266701@\tida-01606_gate drivere4_sch\.\diode zener_5.normal\(chips)',
+ ROOM='control_smps',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U4 'DIODE ZENER_6_DBZ0003A_N_DBZ000':
+ ROOM='control_smps';
+
+SECTION_NUMBER 1
+ '@TIDA-01606_GATE DRIVERE4_SCH.SCHEMATIC1(SCH_1):INS14267560@TIDA-01606_GATE DRIVERE4_SCH.DIODE ZENER_6.NORMAL(CHIPS)':
+ C_PATH='@\tida-01606_gate drivere4_sch\.schematic1(sch_1):ins14267560@\tida-01606_gate drivere4_sch\.\diode zener_6.normal\(chips)',
+ P_PATH='@\tida-01606_gate drivere4_sch\.schematic1(sch_1):page1_ins14267560@\tida-01606_gate drivere4_sch\.\diode zener_6.normal\(chips)',
+ ROOM='control_smps',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U5 'UCC21520ADWR_4_DW0016A_N_ISO585':
+ ROOM='DrvIC_Aph_driver';
+
+SECTION_NUMBER 1
+ '@TIDA-01606_GATE DRIVERE4_SCH.SCHEMATIC1(SCH_1):INS14268266@TIDA-01606_GATE DRIVERE4_SCH.UCC21520ADWR_4.NORMAL(CHIPS)':
+ C_PATH='@\tida-01606_gate drivere4_sch\.schematic1(sch_1):ins14268266@\tida-01606_gate drivere4_sch\.\ucc21520adwr_4.normal\(chips)',
+ P_PATH='@\tida-01606_gate drivere4_sch\.schematic1(sch_1):page1_ins14268266@\tida-01606_gate drivere4_sch\.\ucc21520adwr_4.normal\(chips)',
+ ROOM='DrvIC_Aph_driver',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U6 'DM3AT-SF-PEJM5_2_TSSOP14_SN74LV':;
+
+SECTION_NUMBER 1
+ '@TIDA-01606_GATE DRIVERE4_SCH.SCHEMATIC1(SCH_1):INS14278602@TIDA-01606_GATE DRIVERE4_SCH.DM3AT-SF-PEJM5_2.NORMAL(CHIPS)':
+ C_PATH='@\tida-01606_gate drivere4_sch\.schematic1(sch_1):ins14278602@\tida-01606_gate drivere4_sch\.\dm3at-sf-pejm5_2.normal\(chips)',
+ P_PATH='@\tida-01606_gate drivere4_sch\.schematic1(sch_1):page1_ins14278602@\tida-01606_gate drivere4_sch\.\dm3at-sf-pejm5_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U7 'UCC21520ADWR_5_DW0016A_N_ISO585':
+ ROOM='DrvIC_Aph_driver';
+
+SECTION_NUMBER 1
+ '@TIDA-01606_GATE DRIVERE4_SCH.SCHEMATIC1(SCH_1):INS14271220@TIDA-01606_GATE DRIVERE4_SCH.UCC21520ADWR_5.NORMAL(CHIPS)':
+ C_PATH='@\tida-01606_gate drivere4_sch\.schematic1(sch_1):ins14271220@\tida-01606_gate drivere4_sch\.\ucc21520adwr_5.normal\(chips)',
+ P_PATH='@\tida-01606_gate drivere4_sch\.schematic1(sch_1):page1_ins14271220@\tida-01606_gate drivere4_sch\.\ucc21520adwr_5.normal\(chips)',
+ ROOM='DrvIC_Aph_driver',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U8 'DM3AT-SF-PEJM5_1_SOIC8_REV1_UCC':;
+
+SECTION_NUMBER 1
+ '@TIDA-01606_GATE DRIVERE4_SCH.SCHEMATIC1(SCH_1):INS14273009@TIDA-01606_GATE DRIVERE4_SCH.DM3AT-SF-PEJM5_1.NORMAL(CHIPS)':
+ C_PATH='@\tida-01606_gate drivere4_sch\.schematic1(sch_1):ins14273009@\tida-01606_gate drivere4_sch\.\dm3at-sf-pejm5_1.normal\(chips)',
+ P_PATH='@\tida-01606_gate drivere4_sch\.schematic1(sch_1):page1_ins14273009@\tida-01606_gate drivere4_sch\.\dm3at-sf-pejm5_1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U9 'DM3AT-SF-PEJM5_1_SOIC8_REV1_UCC':;
+
+SECTION_NUMBER 1
+ '@TIDA-01606_GATE DRIVERE4_SCH.SCHEMATIC1(SCH_1):INS14277862@TIDA-01606_GATE DRIVERE4_SCH.DM3AT-SF-PEJM5_1.NORMAL(CHIPS)':
+ C_PATH='@\tida-01606_gate drivere4_sch\.schematic1(sch_1):ins14277862@\tida-01606_gate drivere4_sch\.\dm3at-sf-pejm5_1.normal\(chips)',
+ P_PATH='@\tida-01606_gate drivere4_sch\.schematic1(sch_1):page1_ins14277862@\tida-01606_gate drivere4_sch\.\dm3at-sf-pejm5_1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+END.

@@ -1,0 +1,216 @@
+
+********************************************************************************
+*  Performance checking for design C:/Users/kunal/Google Drive/RupeshRoshniPrakashPoojaPrashantKunal/Kunal/TIDA-01606_Gate DriverE4_Sch/Board/TIDA-01606_Gate DriverE4_Sch_Rev16.brd
+********************************************************************************
+
+Ratsnest schedule check
+-------------------------------
+* OK.
+
+DRC checks
+----------------------
+* OK.
+
+Constraint region check
+-------------------------------
+* OK.
+
+Dynamic shape check
+-------------------------------
+* Generated positive dynamic shape has no voids.
+  Suggest replacing with a static shape.
+  ISSUE: Voidless shapes (e.g. thick etch) should be static shapes to avoid
+         processing overhead.
+      shape/region location:  (3891.00 725.00)
+      layer:                  ETCH/BOTTOM
+
+* Generated positive dynamic shape has no voids.
+  Suggest replacing with a static shape.
+  ISSUE: Voidless shapes (e.g. thick etch) should be static shapes to avoid
+         processing overhead.
+      shape/region location:  (4891.00 726.00)
+      layer:                  ETCH/BOTTOM
+
+* Generated positive dynamic shape has no voids.
+  Suggest replacing with a static shape.
+  ISSUE: Voidless shapes (e.g. thick etch) should be static shapes to avoid
+         processing overhead.
+      shape/region location:  (3814.00 761.00)
+      layer:                  ETCH/BOTTOM
+
+* Generated positive dynamic shape has no voids.
+  Suggest replacing with a static shape.
+  ISSUE: Voidless shapes (e.g. thick etch) should be static shapes to avoid
+         processing overhead.
+      shape/region location:  (4814.00 761.00)
+      layer:                  ETCH/BOTTOM
+
+* Generated positive dynamic shape has no voids.
+  Suggest replacing with a static shape.
+  ISSUE: Voidless shapes (e.g. thick etch) should be static shapes to avoid
+         processing overhead.
+      shape/region location:  (2528.00 523.00)
+      layer:                  ETCH/TOP
+
+* Generated positive dynamic shape has no voids.
+  Suggest replacing with a static shape.
+  ISSUE: Voidless shapes (e.g. thick etch) should be static shapes to avoid
+         processing overhead.
+      shape/region location:  (131.00 958.00)
+      layer:                  ETCH/TOP
+
+* Generated positive dynamic shape has no voids.
+  Suggest replacing with a static shape.
+  ISSUE: Voidless shapes (e.g. thick etch) should be static shapes to avoid
+         processing overhead.
+      shape/region location:  (919.00 1183.00)
+      layer:                  ETCH/TOP
+
+* Generated positive dynamic shape has no voids.
+  Suggest replacing with a static shape.
+  ISSUE: Voidless shapes (e.g. thick etch) should be static shapes to avoid
+         processing overhead.
+      shape/region location:  (251.00 1003.00)
+      layer:                  ETCH/TOP
+
+* Generated positive dynamic shape has no voids.
+  Suggest replacing with a static shape.
+  ISSUE: Voidless shapes (e.g. thick etch) should be static shapes to avoid
+         processing overhead.
+      shape/region location:  (3774.00 522.00)
+      layer:                  ETCH/TOP
+
+* Generated positive dynamic shape has no voids.
+  Suggest replacing with a static shape.
+  ISSUE: Voidless shapes (e.g. thick etch) should be static shapes to avoid
+         processing overhead.
+      shape/region location:  (4562.00 445.00)
+      layer:                  ETCH/TOP
+
+* Generated positive dynamic shape has no voids.
+  Suggest replacing with a static shape.
+  ISSUE: Voidless shapes (e.g. thick etch) should be static shapes to avoid
+         processing overhead.
+      shape/region location:  (4702.00 521.00)
+      layer:                  ETCH/TOP
+
+* Generated positive dynamic shape has no voids.
+  Suggest replacing with a static shape.
+  ISSUE: Voidless shapes (e.g. thick etch) should be static shapes to avoid
+         processing overhead.
+      shape/region location:  (3562.00 445.00)
+      layer:                  ETCH/TOP
+
+* Generated positive dynamic shape has no voids.
+  Suggest replacing with a static shape.
+  ISSUE: Voidless shapes (e.g. thick etch) should be static shapes to avoid
+         processing overhead.
+      shape/region location:  (2367.00 862.00)
+      layer:                  ETCH/TOP
+
+* Generated positive dynamic shape has no voids.
+  Suggest replacing with a static shape.
+  ISSUE: Voidless shapes (e.g. thick etch) should be static shapes to avoid
+         processing overhead.
+      shape/region location:  (2976.00 916.00)
+      layer:                  ETCH/BOTTOM
+
+* Generated positive dynamic shape has no voids.
+  Suggest replacing with a static shape.
+  ISSUE: Voidless shapes (e.g. thick etch) should be static shapes to avoid
+         processing overhead.
+      shape/region location:  (1961.00 916.00)
+      layer:                  ETCH/BOTTOM
+
+* Generated positive dynamic shape has no voids.
+  Suggest replacing with a static shape.
+  ISSUE: Voidless shapes (e.g. thick etch) should be static shapes to avoid
+         processing overhead.
+      shape/region location:  (1614.00 599.00)
+      layer:                  ETCH/TOP
+
+* Generated positive dynamic shape has no voids.
+  Suggest replacing with a static shape.
+  ISSUE: Voidless shapes (e.g. thick etch) should be static shapes to avoid
+         processing overhead.
+      shape/region location:  (2648.00 612.00)
+      layer:                  ETCH/TOP
+
+* Generated positive dynamic shape has no voids.
+  Suggest replacing with a static shape.
+  ISSUE: Voidless shapes (e.g. thick etch) should be static shapes to avoid
+         processing overhead.
+      shape/region location:  (2628.00 748.00)
+      layer:                  ETCH/TOP
+
+* Generated positive dynamic shape has no voids.
+  Suggest replacing with a static shape.
+  ISSUE: Voidless shapes (e.g. thick etch) should be static shapes to avoid
+         processing overhead.
+      shape/region location:  (1800.00 832.00)
+      layer:                  ETCH/TOP
+
+* Generated positive dynamic shape has no voids.
+  Suggest replacing with a static shape.
+  ISSUE: Voidless shapes (e.g. thick etch) should be static shapes to avoid
+         processing overhead.
+      shape/region location:  (2628.00 820.00)
+      layer:                  ETCH/BOTTOM
+
+* Generated positive dynamic shape has no voids.
+  Suggest replacing with a static shape.
+  ISSUE: Voidless shapes (e.g. thick etch) should be static shapes to avoid
+         processing overhead.
+      shape/region location:  (1613.00 820.00)
+      layer:                  ETCH/BOTTOM
+
+
+Sector table check
+-------------------------------
+* Poor sector size set for this design. Tuned to an optimal setting.
+  ISSUE: Sector size can impact DRC and display performance.
+
+* The ratio of design extent to route keepin extent is too large (248.270424).
+  Suggest reducing design extent.
+
+Constraint set check
+---------------------------------
+* OK.
+
+NODRC_SYM_SAME_PIN check
+---------------------------------
+* OK.
+
+Cross section check for bad dielectric constant values
+--------------------------------------------------------
+* OK.
+
+Padstack size check
+----------------------
+* OK.
+
+Conductor line check
+------------------------------
+* OK.
+
+Design Constraints Statistics
+---------------------------------
+  Physical csets       =     1
+  Spacing csets        =     1
+  Same net csets       =     1
+  Electrical csets     =     0
+  Other csets          =     0
+  Total csets        ===     3
+
+  Cset relation table  =     0
+
+  Constraint regions   =     0
+  Constraint shapes    =     0
+
+* OK.
+
+=========
+SUMMARY
+=========
+
+22 problems found.	0 maintenance problems found.

@@ -1,0 +1,42 @@
+\t (00:00:00) allegro 17.4 S010 Windows SPB 64-bit Edition
+\t (00:00:00)     Journal start - Wed Oct 20 00:11:00 2021
+\t (00:00:00)         Host=DESKTOP-M8UDNQD User=Dr Rupesh Wandhare Pid=2100 CPUs=8
+\t (00:00:00) CmdLine= c:\cadence\spb_17.4\tools\bin\allegro.exe E:\RupeshGoogleDrive\GmailDrive\RupeshRoshniPrakashPoojaPrashantKunal\Kunal\TIDA-01606_Gate DriverE4_Sch\Board\TIDA-01606_Gate DriverE4_Sch_Rev18.brd
+\t (00:00:00) 
+   (00:00:00) Loading axlcore.cxt 
+\t (00:00:00) Opening existing design...
+\i (00:00:00) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged "TIDA-01606_Gate DriverE4_Sch_Rev18"
+\d (00:00:00) Design opened: E:/RupeshGoogleDrive/GmailDrive/RupeshRoshniPrakashPoojaPrashantKunal/Kunal/TIDA-01606_Gate DriverE4_Sch/Board/TIDA-01606_Gate DriverE4_Sch_Rev18.brd
+\t (00:00:01) Grids are drawn 16.00, 16.00 apart for enhanced viewing.
+\i (00:00:01) trapsize 1904
+\i (00:00:01) trapsize 1999
+\i (00:00:01) trapsize 1904
+\t (00:00:01) Grids are drawn 16.00, 16.00 apart for enhanced viewing.
+\i (00:00:01) trapsize 1371
+\i (00:00:01) trapsize 1413
+\t (00:00:01) Grids are drawn 32.00, 32.00 apart for enhanced viewing.
+\i (00:00:01) trapsize 2235
+\t (00:00:01) Grids are drawn 16.00, 16.00 apart for enhanced viewing.
+\i (00:00:01) trapsize 1123
+\i (00:00:03) generaledit 
+\i (00:00:03) roam start
+\i (00:00:03) roam y -16
+\i (00:00:03) roam x -16
+\i (00:00:03) roam y -144
+\i (00:00:03) roam y -16
+\i (00:00:03) roam y -32
+\i (00:00:03) roam y -32
+\i (00:00:03) roam y -16
+\i (00:00:03) roam y -16
+\i (00:00:04) roam y -32
+\i (00:00:04) roam y -16
+\i (00:00:04) roam y -32
+\i (00:00:04) roam end
+\i (00:00:11) artwork 
+\i (00:00:14) setwindow form.film_control
+\i (00:00:14) FORM film_control filmtree  PWR_LAYER 
+\i (00:00:23) FORM film_control cancel  
+\i (00:00:23) setwindow pcb
+\i (00:00:23) generaledit 
+\i (00:02:13) exit 
+\t (00:02:14)     Journal end - Wed Oct 20 00:13:13 2021

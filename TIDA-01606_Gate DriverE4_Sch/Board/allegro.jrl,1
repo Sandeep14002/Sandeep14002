@@ -1,0 +1,31 @@
+\t (00:00:00) allegro 17.2 S013 Windows SPB 64-bit Edition
+\t (00:00:00)     Journal start - Mon Aug 17 13:04:46 2020
+\t (00:00:00)         Host=KUKU User=kunal Pid=10036 CPUs=4
+\t (00:00:00) CmdLine= c:\cadence\spb_17.2\tools\bin\allegro.exe C:\Users\kunal\Google Drive\RupeshRoshniPrakashPoojaPrashantKunal\Kunal\TIDA-01606_Gate DriverE4_Sch\Board\TIDA-01606_Gate DriverE4_Sch_Rev18.brd
+\t (00:00:00) 
+   (00:00:00) Loading axlcore.cxt 
+   (00:00:00) *Error* load: can't access file - "./FloWare/flw_startup"
+\t (00:00:03) Opening existing design...
+\d (00:00:03) Design opened: C:/Users/kunal/Google Drive/RupeshRoshniPrakashPoojaPrashantKunal/Kunal/TIDA-01606_Gate DriverE4_Sch/Board/TIDA-01606_Gate DriverE4_Sch_Rev18.brd
+\t (00:00:04) Grids are drawn 32.00, 32.00 apart for enhanced viewability.
+\i (00:00:04) trapsize 3962
+\t (00:00:04) Grids are drawn 64.00, 64.00 apart for enhanced viewability.
+\i (00:00:04) trapsize 4103
+\t (00:00:04) Grids are drawn 64.00, 64.00 apart for enhanced viewability.
+\i (00:00:04) trapsize 4526
+\t (00:00:04) Grids are drawn 32.00, 32.00 apart for enhanced viewability.
+\i (00:00:04) trapsize 3382
+\t (00:00:04) Grids are drawn 64.00, 64.00 apart for enhanced viewability.
+\i (00:00:04) trapsize 4185
+\t (00:00:04) Grids are drawn 512.00, 512.00 apart for enhanced viewability.
+\i (00:00:04) trapsize 37617
+\i (00:00:04) trapsize 33542
+\t (00:00:05) Grids are drawn 64.00, 64.00 apart for enhanced viewability.
+\i (00:00:05) trapsize 4302
+\t (00:00:05) Grids are drawn 512.00, 512.00 apart for enhanced viewability.
+\t (00:00:05) Grids are drawn 64.00, 64.00 apart for enhanced viewability.
+\t (00:00:05) Grids are drawn 32.00, 32.00 apart for enhanced viewability.
+\i (00:00:05) trapsize 3458
+\i (00:00:05) placementedit 
+\i (00:00:11) exit 
+\t (00:00:11)     Journal end - Mon Aug 17 13:04:56 2020
