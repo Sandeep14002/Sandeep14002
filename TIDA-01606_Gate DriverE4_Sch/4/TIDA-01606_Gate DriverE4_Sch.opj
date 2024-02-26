@@ -1,0 +1,172 @@
+(ExpressProject "TIDA-01606_Gate DriverE4_Sch"
+  (ProjectVersion "19981106")
+  (SoftwareVersion "17.4-2019 P001 (3823098) [10/7/2019]-[02/20/24]")
+  (ProjectType "Analog or A/D Mixed Mode")
+  (Folder "Design Resources"
+    (Folder "Library")
+    (NoModify)
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x")
+    (DRC_Scope "0")
+    (DRC_Action "0")
+    (DRC_Create_Warnings "FALSE")
+    (DRC_View_Output "FALSE")
+    (DRC_Preserved_Waived "FALSE")
+    (DRC_Run_Electrical_Rules "TRUE")
+    (DRC_Run_Physical_Rules "FALSE")
+    (DRC_Report_File
+       "C:\USERS\KUNAL\GOOGLE DRIVE\RUPESHROSHNIPRAKASHPOOJAPRASHANTKUNAL\KUNAL\TIDA-01606_GATE DRIVERE4_SCH\TIDA-01606_GATE DRIVERE4_SCH.DRC")
+    (DRC_Check_Ports "FALSE")
+    (DRC_Check_Off-Page_Connectors "FALSE")
+    (DRC_Report_Ports_and_Off-page_Connectors "FALSE")
+    (DRC_SDT_Compatibility "FALSE")
+    (DRC_Report_Off-grid_Objects "FALSE")
+    (DRC_Check_Unconnected_Nets "TRUE")
+    (DRC_Check_for_Misleading_TAP "FALSE")
+    (DRC_Report_Netnames "FALSE")
+    (DRC_Check_Single_Node_Nets "TRUE")
+    (DRC_Run_Electrical_Custom_DRC "FALSE")
+    (DRC_Check_No_Driving_Source "TRUE")
+    (DRC_Check_Duplicate_NetNames "TRUE")
+    (DRC_Check_Floating_Pins "TRUE")
+    (DRC_Check_Physical_Power_Pins_Visibility "TRUE")
+    (DRC_Check_PCB_Footprint_Property "TRUE")
+    (DRC_Check_Normal_Convert_View_Sync "TRUE")
+    (DRC_Check_Incorrect_PinGroup_Assignment "TRUE")
+    (DRC_Check_High_Speed_Props_Syntax "TRUE")
+    (DRC_Check_Missing_Pin_Numbers "TRUE")
+    (DRC_Check_Device_With_No_Pins "TRUE")
+    (DRC_Check_Power_Ground_Short "TRUE")
+    (DRC_Identical_References "TRUE")
+    (DRC_Type_Mismatch "TRUE")
+    (DRC_Visible_Power_pins "FALSE")
+    (DRC_Report_Unused_Part_Packages "TRUE")
+    (DRC_Check_Name_Prop_For_HierBlocks "TRUE")
+    (DRC_Run_Physical_Custom_DRC "FALSE")
+    (Netlist_TAB "0")
+    (Create Allegro Netlist "TRUE")
+    (Allegro Netlist Directory "allegro")
+    (View Allegro Netlist Files "FALSE")
+    (Allegro Netlist Create DCF File "FALSE")
+    (Update Allegro Board "TRUE")
+    (Allegro Netlist Input Board File
+       "C:\Users\kunal\Google Drive\RupeshRoshniPrakashPoojaPrashantKunal\Kunal\TIDA-01606_Gate DriverE4_Sch\Board\TIDA-01606_Gate DriverE4_Sch_Rev18.brd")
+    (Allegro Netlist Output Board File
+       ".\board\tida-01606_gate drivere4_sch_rev18.brd")
+    (Allegro Netlist Remove Etch "FALSE")
+    (Allegro Netlist Place Changed Component "ALWAYS_REPLACE")
+    (Allegro Netlist Open Board in Allegro "ORCAD")
+    (Allegro Setup Backup Versions "3")
+    (Allegro Setup Ignore Constraints "FALSE")
+    (Allegro Setup Part Type Length "31")
+    (Allegro Netlist Combine Property String "PCB Footprint")
+    (Allegro Netlist Ignore Fixed Property "FALSE")
+    (Allegro Netlist User Defined Property "FALSE")
+    (DOCKED "TRUE")
+    (DOCKING_POSITION "59420")
+    (File ".\tida-01606_gate drivere4_sch.dsn"
+      (Type "Schematic Design")))
+  (Folder "Layout")
+  (Folder "Outputs"
+    (File ".\tida-01606_gate drivere4_sch.drc"
+      (Type "Report"))
+    (File ".\allegro\pstxnet.dat"
+      (Type "Report"))
+    (File ".\allegro\pstxprt.dat"
+      (Type "Report"))
+    (File ".\allegro\pstchip.dat"
+      (Type "Report")))
+  (Folder "PSpice Resources"
+    (Folder "Simulation Profiles")
+    (Folder "Model Libraries"
+      (Sort User))
+    (Folder "Stimulus Files"
+      (Sort User))
+    (Folder "Include Files"
+      (Sort User)))
+  (DefaultLibraryBrowseDirectory "library\PSpice")
+  (PartMRUSelector
+    (LM431ACM3NOPB
+      (FullPartName "LM431ACM3NOPB.Normal")
+      (LibraryName
+         "C:\USERS\KUNAL\DOWNLOADS\ULTRA LIBRARIAN\UL_LM431ACM3NOPB\ORCADCAPTUREXML\2020-04-20_10-34-05.OLB")
+      (DeviceIndex "0"))
+    (CSD88537ND
+      (FullPartName "CSD88537ND.Normal")
+      (LibraryName
+         "C:\USERS\KUNAL\DOWNLOADS\ULTRA LIBRARIAN\UL_CSD88537ND\ORCADCAPTUREXML\2020-04-20_09-13-13.OLB")
+      (DeviceIndex "0"))
+    (UCC27211DPRR
+      (FullPartName "UCC27211DPRR.Normal")
+      (LibraryName
+         "C:\USERS\KUNAL\DOWNLOADS\UL_UCC27211DPRR\ORCADCAPTUREXML\2020-04-20_08-51-56.OLB")
+      (DeviceIndex "0"))
+    (PNP BEC
+      (FullPartName "PNP BEC.Normal")
+      (LibraryName
+         "C:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\OLDLIBS\PCBDEV.OLB")
+      (DeviceIndex "0"))
+    (OFFPAGELEFT-R
+      (LibraryName "C:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (HEADER 8X2
+      (FullPartName "HEADER 8X2.Normal")
+      (LibraryName
+         "C:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\OLDLIBS\PCBDEV.OLB")
+      (DeviceIndex "0"))
+    (HEADER 4
+      (FullPartName "HEADER 4.Normal")
+      (LibraryName
+         "C:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\OLDLIBS\PCBDEV.OLB")
+      (DeviceIndex "0"))
+    (OFFPAGELEFT-L
+      (LibraryName "C:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (SCR GCA
+      (FullPartName "SCR GCA.Normal")
+      (LibraryName
+         "C:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\OLDLIBS\PCBDEV.OLB")
+      (DeviceIndex "0"))
+    (NAMT20
+      (FullPartName "NAMT20.Normal")
+      (LibraryName
+         "C:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\PSPICE\SILICONIX.OLB")
+      (DeviceIndex "0"))
+    (TRANSFORMER STEPUP
+      (FullPartName "TRANSFORMER STEPUP.Normal")
+      (LibraryName
+         "C:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\OLDLIBS\PCBDEV.OLB")
+      (DeviceIndex "0")))
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Design Resources"
+         "C:\Users\sande\OneDrive\Documents\GitHub\Grid-TInv_TIDA-01606\TIDA-01606_Gate DriverE4_Sch\4\tida-01606_gate drivere4_sch.dsn")
+      (Path "Design Resources"
+         "C:\Users\sande\OneDrive\Documents\GitHub\Grid-TInv_TIDA-01606\TIDA-01606_Gate DriverE4_Sch\4\tida-01606_gate drivere4_sch.dsn"
+         "SCHEMATIC1")
+      (Path "Outputs")
+      (Select "Design Resources"
+         "C:\Users\sande\OneDrive\Documents\GitHub\Grid-TInv_TIDA-01606\TIDA-01606_Gate DriverE4_Sch\4\tida-01606_gate drivere4_sch.dsn"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 2 3 -1 -1 0 0 0 200 0 327"))
+      (Tab 0))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 5 1419 24 835")
+        (Scroll "-4 -49")
+        (Zoom "68")
+        (Occurrence "/"))
+      (Path
+         "C:\USERS\SANDE\ONEDRIVE\DOCUMENTS\GITHUB\GRID-TINV_TIDA-01606\TIDA-01606_GATE DRIVERE4_SCH\4\TIDA-01606_GATE DRIVERE4_SCH.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "PAGE1")))
+  (MPSSessionName "sande")
+  (LastUsedLibraryBrowseDirectory
+     "C:\Users\kunal\Downloads\Ultra Librarian\ul_LM431ACM3NOPB\OrcadCaptureXML")
+  (ISPCBBASICLICENSE "false")
+  (Folder "Logs"))

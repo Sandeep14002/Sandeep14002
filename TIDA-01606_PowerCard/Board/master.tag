@@ -1,0 +1,1 @@
+solutionstida01606_powercard_rev17.brd
