@@ -158,14 +158,25 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 5 1674 24 675")
-        (Scroll "383 70")
-        (Zoom "100")
+        (Placement "44 0 1 -1 -1 -1 -1 5 1668 24 675")
+        (Scroll "0 0")
+        (Zoom "122")
         (Occurrence "/"))
       (Path
          "C:\USERS\PC\DOCUMENTS\GITHUB\SANDEEP14002\TIDA-01606_GATE DRIVERE4_SCH\6\TIDA-01606_GATE DRIVERE4_SCH.DSN")
       (Schematic "SCHEMATIC1")
-      (Page "PAGE1")))
+      (Page "PAGE1"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 5 1668 24 675")
+        (Scroll "-7 268")
+        (Zoom "80")
+        (Occurrence "/"))
+      (Path
+         "C:\USERS\PC\DOCUMENTS\GITHUB\SANDEEP14002\TIDA-01606_GATE DRIVERE4_SCH\6\TIDA-01606_GATE DRIVERE4_SCH.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "PAGE2")))
   (MPSSessionName "pc")
   (LastUsedLibraryBrowseDirectory
      "C:\Users\kunal\Downloads\Ultra Librarian\ul_LM431ACM3NOPB\OrcadCaptureXML")
