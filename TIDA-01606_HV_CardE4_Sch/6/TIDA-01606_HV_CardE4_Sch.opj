@@ -1,0 +1,111 @@
+(ExpressProject "TIDA-01606_HV_CardE4_Sch"
+  (ProjectVersion "19981106")
+  (SoftwareVersion "17.4-2019 P001 (3823098) [10/7/2019]-[08/27/21]")
+  (ProjectType "Analog or A/D Mixed Mode")
+  (Folder "Design Resources"
+    (Folder "Library")
+    (NoModify)
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x")
+    (Netlist_TAB "0")
+    (Create Allegro Netlist "TRUE")
+    (Allegro Netlist Directory "allegro")
+    (View Allegro Netlist Files "FALSE")
+    (Allegro Netlist Create DCF File "FALSE")
+    (Update Allegro Board "TRUE")
+    (Allegro Netlist Input Board File
+       "C:\Users\kunal\Google Drive\RupeshRoshniPrakashPoojaPrashantKunal\Kunal\TIDA-01606_HV_CardE4_Sch\Board\TIDA-01606_HV_CARDE4_SCH_rev1.brd")
+    (Allegro Netlist Output Board File
+       ".\board\tida-01606_hv_carde4_sch_rev1.brd")
+    (Allegro Netlist Remove Etch "FALSE")
+    (Allegro Netlist Place Changed Component "ALWAYS_REPLACE")
+    (Allegro Netlist Open Board in Allegro "ORCAD")
+    (Allegro Setup Backup Versions "3")
+    (Allegro Setup Ignore Constraints "FALSE")
+    (Allegro Setup Part Type Length "31")
+    (Allegro Netlist Combine Property String "PCB Footprint")
+    (Allegro Netlist Ignore Fixed Property "FALSE")
+    (Allegro Netlist User Defined Property "FALSE")
+    (Display_Online_DRC_Results "FALSE")
+    (DOCKED "TRUE")
+    (DOCKING_POSITION "59420")
+    (File ".\tida-01606_hv_carde4_sch.dsn"
+      (Type "Schematic Design")))
+  (Folder "Layout"
+    (File ".\allegro\tida-01606_hv_carde4_sch.brd"
+      (Type "Board File")
+      (OutputBoard ".\allegro\tida-01606_hv_carde4_sch.brd")
+      (NetListPath ".\allegro")
+      (ActiveBoard "0")))
+  (Folder "Outputs"
+    (File ".\allegro\pstxnet.dat"
+      (Type "Report"))
+    (File ".\allegro\pstxprt.dat"
+      (Type "Report"))
+    (File ".\allegro\pstchip.dat"
+      (Type "Report")))
+  (Folder "PSpice Resources"
+    (Folder "Simulation Profiles")
+    (Folder "Model Libraries"
+      (Sort User))
+    (Folder "Stimulus Files"
+      (Sort User))
+    (Folder "Include Files"
+      (Sort User)))
+  (DefaultLibraryBrowseDirectory "library\PSpice")
+  (PartMRUSelector
+    (DIODE TVS BI-DIR
+      (FullPartName "DIODE TVS BI-DIR.Normal")
+      (LibraryName "C:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    (OPA1013
+      (FullPartName "OPA1013.Normal")
+      (LibraryName "C:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\OPAMP.OLB")
+      (DeviceIndex "0"))
+    (OFFPAGELEFT-L
+      (LibraryName "C:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (DIODE ZENER
+      (FullPartName "DIODE ZENER.Normal")
+      (LibraryName "C:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    (HEADER 2
+      (FullPartName "HEADER 2.Normal")
+      (LibraryName
+         "C:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\OLDLIBS\PCBDEV.OLB")
+      (DeviceIndex "0")))
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Design Resources"
+         "C:\Users\sande\OneDrive\Documents\GitHub\Sandeep14002\TIDA-01606_HV_CardE4_Sch\6\tida-01606_hv_carde4_sch.dsn")
+      (Path "Design Resources"
+         "C:\Users\sande\OneDrive\Documents\GitHub\Sandeep14002\TIDA-01606_HV_CardE4_Sch\6\tida-01606_hv_carde4_sch.dsn"
+         "SCHEMATIC1")
+      (Path "Layout")
+      (Path "Outputs")
+      (Select "Design Resources"
+         "C:\Users\sande\OneDrive\Documents\GitHub\Sandeep14002\TIDA-01606_HV_CardE4_Sch\6\tida-01606_hv_carde4_sch.dsn"
+         "SCHEMATIC1" "PAGE1"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 2 3 -1 -1 0 0 0 200 0 327"))
+      (Tab 0))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 5 1674 24 835")
+        (Scroll "-303 -2")
+        (Zoom "51")
+        (Occurrence "/"))
+      (Path
+         "C:\USERS\SANDE\ONEDRIVE\DOCUMENTS\GITHUB\SANDEEP14002\TIDA-01606_HV_CARDE4_SCH\6\TIDA-01606_HV_CARDE4_SCH.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "PAGE1")))
+  (MPSSessionName "sande")
+  (LastUsedLibraryBrowseDirectory
+     "C:\Cadence\SPB_16.6\tools\capture\library\ieeelibs")
+  (ISPCBBASICLICENSE "false")
+  (Folder "Logs"))
