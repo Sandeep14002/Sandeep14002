@@ -67,11 +67,11 @@
       (Path "Outputs")
       (Path "PSpice Resources")
       (Path "Logs")
-      (Select "Design Resources"))
+      (Select "Design Resources" "Library"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 0 275 0 803"))
+        (Placement "44 0 1 -1 -1 -1 -1 0 200 0 634"))
       (Tab 0)))
-  (MPSSessionName "sande"))
+  (MPSSessionName "pc"))

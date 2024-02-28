@@ -93,16 +93,76 @@
   (GlobalState
     (FileView
       (Path "Design Resources")
-      (Path "Design Resources" ".\tida-01606_powercard_grid_tinv.dsn")
-      (Path "Design Resources" ".\tida-01606_powercard_grid_tinv.dsn"
+      (Path "Design Resources"
+         "c:\users\pc\documents\github\sandeep14002\tida-01606_powercard\tida-01606_powercard_grid_tinv.dsn")
+      (Path "Design Resources"
+         "c:\users\pc\documents\github\sandeep14002\tida-01606_powercard\tida-01606_powercard_grid_tinv.dsn"
          "SCHEMATIC1")
       (Path "Layout")
       (Path "Outputs")
-      (Path "Logs"))
+      (Path "Logs")
+      (Select "Design Resources"
+         "c:\users\pc\documents\github\sandeep14002\tida-01606_powercard\tida-01606_powercard_grid_tinv.dsn"
+         "SCHEMATIC1" "VoltageSensing"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 0 246 0 657"))
-      (Tab 0)))
+        (Placement "44 0 1 -1 -1 -1 -1 0 200 0 657"))
+      (Tab 0))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 5 1674 24 675")
+        (Scroll "0 0")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path
+         "C:\USERS\PC\DOCUMENTS\GITHUB\SANDEEP14002\TIDA-01606_POWERCARD\TIDA-01606_POWERCARD_GRID_TINV.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "PowerBoard"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 5 1674 24 675")
+        (Scroll "-58 40")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path
+         "C:\USERS\PC\DOCUMENTS\GITHUB\SANDEEP14002\TIDA-01606_POWERCARD\TIDA-01606_POWERCARD_GRID_TINV.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "DriverHeaders"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 5 1674 24 675")
+        (Scroll "-340 -4")
+        (Zoom "63")
+        (Occurrence "/"))
+      (Path
+         "C:\USERS\PC\DOCUMENTS\GITHUB\SANDEEP14002\TIDA-01606_POWERCARD\TIDA-01606_POWERCARD_GRID_TINV.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "uCheaders_smps"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 5 1674 24 675")
+        (Scroll "1403 0")
+        (Zoom "122")
+        (Occurrence "/"))
+      (Path
+         "C:\USERS\PC\DOCUMENTS\GITHUB\SANDEEP14002\TIDA-01606_POWERCARD\TIDA-01606_POWERCARD_GRID_TINV.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "Current_Temp_Sensing"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 5 1674 24 675")
+        (Scroll "-10 587")
+        (Zoom "80")
+        (Occurrence "/"))
+      (Path
+         "C:\USERS\PC\DOCUMENTS\GITHUB\SANDEEP14002\TIDA-01606_POWERCARD\TIDA-01606_POWERCARD_GRID_TINV.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "VoltageSensing")))
   (MPSSessionName "pc"))
