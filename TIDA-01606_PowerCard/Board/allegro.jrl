@@ -1047,4 +1047,130 @@
 \i (00:39:52) zoom in 1 
 \i (00:39:52) setwindow pcb
 \i (00:39:52) zoom in 8542.109 6237.737
-\i (00:39:52) trapsiz
+\i (00:39:52) trapsize 19219
+\i (00:39:53) zoom out 1 
+\i (00:39:53) setwindow pcb
+\i (00:39:53) zoom out 9118.677 6341.520
+\i (00:39:53) trapsize 38438
+\i (00:39:53) zoom out 1 
+\i (00:39:53) setwindow pcb
+\i (00:39:53) zoom out 9157.114 6341.520
+\i (00:39:53) trapsize 76876
+\i (01:27:46) xrefdes K2 
+\i (01:27:46) xname_flush '!' 
+\i (01:27:46) trapsize 19341
+\i (01:28:33) xrefdes D14 
+\i (01:28:33) xname_flush 
+\i (01:28:33) trapsize 2915
+\i (01:29:03) xrefdes D14 
+\i (01:29:03) xname_flush '!' 
+\i (01:29:03) trapsize 2915
+\i (01:29:04) xrefdes D15 
+\i (01:29:04) xname_flush 
+\i (01:29:04) trapsize 2915
+\i (01:34:30) xNet Fan_Cntl 
+\i (01:34:30) xrefdes R76 
+\i (01:34:30) xNet N14352726 
+\i (01:34:30) xNet Gnd 
+\i (01:34:30) xNet N14353027 
+\i (01:34:30) xrefdes R66 
+\i (01:34:30) xrefdes R59 
+\i (01:34:30) xrefdes J28 
+\i (01:34:30) xrefdes J26 
+\i (01:34:30) xNet N14352768 
+\i (01:34:30) xNet +12V 
+\i (01:34:30) xrefdes Q13 
+\i (01:34:30) xrefdes R60 
+\i (01:34:30) xrefdes Q14 
+\i (01:34:30) xNet N14353069 
+\i (01:34:30) xname_flush 
+\i (01:34:30) trapsize 48426
+\i (01:34:30) xNet Fan_Cntl 
+\i (01:34:30) xrefdes R76 
+\i (01:34:30) xNet N14352726 
+\i (01:34:30) xNet Gnd 
+\i (01:34:30) xNet N14353027 
+\i (01:34:30) xrefdes R66 
+\i (01:34:30) xrefdes R59 
+\i (01:34:30) xrefdes J28 
+\i (01:34:30) xrefdes J26 
+\i (01:34:30) xNet N14352768 
+\i (01:34:30) xNet +12V 
+\i (01:34:30) xrefdes Q13 
+\i (01:34:30) xrefdes R60 
+\i (01:34:30) xrefdes Q14 
+\i (01:34:30) xNet N14353069 
+\i (01:34:30) xname_flush '!' 
+\i (01:34:30) trapsize 48426
+\i (01:34:39) xNet Fan_Cntl 
+\i (01:34:39) xrefdes R76 
+\i (01:34:39) xNet N14352726 
+\i (01:34:39) xNet Gnd 
+\i (01:34:39) xNet N14353027 
+\i (01:34:39) xrefdes R66 
+\i (01:34:39) xrefdes R59 
+\i (01:34:39) xrefdes J28 
+\i (01:34:39) xrefdes J26 
+\i (01:34:39) xNet N14352768 
+\i (01:34:39) xNet +12V 
+\i (01:34:39) xrefdes Q13 
+\i (01:34:39) xrefdes R60 
+\i (01:34:39) xrefdes Q14 
+\i (01:34:39) xNet N14353069 
+\i (01:34:39) xname_flush 
+\i (01:34:39) trapsize 48426
+\i (01:34:40) xNet Fan_Cntl 
+\i (01:34:40) xrefdes R76 
+\i (01:34:40) xNet N14352726 
+\i (01:34:40) xNet Gnd 
+\i (01:34:40) xNet N14353027 
+\i (01:34:40) xrefdes R66 
+\i (01:34:40) xrefdes R59 
+\i (01:34:40) xrefdes J28 
+\i (01:34:40) xrefdes J26 
+\i (01:34:40) xNet N14352768 
+\i (01:34:40) xNet +12V 
+\i (01:34:40) xrefdes Q13 
+\i (01:34:40) xrefdes R60 
+\i (01:34:40) xrefdes Q14 
+\i (01:34:40) xNet N14353069 
+\i (01:34:40) xname_flush '!' 
+\i (01:34:40) trapsize 48426
+\i (01:35:04) xNet Fan_Cntl 
+\i (01:35:04) xrefdes R76 
+\i (01:35:04) xNet N14352726 
+\i (01:35:04) xNet Gnd 
+\i (01:35:04) xNet N14353027 
+\i (01:35:04) xrefdes R66 
+\i (01:35:04) xrefdes R59 
+\i (01:35:04) xrefdes J28 
+\i (01:35:04) xrefdes J26 
+\i (01:35:04) xNet N14352768 
+\i (01:35:04) xNet +12V 
+\i (01:35:04) xrefdes Q13 
+\i (01:35:04) xrefdes R60 
+\i (01:35:04) xrefdes Q14 
+\i (01:35:04) xNet N14353069 
+\i (01:35:04) xname_flush 
+\i (01:35:04) trapsize 48426
+\i (01:35:04) xNet Fan_Cntl 
+\i (01:35:04) xrefdes R76 
+\i (01:35:04) xNet N14352726 
+\i (01:35:04) xNet Gnd 
+\i (01:35:04) xNet N14353027 
+\i (01:35:04) xrefdes R66 
+\i (01:35:04) xrefdes R59 
+\i (01:35:04) xrefdes J28 
+\i (01:35:04) xrefdes J26 
+\i (01:35:04) xNet N14352768 
+\i (01:35:04) xNet +12V 
+\i (01:35:04) xrefdes Q13 
+\i (01:35:04) xrefdes R60 
+\i (01:35:04) xrefdes Q14 
+\i (01:35:04) xNet N14353069 
+\i (01:35:04) xname_flush '!' 
+\i (01:35:04) trapsize 48426
+\i (18:07:57) exit 
+\e (18:07:57) Do you want to save the changes you made to solutionstida01606_powercard_rev17.brd?
+\i (18:08:01) fillin no 
+\t (18:08:01)     Journal end - Wed Feb 28 09:45:07 2024
