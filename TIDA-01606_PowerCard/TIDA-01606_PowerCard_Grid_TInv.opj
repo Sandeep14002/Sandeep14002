@@ -1,6 +1,6 @@
 (ExpressProject "TIDA-01606_PowerCard_Grid_TInv"
   (ProjectVersion "19981106")
-  (SoftwareVersion "17.4-2019 P001 (3823098) [10/7/2019]-[02/29/24]")
+  (SoftwareVersion "17.4-2019 S031 (4044358)  [7/23/2022]-[02/29/24]")
   (ProjectType "PCB")
   (Folder "Design Resources"
     (Folder "Library")
@@ -15,7 +15,7 @@
     ("Allegro Netlist Input Board File"
        "c:\github_orcad_projects\grid-tinv_tida-01606\tida-01606_powercard\board\solutionstida01606_powercard_rev17.brd")
     ("Allegro Netlist Output Board File"
-       ".\board\solutionstida01606_powercard_rev17.brd")
+       ".\board\solutionstida01606_powercard_29feb.brd")
     (BOM_Scope "0")
     (BOM_Mode "1")
     (BOM_Report_File
@@ -50,6 +50,11 @@
     (File ".\board\solutionstida01606_powercard_rev17.brd"
       (Type "Board File")
       (OutputBoard ".\board\solutionstida01606_powercard_rev17.brd")
+      (NetListPath ".\allegro")
+      (ActiveBoard "0"))
+    (File ".\board\solutionstida01606_powercard_29feb.brd"
+      (Type "Board File")
+      (OutputBoard ".\board\solutionstida01606_powercard_29feb.brd")
       (NetListPath ".\allegro")
       (ActiveBoard "1")))
   (Folder "Outputs"
@@ -99,33 +104,68 @@
          "SCHEMATIC1")
       (Path "Layout")
       (Path "Outputs")
-      (Path "Logs"))
+      (Path "Logs")
+      (Select "Design Resources" ".\tida-01606_powercard_grid_tinv.dsn"
+         "SCHEMATIC1" "uCheaders_smps"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 0 200 0 685"))
+        (Placement "44 0 1 -1 -1 -1 -1 0 200 0 741"))
       (Tab 0))
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 5 1461 24 703")
-        (Scroll "0 0")
+        (Placement "44 0 1 -1 -1 -1 -1 5 1674 24 759")
+        (Scroll "276 468")
         (Zoom "100")
         (Occurrence "/"))
       (Path
-         "C:\USERS\SANDE\ONEDRIVE\DOCUMENTS\GITHUB\SANDEEP14002\TIDA-01606_POWERCARD\TIDA-01606_POWERCARD_GRID_TINV.DSN")
+         "C:\USERS\PC\DOCUMENTS\GITHUB\SANDEEP14002\TIDA-01606_POWERCARD\TIDA-01606_POWERCARD_GRID_TINV.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "PowerBoard"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 5 1674 24 759")
+        (Scroll "-58 150")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path
+         "C:\USERS\PC\DOCUMENTS\GITHUB\SANDEEP14002\TIDA-01606_POWERCARD\TIDA-01606_POWERCARD_GRID_TINV.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "uCheaders_smps"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 5 1674 24 759")
+        (Scroll "0 807")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path
+         "C:\USERS\PC\DOCUMENTS\GITHUB\SANDEEP14002\TIDA-01606_POWERCARD\TIDA-01606_POWERCARD_GRID_TINV.DSN")
       (Schematic "SCHEMATIC1")
       (Page "VoltageSensing"))
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 5 1461 24 703")
-        (Scroll "573 0")
-        (Zoom "132")
+        (Placement "44 0 1 -1 -1 -1 -1 5 1674 24 759")
+        (Scroll "-58 0")
+        (Zoom "100")
         (Occurrence "/"))
       (Path
-         "C:\USERS\SANDE\ONEDRIVE\DOCUMENTS\GITHUB\SANDEEP14002\TIDA-01606_POWERCARD\TIDA-01606_POWERCARD_GRID_TINV.DSN")
+         "C:\USERS\PC\DOCUMENTS\GITHUB\SANDEEP14002\TIDA-01606_POWERCARD\TIDA-01606_POWERCARD_GRID_TINV.DSN")
       (Schematic "SCHEMATIC1")
-      (Page "uCheaders_smps")))
-  (MPSSessionName "sande"))
+      (Page "DriverHeaders"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 5 1674 24 759")
+        (Scroll "0 0")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path
+         "C:\USERS\PC\DOCUMENTS\GITHUB\SANDEEP14002\TIDA-01606_POWERCARD\TIDA-01606_POWERCARD_GRID_TINV.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "Current_Temp_Sensing")))
+  (MPSSessionName "pc"))

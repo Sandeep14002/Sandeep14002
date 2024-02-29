@@ -1,5 +1,6 @@
 A!NET_NAME!NET_LOGICAL_PATH!NET_VOLTAGE!
-J!C:/USERS/PC/DOCUMENTS/GITHUB/SANDEEP14002/TIDA-01606_POWERCARD/board/solutionstida01606_powercard_rev17.brd!Wed Feb 28 23:35:00 2024!-10231.620!-12453.484!14768.380!12546.516!0.001!mils!TIDA-01606_POWERCARD_GRID_TINV!94.400000 mil!4!OUT OF DATE!
+J!C:/USERS/PC/DOCUMENTS/GITHUB/SANDEEP14002/TIDA-01606_POWERCARD/board/solutionstida01606_powercard_rev17.brd!Thu Feb 29 12:55:42 2024!-11239.090!-12327.504!13760.910!12672.496!0.001!mils!TIDA-01606_POWERCARD_GRID_TINV!94.400000 mil!4!UP TO DATE!
+S!OPAMP_C3-!@\tida-01606_powercard_grid_tinv\.schematic1(sch_1):\opamp_c3-\!!
 S!ADC_B4!@\tida-01606_powercard_grid_tinv\.schematic1(sch_1):adc_b4!!
 S!ADC_A1!@\tida-01606_powercard_grid_tinv\.schematic1(sch_1):adc_a1!!
 S!EPWM8A!@\tida-01606_powercard_grid_tinv\.schematic1(sch_1):epwm8a!!
@@ -113,7 +114,6 @@ S!N14613330!@\tida-01606_powercard_grid_tinv\.schematic1(sch_1):n14613330!!
 S!N14613584!@\tida-01606_powercard_grid_tinv\.schematic1(sch_1):n14613584!!
 S!N14612483!@\tida-01606_powercard_grid_tinv\.schematic1(sch_1):n14612483!!
 S!N14612495!@\tida-01606_powercard_grid_tinv\.schematic1(sch_1):n14612495!!
-S!GND!@\tida-01606_powercard_grid_tinv\.schematic1(sch_1):gnd!!
 S!RST!@\tida-01606_powercard_grid_tinv\.schematic1(sch_1):rst!!
 S!VINV_SEN_A!@\tida-01606_powercard_grid_tinv\.schematic1(sch_1):vinv_sen_a!!
 S!N14762846!@\tida-01606_powercard_grid_tinv\.schematic1(sch_1):n14762846!!

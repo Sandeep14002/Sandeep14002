@@ -1,5 +1,5 @@
 FILE_TYPE = EXPANDEDPARTLIST;
-{ Using PSTWRITER 17.4.0 d001Feb-28-2024 at 23:35:41 }
+{ Using PSTWRITER 17.4.0 d001Feb-29-2024 at 13:02:53 }
 DIRECTIVES
  PST_VERSION='PST_HDL_CENTRIC_VERSION_0';
  ROOT_DRAWING='TIDA-01606_POWERCARD_GRID_TINV';
@@ -1863,6 +1863,102 @@ SECTION_NUMBER 1
  '@TIDA-01606_POWERCARD_GRID_TINV.SCHEMATIC1(SCH_1):INS14824610@DISCRETE.INDUCTOR.NORMAL(CHIPS)':
  C_PATH='@\tida-01606_powercard_grid_tinv\.schematic1(sch_1):ins14824610@discrete.\inductor.normal\(chips)',
  P_PATH='@\tida-01606_powercard_grid_tinv\.schematic1(sch_1):page1_ins14824610@discrete.\inductor.normal\(chips)',
+ ROOM='I_source',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ L32 'INDUCTOR_SMR0805_10E 0805':
+ ROOM='I_source';
+
+SECTION_NUMBER 1
+ '@TIDA-01606_POWERCARD_GRID_TINV.SCHEMATIC1(SCH_1):INS14830251@DISCRETE.INDUCTOR.NORMAL(CHIPS)':
+ C_PATH='@\tida-01606_powercard_grid_tinv\.schematic1(sch_1):ins14830251@discrete.\inductor.normal\(chips)',
+ P_PATH='@\tida-01606_powercard_grid_tinv\.schematic1(sch_1):page1_ins14830251@discrete.\inductor.normal\(chips)',
+ ROOM='I_source',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ L33 'INDUCTOR_SMR0805_10E 0805':
+ ROOM='I_source';
+
+SECTION_NUMBER 1
+ '@TIDA-01606_POWERCARD_GRID_TINV.SCHEMATIC1(SCH_1):INS14830300@DISCRETE.INDUCTOR.NORMAL(CHIPS)':
+ C_PATH='@\tida-01606_powercard_grid_tinv\.schematic1(sch_1):ins14830300@discrete.\inductor.normal\(chips)',
+ P_PATH='@\tida-01606_powercard_grid_tinv\.schematic1(sch_1):page1_ins14830300@discrete.\inductor.normal\(chips)',
+ ROOM='I_source',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ L34 'INDUCTOR_SMR0805_10E 0805':
+ ROOM='I_source';
+
+SECTION_NUMBER 1
+ '@TIDA-01606_POWERCARD_GRID_TINV.SCHEMATIC1(SCH_1):INS14830374@DISCRETE.INDUCTOR.NORMAL(CHIPS)':
+ C_PATH='@\tida-01606_powercard_grid_tinv\.schematic1(sch_1):ins14830374@discrete.\inductor.normal\(chips)',
+ P_PATH='@\tida-01606_powercard_grid_tinv\.schematic1(sch_1):page1_ins14830374@discrete.\inductor.normal\(chips)',
+ ROOM='I_source',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ L35 'INDUCTOR_SMR0805_10E 0805':
+ ROOM='I_source';
+
+SECTION_NUMBER 1
+ '@TIDA-01606_POWERCARD_GRID_TINV.SCHEMATIC1(SCH_1):INS14830407@DISCRETE.INDUCTOR.NORMAL(CHIPS)':
+ C_PATH='@\tida-01606_powercard_grid_tinv\.schematic1(sch_1):ins14830407@discrete.\inductor.normal\(chips)',
+ P_PATH='@\tida-01606_powercard_grid_tinv\.schematic1(sch_1):page1_ins14830407@discrete.\inductor.normal\(chips)',
+ ROOM='I_source',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ L36 'INDUCTOR_SMR0805_10E 0805':
+ ROOM='I_source';
+
+SECTION_NUMBER 1
+ '@TIDA-01606_POWERCARD_GRID_TINV.SCHEMATIC1(SCH_1):INS14830433@DISCRETE.INDUCTOR.NORMAL(CHIPS)':
+ C_PATH='@\tida-01606_powercard_grid_tinv\.schematic1(sch_1):ins14830433@discrete.\inductor.normal\(chips)',
+ P_PATH='@\tida-01606_powercard_grid_tinv\.schematic1(sch_1):page1_ins14830433@discrete.\inductor.normal\(chips)',
+ ROOM='I_source',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ L37 'INDUCTOR_SMR0805_10E 0805':
+ ROOM='I_source';
+
+SECTION_NUMBER 1
+ '@TIDA-01606_POWERCARD_GRID_TINV.SCHEMATIC1(SCH_1):INS14835857@DISCRETE.INDUCTOR.NORMAL(CHIPS)':
+ C_PATH='@\tida-01606_powercard_grid_tinv\.schematic1(sch_1):ins14835857@discrete.\inductor.normal\(chips)',
+ P_PATH='@\tida-01606_powercard_grid_tinv\.schematic1(sch_1):page1_ins14835857@discrete.\inductor.normal\(chips)',
+ ROOM='I_source',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ L38 'INDUCTOR_SMR0805_10E 0805':
+ ROOM='I_source';
+
+SECTION_NUMBER 1
+ '@TIDA-01606_POWERCARD_GRID_TINV.SCHEMATIC1(SCH_1):INS14835883@DISCRETE.INDUCTOR.NORMAL(CHIPS)':
+ C_PATH='@\tida-01606_powercard_grid_tinv\.schematic1(sch_1):ins14835883@discrete.\inductor.normal\(chips)',
+ P_PATH='@\tida-01606_powercard_grid_tinv\.schematic1(sch_1):page1_ins14835883@discrete.\inductor.normal\(chips)',
+ ROOM='I_source',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ L39 'INDUCTOR_SMR0805_10E 0805':
+ ROOM='I_source';
+
+SECTION_NUMBER 1
+ '@TIDA-01606_POWERCARD_GRID_TINV.SCHEMATIC1(SCH_1):INS14835909@DISCRETE.INDUCTOR.NORMAL(CHIPS)':
+ C_PATH='@\tida-01606_powercard_grid_tinv\.schematic1(sch_1):ins14835909@discrete.\inductor.normal\(chips)',
+ P_PATH='@\tida-01606_powercard_grid_tinv\.schematic1(sch_1):page1_ins14835909@discrete.\inductor.normal\(chips)',
  ROOM='I_source',
  PRIM_FILE='.\pstchip.dat',
  SECTION='';

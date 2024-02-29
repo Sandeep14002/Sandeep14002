@@ -1,5 +1,5 @@
 A!REFDES!COMP_VOLTAGE!COMP_ROOM!COMP_GROUP!COMP_SIGNAL_MODEL!COMP_NO_XNET_CONNECTION!COMP_PARENT_PPT!COMP_PARENT_PPT_PART!COMP_REUSE_ID!COMP_REUSE_NAME!COMP_REUSE_INSTANCE!
-J!C:/USERS/PC/DOCUMENTS/GITHUB/SANDEEP14002/TIDA-01606_POWERCARD/board/solutionstida01606_powercard_rev17.brd!Wed Feb 28 23:35:11 2024!-10231.620!-12453.484!14768.380!12546.516!0.001!mils!TIDA-01606_POWERCARD_GRID_TINV!94.400000 mil!4!OUT OF DATE!
+J!C:/Users/pc/Documents/GitHub/Sandeep14002/TIDA-01606_PowerCard/Board/solutionstida01606_powercard_29FEB.brd!Thu Feb 29 13:02:34 2024!-11239.090!-12327.504!13760.910!12672.496!0.001!mils!TIDA-01606_POWERCARD_GRID_TINV!94.400000 mil!4!UP TO DATE!
 S!C567!!I_source!!!!!!!!!
 S!C603!!I_source!!!!!!!!!
 S!C605!!I_source!!!!!!!!!
@@ -27,6 +27,8 @@ S!C731!!I_source!!!!!!!!!
 S!J182!!I_source!!!!!!!!!
 S!J614!!I_source!!!!!!!!!
 S!J615!!I_source!!!!!!!!!
+S!L30!!I_source!!!!!!!!!
+S!L31!!I_source!!!!!!!!!
 S!L25!!I_source!!!!!!!!!
 S!L26!!I_source!!!!!!!!!
 S!L27!!I_source!!!!!!!!!
