@@ -1,5 +1,20 @@
 A!NET_NAME!NET_LOGICAL_PATH!NET_VOLTAGE!
-J!C:/USERS/PC/DOCUMENTS/GITHUB/SANDEEP14002/TIDA-01606_POWERCARD/board/solutionstida01606_powercard_rev17.brd!Thu Feb 29 12:52:21 2024!-11239.090!-12327.504!13760.910!12672.496!0.001!mils!TIDA-01606_POWERCARD_GRID_TINV!94.400000 mil!4!UP TO DATE!
+J!c:/users/pc/documents/github/sandeep14002/tida-01606_powercard/board/solutionstida01606_powercard_4mar.brd!Mon Mar  4 16:41:45 2024!-14989.090!-12327.504!10010.910!12672.496!0.001!mils!TIDA-01606_POWERCARD_GRID_TINV!94.400000 mil!4!UP TO DATE!
+S!I3P!@\tida-01606_powercard_grid_tinv\.schematic1(sch_1):i3p!!
+S!I2P!@\tida-01606_powercard_grid_tinv\.schematic1(sch_1):i2p!!
+S!GND_AMC3!@\tida-01606_powercard_grid_tinv\.schematic1(sch_1):gnd_amc3!!
+S!VINV_C!@\tida-01606_powercard_grid_tinv\.schematic1(sch_1):vinv_c!!
+S!GND_AMC2!@\tida-01606_powercard_grid_tinv\.schematic1(sch_1):gnd_amc2!!
+S!VINV_B!@\tida-01606_powercard_grid_tinv\.schematic1(sch_1):vinv_b!!
+S!GND_AMC1!@\tida-01606_powercard_grid_tinv\.schematic1(sch_1):gnd_amc1!!
+S!ADC_A0!@\tida-01606_powercard_grid_tinv\.schematic1(sch_1):adc_a0!!
+S!ADC_B0!@\tida-01606_powercard_grid_tinv\.schematic1(sch_1):adc_b0!!
+S!ADC_C0!@\tida-01606_powercard_grid_tinv\.schematic1(sch_1):adc_c0!!
+S!ADC_A3!@\tida-01606_powercard_grid_tinv\.schematic1(sch_1):adc_a3!!
+S!ADC_A5!@\tida-01606_powercard_grid_tinv\.schematic1(sch_1):adc_a5!!
+S!ADC_C4!@\tida-01606_powercard_grid_tinv\.schematic1(sch_1):adc_c4!!
+S!ADC_B1!@\tida-01606_powercard_grid_tinv\.schematic1(sch_1):adc_b1!!
+S!ADC_C1!@\tida-01606_powercard_grid_tinv\.schematic1(sch_1):adc_c1!!
 S!OPAMP_C3-!@\tida-01606_powercard_grid_tinv\.schematic1(sch_1):\opamp_c3-\!!
 S!ADC_B4!@\tida-01606_powercard_grid_tinv\.schematic1(sch_1):adc_b4!!
 S!ADC_A1!@\tida-01606_powercard_grid_tinv\.schematic1(sch_1):adc_a1!!

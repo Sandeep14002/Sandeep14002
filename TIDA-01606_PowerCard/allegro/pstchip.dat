@@ -1,5 +1,5 @@
 FILE_TYPE=LIBRARY_PARTS;
-{ Using PSTWRITER 17.4.0 d001Feb-29-2024 at 13:02:53}
+{ Using PSTWRITER 17.4.0 d001Mar-04-2024 at 20:50:41}
 primitive 'CAPACITOR NON-POL_BOXCAPACITOR15MM_0.15UF 630V TH';
   pin
     '1':
@@ -225,21 +225,6 @@ primitive 'CAP NP_SNPD0805_MODIFIED_100P 0805 25V';
     VALUE='100p 0805 25V';
   end_body;
 end_primitive;
-primitive 'CAP_CAP200_220U 50V 105C TH';
-  pin
-    '1':
-      PIN_NUMBER='(1)';
-      PINUSE='UNSPEC';
-    '2':
-      PIN_NUMBER='(2)';
-      PINUSE='UNSPEC';
-  end_pin;
-  body
-    PART_NAME='CAP';
-    JEDEC_TYPE='cap200';
-    VALUE='220u 50V 105C TH';
-  end_body;
-end_primitive;
 primitive 'DIODE ZENER_DO214_REV3_BZV55C15-TP 15V';
   pin
     'ANODE':
@@ -436,27 +421,6 @@ primitive 'CON2_SIP_2PIN_BERGSTRIP_61300211121';
     PART_NAME='CON2';
     JEDEC_TYPE='sip_2pin_bergstrip';
     VALUE='61300211121';
-  end_body;
-end_primitive;
-primitive 'CON2_2_CUI_PJ-002AH-SMT-TR_PJ-002AH-SMT-TR';
-  pin
-    '1':
-      PIN_NUMBER='(1)';
-      PINUSE='UNSPEC';
-    '1A':
-      PIN_NUMBER='(1A)';
-      PINUSE='UNSPEC';
-    '2':
-      PIN_NUMBER='(2)';
-      PINUSE='UNSPEC';
-    '3':
-      PIN_NUMBER='(3)';
-      PINUSE='UNSPEC';
-  end_pin;
-  body
-    PART_NAME='CON2_2';
-    JEDEC_TYPE='CUI_PJ-002AH-SMT-TR';
-    VALUE='PJ-002AH-SMT-TR';
   end_body;
 end_primitive;
 primitive 'HEADER 4_1_JUMPER4MODIFIED_PPTC041LFBN-RC';

@@ -1,0 +1,73 @@
+{
+	"Gate Swap" : [],
+	"Ref Des" : [],
+	"Pin Swap" : [],
+	"Component Property" : [],
+	"Net Property" : [],
+	"Pin Property" : [],
+	"Component" : [],
+	"Net" : [
+		{
+			"Name" : "FAN2",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):fan2",
+			"Logical" : null,
+			"Physical" : "FAN2"
+		},
+		{
+			"Name" : "FAN1",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):fan1",
+			"Logical" : null,
+			"Physical" : "FAN1"
+		},
+		{
+			"Name" : "GND22VPWR3",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):gnd22vpwr3",
+			"Logical" : "GND22VPWR3",
+			"Physical" : null
+		},
+		{
+			"Name" : "22VPWR3",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):\\22vpwr3\\",
+			"Logical" : "22VPWR3",
+			"Physical" : null
+		}
+	],
+	"Connection" : [
+		{
+			"Name" : "J100.1",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins14709136@connector.\\con2.normal\\(chips):\\1\\",
+			"Logical" : "GND22VPWR3",
+			"Physical" : "FAN2"
+		},
+		{
+			"Name" : "J100.2",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins14709136@connector.\\con2.normal\\(chips):\\2\\",
+			"Logical" : "GND22VPWR3",
+			"Physical" : "FAN2"
+		},
+		{
+			"Name" : "J25.13",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins14692031@tida01606_powercard_0.\\header 8x2_0.normal\\(chips):\\13\\",
+			"Logical" : "GND22VPWR3",
+			"Physical" : "FAN2"
+		},
+		{
+			"Name" : "J25.11",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins14692031@tida01606_powercard_0.\\header 8x2_0.normal\\(chips):\\11\\",
+			"Logical" : "22VPWR3",
+			"Physical" : "FAN1"
+		},
+		{
+			"Name" : "J73.2",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins14709392@connector.\\con2.normal\\(chips):\\2\\",
+			"Logical" : "22VPWR3",
+			"Physical" : "FAN1"
+		},
+		{
+			"Name" : "J73.1",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins14709392@connector.\\con2.normal\\(chips):\\1\\",
+			"Logical" : "22VPWR3",
+			"Physical" : "FAN1"
+		}
+	]
+}

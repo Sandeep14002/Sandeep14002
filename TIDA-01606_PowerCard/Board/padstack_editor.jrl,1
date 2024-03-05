@@ -1,0 +1,8 @@
+\t (00:00:00) padstack_editor 17.4 S031 Windows SPB 64-bit Edition
+\t (00:00:00)     Journal start - Mon Mar  4 16:09:22 2024
+\t (00:00:00)         Host=DESKTOP-00H8CHI User=pc Pid=5620 CPUs=4
+\t (00:00:00) CmdLine= padstack_editor -mpssession pc -file C:/Users/pc/AppData/Local/Temp/#Taaaads18768.tmp -pname T_N163_235_M235 -data C:/Users/pc/AppData/Local/Temp/#Taaaadv18768.tmp
+\t (00:00:00) 
+\d (00:00:02) QtSignal GuidedTabsParent GuidedTabs currentChanged Drill
+\d (00:00:03) QtSignal GuidedTabsParent GuidedTabs currentChanged Start
+\t (00:00:05)     Journal end - Mon Mar  4 16:09:27 2024

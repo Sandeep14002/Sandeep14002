@@ -1,5 +1,5 @@
 FILE_TYPE = EXPANDEDPARTLIST;
-{ Using PSTWRITER 17.4.0 d001Feb-29-2024 at 13:02:53 }
+{ Using PSTWRITER 17.4.0 d001Mar-04-2024 at 20:50:41 }
 DIRECTIVES
  PST_VERSION='PST_HDL_CENTRIC_VERSION_0';
  ROOT_DRAWING='TIDA-01606_POWERCARD_GRID_TINV';
@@ -441,13 +441,13 @@ SECTION_NUMBER 1
 
 PART_NAME
  C567 'CAP NP_SNPD0805_MODIFIED_0.1U 0805 50V':
- ROOM='I_source';
+ ROOM='I_sh_A';
 
 SECTION_NUMBER 1
  '@TIDA-01606_POWERCARD_GRID_TINV.SCHEMATIC1(SCH_1):INS14737214@DISCRETE.CAP NP.NORMAL(CHIPS)':
  C_PATH='@\tida-01606_powercard_grid_tinv\.schematic1(sch_1):ins14737214@discrete.\cap np.normal\(chips)',
  P_PATH='@\tida-01606_powercard_grid_tinv\.schematic1(sch_1):page1_ins14737214@discrete.\cap np.normal\(chips)',
- ROOM='I_source',
+ ROOM='I_sh_A',
  PRIM_FILE='.\pstchip.dat',
  SECTION='';
 
@@ -513,49 +513,49 @@ SECTION_NUMBER 1
 
 PART_NAME
  C603 'CAP NP_SNPD0805_MODIFIED_0.1U 0805 50V':
- ROOM='I_source';
+ ROOM='I_sh_A';
 
 SECTION_NUMBER 1
  '@TIDA-01606_POWERCARD_GRID_TINV.SCHEMATIC1(SCH_1):INS14739490@DISCRETE.CAP NP.NORMAL(CHIPS)':
  C_PATH='@\tida-01606_powercard_grid_tinv\.schematic1(sch_1):ins14739490@discrete.\cap np.normal\(chips)',
  P_PATH='@\tida-01606_powercard_grid_tinv\.schematic1(sch_1):page1_ins14739490@discrete.\cap np.normal\(chips)',
- ROOM='I_source',
+ ROOM='I_sh_A',
  PRIM_FILE='.\pstchip.dat',
  SECTION='';
 
 PART_NAME
  C604 'CAP NP_SNPD0805_MODIFIED_1U 0805 50V':
- ROOM='I_source';
+ ROOM='I_sh_A';
 
 SECTION_NUMBER 1
  '@TIDA-01606_POWERCARD_GRID_TINV.SCHEMATIC1(SCH_1):INS14739526@DISCRETE.CAP NP.NORMAL(CHIPS)':
  C_PATH='@\tida-01606_powercard_grid_tinv\.schematic1(sch_1):ins14739526@discrete.\cap np.normal\(chips)',
  P_PATH='@\tida-01606_powercard_grid_tinv\.schematic1(sch_1):page1_ins14739526@discrete.\cap np.normal\(chips)',
- ROOM='I_source',
+ ROOM='I_sh_A',
  PRIM_FILE='.\pstchip.dat',
  SECTION='';
 
 PART_NAME
  C605 'CAP NP_SNPD0805_MODIFIED_0.1U 0805 50V':
- ROOM='I_source';
+ ROOM='I_sh_A';
 
 SECTION_NUMBER 1
  '@TIDA-01606_POWERCARD_GRID_TINV.SCHEMATIC1(SCH_1):INS14739546@DISCRETE.CAP NP.NORMAL(CHIPS)':
  C_PATH='@\tida-01606_powercard_grid_tinv\.schematic1(sch_1):ins14739546@discrete.\cap np.normal\(chips)',
  P_PATH='@\tida-01606_powercard_grid_tinv\.schematic1(sch_1):page1_ins14739546@discrete.\cap np.normal\(chips)',
- ROOM='I_source',
+ ROOM='I_sh_A',
  PRIM_FILE='.\pstchip.dat',
  SECTION='';
 
 PART_NAME
  C629 'CAP POL_CYLD200LS125031_47UF 25V':
- ROOM='I_source';
+ ROOM='I_sh_A';
 
 SECTION_NUMBER 1
  '@TIDA-01606_POWERCARD_GRID_TINV.SCHEMATIC1(SCH_1):INS14739510@DISCRETE.CAP POL.NORMAL(CHIPS)':
  C_PATH='@\tida-01606_powercard_grid_tinv\.schematic1(sch_1):ins14739510@discrete.\cap pol.normal\(chips)',
  P_PATH='@\tida-01606_powercard_grid_tinv\.schematic1(sch_1):page1_ins14739510@discrete.\cap pol.normal\(chips)',
- ROOM='I_source',
+ ROOM='I_sh_A',
  PRIM_FILE='.\pstchip.dat',
  SECTION='';
 
@@ -573,25 +573,25 @@ SECTION_NUMBER 1
 
 PART_NAME
  C632 'CAP POL_CYLD200LS125031_47UF 25V':
- ROOM='I_source';
+ ROOM='I_sh_A';
 
 SECTION_NUMBER 1
  '@TIDA-01606_POWERCARD_GRID_TINV.SCHEMATIC1(SCH_1):INS14739450@DISCRETE.CAP POL.NORMAL(CHIPS)':
  C_PATH='@\tida-01606_powercard_grid_tinv\.schematic1(sch_1):ins14739450@discrete.\cap pol.normal\(chips)',
  P_PATH='@\tida-01606_powercard_grid_tinv\.schematic1(sch_1):page1_ins14739450@discrete.\cap pol.normal\(chips)',
- ROOM='I_source',
+ ROOM='I_sh_A',
  PRIM_FILE='.\pstchip.dat',
  SECTION='';
 
 PART_NAME
  C635 'CAP NP_SNPD0805_MODIFIED_100P 0805 25V':
- ROOM='I_source';
+ ROOM='I_sh_A';
 
 SECTION_NUMBER 1
  '@TIDA-01606_POWERCARD_GRID_TINV.SCHEMATIC1(SCH_1):INS14737454@DISCRETE.CAP NP.NORMAL(CHIPS)':
  C_PATH='@\tida-01606_powercard_grid_tinv\.schematic1(sch_1):ins14737454@discrete.\cap np.normal\(chips)',
  P_PATH='@\tida-01606_powercard_grid_tinv\.schematic1(sch_1):page1_ins14737454@discrete.\cap np.normal\(chips)',
- ROOM='I_source',
+ ROOM='I_sh_A',
  PRIM_FILE='.\pstchip.dat',
  SECTION='';
 
@@ -645,121 +645,121 @@ SECTION_NUMBER 1
 
 PART_NAME
  C710 'CAP NP_SNPD0805_MODIFIED_1U 0805 50V':
- ROOM='I_source';
+ ROOM='I_sh_A';
 
 SECTION_NUMBER 1
  '@TIDA-01606_POWERCARD_GRID_TINV.SCHEMATIC1(SCH_1):INS14739466@DISCRETE.CAP NP.NORMAL(CHIPS)':
  C_PATH='@\tida-01606_powercard_grid_tinv\.schematic1(sch_1):ins14739466@discrete.\cap np.normal\(chips)',
  P_PATH='@\tida-01606_powercard_grid_tinv\.schematic1(sch_1):page1_ins14739466@discrete.\cap np.normal\(chips)',
- ROOM='I_source',
+ ROOM='I_sh_A',
  PRIM_FILE='.\pstchip.dat',
  SECTION='';
 
 PART_NAME
  C711 'CAP POL_CYLD200LS125031_47UF 25V':
- ROOM='I_source';
+ ROOM='I_sh2';
 
 SECTION_NUMBER 1
  '@TIDA-01606_POWERCARD_GRID_TINV.SCHEMATIC1(SCH_1):INS14739746@DISCRETE.CAP POL.NORMAL(CHIPS)':
  C_PATH='@\tida-01606_powercard_grid_tinv\.schematic1(sch_1):ins14739746@discrete.\cap pol.normal\(chips)',
  P_PATH='@\tida-01606_powercard_grid_tinv\.schematic1(sch_1):page1_ins14739746@discrete.\cap pol.normal\(chips)',
- ROOM='I_source',
+ ROOM='I_sh2',
  PRIM_FILE='.\pstchip.dat',
  SECTION='';
 
 PART_NAME
  C712 'CAP NP_SNPD0805_MODIFIED_1U 0805 50V':
- ROOM='I_source';
+ ROOM='I_sh2';
 
 SECTION_NUMBER 1
  '@TIDA-01606_POWERCARD_GRID_TINV.SCHEMATIC1(SCH_1):INS14739762@DISCRETE.CAP NP.NORMAL(CHIPS)':
  C_PATH='@\tida-01606_powercard_grid_tinv\.schematic1(sch_1):ins14739762@discrete.\cap np.normal\(chips)',
  P_PATH='@\tida-01606_powercard_grid_tinv\.schematic1(sch_1):page1_ins14739762@discrete.\cap np.normal\(chips)',
- ROOM='I_source',
+ ROOM='I_sh2',
  PRIM_FILE='.\pstchip.dat',
  SECTION='';
 
 PART_NAME
  C713 'CAP NP_SNPD0805_MODIFIED_0.1U 0805 50V':
- ROOM='I_source';
+ ROOM='I_sh2';
 
 SECTION_NUMBER 1
  '@TIDA-01606_POWERCARD_GRID_TINV.SCHEMATIC1(SCH_1):INS14739786@DISCRETE.CAP NP.NORMAL(CHIPS)':
  C_PATH='@\tida-01606_powercard_grid_tinv\.schematic1(sch_1):ins14739786@discrete.\cap np.normal\(chips)',
  P_PATH='@\tida-01606_powercard_grid_tinv\.schematic1(sch_1):page1_ins14739786@discrete.\cap np.normal\(chips)',
- ROOM='I_source',
+ ROOM='I_sh2',
  PRIM_FILE='.\pstchip.dat',
  SECTION='';
 
 PART_NAME
  C714 'CAP POL_CYLD200LS125031_47UF 25V':
- ROOM='I_source';
+ ROOM='I_sh2';
 
 SECTION_NUMBER 1
  '@TIDA-01606_POWERCARD_GRID_TINV.SCHEMATIC1(SCH_1):INS14739806@DISCRETE.CAP POL.NORMAL(CHIPS)':
  C_PATH='@\tida-01606_powercard_grid_tinv\.schematic1(sch_1):ins14739806@discrete.\cap pol.normal\(chips)',
  P_PATH='@\tida-01606_powercard_grid_tinv\.schematic1(sch_1):page1_ins14739806@discrete.\cap pol.normal\(chips)',
- ROOM='I_source',
+ ROOM='I_sh2',
  PRIM_FILE='.\pstchip.dat',
  SECTION='';
 
 PART_NAME
  C715 'CAP NP_SNPD0805_MODIFIED_1U 0805 50V':
- ROOM='I_source';
+ ROOM='I_sh2';
 
 SECTION_NUMBER 1
  '@TIDA-01606_POWERCARD_GRID_TINV.SCHEMATIC1(SCH_1):INS14739822@DISCRETE.CAP NP.NORMAL(CHIPS)':
  C_PATH='@\tida-01606_powercard_grid_tinv\.schematic1(sch_1):ins14739822@discrete.\cap np.normal\(chips)',
  P_PATH='@\tida-01606_powercard_grid_tinv\.schematic1(sch_1):page1_ins14739822@discrete.\cap np.normal\(chips)',
- ROOM='I_source',
+ ROOM='I_sh2',
  PRIM_FILE='.\pstchip.dat',
  SECTION='';
 
 PART_NAME
  C716 'CAP NP_SNPD0805_MODIFIED_0.1U 0805 50V':
- ROOM='I_source';
+ ROOM='I_sh2';
 
 SECTION_NUMBER 1
  '@TIDA-01606_POWERCARD_GRID_TINV.SCHEMATIC1(SCH_1):INS14739842@DISCRETE.CAP NP.NORMAL(CHIPS)':
  C_PATH='@\tida-01606_powercard_grid_tinv\.schematic1(sch_1):ins14739842@discrete.\cap np.normal\(chips)',
  P_PATH='@\tida-01606_powercard_grid_tinv\.schematic1(sch_1):page1_ins14739842@discrete.\cap np.normal\(chips)',
- ROOM='I_source',
+ ROOM='I_sh2',
  PRIM_FILE='.\pstchip.dat',
  SECTION='';
 
 PART_NAME
  C717 'CAP POL_CYLD200LS125031_47UF 25V':
- ROOM='I_source';
+ ROOM='I_sh3';
 
 SECTION_NUMBER 1
  '@TIDA-01606_POWERCARD_GRID_TINV.SCHEMATIC1(SCH_1):INS14740042@DISCRETE.CAP POL.NORMAL(CHIPS)':
  C_PATH='@\tida-01606_powercard_grid_tinv\.schematic1(sch_1):ins14740042@discrete.\cap pol.normal\(chips)',
  P_PATH='@\tida-01606_powercard_grid_tinv\.schematic1(sch_1):page1_ins14740042@discrete.\cap pol.normal\(chips)',
- ROOM='I_source',
+ ROOM='I_sh3',
  PRIM_FILE='.\pstchip.dat',
  SECTION='';
 
 PART_NAME
  C718 'CAP NP_SNPD0805_MODIFIED_1U 0805 50V':
- ROOM='I_source';
+ ROOM='I_sh3';
 
 SECTION_NUMBER 1
  '@TIDA-01606_POWERCARD_GRID_TINV.SCHEMATIC1(SCH_1):INS14740058@DISCRETE.CAP NP.NORMAL(CHIPS)':
  C_PATH='@\tida-01606_powercard_grid_tinv\.schematic1(sch_1):ins14740058@discrete.\cap np.normal\(chips)',
  P_PATH='@\tida-01606_powercard_grid_tinv\.schematic1(sch_1):page1_ins14740058@discrete.\cap np.normal\(chips)',
- ROOM='I_source',
+ ROOM='I_sh3',
  PRIM_FILE='.\pstchip.dat',
  SECTION='';
 
 PART_NAME
  C719 'CAP NP_SNPD0805_MODIFIED_0.1U 0805 50V':
- ROOM='I_source';
+ ROOM='I_sh3';
 
 SECTION_NUMBER 1
  '@TIDA-01606_POWERCARD_GRID_TINV.SCHEMATIC1(SCH_1):INS14740082@DISCRETE.CAP NP.NORMAL(CHIPS)':
  C_PATH='@\tida-01606_powercard_grid_tinv\.schematic1(sch_1):ins14740082@discrete.\cap np.normal\(chips)',
  P_PATH='@\tida-01606_powercard_grid_tinv\.schematic1(sch_1):page1_ins14740082@discrete.\cap np.normal\(chips)',
- ROOM='I_source',
+ ROOM='I_sh3',
  PRIM_FILE='.\pstchip.dat',
  SECTION='';
 
@@ -777,61 +777,61 @@ SECTION_NUMBER 1
 
 PART_NAME
  C720 'CAP POL_CYLD200LS125031_47UF 25V':
- ROOM='I_source';
+ ROOM='I_sh3';
 
 SECTION_NUMBER 1
  '@TIDA-01606_POWERCARD_GRID_TINV.SCHEMATIC1(SCH_1):INS14740102@DISCRETE.CAP POL.NORMAL(CHIPS)':
  C_PATH='@\tida-01606_powercard_grid_tinv\.schematic1(sch_1):ins14740102@discrete.\cap pol.normal\(chips)',
  P_PATH='@\tida-01606_powercard_grid_tinv\.schematic1(sch_1):page1_ins14740102@discrete.\cap pol.normal\(chips)',
- ROOM='I_source',
+ ROOM='I_sh3',
  PRIM_FILE='.\pstchip.dat',
  SECTION='';
 
 PART_NAME
  C721 'CAP NP_SNPD0805_MODIFIED_1U 0805 50V':
- ROOM='I_source';
+ ROOM='I_sh3';
 
 SECTION_NUMBER 1
  '@TIDA-01606_POWERCARD_GRID_TINV.SCHEMATIC1(SCH_1):INS14740118@DISCRETE.CAP NP.NORMAL(CHIPS)':
  C_PATH='@\tida-01606_powercard_grid_tinv\.schematic1(sch_1):ins14740118@discrete.\cap np.normal\(chips)',
  P_PATH='@\tida-01606_powercard_grid_tinv\.schematic1(sch_1):page1_ins14740118@discrete.\cap np.normal\(chips)',
- ROOM='I_source',
+ ROOM='I_sh3',
  PRIM_FILE='.\pstchip.dat',
  SECTION='';
 
 PART_NAME
  C722 'CAP NP_SNPD0805_MODIFIED_0.1U 0805 50V':
- ROOM='I_source';
+ ROOM='I_sh3';
 
 SECTION_NUMBER 1
  '@TIDA-01606_POWERCARD_GRID_TINV.SCHEMATIC1(SCH_1):INS14740138@DISCRETE.CAP NP.NORMAL(CHIPS)':
  C_PATH='@\tida-01606_powercard_grid_tinv\.schematic1(sch_1):ins14740138@discrete.\cap np.normal\(chips)',
  P_PATH='@\tida-01606_powercard_grid_tinv\.schematic1(sch_1):page1_ins14740138@discrete.\cap np.normal\(chips)',
- ROOM='I_source',
+ ROOM='I_sh3',
  PRIM_FILE='.\pstchip.dat',
  SECTION='';
 
 PART_NAME
  C724 'CAP NP_SNPD0805_MODIFIED_0.1U 0805 50V':
- ROOM='I_source';
+ ROOM='I_sh2';
 
 SECTION_NUMBER 1
  '@TIDA-01606_POWERCARD_GRID_TINV.SCHEMATIC1(SCH_1):INS14747109@DISCRETE.CAP NP.NORMAL(CHIPS)':
  C_PATH='@\tida-01606_powercard_grid_tinv\.schematic1(sch_1):ins14747109@discrete.\cap np.normal\(chips)',
  P_PATH='@\tida-01606_powercard_grid_tinv\.schematic1(sch_1):page1_ins14747109@discrete.\cap np.normal\(chips)',
- ROOM='I_source',
+ ROOM='I_sh2',
  PRIM_FILE='.\pstchip.dat',
  SECTION='';
 
 PART_NAME
  C725 'CAP NP_SNPD0805_MODIFIED_100P 0805 25V':
- ROOM='I_source';
+ ROOM='I_sh2';
 
 SECTION_NUMBER 1
  '@TIDA-01606_POWERCARD_GRID_TINV.SCHEMATIC1(SCH_1):INS14747315@DISCRETE.CAP NP.NORMAL(CHIPS)':
  C_PATH='@\tida-01606_powercard_grid_tinv\.schematic1(sch_1):ins14747315@discrete.\cap np.normal\(chips)',
  P_PATH='@\tida-01606_powercard_grid_tinv\.schematic1(sch_1):page1_ins14747315@discrete.\cap np.normal\(chips)',
- ROOM='I_source',
+ ROOM='I_sh2',
  PRIM_FILE='.\pstchip.dat',
  SECTION='';
 
@@ -849,25 +849,25 @@ SECTION_NUMBER 1
 
 PART_NAME
  C730 'CAP NP_SNPD0805_MODIFIED_0.1U 0805 50V':
- ROOM='I_source';
+ ROOM='I_sh3';
 
 SECTION_NUMBER 1
  '@TIDA-01606_POWERCARD_GRID_TINV.SCHEMATIC1(SCH_1):INS14751693@DISCRETE.CAP NP.NORMAL(CHIPS)':
  C_PATH='@\tida-01606_powercard_grid_tinv\.schematic1(sch_1):ins14751693@discrete.\cap np.normal\(chips)',
  P_PATH='@\tida-01606_powercard_grid_tinv\.schematic1(sch_1):page1_ins14751693@discrete.\cap np.normal\(chips)',
- ROOM='I_source',
+ ROOM='I_sh3',
  PRIM_FILE='.\pstchip.dat',
  SECTION='';
 
 PART_NAME
  C731 'CAP NP_SNPD0805_MODIFIED_100P 0805 25V':
- ROOM='I_source';
+ ROOM='I_sh3';
 
 SECTION_NUMBER 1
  '@TIDA-01606_POWERCARD_GRID_TINV.SCHEMATIC1(SCH_1):INS14751899@DISCRETE.CAP NP.NORMAL(CHIPS)':
  C_PATH='@\tida-01606_powercard_grid_tinv\.schematic1(sch_1):ins14751899@discrete.\cap np.normal\(chips)',
  P_PATH='@\tida-01606_powercard_grid_tinv\.schematic1(sch_1):page1_ins14751899@discrete.\cap np.normal\(chips)',
- ROOM='I_source',
+ ROOM='I_sh3',
  PRIM_FILE='.\pstchip.dat',
  SECTION='';
 
@@ -1012,18 +1012,6 @@ SECTION_NUMBER 1
  C_PATH='@\tida-01606_powercard_grid_tinv\.schematic1(sch_1):ins14682664@discrete.\capacitor non-pol.normal\(chips)',
  P_PATH='@\tida-01606_powercard_grid_tinv\.schematic1(sch_1):page1_ins14682664@discrete.\capacitor non-pol.normal\(chips)',
  ROOM='pic_pic',
- PRIM_FILE='.\pstchip.dat',
- SECTION='';
-
-PART_NAME
- C89 'CAP_CAP200_220U 50V 105C TH':
- ROOM='24Vcc3_smps';
-
-SECTION_NUMBER 1
- '@TIDA-01606_POWERCARD_GRID_TINV.SCHEMATIC1(SCH_1):INS14761763@DISCRETE.CAP.NORMAL(CHIPS)':
- C_PATH='@\tida-01606_powercard_grid_tinv\.schematic1(sch_1):ins14761763@discrete.\cap.normal\(chips)',
- P_PATH='@\tida-01606_powercard_grid_tinv\.schematic1(sch_1):page1_ins14761763@discrete.\cap.normal\(chips)',
- ROOM='24Vcc3_smps',
  PRIM_FILE='.\pstchip.dat',
  SECTION='';
 
@@ -1243,13 +1231,13 @@ SECTION_NUMBER 1
 
 PART_NAME
  J182 'CON MC4_0_SOIC127P1150X280-8N_ISO_OPAMP_AMC1302 SOIC8_DWV':
- ROOM='I_source';
+ ROOM='I_sh_A';
 
 SECTION_NUMBER 1
  '@TIDA-01606_POWERCARD_GRID_TINV.SCHEMATIC1(SCH_1):INS14737330@SPCMV3.CON MC4_0.NORMAL(CHIPS)':
  C_PATH='@\tida-01606_powercard_grid_tinv\.schematic1(sch_1):ins14737330@spcmv3.\con mc4_0.normal\(chips)',
  P_PATH='@\tida-01606_powercard_grid_tinv\.schematic1(sch_1):page1_ins14737330@spcmv3.\con mc4_0.normal\(chips)',
- ROOM='I_source',
+ ROOM='I_sh_A',
  PRIM_FILE='.\pstchip.dat',
  SECTION='';
 
@@ -1400,30 +1388,6 @@ SECTION_NUMBER 1
  SECTION='';
 
 PART_NAME
- J33 'CON2_2_CUI_PJ-002AH-SMT-TR_PJ-002AH-SMT-TR':
- ROOM='InputPowe_smps';
-
-SECTION_NUMBER 1
- '@TIDA-01606_POWERCARD_GRID_TINV.SCHEMATIC1(SCH_1):INS14761691@TIDA01606_POWERCARD_0.CON2_2.NORMAL(CHIPS)':
- C_PATH='@\tida-01606_powercard_grid_tinv\.schematic1(sch_1):ins14761691@tida01606_powercard_0.\con2_2.normal\(chips)',
- P_PATH='@\tida-01606_powercard_grid_tinv\.schematic1(sch_1):page1_ins14761691@tida01606_powercard_0.\con2_2.normal\(chips)',
- ROOM='InputPowe_smps',
- PRIM_FILE='.\pstchip.dat',
- SECTION='';
-
-PART_NAME
- J34 'CON2_SIP_2PIN_BERGSTRIP_61300211121':
- ROOM='InputPowe_smps';
-
-SECTION_NUMBER 1
- '@TIDA-01606_POWERCARD_GRID_TINV.SCHEMATIC1(SCH_1):INS14761787@CONNECTOR.CON2.NORMAL(CHIPS)':
- C_PATH='@\tida-01606_powercard_grid_tinv\.schematic1(sch_1):ins14761787@connector.\con2.normal\(chips)',
- P_PATH='@\tida-01606_powercard_grid_tinv\.schematic1(sch_1):page1_ins14761787@connector.\con2.normal\(chips)',
- ROOM='InputPowe_smps',
- PRIM_FILE='.\pstchip.dat',
- SECTION='';
-
-PART_NAME
  J35 'CON2_SIP_2PIN_BERGSTRIP_CON2':
  ROOM='InputPowe_smps';
 
@@ -1505,25 +1469,25 @@ SECTION_NUMBER 1
 
 PART_NAME
  J614 'CON MC4_0_SOIC127P1150X280-8N_ISO_OPAMP_AMC1302 SOIC8_DWV':
- ROOM='I_source';
+ ROOM='I_sh2';
 
 SECTION_NUMBER 1
  '@TIDA-01606_POWERCARD_GRID_TINV.SCHEMATIC1(SCH_1):INS14747241@SPCMV3.CON MC4_0.NORMAL(CHIPS)':
  C_PATH='@\tida-01606_powercard_grid_tinv\.schematic1(sch_1):ins14747241@spcmv3.\con mc4_0.normal\(chips)',
  P_PATH='@\tida-01606_powercard_grid_tinv\.schematic1(sch_1):page1_ins14747241@spcmv3.\con mc4_0.normal\(chips)',
- ROOM='I_source',
+ ROOM='I_sh2',
  PRIM_FILE='.\pstchip.dat',
  SECTION='';
 
 PART_NAME
  J615 'CON MC4_0_SOIC127P1150X280-8N_ISO_OPAMP_AMC1302 SOIC8_DWV':
- ROOM='I_source';
+ ROOM='I_sh3';
 
 SECTION_NUMBER 1
  '@TIDA-01606_POWERCARD_GRID_TINV.SCHEMATIC1(SCH_1):INS14751825@SPCMV3.CON MC4_0.NORMAL(CHIPS)':
  C_PATH='@\tida-01606_powercard_grid_tinv\.schematic1(sch_1):ins14751825@spcmv3.\con mc4_0.normal\(chips)',
  P_PATH='@\tida-01606_powercard_grid_tinv\.schematic1(sch_1):page1_ins14751825@spcmv3.\con mc4_0.normal\(chips)',
- ROOM='I_source',
+ ROOM='I_sh3',
  PRIM_FILE='.\pstchip.dat',
  SECTION='';
 
@@ -1618,18 +1582,6 @@ SECTION_NUMBER 1
  C_PATH='@\tida-01606_powercard_grid_tinv\.schematic1(sch_1):ins14709392@connector.\con2.normal\(chips)',
  P_PATH='@\tida-01606_powercard_grid_tinv\.schematic1(sch_1):page1_ins14709392@connector.\con2.normal\(chips)',
  ROOM='smps',
- PRIM_FILE='.\pstchip.dat',
- SECTION='';
-
-PART_NAME
- J8 'CON2_SIP_2PIN_BERGSTRIP_CON2':
- ROOM='InputPowe_smps';
-
-SECTION_NUMBER 1
- '@TIDA-01606_POWERCARD_GRID_TINV.SCHEMATIC1(SCH_1):INS14690835@CONNECTOR.CON2.NORMAL(CHIPS)':
- C_PATH='@\tida-01606_powercard_grid_tinv\.schematic1(sch_1):ins14690835@connector.\con2.normal\(chips)',
- P_PATH='@\tida-01606_powercard_grid_tinv\.schematic1(sch_1):page1_ins14690835@connector.\con2.normal\(chips)',
- ROOM='InputPowe_smps',
  PRIM_FILE='.\pstchip.dat',
  SECTION='';
 
@@ -1773,37 +1725,37 @@ SECTION_NUMBER 1
 
 PART_NAME
  L25 'INDUCTOR_SMR0805_10E 0805':
- ROOM='I_source';
+ ROOM='I_sh_A';
 
 SECTION_NUMBER 1
  '@TIDA-01606_POWERCARD_GRID_TINV.SCHEMATIC1(SCH_1):INS14739346@DISCRETE.INDUCTOR.NORMAL(CHIPS)':
  C_PATH='@\tida-01606_powercard_grid_tinv\.schematic1(sch_1):ins14739346@discrete.\inductor.normal\(chips)',
  P_PATH='@\tida-01606_powercard_grid_tinv\.schematic1(sch_1):page1_ins14739346@discrete.\inductor.normal\(chips)',
- ROOM='I_source',
+ ROOM='I_sh_A',
  PRIM_FILE='.\pstchip.dat',
  SECTION='';
 
 PART_NAME
  L26 'INDUCTOR_SMR0805_10E 0805':
- ROOM='I_source';
+ ROOM='I_sh2';
 
 SECTION_NUMBER 1
  '@TIDA-01606_POWERCARD_GRID_TINV.SCHEMATIC1(SCH_1):INS14739642@DISCRETE.INDUCTOR.NORMAL(CHIPS)':
  C_PATH='@\tida-01606_powercard_grid_tinv\.schematic1(sch_1):ins14739642@discrete.\inductor.normal\(chips)',
  P_PATH='@\tida-01606_powercard_grid_tinv\.schematic1(sch_1):page1_ins14739642@discrete.\inductor.normal\(chips)',
- ROOM='I_source',
+ ROOM='I_sh2',
  PRIM_FILE='.\pstchip.dat',
  SECTION='';
 
 PART_NAME
  L27 'INDUCTOR_SMR0805_10E 0805':
- ROOM='I_source';
+ ROOM='I_sh3';
 
 SECTION_NUMBER 1
  '@TIDA-01606_POWERCARD_GRID_TINV.SCHEMATIC1(SCH_1):INS14739938@DISCRETE.INDUCTOR.NORMAL(CHIPS)':
  C_PATH='@\tida-01606_powercard_grid_tinv\.schematic1(sch_1):ins14739938@discrete.\inductor.normal\(chips)',
  P_PATH='@\tida-01606_powercard_grid_tinv\.schematic1(sch_1):page1_ins14739938@discrete.\inductor.normal\(chips)',
- ROOM='I_source',
+ ROOM='I_sh3',
  PRIM_FILE='.\pstchip.dat',
  SECTION='';
 
@@ -1976,6 +1928,42 @@ SECTION_NUMBER 1
  SECTION='';
 
 PART_NAME
+ L40 'INDUCTOR_SMR0805_10E 0805':
+ ROOM='I_sh_A';
+
+SECTION_NUMBER 1
+ '@TIDA-01606_POWERCARD_GRID_TINV.SCHEMATIC1(SCH_1):INS14846949@DISCRETE.INDUCTOR.NORMAL(CHIPS)':
+ C_PATH='@\tida-01606_powercard_grid_tinv\.schematic1(sch_1):ins14846949@discrete.\inductor.normal\(chips)',
+ P_PATH='@\tida-01606_powercard_grid_tinv\.schematic1(sch_1):page1_ins14846949@discrete.\inductor.normal\(chips)',
+ ROOM='I_sh_A',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ L41 'INDUCTOR_SMR0805_10E 0805':
+ ROOM='I_sh2';
+
+SECTION_NUMBER 1
+ '@TIDA-01606_POWERCARD_GRID_TINV.SCHEMATIC1(SCH_1):INS14847283@DISCRETE.INDUCTOR.NORMAL(CHIPS)':
+ C_PATH='@\tida-01606_powercard_grid_tinv\.schematic1(sch_1):ins14847283@discrete.\inductor.normal\(chips)',
+ P_PATH='@\tida-01606_powercard_grid_tinv\.schematic1(sch_1):page1_ins14847283@discrete.\inductor.normal\(chips)',
+ ROOM='I_sh2',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ L42 'INDUCTOR_SMR0805_10E 0805':
+ ROOM='I_sh3';
+
+SECTION_NUMBER 1
+ '@TIDA-01606_POWERCARD_GRID_TINV.SCHEMATIC1(SCH_1):INS14847463@DISCRETE.INDUCTOR.NORMAL(CHIPS)':
+ C_PATH='@\tida-01606_powercard_grid_tinv\.schematic1(sch_1):ins14847463@discrete.\inductor.normal\(chips)',
+ P_PATH='@\tida-01606_powercard_grid_tinv\.schematic1(sch_1):page1_ins14847463@discrete.\inductor.normal\(chips)',
+ ROOM='I_sh3',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
  L5 'INDUCTOR_CONN2_HIGHAMP_340UH':
  ROOM='supply_gprs';
 
@@ -2011,37 +1999,37 @@ SECTION_NUMBER 1
 
 PART_NAME
  PS1 'B0505S-1WR3_0_B0505S1WR_REV1_B0505S-1WR3':
- ROOM='I_source';
+ ROOM='I_sh_A';
 
 SECTION_NUMBER 1
  '@TIDA-01606_POWERCARD_GRID_TINV.SCHEMATIC1(SCH_1):INS14739362@SEMIKRON_CONTROL_AND_SENSING_CARD.B0505S-1WR3_0.NORMAL(CHIPS)':
  C_PATH='@\tida-01606_powercard_grid_tinv\.schematic1(sch_1):ins14739362@semikron_control_and_sensing_card.\b0505s-1wr3_0.normal\(chips)',
  P_PATH='@\tida-01606_powercard_grid_tinv\.schematic1(sch_1):page1_ins14739362@semikron_control_and_sensing_card.\b0505s-1wr3_0.normal\(chips)',
- ROOM='I_source',
+ ROOM='I_sh_A',
  PRIM_FILE='.\pstchip.dat',
  SECTION='';
 
 PART_NAME
  PS2 'B0505S-1WR3_0_B0505S1WR_REV1_B0505S-1WR3':
- ROOM='I_source';
+ ROOM='I_sh2';
 
 SECTION_NUMBER 1
  '@TIDA-01606_POWERCARD_GRID_TINV.SCHEMATIC1(SCH_1):INS14739658@SEMIKRON_CONTROL_AND_SENSING_CARD.B0505S-1WR3_0.NORMAL(CHIPS)':
  C_PATH='@\tida-01606_powercard_grid_tinv\.schematic1(sch_1):ins14739658@semikron_control_and_sensing_card.\b0505s-1wr3_0.normal\(chips)',
  P_PATH='@\tida-01606_powercard_grid_tinv\.schematic1(sch_1):page1_ins14739658@semikron_control_and_sensing_card.\b0505s-1wr3_0.normal\(chips)',
- ROOM='I_source',
+ ROOM='I_sh2',
  PRIM_FILE='.\pstchip.dat',
  SECTION='';
 
 PART_NAME
  PS3 'B0505S-1WR3_0_B0505S1WR_REV1_B0505S-1WR3':
- ROOM='I_source';
+ ROOM='I_sh3';
 
 SECTION_NUMBER 1
  '@TIDA-01606_POWERCARD_GRID_TINV.SCHEMATIC1(SCH_1):INS14739954@SEMIKRON_CONTROL_AND_SENSING_CARD.B0505S-1WR3_0.NORMAL(CHIPS)':
  C_PATH='@\tida-01606_powercard_grid_tinv\.schematic1(sch_1):ins14739954@semikron_control_and_sensing_card.\b0505s-1wr3_0.normal\(chips)',
  P_PATH='@\tida-01606_powercard_grid_tinv\.schematic1(sch_1):page1_ins14739954@semikron_control_and_sensing_card.\b0505s-1wr3_0.normal\(chips)',
- ROOM='I_source',
+ ROOM='I_sh3',
  PRIM_FILE='.\pstchip.dat',
  SECTION='';
 
@@ -3763,25 +3751,25 @@ SECTION_NUMBER 1
 
 PART_NAME
  R793 'RESISTOR_RES0603_105E 0603 1%':
- ROOM='pic_pic';
+ ROOM='I_sh_A';
 
 SECTION_NUMBER 1
  '@TIDA-01606_POWERCARD_GRID_TINV.SCHEMATIC1(SCH_1):INS14742033@DISCRETE.RESISTOR.NORMAL(CHIPS)':
  C_PATH='@\tida-01606_powercard_grid_tinv\.schematic1(sch_1):ins14742033@discrete.\resistor.normal\(chips)',
  P_PATH='@\tida-01606_powercard_grid_tinv\.schematic1(sch_1):page1_ins14742033@discrete.\resistor.normal\(chips)',
- ROOM='pic_pic',
+ ROOM='I_sh_A',
  PRIM_FILE='.\pstchip.dat',
  SECTION='';
 
 PART_NAME
  R795 'RESISTOR_RES0603_105E 0603 1%':
- ROOM='pic_pic';
+ ROOM='I_sh2';
 
 SECTION_NUMBER 1
  '@TIDA-01606_POWERCARD_GRID_TINV.SCHEMATIC1(SCH_1):INS14747137@DISCRETE.RESISTOR.NORMAL(CHIPS)':
  C_PATH='@\tida-01606_powercard_grid_tinv\.schematic1(sch_1):ins14747137@discrete.\resistor.normal\(chips)',
  P_PATH='@\tida-01606_powercard_grid_tinv\.schematic1(sch_1):page1_ins14747137@discrete.\resistor.normal\(chips)',
- ROOM='pic_pic',
+ ROOM='I_sh2',
  PRIM_FILE='.\pstchip.dat',
  SECTION='';
 
@@ -3811,13 +3799,13 @@ SECTION_NUMBER 1
 
 PART_NAME
  R803 'RESISTOR_RES0603_105E 0603 1%':
- ROOM='pic_pic';
+ ROOM='I_sh3';
 
 SECTION_NUMBER 1
  '@TIDA-01606_POWERCARD_GRID_TINV.SCHEMATIC1(SCH_1):INS14751721@DISCRETE.RESISTOR.NORMAL(CHIPS)':
  C_PATH='@\tida-01606_powercard_grid_tinv\.schematic1(sch_1):ins14751721@discrete.\resistor.normal\(chips)',
  P_PATH='@\tida-01606_powercard_grid_tinv\.schematic1(sch_1):page1_ins14751721@discrete.\resistor.normal\(chips)',
- ROOM='pic_pic',
+ ROOM='I_sh3',
  PRIM_FILE='.\pstchip.dat',
  SECTION='';
 

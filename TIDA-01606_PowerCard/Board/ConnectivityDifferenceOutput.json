@@ -1,0 +1,1490 @@
+{
+	"Gate Swap" : [],
+	"Ref Des" : [],
+	"Pin Swap" : [],
+	"Component Property" : [],
+	"Net Property" : [],
+	"Pin Property" : [],
+	"Component" : [
+		{
+			"Name" : "C1",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins14674476@discrete.\\capacitor non-pol.normal\\(chips)",
+			"Logical" : "CAPACITOR NON-POL_BOXCAPACITOR1",
+			"Physical" : "CAPACITOR NON-POL_BOXCAPACITOR15MM_0.15UF 630V TH"
+		},
+		{
+			"Name" : "C10",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins14675508@discrete.\\capacitor non-pol.normal\\(chips)",
+			"Logical" : "CAPACITOR NON-POL_BOXCAP_37_5MM",
+			"Physical" : "CAPACITOR NON-POL_BOXCAP_37_5MM_10UF TH"
+		},
+		{
+			"Name" : "C11",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins14674396@discrete.\\capacitor non-pol.normal\\(chips)",
+			"Logical" : "CAPACITOR NON-POL_BOXCAPACITOR1",
+			"Physical" : "CAPACITOR NON-POL_BOXCAPACITOR15MM_0.15UF 630V TH"
+		},
+		{
+			"Name" : "C12",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins14675112@discrete.\\capacitor non-pol.normal\\(chips)",
+			"Logical" : "CAPACITOR NON-POL_BOXCAPACITOR1",
+			"Physical" : "CAPACITOR NON-POL_BOXCAPACITOR15MM_0.15UF 630V TH"
+		},
+		{
+			"Name" : "C120",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins14673948@discrete.\\capacitor non-pol.normal\\(chips)",
+			"Logical" : "CAPACITOR NON-POL_BOXCAPACITO_1",
+			"Physical" : "CAPACITOR NON-POL_BOXCAPACITOR10MM_0.068UF 630V TH"
+		},
+		{
+			"Name" : "C121",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins14674852@discrete.\\capacitor non-pol.normal\\(chips)",
+			"Logical" : "CAPACITOR NON-POL_BOXCAPACITO_1",
+			"Physical" : "CAPACITOR NON-POL_BOXCAPACITOR10MM_0.068UF 630V TH"
+		},
+		{
+			"Name" : "C122",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins14675568@discrete.\\capacitor non-pol.normal\\(chips)",
+			"Logical" : "CAPACITOR NON-POL_BOXCAPACITO_1",
+			"Physical" : "CAPACITOR NON-POL_BOXCAPACITOR10MM_0.068UF 630V TH"
+		},
+		{
+			"Name" : "C127",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins14673752@discrete.\\capacitor non-pol.normal\\(chips)",
+			"Logical" : "CAPACITOR NON-POL_BOXCAPACITO_1",
+			"Physical" : "CAPACITOR NON-POL_BOXCAPACITOR10MM_0.068UF 630V TH"
+		},
+		{
+			"Name" : "C128",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins14674544@discrete.\\capacitor non-pol.normal\\(chips)",
+			"Logical" : "CAPACITOR NON-POL_BOXCAPACITO_1",
+			"Physical" : "CAPACITOR NON-POL_BOXCAPACITOR10MM_0.068UF 630V TH"
+		},
+		{
+			"Name" : "C129",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins14675352@discrete.\\capacitor non-pol.normal\\(chips)",
+			"Logical" : "CAPACITOR NON-POL_BOXCAPACITO_1",
+			"Physical" : "CAPACITOR NON-POL_BOXCAPACITOR10MM_0.068UF 630V TH"
+		},
+		{
+			"Name" : "C13",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins14675488@discrete.\\capacitor non-pol.normal\\(chips)",
+			"Logical" : "CAPACITOR NON-POL_BOXCAPACITOR1",
+			"Physical" : "CAPACITOR NON-POL_BOXCAPACITOR15MM_0.15UF 630V TH"
+		},
+		{
+			"Name" : "C130",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins14676116@discrete.\\capacitor non-pol.normal\\(chips)",
+			"Logical" : "CAPACITOR NON-POL_CAP400_2200PF",
+			"Physical" : "CAPACITOR NON-POL_CAP400_2200PF 3KV 20%"
+		},
+		{
+			"Name" : "C133",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins14682544@discrete.\\capacitor non-pol.normal\\(chips)",
+			"Logical" : "CAPACITOR NON-POL_RES0603_100PF",
+			"Physical" : "CAPACITOR NON-POL_RES0603_100PF 0603 50V"
+		},
+		{
+			"Name" : "C134",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins14682140@discrete.\\capacitor non-pol.normal\\(chips)",
+			"Logical" : "CAPACITOR NON-POL_RES0603_0.1UF",
+			"Physical" : "CAPACITOR NON-POL_RES0603_0.1UF 0603 25V"
+		},
+		{
+			"Name" : "C135",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins14681456@discrete.\\capacitor non-pol.normal\\(chips)",
+			"Logical" : "CAPACITOR NON-POL_RES0603_0.1UF",
+			"Physical" : "CAPACITOR NON-POL_RES0603_0.1UF 0603 25V"
+		},
+		{
+			"Name" : "C2",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins14676312@discrete.\\capacitor non-pol.normal\\(chips)",
+			"Logical" : "CAPACITOR NON-POL_BOXCAPACITOR1",
+			"Physical" : "CAPACITOR NON-POL_BOXCAPACITOR15MM_0.15UF 630V TH"
+		},
+		{
+			"Name" : "C22",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins14679649@discrete.\\capacitor non-pol.normal\\(chips)",
+			"Logical" : "CAPACITOR NON-POL_SNPD1206_MODI",
+			"Physical" : "CAPACITOR NON-POL_SNPD1206_MODIFIED_10UF 1206 25V"
+		},
+		{
+			"Name" : "C23",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins14678049@discrete.\\capacitor non-pol.normal\\(chips)",
+			"Logical" : "CAPACITOR NON-POL_RES0603_0.1UF",
+			"Physical" : "CAPACITOR NON-POL_RES0603_0.1UF 0603 25V"
+		},
+		{
+			"Name" : "C24",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins14678089@discrete.\\capacitor non-pol.normal\\(chips)",
+			"Logical" : "CAPACITOR NON-POL_SNPD1206_MODI",
+			"Physical" : "CAPACITOR NON-POL_SNPD1206_MODIFIED_10UF 1206 25V"
+		},
+		{
+			"Name" : "C25",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins14678463@discrete.\\capacitor non-pol.normal\\(chips)",
+			"Logical" : "CAPACITOR NON-POL_RES0603_0.1UF",
+			"Physical" : "CAPACITOR NON-POL_RES0603_0.1UF 0603 25V"
+		},
+		{
+			"Name" : "C3",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins14674148@discrete.\\capacitor non-pol.normal\\(chips)",
+			"Logical" : "CAPACITOR NON-POL_BOXCAPACITOR1",
+			"Physical" : "CAPACITOR NON-POL_BOXCAPACITOR15MM_0.15UF 630V TH"
+		},
+		{
+			"Name" : "C31",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins14678699@discrete.\\capacitor non-pol.normal\\(chips)",
+			"Logical" : "CAPACITOR NON-POL_SNPD1206_MODI",
+			"Physical" : "CAPACITOR NON-POL_SNPD1206_MODIFIED_10UF 1206 25V"
+		},
+		{
+			"Name" : "C32",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins14679143@discrete.\\capacitor non-pol.normal\\(chips)",
+			"Logical" : "CAPACITOR NON-POL_RES0603_0.1UF",
+			"Physical" : "CAPACITOR NON-POL_RES0603_0.1UF 0603 25V"
+		},
+		{
+			"Name" : "C39",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins14762880@discrete.\\capacitor non-pol.normal\\(chips)",
+			"Logical" : "CAPACITOR NON-POL_RES0603_0.1UF",
+			"Physical" : "CAPACITOR NON-POL_RES0603_0.1UF 0603 25V"
+		},
+		{
+			"Name" : "C4",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins14675548@newbldc_board.\\capacitor pol_0.normal\\(chips)",
+			"Logical" : "CAPACITOR POL_0_CAP_B45_NCH_ELE",
+			"Physical" : "CAPACITOR POL_0_CAP_B45_NCH_ELE 120UF 600V TH"
+		},
+		{
+			"Name" : "C43",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins14761179@discrete.\\cap np.normal\\(chips)",
+			"Logical" : "CAP NP_SNPD1206_MODIFIED_10U 12",
+			"Physical" : "CAP NP_SNPD1206_MODIFIED_10U 1206 25V"
+		},
+		{
+			"Name" : "C47",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins14681556@discrete.\\capacitor non-pol.normal\\(chips)",
+			"Logical" : "CAPACITOR NON-POL_RES0603_0.1UF",
+			"Physical" : "CAPACITOR NON-POL_RES0603_0.1UF 0603 25V"
+		},
+		{
+			"Name" : "C49",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins14761211@discrete.\\cap np.normal\\(chips)",
+			"Logical" : "CAP NP_SNPD1206_MODIFIED_10U 12",
+			"Physical" : "CAP NP_SNPD1206_MODIFIED_10U 1206 25V"
+		},
+		{
+			"Name" : "C5",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins14674772@newbldc_board.\\capacitor pol_0.normal\\(chips)",
+			"Logical" : "CAPACITOR POL_0_CAP_B45_NCH_ELE",
+			"Physical" : "CAPACITOR POL_0_CAP_B45_NCH_ELE 120UF 600V TH"
+		},
+		{
+			"Name" : "C51",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins14681244@discrete.\\capacitor non-pol.normal\\(chips)",
+			"Logical" : "CAPACITOR NON-POL_RES0603_0.1UF",
+			"Physical" : "CAPACITOR NON-POL_RES0603_0.1UF 0603 25V"
+		},
+		{
+			"Name" : "C52",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins14763074@discrete.\\capacitor non-pol.normal\\(chips)",
+			"Logical" : "CAPACITOR NON-POL_RES0603_0.1UF",
+			"Physical" : "CAPACITOR NON-POL_RES0603_0.1UF 0603 25V"
+		},
+		{
+			"Name" : "C53",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins14763098@discrete.\\capacitor non-pol.normal\\(chips)",
+			"Logical" : "CAPACITOR NON-POL_RES0603_0.1UF",
+			"Physical" : "CAPACITOR NON-POL_RES0603_0.1UF 0603 25V"
+		},
+		{
+			"Name" : "C54",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins14682624@discrete.\\capacitor non-pol.normal\\(chips)",
+			"Logical" : "CAPACITOR NON-POL_RES0603_0.1UF",
+			"Physical" : "CAPACITOR NON-POL_RES0603_0.1UF 0603 25V"
+		},
+		{
+			"Name" : "C55",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins14682504@discrete.\\capacitor non-pol.normal\\(chips)",
+			"Logical" : "CAPACITOR NON-POL_RES0603_0.1UF",
+			"Physical" : "CAPACITOR NON-POL_RES0603_0.1UF 0603 25V"
+		},
+		{
+			"Name" : "C56",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins14683632@discrete.\\capacitor non-pol.normal\\(chips)",
+			"Logical" : "CAPACITOR NON-POL_RES0603_1UF 0",
+			"Physical" : "CAPACITOR NON-POL_RES0603_1UF 0603 25V"
+		},
+		{
+			"Name" : "C567",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins14737214@discrete.\\cap np.normal\\(chips)",
+			"Logical" : "CAP NP_SNPD0805_MODIFIED_0.1U 0",
+			"Physical" : "CAP NP_SNPD0805_MODIFIED_0.1U 0805 50V"
+		},
+		{
+			"Name" : "C57",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins14681224@discrete.\\capacitor non-pol.normal\\(chips)",
+			"Logical" : "CAPACITOR NON-POL_RES0603_0.1UF",
+			"Physical" : "CAPACITOR NON-POL_RES0603_0.1UF 0603 25V"
+		},
+		{
+			"Name" : "C58",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins14683308@discrete.\\capacitor non-pol.normal\\(chips)",
+			"Logical" : "CAPACITOR NON-POL_RES0603_1UF 0",
+			"Physical" : "CAPACITOR NON-POL_RES0603_1UF 0603 25V"
+		},
+		{
+			"Name" : "C59",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins14683528@discrete.\\capacitor non-pol.normal\\(chips)",
+			"Logical" : "CAPACITOR NON-POL_RES0603_0.1UF",
+			"Physical" : "CAPACITOR NON-POL_RES0603_0.1UF 0603 25V"
+		},
+		{
+			"Name" : "C6",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins14675468@newbldc_board.\\capacitor pol_0.normal\\(chips)",
+			"Logical" : "CAPACITOR POL_0_CAP_B45_NCH_ELE",
+			"Physical" : "CAPACITOR POL_0_CAP_B45_NCH_ELE 120UF 600V TH"
+		},
+		{
+			"Name" : "C60",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins14681304@discrete.\\capacitor non-pol.normal\\(chips)",
+			"Logical" : "CAPACITOR NON-POL_RES0603_0.1UF",
+			"Physical" : "CAPACITOR NON-POL_RES0603_0.1UF 0603 25V"
+		},
+		{
+			"Name" : "C603",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins14739490@discrete.\\cap np.normal\\(chips)",
+			"Logical" : "CAP NP_SNPD0805_MODIFIED_0.1U 0",
+			"Physical" : "CAP NP_SNPD0805_MODIFIED_0.1U 0805 50V"
+		},
+		{
+			"Name" : "C604",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins14739526@discrete.\\cap np.normal\\(chips)",
+			"Logical" : "CAP NP_SNPD0805_MODIFIED_1U 080",
+			"Physical" : "CAP NP_SNPD0805_MODIFIED_1U 0805 50V"
+		},
+		{
+			"Name" : "C605",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins14739546@discrete.\\cap np.normal\\(chips)",
+			"Logical" : "CAP NP_SNPD0805_MODIFIED_0.1U 0",
+			"Physical" : "CAP NP_SNPD0805_MODIFIED_0.1U 0805 50V"
+		},
+		{
+			"Name" : "C629",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins14739510@discrete.\\cap pol.normal\\(chips)",
+			"Logical" : "CAP POL_CYLD200LS125031_47UF 25",
+			"Physical" : "CAP POL_CYLD200LS125031_47UF 25V"
+		},
+		{
+			"Name" : "C63",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins14683328@discrete.\\capacitor non-pol.normal\\(chips)",
+			"Logical" : "CAPACITOR NON-POL_RES0603_0.1UF",
+			"Physical" : "CAPACITOR NON-POL_RES0603_0.1UF 0603 25V"
+		},
+		{
+			"Name" : "C632",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins14739450@discrete.\\cap pol.normal\\(chips)",
+			"Logical" : "CAP POL_CYLD200LS125031_47UF 25",
+			"Physical" : "CAP POL_CYLD200LS125031_47UF 25V"
+		},
+		{
+			"Name" : "C635",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins14737454@discrete.\\cap np.normal\\(chips)",
+			"Logical" : "CAP NP_SNPD0805_MODIFIED_100P 0",
+			"Physical" : "CAP NP_SNPD0805_MODIFIED_100P 0805 25V"
+		},
+		{
+			"Name" : "C69",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins14683208@discrete.\\capacitor non-pol.normal\\(chips)",
+			"Logical" : "CAPACITOR NON-POL_RES0603_0.1UF",
+			"Physical" : "CAPACITOR NON-POL_RES0603_0.1UF 0603 25V"
+		},
+		{
+			"Name" : "C7",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins14675908@newbldc_board.\\capacitor pol_0.normal\\(chips)",
+			"Logical" : "CAPACITOR POL_0_CAP_B45_NCH_ELE",
+			"Physical" : "CAPACITOR POL_0_CAP_B45_NCH_ELE 120UF 600V TH"
+		},
+		{
+			"Name" : "C70",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins14682180@discrete.\\capacitor non-pol.normal\\(chips)",
+			"Logical" : "CAPACITOR NON-POL_RES0603_0.1UF",
+			"Physical" : "CAPACITOR NON-POL_RES0603_0.1UF 0603 25V"
+		},
+		{
+			"Name" : "C71",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins14681344@discrete.\\capacitor non-pol.normal\\(chips)",
+			"Logical" : "CAPACITOR NON-POL_RES0603_0.1UF",
+			"Physical" : "CAPACITOR NON-POL_RES0603_0.1UF 0603 25V"
+		},
+		{
+			"Name" : "C710",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins14739466@discrete.\\cap np.normal\\(chips)",
+			"Logical" : "CAP NP_SNPD0805_MODIFIED_1U 080",
+			"Physical" : "CAP NP_SNPD0805_MODIFIED_1U 0805 50V"
+		},
+		{
+			"Name" : "C711",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins14739746@discrete.\\cap pol.normal\\(chips)",
+			"Logical" : "CAP POL_CYLD200LS125031_47UF 25",
+			"Physical" : "CAP POL_CYLD200LS125031_47UF 25V"
+		},
+		{
+			"Name" : "C712",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins14739762@discrete.\\cap np.normal\\(chips)",
+			"Logical" : "CAP NP_SNPD0805_MODIFIED_1U 080",
+			"Physical" : "CAP NP_SNPD0805_MODIFIED_1U 0805 50V"
+		},
+		{
+			"Name" : "C713",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins14739786@discrete.\\cap np.normal\\(chips)",
+			"Logical" : "CAP NP_SNPD0805_MODIFIED_0.1U 0",
+			"Physical" : "CAP NP_SNPD0805_MODIFIED_0.1U 0805 50V"
+		},
+		{
+			"Name" : "C714",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins14739806@discrete.\\cap pol.normal\\(chips)",
+			"Logical" : "CAP POL_CYLD200LS125031_47UF 25",
+			"Physical" : "CAP POL_CYLD200LS125031_47UF 25V"
+		},
+		{
+			"Name" : "C715",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins14739822@discrete.\\cap np.normal\\(chips)",
+			"Logical" : "CAP NP_SNPD0805_MODIFIED_1U 080",
+			"Physical" : "CAP NP_SNPD0805_MODIFIED_1U 0805 50V"
+		},
+		{
+			"Name" : "C716",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins14739842@discrete.\\cap np.normal\\(chips)",
+			"Logical" : "CAP NP_SNPD0805_MODIFIED_0.1U 0",
+			"Physical" : "CAP NP_SNPD0805_MODIFIED_0.1U 0805 50V"
+		},
+		{
+			"Name" : "C717",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins14740042@discrete.\\cap pol.normal\\(chips)",
+			"Logical" : "CAP POL_CYLD200LS125031_47UF 25",
+			"Physical" : "CAP POL_CYLD200LS125031_47UF 25V"
+		},
+		{
+			"Name" : "C718",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins14740058@discrete.\\cap np.normal\\(chips)",
+			"Logical" : "CAP NP_SNPD0805_MODIFIED_1U 080",
+			"Physical" : "CAP NP_SNPD0805_MODIFIED_1U 0805 50V"
+		},
+		{
+			"Name" : "C719",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins14740082@discrete.\\cap np.normal\\(chips)",
+			"Logical" : "CAP NP_SNPD0805_MODIFIED_0.1U 0",
+			"Physical" : "CAP NP_SNPD0805_MODIFIED_0.1U 0805 50V"
+		},
+		{
+			"Name" : "C72",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins14682904@discrete.\\capacitor non-pol.normal\\(chips)",
+			"Logical" : "CAPACITOR NON-POL_RES0603_0.1UF",
+			"Physical" : "CAPACITOR NON-POL_RES0603_0.1UF 0603 25V"
+		},
+		{
+			"Name" : "C720",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins14740102@discrete.\\cap pol.normal\\(chips)",
+			"Logical" : "CAP POL_CYLD200LS125031_47UF 25",
+			"Physical" : "CAP POL_CYLD200LS125031_47UF 25V"
+		},
+		{
+			"Name" : "C721",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins14740118@discrete.\\cap np.normal\\(chips)",
+			"Logical" : "CAP NP_SNPD0805_MODIFIED_1U 080",
+			"Physical" : "CAP NP_SNPD0805_MODIFIED_1U 0805 50V"
+		},
+		{
+			"Name" : "C722",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins14740138@discrete.\\cap np.normal\\(chips)",
+			"Logical" : "CAP NP_SNPD0805_MODIFIED_0.1U 0",
+			"Physical" : "CAP NP_SNPD0805_MODIFIED_0.1U 0805 50V"
+		},
+		{
+			"Name" : "C724",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins14747109@discrete.\\cap np.normal\\(chips)",
+			"Logical" : "CAP NP_SNPD0805_MODIFIED_0.1U 0",
+			"Physical" : "CAP NP_SNPD0805_MODIFIED_0.1U 0805 50V"
+		},
+		{
+			"Name" : "C725",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins14747315@discrete.\\cap np.normal\\(chips)",
+			"Logical" : "CAP NP_SNPD0805_MODIFIED_100P 0",
+			"Physical" : "CAP NP_SNPD0805_MODIFIED_100P 0805 25V"
+		},
+		{
+			"Name" : "C73",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins14675688@newbldc_board.\\capacitor pol_0.normal\\(chips)",
+			"Logical" : "CAPACITOR POL_0_CAP_B45_NCH_ELE",
+			"Physical" : "CAPACITOR POL_0_CAP_B45_NCH_ELE 120UF 600V TH"
+		},
+		{
+			"Name" : "C730",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins14751693@discrete.\\cap np.normal\\(chips)",
+			"Logical" : "CAP NP_SNPD0805_MODIFIED_0.1U 0",
+			"Physical" : "CAP NP_SNPD0805_MODIFIED_0.1U 0805 50V"
+		},
+		{
+			"Name" : "C731",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins14751899@discrete.\\cap np.normal\\(chips)",
+			"Logical" : "CAP NP_SNPD0805_MODIFIED_100P 0",
+			"Physical" : "CAP NP_SNPD0805_MODIFIED_100P 0805 25V"
+		},
+		{
+			"Name" : "C732",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins14782557@discrete.\\capacitor non-pol.normal\\(chips)",
+			"Logical" : "CAPACITOR NON-POL_RES0603_100PF",
+			"Physical" : "CAPACITOR NON-POL_RES0603_100PF 0603 50V"
+		},
+		{
+			"Name" : "C733",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins14782871@discrete.\\capacitor non-pol.normal\\(chips)",
+			"Logical" : "CAPACITOR NON-POL_RES0603_0.1UF",
+			"Physical" : "CAPACITOR NON-POL_RES0603_0.1UF 0603 25V"
+		},
+		{
+			"Name" : "C74",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins14673928@newbldc_board.\\capacitor pol_0.normal\\(chips)",
+			"Logical" : "CAPACITOR POL_0_CAP_B45_NCH_ELE",
+			"Physical" : "CAPACITOR POL_0_CAP_B45_NCH_ELE 120UF 600V TH"
+		},
+		{
+			"Name" : "C75",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins14676068@newbldc_board.\\capacitor pol_0.normal\\(chips)",
+			"Logical" : "CAPACITOR POL_0_CAP_B45_NCH_ELE",
+			"Physical" : "CAPACITOR POL_0_CAP_B45_NCH_ELE 120UF 600V TH"
+		},
+		{
+			"Name" : "C76",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins14675056@newbldc_board.\\capacitor pol_0.normal\\(chips)",
+			"Logical" : "CAPACITOR POL_0_CAP_B45_NCH_ELE",
+			"Physical" : "CAPACITOR POL_0_CAP_B45_NCH_ELE 120UF 600V TH"
+		},
+		{
+			"Name" : "C8",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins14674416@discrete.\\capacitor non-pol.normal\\(chips)",
+			"Logical" : "CAPACITOR NON-POL_BOXCAP_37_5MM",
+			"Physical" : "CAPACITOR NON-POL_BOXCAP_37_5MM_10UF TH"
+		},
+		{
+			"Name" : "C83",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins14683088@discrete.\\capacitor non-pol.normal\\(chips)",
+			"Logical" : "CAPACITOR NON-POL_RES0603_100PF",
+			"Physical" : "CAPACITOR NON-POL_RES0603_100PF 0603 50V"
+		},
+		{
+			"Name" : "C84",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins14682312@discrete.\\capacitor non-pol.normal\\(chips)",
+			"Logical" : "CAPACITOR NON-POL_RES0603_100PF",
+			"Physical" : "CAPACITOR NON-POL_RES0603_100PF 0603 50V"
+		},
+		{
+			"Name" : "C85",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins14681968@discrete.\\capacitor non-pol.normal\\(chips)",
+			"Logical" : "CAPACITOR NON-POL_RES0603_100PF",
+			"Physical" : "CAPACITOR NON-POL_RES0603_100PF 0603 50V"
+		},
+		{
+			"Name" : "C86",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins14683108@discrete.\\capacitor non-pol.normal\\(chips)",
+			"Logical" : "CAPACITOR NON-POL_RES0603_100PF",
+			"Physical" : "CAPACITOR NON-POL_RES0603_100PF 0603 50V"
+		},
+		{
+			"Name" : "C87",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins14681808@discrete.\\capacitor non-pol.normal\\(chips)",
+			"Logical" : "CAPACITOR NON-POL_RES0603_100PF",
+			"Physical" : "CAPACITOR NON-POL_RES0603_100PF 0603 50V"
+		},
+		{
+			"Name" : "C88",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins14682664@discrete.\\capacitor non-pol.normal\\(chips)",
+			"Logical" : "CAPACITOR NON-POL_RES0603_100PF",
+			"Physical" : "CAPACITOR NON-POL_RES0603_100PF 0603 50V"
+		},
+		{
+			"Name" : "C9",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins14675132@discrete.\\capacitor non-pol.normal\\(chips)",
+			"Logical" : "CAPACITOR NON-POL_BOXCAP_37_5MM",
+			"Physical" : "CAPACITOR NON-POL_BOXCAP_37_5MM_10UF TH"
+		},
+		{
+			"Name" : "C90",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins14762770@discrete.\\capacitor non-pol.normal\\(chips)",
+			"Logical" : "CAPACITOR NON-POL_RES0603_0.1UF",
+			"Physical" : "CAPACITOR NON-POL_RES0603_0.1UF 0603 25V"
+		},
+		{
+			"Name" : "D1",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins14674972@discrete.\\diode zener.normal\\(chips)",
+			"Logical" : "DIODE ZENER_DO214_REV3_BZV55C15",
+			"Physical" : "DIODE ZENER_DO214_REV3_BZV55C15-TP 15V"
+		},
+		{
+			"Name" : "D19",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins14761159@discrete.\\led.normal\\(chips)",
+			"Logical" : "LED_LED0603_LED GREEN 150060VS5",
+			"Physical" : "LED_LED0603_LED GREEN 150060VS55040"
+		},
+		{
+			"Name" : "D2",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins14673852@discrete.\\diode zener.normal\\(chips)",
+			"Logical" : "DIODE ZENER_DO214_REV3_BZV55C15",
+			"Physical" : "DIODE ZENER_DO214_REV3_BZV55C15-TP 15V"
+		},
+		{
+			"Name" : "D4",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins14674312@discrete.\\diode zener.normal\\(chips)",
+			"Logical" : "DIODE ZENER_DO214_REV3_BZV55C15",
+			"Physical" : "DIODE ZENER_DO214_REV3_BZV55C15-TP 15V"
+		},
+		{
+			"Name" : "D5",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins14675220@discrete.\\diode zener.normal\\(chips)",
+			"Logical" : "DIODE ZENER_DO214_REV3_BZV55C15",
+			"Physical" : "DIODE ZENER_DO214_REV3_BZV55C15-TP 15V"
+		},
+		{
+			"Name" : "J12",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins14690855@tida01606_powercard_0.\\header 4_0.normal\\(chips)",
+			"Logical" : "HEADER 4_0_NPTC041KFXC-RC_4PIN_",
+			"Physical" : "HEADER 4_0_NPTC041KFXC-RC_4PIN_NPTC041KFXC-RC"
+		},
+		{
+			"Name" : "J14",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins14690287@tida01606_powercard_0.\\header 4_0.normal\\(chips)",
+			"Logical" : "HEADER 4_0_NPTC041KFXC-RC_4PIN_",
+			"Physical" : "HEADER 4_0_NPTC041KFXC-RC_4PIN_NPTC041KFXC-RC"
+		},
+		{
+			"Name" : "J15",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins14690155@tida01606_powercard_0.\\header 4_0.normal\\(chips)",
+			"Logical" : "HEADER 4_0_NPTC041KFXC-RC_4PIN_",
+			"Physical" : "HEADER 4_0_NPTC041KFXC-RC_4PIN_NPTC041KFXC-RC"
+		},
+		{
+			"Name" : "J16",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins14691963@tida01606_powercard_0.\\header 4_0.normal\\(chips)",
+			"Logical" : "HEADER 4_0_NPTC041KFXC-RC_4PIN_",
+			"Physical" : "HEADER 4_0_NPTC041KFXC-RC_4PIN_NPTC041KFXC-RC"
+		},
+		{
+			"Name" : "J17",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins14690315@tida01606_powercard_0.\\header 4_0.normal\\(chips)",
+			"Logical" : "HEADER 4_0_NPTC041KFXC-RC_4PIN_",
+			"Physical" : "HEADER 4_0_NPTC041KFXC-RC_4PIN_NPTC041KFXC-RC"
+		},
+		{
+			"Name" : "J18",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins14690259@tida01606_powercard_0.\\header 4_0.normal\\(chips)",
+			"Logical" : "HEADER 4_0_NPTC041KFXC-RC_4PIN_",
+			"Physical" : "HEADER 4_0_NPTC041KFXC-RC_4PIN_NPTC041KFXC-RC"
+		},
+		{
+			"Name" : "J182",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins14737330@spcmv3.\\con mc4_0.normal\\(chips)",
+			"Logical" : "CON MC4_0_SOIC127P1150X280-8N_I",
+			"Physical" : "CON MC4_0_SOIC127P1150X280-8N_ISO_OPAMP_AMC1302 SOIC8_DWV"
+		},
+		{
+			"Name" : "J19",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins14690067@tida01606_powercard_0.\\header 4_0.normal\\(chips)",
+			"Logical" : "HEADER 4_0_NPTC041KFXC-RC_4PIN_",
+			"Physical" : "HEADER 4_0_NPTC041KFXC-RC_4PIN_NPTC041KFXC-RC"
+		},
+		{
+			"Name" : "J20",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins14691263@tida01606_powercard_0.\\header 4_0.normal\\(chips)",
+			"Logical" : "HEADER 4_0_NPTC041KFXC-RC_4PIN_",
+			"Physical" : "HEADER 4_0_NPTC041KFXC-RC_4PIN_NPTC041KFXC-RC"
+		},
+		{
+			"Name" : "J21",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins14691079@tida01606_powercard_0.\\header 4_0.normal\\(chips)",
+			"Logical" : "HEADER 4_0_NPTC041KFXC-RC_4PIN_",
+			"Physical" : "HEADER 4_0_NPTC041KFXC-RC_4PIN_NPTC041KFXC-RC"
+		},
+		{
+			"Name" : "J22",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins14690923@tida01606_powercard_0.\\header 4_0.normal\\(chips)",
+			"Logical" : "HEADER 4_0_NPTC041KFXC-RC_4PIN_",
+			"Physical" : "HEADER 4_0_NPTC041KFXC-RC_4PIN_NPTC041KFXC-RC"
+		},
+		{
+			"Name" : "J23",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins14690731@tida01606_powercard_0.\\header 8x2_0.normal\\(chips)",
+			"Logical" : "HEADER 8X2_0_NPTC082KFMS-RC_NPT",
+			"Physical" : "HEADER 8X2_0_NPTC082KFMS-RC_NPTC082KFMS-RC"
+		},
+		{
+			"Name" : "J24",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins14691107@tida01606_powercard_0.\\header 8x2_0.normal\\(chips)",
+			"Logical" : "HEADER 8X2_0_NPTC082KFMS-RC_NPT",
+			"Physical" : "HEADER 8X2_0_NPTC082KFMS-RC_NPTC082KFMS-RC"
+		},
+		{
+			"Name" : "J25",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins14692031@tida01606_powercard_0.\\header 8x2_0.normal\\(chips)",
+			"Logical" : "HEADER 8X2_0_NPTC082KFMS-RC_NPT",
+			"Physical" : "HEADER 8X2_0_NPTC082KFMS-RC_NPTC082KFMS-RC"
+		},
+		{
+			"Name" : "J26",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins14767726@connector.\\con2.normal\\(chips)",
+			"Logical" : "CON2_SIP_2PIN_BERGSTRIP_6130021",
+			"Physical" : "CON2_SIP_2PIN_BERGSTRIP_61300211121"
+		},
+		{
+			"Name" : "J28",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins14767892@connector.\\con2.normal\\(chips)",
+			"Logical" : "CON2_SIP_2PIN_BERGSTRIP_6130021",
+			"Physical" : "CON2_SIP_2PIN_BERGSTRIP_61300211121"
+		},
+		{
+			"Name" : "J38",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins14690807@tida01606_powercard_0.\\header 4_1.normal\\(chips)",
+			"Logical" : "HEADER 4_1_JUMPER4MODIFIED_PPTC",
+			"Physical" : "HEADER 4_1_JUMPER4MODIFIED_PPTC041LFBN-RC"
+		},
+		{
+			"Name" : "J614",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins14747241@spcmv3.\\con mc4_0.normal\\(chips)",
+			"Logical" : "CON MC4_0_SOIC127P1150X280-8N_I",
+			"Physical" : "CON MC4_0_SOIC127P1150X280-8N_ISO_OPAMP_AMC1302 SOIC8_DWV"
+		},
+		{
+			"Name" : "J615",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins14751825@spcmv3.\\con mc4_0.normal\\(chips)",
+			"Logical" : "CON MC4_0_SOIC127P1150X280-8N_I",
+			"Physical" : "CON MC4_0_SOIC127P1150X280-8N_ISO_OPAMP_AMC1302 SOIC8_DWV"
+		},
+		{
+			"Name" : "J7",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins14691355@tida01606_powercard_0.\\header 4_0.normal\\(chips)",
+			"Logical" : "HEADER 4_0_NPTC041KFXC-RC_4PIN_",
+			"Physical" : "HEADER 4_0_NPTC041KFXC-RC_4PIN_NPTC041KFXC-RC"
+		},
+		{
+			"Name" : "J9",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins14690991@tida01606_powercard_0.\\header 4_0.normal\\(chips)",
+			"Logical" : "HEADER 4_0_NPTC041KFXC-RC_4PIN_",
+			"Physical" : "HEADER 4_0_NPTC041KFXC-RC_4PIN_NPTC041KFXC-RC"
+		},
+		{
+			"Name" : "K1",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins14676088@tida01606_powercard_0.\\con2_3.normal\\(chips)",
+			"Logical" : "CON2_3_RELAY_T9AS1D12-15_REV1_T",
+			"Physical" : "CON2_3_RELAY_T9AS1D12-15_REV1_T9AS1D12-15"
+		},
+		{
+			"Name" : "K2",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins14674168@tida01606_powercard_0.\\con2_3.normal\\(chips)",
+			"Logical" : "CON2_3_RELAY_T9AS1D12-15_REV1_T",
+			"Physical" : "CON2_3_RELAY_T9AS1D12-15_REV1_T9AS1D12-15"
+		},
+		{
+			"Name" : "K3",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins14675372@tida01606_powercard_0.\\con2_3.normal\\(chips)",
+			"Logical" : "CON2_3_RELAY_T9AS1D12-15_REV1_T",
+			"Physical" : "CON2_3_RELAY_T9AS1D12-15_REV1_T9AS1D12-15"
+		},
+		{
+			"Name" : "K4",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins14675844@tida01606_powercard_0.\\con2_3.normal\\(chips)",
+			"Logical" : "CON2_3_RELAY_T9AS1D12-15_REV1_T",
+			"Physical" : "CON2_3_RELAY_T9AS1D12-15_REV1_T9AS1D12-15"
+		},
+		{
+			"Name" : "L2",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins14674108@discrete.\\inductor.normal\\(chips)",
+			"Logical" : "INDUCTOR_CONN2_HIGHAMP_0.006E 1",
+			"Physical" : "INDUCTOR_CONN2_HIGHAMP_0.006E 15A"
+		},
+		{
+			"Name" : "L4",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins14674724@discrete.\\inductor.normal\\(chips)",
+			"Logical" : "INDUCTOR_CONN2_HIGHAMP_0.006E 1",
+			"Physical" : "INDUCTOR_CONN2_HIGHAMP_0.006E 15A"
+		},
+		{
+			"Name" : "L6",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins14675260@discrete.\\inductor.normal\\(chips)",
+			"Logical" : "INDUCTOR_CONN2_HIGHAMP_0.006E 1",
+			"Physical" : "INDUCTOR_CONN2_HIGHAMP_0.006E 15A"
+		},
+		{
+			"Name" : "PS1",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins14739362@semikron_control_and_sensing_card.\\b0505s-1wr3_0.normal\\(chips)",
+			"Logical" : "B0505S-1WR3_0_B0505S1WR_REV1_B0",
+			"Physical" : "B0505S-1WR3_0_B0505S1WR_REV1_B0505S-1WR3"
+		},
+		{
+			"Name" : "PS2",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins14739658@semikron_control_and_sensing_card.\\b0505s-1wr3_0.normal\\(chips)",
+			"Logical" : "B0505S-1WR3_0_B0505S1WR_REV1_B0",
+			"Physical" : "B0505S-1WR3_0_B0505S1WR_REV1_B0505S-1WR3"
+		},
+		{
+			"Name" : "PS3",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins14739954@semikron_control_and_sensing_card.\\b0505s-1wr3_0.normal\\(chips)",
+			"Logical" : "B0505S-1WR3_0_B0505S1WR_REV1_B0",
+			"Physical" : "B0505S-1WR3_0_B0505S1WR_REV1_B0505S-1WR3"
+		},
+		{
+			"Name" : "Q1",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins14790899@imz120r030m1hxksa1.\\imz120r030m1hxksa1.normal\\(chips)",
+			"Logical" : "IMZ120R030M1HXKSA1_TO254P1580X5",
+			"Physical" : "IMZ120R030M1HXKSA1_TO254P1580X500X2522-4_IMZ120R030M1HXKSA1"
+		},
+		{
+			"Name" : "Q10",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins14791069@imz120r030m1hxksa1.\\imz120r030m1hxksa1.normal\\(chips)",
+			"Logical" : "IMZ120R030M1HXKSA1_TO254P1580X5",
+			"Physical" : "IMZ120R030M1HXKSA1_TO254P1580X500X2522-4_IMZ120R030M1HXKSA1"
+		},
+		{
+			"Name" : "Q11",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins14796375@imz120r030m1hxksa1.\\imz120r030m1hxksa1.normal\\(chips)",
+			"Logical" : "IMZ120R030M1HXKSA1_TO254P1580X5",
+			"Physical" : "IMZ120R030M1HXKSA1_TO254P1580X500X2522-4_IMZ120R030M1HXKSA1"
+		},
+		{
+			"Name" : "Q12",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins14796191@imz120r030m1hxksa1.\\imz120r030m1hxksa1.normal\\(chips)",
+			"Logical" : "IMZ120R030M1HXKSA1_TO254P1580X5",
+			"Physical" : "IMZ120R030M1HXKSA1_TO254P1580X500X2522-4_IMZ120R030M1HXKSA1"
+		},
+		{
+			"Name" : "Q13",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins14767766@csd18534q5a.\\csd18534q5a.normal\\(chips)",
+			"Logical" : "CSD18534Q5A_TRANS_CSD18534Q5A_C",
+			"Physical" : "CSD18534Q5A_TRANS_CSD18534Q5A_CSD18534Q5A"
+		},
+		{
+			"Name" : "Q14",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins14767932@csd18534q5a.\\csd18534q5a.normal\\(chips)",
+			"Logical" : "CSD18534Q5A_TRANS_CSD18534Q5A_C",
+			"Physical" : "CSD18534Q5A_TRANS_CSD18534Q5A_CSD18534Q5A"
+		},
+		{
+			"Name" : "Q2",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins14790967@imz120r030m1hxksa1.\\imz120r030m1hxksa1.normal\\(chips)",
+			"Logical" : "IMZ120R030M1HXKSA1_TO254P1580X5",
+			"Physical" : "IMZ120R030M1HXKSA1_TO254P1580X500X2522-4_IMZ120R030M1HXKSA1"
+		},
+		{
+			"Name" : "Q3",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins14794056@imz120r030m1hxksa1.\\imz120r030m1hxksa1.normal\\(chips)",
+			"Logical" : "IMZ120R030M1HXKSA1_TO254P1580X5",
+			"Physical" : "IMZ120R030M1HXKSA1_TO254P1580X500X2522-4_IMZ120R030M1HXKSA1"
+		},
+		{
+			"Name" : "Q4",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins14791001@imz120r030m1hxksa1.\\imz120r030m1hxksa1.normal\\(chips)",
+			"Logical" : "IMZ120R030M1HXKSA1_TO254P1580X5",
+			"Physical" : "IMZ120R030M1HXKSA1_TO254P1580X500X2522-4_IMZ120R030M1HXKSA1"
+		},
+		{
+			"Name" : "Q5",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins14790933@imz120r030m1hxksa1.\\imz120r030m1hxksa1.normal\\(chips)",
+			"Logical" : "IMZ120R030M1HXKSA1_TO254P1580X5",
+			"Physical" : "IMZ120R030M1HXKSA1_TO254P1580X500X2522-4_IMZ120R030M1HXKSA1"
+		},
+		{
+			"Name" : "Q6",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins14791035@imz120r030m1hxksa1.\\imz120r030m1hxksa1.normal\\(chips)",
+			"Logical" : "IMZ120R030M1HXKSA1_TO254P1580X5",
+			"Physical" : "IMZ120R030M1HXKSA1_TO254P1580X500X2522-4_IMZ120R030M1HXKSA1"
+		},
+		{
+			"Name" : "Q7",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins14795731@imz120r030m1hxksa1.\\imz120r030m1hxksa1.normal\\(chips)",
+			"Logical" : "IMZ120R030M1HXKSA1_TO254P1580X5",
+			"Physical" : "IMZ120R030M1HXKSA1_TO254P1580X500X2522-4_IMZ120R030M1HXKSA1"
+		},
+		{
+			"Name" : "Q8",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins14795798@imz120r030m1hxksa1.\\imz120r030m1hxksa1.normal\\(chips)",
+			"Logical" : "IMZ120R030M1HXKSA1_TO254P1580X5",
+			"Physical" : "IMZ120R030M1HXKSA1_TO254P1580X500X2522-4_IMZ120R030M1HXKSA1"
+		},
+		{
+			"Name" : "Q9",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins14699551@imz120r030m1hxksa1.\\imz120r030m1hxksa1.normal\\(chips)",
+			"Logical" : "IMZ120R030M1HXKSA1_TO254P1580X5",
+			"Physical" : "IMZ120R030M1HXKSA1_TO254P1580X500X2522-4_IMZ120R030M1HXKSA1"
+		},
+		{
+			"Name" : "R100",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins14682160@discrete.\\resistor.normal\\(chips)",
+			"Logical" : "RESISTOR_SNPD0805_MODIFIED_1M 0",
+			"Physical" : "RESISTOR_SNPD0805_MODIFIED_1M 0805 0.1%"
+		},
+		{
+			"Name" : "R101",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins14682464@discrete.\\resistor.normal\\(chips)",
+			"Logical" : "RESISTOR_SNPD0805_MODIFIED_1M 0",
+			"Physical" : "RESISTOR_SNPD0805_MODIFIED_1M 0805 0.1%"
+		},
+		{
+			"Name" : "R102",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins14682956@discrete.\\resistor.normal\\(chips)",
+			"Logical" : "RESISTOR_SNPD0805_MODIFIED_1M 0",
+			"Physical" : "RESISTOR_SNPD0805_MODIFIED_1M 0805 0.1%"
+		},
+		{
+			"Name" : "R103",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins14683348@discrete.\\resistor.normal\\(chips)",
+			"Logical" : "RESISTOR_SNPD0805_MODIFIED_1K 0",
+			"Physical" : "RESISTOR_SNPD0805_MODIFIED_1K 0805 0.1%"
+		},
+		{
+			"Name" : "R104",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins14682744@discrete.\\resistor.normal\\(chips)",
+			"Logical" : "RESISTOR_SNPD0805_MODIFIED_11K",
+			"Physical" : "RESISTOR_SNPD0805_MODIFIED_11K 0805 0.1%"
+		},
+		{
+			"Name" : "R105",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins14682724@discrete.\\resistor.normal\\(chips)",
+			"Logical" : "RESISTOR_SNPD0805_MODIFIED_11K",
+			"Physical" : "RESISTOR_SNPD0805_MODIFIED_11K 0805 0.1%"
+		},
+		{
+			"Name" : "R106",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins14683448@discrete.\\resistor.normal\\(chips)",
+			"Logical" : "RESISTOR_SNPD0805_MODIFIED_1M 0",
+			"Physical" : "RESISTOR_SNPD0805_MODIFIED_1M 0805 0.1%"
+		},
+		{
+			"Name" : "R107",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins14681364@discrete.\\resistor.normal\\(chips)",
+			"Logical" : "RESISTOR_SNPD0805_MODIFIED_1M 0",
+			"Physical" : "RESISTOR_SNPD0805_MODIFIED_1M 0805 0.1%"
+		},
+		{
+			"Name" : "R108",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins14681688@discrete.\\resistor.normal\\(chips)",
+			"Logical" : "RESISTOR_SNPD0805_MODIFIED_1M 0",
+			"Physical" : "RESISTOR_SNPD0805_MODIFIED_1M 0805 0.1%"
+		},
+		{
+			"Name" : "R109",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins14682120@discrete.\\resistor.normal\\(chips)",
+			"Logical" : "RESISTOR_SNPD0805_MODIFIED_1K 0",
+			"Physical" : "RESISTOR_SNPD0805_MODIFIED_1K 0805 0.1%"
+		},
+		{
+			"Name" : "R110",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins14681264@discrete.\\resistor.normal\\(chips)",
+			"Logical" : "RESISTOR_SNPD0805_MODIFIED_1M 0",
+			"Physical" : "RESISTOR_SNPD0805_MODIFIED_1M 0805 0.1%"
+		},
+		{
+			"Name" : "R112",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins14682444@discrete.\\resistor.normal\\(chips)",
+			"Logical" : "RESISTOR_SNPD0805_MODIFIED_1M 0",
+			"Physical" : "RESISTOR_SNPD0805_MODIFIED_1M 0805 0.1%"
+		},
+		{
+			"Name" : "R113",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins14682864@discrete.\\resistor.normal\\(chips)",
+			"Logical" : "RESISTOR_SNPD0805_MODIFIED_1M 0",
+			"Physical" : "RESISTOR_SNPD0805_MODIFIED_1M 0805 0.1%"
+		},
+		{
+			"Name" : "R114",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins14683268@discrete.\\resistor.normal\\(chips)",
+			"Logical" : "RESISTOR_SNPD0805_MODIFIED_1M 0",
+			"Physical" : "RESISTOR_SNPD0805_MODIFIED_1M 0805 0.1%"
+		},
+		{
+			"Name" : "R115",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins14683692@discrete.\\resistor.normal\\(chips)",
+			"Logical" : "RESISTOR_SNPD0805_MODIFIED_1K 0",
+			"Physical" : "RESISTOR_SNPD0805_MODIFIED_1K 0805 0.1%"
+		},
+		{
+			"Name" : "R116",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins14682884@discrete.\\resistor.normal\\(chips)",
+			"Logical" : "RESISTOR_SNPD0805_MODIFIED_11K",
+			"Physical" : "RESISTOR_SNPD0805_MODIFIED_11K 0805 0.1%"
+		},
+		{
+			"Name" : "R117",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins14682260@discrete.\\resistor.normal\\(chips)",
+			"Logical" : "RESISTOR_SNPD0805_MODIFIED_11K",
+			"Physical" : "RESISTOR_SNPD0805_MODIFIED_11K 0805 0.1%"
+		},
+		{
+			"Name" : "R118",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins14683016@discrete.\\resistor.normal\\(chips)",
+			"Logical" : "RESISTOR_SNPD0805_MODIFIED_1M 0",
+			"Physical" : "RESISTOR_SNPD0805_MODIFIED_1M 0805 0.1%"
+		},
+		{
+			"Name" : "R119",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins14683408@discrete.\\resistor.normal\\(chips)",
+			"Logical" : "RESISTOR_SNPD0805_MODIFIED_1M 0",
+			"Physical" : "RESISTOR_SNPD0805_MODIFIED_1M 0805 0.1%"
+		},
+		{
+			"Name" : "R120",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins14681284@discrete.\\resistor.normal\\(chips)",
+			"Logical" : "RESISTOR_SNPD0805_MODIFIED_1M 0",
+			"Physical" : "RESISTOR_SNPD0805_MODIFIED_1M 0805 0.1%"
+		},
+		{
+			"Name" : "R121",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins14681596@discrete.\\resistor.normal\\(chips)",
+			"Logical" : "RESISTOR_SNPD0805_MODIFIED_1K 0",
+			"Physical" : "RESISTOR_SNPD0805_MODIFIED_1K 0805 0.1%"
+		},
+		{
+			"Name" : "R123",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins14682008@discrete.\\resistor.normal\\(chips)",
+			"Logical" : "RESISTOR_SNPD0805_MODIFIED_1M 0",
+			"Physical" : "RESISTOR_SNPD0805_MODIFIED_1M 0805 0.1%"
+		},
+		{
+			"Name" : "R124",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins14682332@discrete.\\resistor.normal\\(chips)",
+			"Logical" : "RESISTOR_SNPD0805_MODIFIED_1M 0",
+			"Physical" : "RESISTOR_SNPD0805_MODIFIED_1M 0805 0.1%"
+		},
+		{
+			"Name" : "R125",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins14682764@discrete.\\resistor.normal\\(chips)",
+			"Logical" : "RESISTOR_SNPD0805_MODIFIED_1M 0",
+			"Physical" : "RESISTOR_SNPD0805_MODIFIED_1M 0805 0.1%"
+		},
+		{
+			"Name" : "R126",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins14683168@discrete.\\resistor.normal\\(chips)",
+			"Logical" : "RESISTOR_SNPD0805_MODIFIED_1K 0",
+			"Physical" : "RESISTOR_SNPD0805_MODIFIED_1K 0805 0.1%"
+		},
+		{
+			"Name" : "R127",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins14682352@discrete.\\resistor.normal\\(chips)",
+			"Logical" : "RESISTOR_SNPD0805_MODIFIED_11K",
+			"Physical" : "RESISTOR_SNPD0805_MODIFIED_11K 0805 0.1%"
+		},
+		{
+			"Name" : "R131",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins14681668@discrete.\\resistor.normal\\(chips)",
+			"Logical" : "RESISTOR_SNPD0805_MODIFIED_11K",
+			"Physical" : "RESISTOR_SNPD0805_MODIFIED_11K 0805 0.1%"
+		},
+		{
+			"Name" : "R132",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins14683508@discrete.\\resistor.normal\\(chips)",
+			"Logical" : "RESISTOR_SNPD0805_MODIFIED_1M 0",
+			"Physical" : "RESISTOR_SNPD0805_MODIFIED_1M 0805 0.1%"
+		},
+		{
+			"Name" : "R133",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins14681384@discrete.\\resistor.normal\\(chips)",
+			"Logical" : "RESISTOR_SNPD0805_MODIFIED_1M 0",
+			"Physical" : "RESISTOR_SNPD0805_MODIFIED_1M 0805 0.1%"
+		},
+		{
+			"Name" : "R134",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins14681748@discrete.\\resistor.normal\\(chips)",
+			"Logical" : "RESISTOR_SNPD0805_MODIFIED_1M 0",
+			"Physical" : "RESISTOR_SNPD0805_MODIFIED_1M 0805 0.1%"
+		},
+		{
+			"Name" : "R135",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins14682220@discrete.\\resistor.normal\\(chips)",
+			"Logical" : "RESISTOR_SNPD0805_MODIFIED_1K 0",
+			"Physical" : "RESISTOR_SNPD0805_MODIFIED_1K 0805 0.1%"
+		},
+		{
+			"Name" : "R137",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins14681476@discrete.\\resistor.normal\\(chips)",
+			"Logical" : "RESISTOR_SNPD0805_MODIFIED_1M 0",
+			"Physical" : "RESISTOR_SNPD0805_MODIFIED_1M 0805 0.1%"
+		},
+		{
+			"Name" : "R138",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins14681788@discrete.\\resistor.normal\\(chips)",
+			"Logical" : "RESISTOR_SNPD0805_MODIFIED_1M 0",
+			"Physical" : "RESISTOR_SNPD0805_MODIFIED_1M 0805 0.1%"
+		},
+		{
+			"Name" : "R16",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins14673792@discrete.\\resistor.normal\\(chips)",
+			"Logical" : "RESISTOR_RES_SQM7_TYCO_0.68E 5%",
+			"Physical" : "RESISTOR_RES_SQM7_TYCO_0.68E 5% TH"
+		},
+		{
+			"Name" : "R166",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins14682240@discrete.\\resistor.normal\\(chips)",
+			"Logical" : "RESISTOR_SNPD0805_MODIFIED_1M 0",
+			"Physical" : "RESISTOR_SNPD0805_MODIFIED_1M 0805 0.1%"
+		},
+		{
+			"Name" : "R168",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins14674044@discrete.\\resistor.normal\\(chips)",
+			"Logical" : "RESISTOR_SNPD1206_MODIFIED_10K",
+			"Physical" : "RESISTOR_SNPD1206_MODIFIED_10K 1206 5%"
+		},
+		{
+			"Name" : "R169",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins14674832@discrete.\\resistor.normal\\(chips)",
+			"Logical" : "RESISTOR_SNPD1206_MODIFIED_10K",
+			"Physical" : "RESISTOR_SNPD1206_MODIFIED_10K 1206 5%"
+		},
+		{
+			"Name" : "R17",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins14674196@discrete.\\resistor.normal\\(chips)",
+			"Logical" : "RESISTOR_RES_SQM7_TYCO_0.68E 5%",
+			"Physical" : "RESISTOR_RES_SQM7_TYCO_0.68E 5% TH"
+		},
+		{
+			"Name" : "R170",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins14674688@discrete.\\resistor.normal\\(chips)",
+			"Logical" : "RESISTOR_SNPD1206_MODIFIED_10K",
+			"Physical" : "RESISTOR_SNPD1206_MODIFIED_10K 1206 5%"
+		},
+		{
+			"Name" : "R171",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins14675316@discrete.\\resistor.normal\\(chips)",
+			"Logical" : "RESISTOR_SNPD1206_MODIFIED_10K",
+			"Physical" : "RESISTOR_SNPD1206_MODIFIED_10K 1206 5%"
+		},
+		{
+			"Name" : "R172",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins14676032@discrete.\\resistor.normal\\(chips)",
+			"Logical" : "RESISTOR_SNPD1206_MODIFIED_10K",
+			"Physical" : "RESISTOR_SNPD1206_MODIFIED_10K 1206 5%"
+		},
+		{
+			"Name" : "R173",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins14674004@discrete.\\resistor.normal\\(chips)",
+			"Logical" : "RESISTOR_SNPD1206_MODIFIED_10K",
+			"Physical" : "RESISTOR_SNPD1206_MODIFIED_10K 1206 5%"
+		},
+		{
+			"Name" : "R174",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins14674648@discrete.\\resistor.normal\\(chips)",
+			"Logical" : "RESISTOR_SNPD1206_MODIFIED_10K",
+			"Physical" : "RESISTOR_SNPD1206_MODIFIED_10K 1206 5%"
+		},
+		{
+			"Name" : "R175",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins14676208@discrete.\\resistor.normal\\(chips)",
+			"Logical" : "RESISTOR_SNPD1206_MODIFIED_10K",
+			"Physical" : "RESISTOR_SNPD1206_MODIFIED_10K 1206 5%"
+		},
+		{
+			"Name" : "R176",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins14673812@discrete.\\resistor.normal\\(chips)",
+			"Logical" : "RESISTOR_SNPD1206_MODIFIED_10K",
+			"Physical" : "RESISTOR_SNPD1206_MODIFIED_10K 1206 5%"
+		},
+		{
+			"Name" : "R18",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins14674792@discrete.\\resistor.normal\\(chips)",
+			"Logical" : "RESISTOR_RES_SQM7_TYCO_0.68E 5%",
+			"Physical" : "RESISTOR_RES_SQM7_TYCO_0.68E 5% TH"
+		},
+		{
+			"Name" : "R192",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins14674932@discrete.\\resistor.normal\\(chips)",
+			"Logical" : "RESISTOR_SNPD1206_MODIFIED_0E 1",
+			"Physical" : "RESISTOR_SNPD1206_MODIFIED_0E 1206 1%"
+		},
+		{
+			"Name" : "R193",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins14673872@discrete.\\resistor.normal\\(chips)",
+			"Logical" : "RESISTOR_SNPD1206_MODIFIED_0E 1",
+			"Physical" : "RESISTOR_SNPD1206_MODIFIED_0E 1206 1%"
+		},
+		{
+			"Name" : "R194",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins14675448@discrete.\\resistor.normal\\(chips)",
+			"Logical" : "RESISTOR_SNPD1206_MODIFIED_0E 1",
+			"Physical" : "RESISTOR_SNPD1206_MODIFIED_0E 1206 1%"
+		},
+		{
+			"Name" : "R205",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins14682644@discrete.\\resistor.normal\\(chips)",
+			"Logical" : "RESISTOR_SNPD0805_MODIFIED_1K 0",
+			"Physical" : "RESISTOR_SNPD0805_MODIFIED_1K 0805 0.1%"
+		},
+		{
+			"Name" : "R206",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins14681708@discrete.\\resistor.normal\\(chips)",
+			"Logical" : "RESISTOR_SNPD0805_MODIFIED_11K",
+			"Physical" : "RESISTOR_SNPD0805_MODIFIED_11K 0805 0.1%"
+		},
+		{
+			"Name" : "R39",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins14682684@discrete.\\resistor.normal\\(chips)",
+			"Logical" : "RESISTOR_SNPD0805_MODIFIED_11K",
+			"Physical" : "RESISTOR_SNPD0805_MODIFIED_11K 0805 0.1%"
+		},
+		{
+			"Name" : "R41",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins14675012@discrete.\\resistor.normal\\(chips)",
+			"Logical" : "RESISTOR_RES_PSR400IT_0.001E 10",
+			"Physical" : "RESISTOR_RES_PSR400IT_0.001E 1052 1%"
+		},
+		{
+			"Name" : "R42",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins14683428@discrete.\\resistor.normal\\(chips)",
+			"Logical" : "RESISTOR_SNPD0805_MODIFIED_1M 0",
+			"Physical" : "RESISTOR_SNPD0805_MODIFIED_1M 0805 0.1%"
+		},
+		{
+			"Name" : "R43",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins14681324@discrete.\\resistor.normal\\(chips)",
+			"Logical" : "RESISTOR_SNPD0805_MODIFIED_1M 0",
+			"Physical" : "RESISTOR_SNPD0805_MODIFIED_1M 0805 0.1%"
+		},
+		{
+			"Name" : "R44",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins14681616@discrete.\\resistor.normal\\(chips)",
+			"Logical" : "RESISTOR_SNPD0805_MODIFIED_1M 0",
+			"Physical" : "RESISTOR_SNPD0805_MODIFIED_1M 0805 0.1%"
+		},
+		{
+			"Name" : "R45",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins14682028@discrete.\\resistor.normal\\(chips)",
+			"Logical" : "RESISTOR_SNPD0805_MODIFIED_1K 0",
+			"Physical" : "RESISTOR_SNPD0805_MODIFIED_1K 0805 0.1%"
+		},
+		{
+			"Name" : "R47",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins14675092@discrete.\\resistor.normal\\(chips)",
+			"Logical" : "RESISTOR_RES_PSR400IT_0.001E 10",
+			"Physical" : "RESISTOR_RES_PSR400IT_0.001E 1052 1%"
+		},
+		{
+			"Name" : "R48",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins14682372@discrete.\\resistor.normal\\(chips)",
+			"Logical" : "RESISTOR_SNPD0805_MODIFIED_1M 0",
+			"Physical" : "RESISTOR_SNPD0805_MODIFIED_1M 0805 0.1%"
+		},
+		{
+			"Name" : "R49",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins14682784@discrete.\\resistor.normal\\(chips)",
+			"Logical" : "RESISTOR_SNPD0805_MODIFIED_1M 0",
+			"Physical" : "RESISTOR_SNPD0805_MODIFIED_1M 0805 0.1%"
+		},
+		{
+			"Name" : "R5",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins14673908@discrete.\\resistor.normal\\(chips)",
+			"Logical" : "RESISTOR_RES_PSR400IT_0.001E 10",
+			"Physical" : "RESISTOR_RES_PSR400IT_0.001E 1052 1%"
+		},
+		{
+			"Name" : "R50",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins14683188@discrete.\\resistor.normal\\(chips)",
+			"Logical" : "RESISTOR_SNPD0805_MODIFIED_1M 0",
+			"Physical" : "RESISTOR_SNPD0805_MODIFIED_1M 0805 0.1%"
+		},
+		{
+			"Name" : "R51",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins14683652@discrete.\\resistor.normal\\(chips)",
+			"Logical" : "RESISTOR_SNPD0805_MODIFIED_1K 0",
+			"Physical" : "RESISTOR_SNPD0805_MODIFIED_1K 0805 0.1%"
+		},
+		{
+			"Name" : "R56",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins14682804@discrete.\\resistor.normal\\(chips)",
+			"Logical" : "RESISTOR_SNPD0805_MODIFIED_11K",
+			"Physical" : "RESISTOR_SNPD0805_MODIFIED_11K 0805 0.1%"
+		},
+		{
+			"Name" : "R59",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins14767794@discrete.\\resistor.normal\\(chips)",
+			"Logical" : "RESISTOR_SNPD0805_MODIFIED_200E",
+			"Physical" : "RESISTOR_SNPD0805_MODIFIED_200E 0805 1%"
+		},
+		{
+			"Name" : "R61",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins14681516@discrete.\\resistor.normal\\(chips)",
+			"Logical" : "RESISTOR_SNPD0805_MODIFIED_11_1",
+			"Physical" : "RESISTOR_SNPD0805_MODIFIED_11K 0805 1%"
+		},
+		{
+			"Name" : "R66",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins14767960@discrete.\\resistor.normal\\(chips)",
+			"Logical" : "RESISTOR_SNPD0805_MODIFIED_200E",
+			"Physical" : "RESISTOR_SNPD0805_MODIFIED_200E 0805 1%"
+		},
+		{
+			"Name" : "R67",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins14682200@discrete.\\resistor.normal\\(chips)",
+			"Logical" : "RESISTOR_SNPD0805_MODIFIED_1M 0",
+			"Physical" : "RESISTOR_SNPD0805_MODIFIED_1M 0805 0.1%"
+		},
+		{
+			"Name" : "R68",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins14682524@discrete.\\resistor.normal\\(chips)",
+			"Logical" : "RESISTOR_SNPD0805_MODIFIED_1M 0",
+			"Physical" : "RESISTOR_SNPD0805_MODIFIED_1M 0805 0.1%"
+		},
+		{
+			"Name" : "R69",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins14682996@discrete.\\resistor.normal\\(chips)",
+			"Logical" : "RESISTOR_SNPD0805_MODIFIED_1M 0",
+			"Physical" : "RESISTOR_SNPD0805_MODIFIED_1M 0805 0.1%"
+		},
+		{
+			"Name" : "R70",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins14683388@discrete.\\resistor.normal\\(chips)",
+			"Logical" : "RESISTOR_SNPD0805_MODIFIED_1K 0",
+			"Physical" : "RESISTOR_SNPD0805_MODIFIED_1K 0805 0.1%"
+		},
+		{
+			"Name" : "R73",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins14681576@discrete.\\resistor.normal\\(chips)",
+			"Logical" : "RESISTOR_SNPD0805_MODIFIED_1M 0",
+			"Physical" : "RESISTOR_SNPD0805_MODIFIED_1M 0805 0.1%"
+		},
+		{
+			"Name" : "R74",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins14681988@discrete.\\resistor.normal\\(chips)",
+			"Logical" : "RESISTOR_SNPD0805_MODIFIED_1M 0",
+			"Physical" : "RESISTOR_SNPD0805_MODIFIED_1M 0805 0.1%"
+		},
+		{
+			"Name" : "R75",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins14682604@discrete.\\resistor.normal\\(chips)",
+			"Logical" : "RESISTOR_SNPD0805_MODIFIED_1K 0",
+			"Physical" : "RESISTOR_SNPD0805_MODIFIED_1K 0805 0.1%"
+		},
+		{
+			"Name" : "R78",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins14681768@discrete.\\resistor.normal\\(chips)",
+			"Logical" : "RESISTOR_SNPD0805_MODIFIED_11K",
+			"Physical" : "RESISTOR_SNPD0805_MODIFIED_11K 0805 0.1%"
+		},
+		{
+			"Name" : "R79",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins14681404@discrete.\\resistor.normal\\(chips)",
+			"Logical" : "RESISTOR_SNPD0805_MODIFIED_11K",
+			"Physical" : "RESISTOR_SNPD0805_MODIFIED_11K 0805 0.1%"
+		},
+		{
+			"Name" : "R80",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins14682048@discrete.\\resistor.normal\\(chips)",
+			"Logical" : "RESISTOR_SNPD0805_MODIFIED_1M 0",
+			"Physical" : "RESISTOR_SNPD0805_MODIFIED_1M 0805 0.1%"
+		},
+		{
+			"Name" : "R804",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins14782521@discrete.\\resistor.normal\\(chips)",
+			"Logical" : "RESISTOR_SNPD0805_MODIFIED_11K",
+			"Physical" : "RESISTOR_SNPD0805_MODIFIED_11K 0805 0.1%"
+		},
+		{
+			"Name" : "R805",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins14782601@discrete.\\resistor.normal\\(chips)",
+			"Logical" : "RESISTOR_SNPD0805_MODIFIED_1M 0",
+			"Physical" : "RESISTOR_SNPD0805_MODIFIED_1M 0805 0.1%"
+		},
+		{
+			"Name" : "R806",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins14782617@discrete.\\resistor.normal\\(chips)",
+			"Logical" : "RESISTOR_SNPD0805_MODIFIED_1M 0",
+			"Physical" : "RESISTOR_SNPD0805_MODIFIED_1M 0805 0.1%"
+		},
+		{
+			"Name" : "R807",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins14782633@discrete.\\resistor.normal\\(chips)",
+			"Logical" : "RESISTOR_SNPD0805_MODIFIED_1M 0",
+			"Physical" : "RESISTOR_SNPD0805_MODIFIED_1M 0805 0.1%"
+		},
+		{
+			"Name" : "R808",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins14782649@discrete.\\resistor.normal\\(chips)",
+			"Logical" : "RESISTOR_SNPD0805_MODIFIED_1K 0",
+			"Physical" : "RESISTOR_SNPD0805_MODIFIED_1K 0805 0.1%"
+		},
+		{
+			"Name" : "R81",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins14682392@discrete.\\resistor.normal\\(chips)",
+			"Logical" : "RESISTOR_SNPD0805_MODIFIED_1M 0",
+			"Physical" : "RESISTOR_SNPD0805_MODIFIED_1M 0805 0.1%"
+		},
+		{
+			"Name" : "R810",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins14782749@discrete.\\resistor.normal\\(chips)",
+			"Logical" : "RESISTOR_SNPD0805_MODIFIED_1M 0",
+			"Physical" : "RESISTOR_SNPD0805_MODIFIED_1M 0805 0.1%"
+		},
+		{
+			"Name" : "R811",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins14782765@discrete.\\resistor.normal\\(chips)",
+			"Logical" : "RESISTOR_SNPD0805_MODIFIED_1M 0",
+			"Physical" : "RESISTOR_SNPD0805_MODIFIED_1M 0805 0.1%"
+		},
+		{
+			"Name" : "R812",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins14782781@discrete.\\resistor.normal\\(chips)",
+			"Logical" : "RESISTOR_SNPD0805_MODIFIED_1M 0",
+			"Physical" : "RESISTOR_SNPD0805_MODIFIED_1M 0805 0.1%"
+		},
+		{
+			"Name" : "R813",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins14782797@discrete.\\resistor.normal\\(chips)",
+			"Logical" : "RESISTOR_SNPD0805_MODIFIED_1K 0",
+			"Physical" : "RESISTOR_SNPD0805_MODIFIED_1K 0805 0.1%"
+		},
+		{
+			"Name" : "R814",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins14782855@discrete.\\resistor.normal\\(chips)",
+			"Logical" : "RESISTOR_SNPD0805_MODIFIED_11K",
+			"Physical" : "RESISTOR_SNPD0805_MODIFIED_11K 0805 0.1%"
+		},
+		{
+			"Name" : "R82",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins14682844@discrete.\\resistor.normal\\(chips)",
+			"Logical" : "RESISTOR_SNPD0805_MODIFIED_1M 0",
+			"Physical" : "RESISTOR_SNPD0805_MODIFIED_1M 0805 0.1%"
+		},
+		{
+			"Name" : "R83",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins14683248@discrete.\\resistor.normal\\(chips)",
+			"Logical" : "RESISTOR_SNPD0805_MODIFIED_1K 0",
+			"Physical" : "RESISTOR_SNPD0805_MODIFIED_1K 0805 0.1%"
+		},
+		{
+			"Name" : "R85",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins14683672@discrete.\\resistor.normal\\(chips)",
+			"Logical" : "RESISTOR_SNPD0805_MODIFIED_1M 0",
+			"Physical" : "RESISTOR_SNPD0805_MODIFIED_1M 0805 0.1%"
+		},
+		{
+			"Name" : "R86",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins14681536@discrete.\\resistor.normal\\(chips)",
+			"Logical" : "RESISTOR_SNPD0805_MODIFIED_1M 0",
+			"Physical" : "RESISTOR_SNPD0805_MODIFIED_1M 0805 0.1%"
+		},
+		{
+			"Name" : "R87",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins14681848@discrete.\\resistor.normal\\(chips)",
+			"Logical" : "RESISTOR_SNPD0805_MODIFIED_1M 0",
+			"Physical" : "RESISTOR_SNPD0805_MODIFIED_1M 0805 0.1%"
+		},
+		{
+			"Name" : "R88",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins14682484@discrete.\\resistor.normal\\(chips)",
+			"Logical" : "RESISTOR_SNPD0805_MODIFIED_1K 0",
+			"Physical" : "RESISTOR_SNPD0805_MODIFIED_1K 0805 0.1%"
+		},
+		{
+			"Name" : "R89",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins14681728@discrete.\\resistor.normal\\(chips)",
+			"Logical" : "RESISTOR_SNPD0805_MODIFIED_11K",
+			"Physical" : "RESISTOR_SNPD0805_MODIFIED_11K 0805 0.1%"
+		},
+		{
+			"Name" : "R94",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins14681868@discrete.\\resistor.normal\\(chips)",
+			"Logical" : "RESISTOR_SNPD0805_MODIFIED_11K",
+			"Physical" : "RESISTOR_SNPD0805_MODIFIED_11K 0805 0.1%"
+		},
+		{
+			"Name" : "R95",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins14683036@discrete.\\resistor.normal\\(chips)",
+			"Logical" : "RESISTOR_SNPD0805_MODIFIED_1M 0",
+			"Physical" : "RESISTOR_SNPD0805_MODIFIED_1M 0805 0.1%"
+		},
+		{
+			"Name" : "R96",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins14681928@discrete.\\resistor.normal\\(chips)",
+			"Logical" : "RESISTOR_SNPD0805_MODIFIED_1M 0",
+			"Physical" : "RESISTOR_SNPD0805_MODIFIED_1M 0805 0.1%"
+		},
+		{
+			"Name" : "R97",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins14682584@discrete.\\resistor.normal\\(chips)",
+			"Logical" : "RESISTOR_SNPD0805_MODIFIED_1M 0",
+			"Physical" : "RESISTOR_SNPD0805_MODIFIED_1M 0805 0.1%"
+		},
+		{
+			"Name" : "R98",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins14683228@discrete.\\resistor.normal\\(chips)",
+			"Logical" : "RESISTOR_SNPD0805_MODIFIED_1K 0",
+			"Physical" : "RESISTOR_SNPD0805_MODIFIED_1K 0805 0.1%"
+		},
+		{
+			"Name" : "U15",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins14761055@tida01606_powercard_0.\\dm3at-sf-pejm5_2.normal\\(chips)",
+			"Logical" : "DM3AT-SF-PEJM5_2_SOT223_4_TLV11",
+			"Physical" : "DM3AT-SF-PEJM5_2_SOT223_4_TLV1117LV33DCYR"
+		}
+	],
+	"Net" : [
+		{
+			"Name" : "FAN2",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):fan2",
+			"Logical" : null,
+			"Physical" : "FAN2"
+		},
+		{
+			"Name" : "FAN1",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):fan1",
+			"Logical" : null,
+			"Physical" : "FAN1"
+		},
+		{
+			"Name" : "GND22VPWR3",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):gnd22vpwr3",
+			"Logical" : "GND22VPWR3",
+			"Physical" : null
+		},
+		{
+			"Name" : "22VPWR3",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):\\22vpwr3\\",
+			"Logical" : "22VPWR3",
+			"Physical" : null
+		}
+	],
+	"Connection" : [
+		{
+			"Name" : "J100.2",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins14709136@connector.\\con2.normal\\(chips):\\2\\",
+			"Logical" : "GND22VPWR3",
+			"Physical" : "FAN2"
+		},
+		{
+			"Name" : "J100.1",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins14709136@connector.\\con2.normal\\(chips):\\1\\",
+			"Logical" : "GND22VPWR3",
+			"Physical" : "FAN2"
+		},
+		{
+			"Name" : "J25.13",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins14692031@tida01606_powercard_0.\\header 8x2_0.normal\\(chips):\\13\\",
+			"Logical" : "GND22VPWR3",
+			"Physical" : "FAN2"
+		},
+		{
+			"Name" : "J25.11",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins14692031@tida01606_powercard_0.\\header 8x2_0.normal\\(chips):\\11\\",
+			"Logical" : "22VPWR3",
+			"Physical" : "FAN1"
+		},
+		{
+			"Name" : "J73.2",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins14709392@connector.\\con2.normal\\(chips):\\2\\",
+			"Logical" : "22VPWR3",
+			"Physical" : "FAN1"
+		},
+		{
+			"Name" : "J73.1",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins14709392@connector.\\con2.normal\\(chips):\\1\\",
+			"Logical" : "22VPWR3",
+			"Physical" : "FAN1"
+		}
+	]
+}

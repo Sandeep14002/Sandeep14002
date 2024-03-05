@@ -1,0 +1,18 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Shape Island Report                                              )
+(                                                                     )
+(    Drawing          : solutionstida01606_powercard_4mar.brd         )
+(    Software Version : 17.4S031                                      )
+(    Date/Time        : Mon Mar  4 19:56:16 2024                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+  Total islands on design: 1
+
+
+  <<<  ETCH  >>>
+
+    Layer = GND LAYER
+	Point on shape: (-12509.090 341.996)  Net: 0
