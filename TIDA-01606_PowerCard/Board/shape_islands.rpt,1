@@ -4,15 +4,16 @@
 (                                                                     )
 (    Drawing          : solutionstida01606_powercard_6mar.brd         )
 (    Software Version : 17.4P001                                      )
-(    Date/Time        : Wed Mar  6 15:16:54 2024                      )
+(    Date/Time        : Wed Mar  6 12:58:27 2024                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
 
-  Total islands on design: 1
+  Total islands on design: 2
 
 
   <<<  ETCH  >>>
 
     Layer = GND LAYER
+	Point on shape: (1188.302 -7543.694)  Net: PGND
 	Point on shape: (-3085.090 -6681.075)  Net: PGND
