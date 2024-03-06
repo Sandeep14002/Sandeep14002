@@ -1,1 +1,1 @@
-solutionstida01606_powercard_4mar.brd
+solutionstida01606_powercard_6mar.brd
