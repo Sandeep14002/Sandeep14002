@@ -1,101 +1,71 @@
-\t (00:00:05) allegro 17.4 P001 Windows SPB 64-bit Edition
-\t (00:00:05)     Journal start - Fri Mar  8 11:28:34 2024
-\t (00:00:05)         Host=SHIMMER User=sande Pid=1864 CPUs=16
-\t (00:00:05) CmdLine= c:\cadence\spb_17.4\tools\bin\allegro.exe -mpssession sande -proj C:\USERS\SANDE\ONEDRIVE\DOCUMENTS\GITHUB\SANDEEP14002\TIDA-01606_POWERCARD\TIDA-01606_POWERCARD_GRID_TINV.opj C:\USERS\SANDE\ONEDRIVE\DOCUMENTS\GITHUB\SANDEEP14002\TIDA-01606_POWERCARD\board\solutionstida01606_powercard_6mar.brd
-\t (00:00:05) 
-   (00:00:05) Loading axlcore.cxt 
-\t (00:00:09) Opening existing design...
-\i (00:00:13) fillin yes 
-\i (00:00:13) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged solutionstida01606_powercard_6mar
-\d (00:00:14) Design opened: C:/USERS/SANDE/ONEDRIVE/DOCUMENTS/GITHUB/SANDEEP14002/TIDA-01606_POWERCARD/board/solutionstida01606_powercard_6mar.brd
-\i (00:00:14) trapsize 13451
-\i (00:00:14) trapsize 13873
-\i (00:00:18) trapsize 10757
-\i (00:00:18) trapsize 10757
-\t (00:00:19) > Sending response DoneOpenBoard
-\i (00:00:19) trapsize 7444
-\i (00:00:19) generaledit 
+\t (00:00:02) allegro 17.4 P001 Windows SPB 64-bit Edition
+\t (00:00:02)     Journal start - Fri Mar  8 14:51:16 2024
+\t (00:00:02)         Host=SHIMMER User=sande Pid=16956 CPUs=16
+\t (00:00:02) CmdLine= c:\cadence\spb_17.4\tools\bin\allegro.exe -mpssession sande -proj C:\USERS\SANDE\ONEDRIVE\DOCUMENTS\GITHUB\SANDEEP14002\TIDA-01606_POWERCARD\TIDA-01606_POWERCARD_GRID_TINV.opj C:\USERS\SANDE\ONEDRIVE\DOCUMENTS\GITHUB\SANDEEP14002\TIDA-01606_POWERCARD\board\solutionstida01606_powercard_8mar.brd
+\t (00:00:02) 
+   (00:00:02) Loading axlcore.cxt 
+\t (00:00:06) Opening existing design...
+\i (00:00:06) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged solutionstida01606_powercard_8mar
+\d (00:00:06) Design opened: C:/USERS/SANDE/ONEDRIVE/DOCUMENTS/GITHUB/SANDEEP14002/TIDA-01606_POWERCARD/board/solutionstida01606_powercard_8mar.brd
+\i (00:00:06) trapsize 91836
+\i (00:00:06) trapsize 94718
+\i (00:00:08) trapsize 73443
+\i (00:00:08) trapsize 73443
+\t (00:00:09) > Sending response DoneOpenBoard
+\i (00:00:09) generaledit 
+\i (00:00:13) zoom in 1 
+\i (00:00:13) setwindow pcb
+\i (00:00:13) zoom in -2547.844 -2853.355
+\i (00:00:13) trapsize 36722
+\i (00:00:13) zoom in 1 
+\i (00:00:13) setwindow pcb
+\i (00:00:13) zoom in -2547.844 -2853.355
+\i (00:00:13) trapsize 18361
+\i (00:00:14) zoom in 1 
+\i (00:00:14) setwindow pcb
+\i (00:00:14) zoom in -2547.844 -2853.354
+\i (00:00:14) trapsize 9180
+\i (00:00:18) zoom out 1 
+\i (00:00:18) setwindow pcb
+\i (00:00:18) zoom out -2397.286 -2480.631
+\i (00:00:18) trapsize 18361
+\i (00:00:20) zoom in 1 
+\i (00:00:20) setwindow pcb
+\i (00:00:20) zoom in -2529.482 -2117.088
+\i (00:00:20) trapsize 9180
 \i (00:00:22) zoom out 1 
 \i (00:00:22) setwindow pcb
-\i (00:00:22) zoom out -8358.385 -2693.096
-\i (00:00:22) trapsize 14888
+\i (00:00:22) zoom out -2529.482 -2117.088
+\i (00:00:22) trapsize 18361
 \i (00:00:22) zoom out 1 
 \i (00:00:22) setwindow pcb
-\i (00:00:22) zoom out -8355.409 -2693.096
-\i (00:00:22) trapsize 29775
+\i (00:00:22) zoom out -2529.482 -2117.087
+\i (00:00:22) trapsize 36722
 \i (00:00:22) zoom out 1 
 \i (00:00:22) setwindow pcb
-\i (00:00:22) zoom out -8355.409 -2693.095
-\i (00:00:22) trapsize 59551
+\i (00:00:22) zoom out -2529.482 -2117.086
+\i (00:00:22) trapsize 73443
 \i (00:00:23) zoom in 1 
 \i (00:00:23) setwindow pcb
-\i (00:00:23) zoom in -9962.446 -2645.454
-\i (00:00:23) trapsize 29775
+\i (00:00:23) zoom in -2367.908 -7039.607
+\i (00:00:23) trapsize 36722
+\i (00:00:23) zoom in 1 
+\i (00:00:23) setwindow pcb
+\i (00:00:23) zoom in -2367.908 -7039.606
+\i (00:00:23) trapsize 18361
+\i (00:00:23) zoom in 1 
+\i (00:00:23) setwindow pcb
+\i (00:00:23) zoom in -2367.908 -7039.606
+\i (00:00:23) trapsize 9180
 \i (00:00:24) zoom out 1 
 \i (00:00:24) setwindow pcb
-\i (00:00:24) zoom out -4579.049 -2800.286
-\i (00:00:24) trapsize 59551
-\i (00:00:29) status 
-\i (00:00:30) generaledit 
-\i (00:00:33) setwindow form.status
-\i (00:00:33) FORM status done  
-\i (00:00:34) setwindow pcb
-\i (00:00:34) save 
-\i (00:00:36) fillin yes 
-\e (00:00:36) File "solutionstida01606_powercard_6mar.brd" is being edited by user "sande" on date "Wed Mar  6 11:35:02 2024" on system "SHIMMER".  Save design to another name or contact user to remove their lock.
-\i (00:00:37) fillin confirm
-\i (00:00:37) generaledit 
-\i (00:00:40) save_as 
-\i (00:00:53) fillin "solutionstida01606_powercard_8mar.brd"
-\t (00:00:53) > Sending response DoneOpenBoard
-\i (00:00:53) generaledit 
-\i (00:00:55) save 
-\i (00:00:57) fillin yes 
-\t (00:00:57) > Sending response DoneOpenBoard
-\i (00:00:57) generaledit 
-\i (00:00:58) save 
-\i (00:01:01) fillin yes 
-\t (00:01:01) > Sending response DoneOpenBoard
-\i (00:01:01) generaledit 
-\t (00:01:27) > DoPhysicalNetlistGenerate message received
-\t (00:01:27) > Generating physical netlist...
-\t (00:01:27) Starting genfeedformat...
-\t (00:01:27) > Sending response DonePhysicalNetlistGeneration
-\t (00:01:27) > Physical Netlist Generated
-\t (00:01:28) > DoPullSchematic message received
-\t (00:01:28) > Pulling schematic...
-\t (00:01:28) Starting Cadence Logic Import...
-\t (00:01:29) Opening existing design...
-\i (00:01:29) trapsize 59551
-\t (00:01:29) > Sending response DonePullSchematic
-\t (00:01:29) > Schematic pulled successfully
-\i (00:01:34) zoom in 1 
-\i (00:01:34) setwindow pcb
-\i (00:01:34) zoom in -7414.222 -2967.028
-\i (00:01:34) trapsize 29775
-\i (00:01:34) zoom out 1 
-\i (00:01:34) setwindow pcb
-\i (00:01:34) zoom out -7414.222 -2967.028
-\i (00:01:34) trapsize 59551
-\i (00:01:35) zoom in 1 
-\i (00:01:35) setwindow pcb
-\i (00:01:35) zoom in -13369.307 -4634.452
-\i (00:01:35) trapsize 29775
-\i (00:01:37) zoom out 1 
-\i (00:01:37) setwindow pcb
-\i (00:01:37) zoom out -5282.301 -4199.731
-\i (00:01:37) trapsize 59551
-\i (00:01:38) zoom in 1 
-\i (00:01:38) setwindow pcb
-\i (00:01:38) zoom in -5520.505 -4235.461
-\i (00:01:38) trapsize 29775
-\i (00:01:38) zoom out 1 
-\i (00:01:38) setwindow pcb
-\i (00:01:38) zoom out -5520.504 -4235.461
-\i (00:01:38) trapsize 59551
-\i (00:01:40) drag_start grid -13321.666 1588.612
-\i (00:01:41) drag_stop grid 375.030 -5831.424
-\i (00:01:42) zoom in 1 
-\i (00:01:42) setwindow pcb
-\i (00:01:42) zoom in -8771.981 -4664.227
-\i (00:01:42) trapsize 29
+\i (00:00:24) zoom out -2474.400 -6870.687
+\i (00:00:24) trapsize 18361
+\i (00:00:24) zoom out 1 
+\i (00:00:24) setwindow pcb
+\i (00:00:24) zoom out -2474.399 -6870.687
+\i (00:00:24) trapsize 36722
+\i (00:00:26) exit 
+\e (00:00:26) Do you want to save the changes you made to solutionstida01606_powercard_8mar.brd?
+\i (00:00:28) fillin yes 
+\t (00:00:29)     Journal end - Fri Mar  8 14:51:42 2024
