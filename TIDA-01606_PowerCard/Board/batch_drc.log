@@ -2,9 +2,9 @@
 (                                                                     )
 (    DRC Update                                                       )
 (                                                                     )
-(    Drawing          : solutionstida01606_powercard_6mar1530.brd     )
-(    Software Version : 17.4P001                                      )
-(    Date/Time        : Wed Mar  6 16:15:39 2024                      )
+(    Drawing          : solutionstida01606_powercard_8mar.brd         )
+(    Software Version : unreleased                                    )
+(    Date/Time        : Fri Mar  8 11:29:58 2024                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
@@ -20,7 +20,7 @@
  ========= check standalone text              0:00:00
  ========= check standalone rectangles        0:00:00
 
- ..... Total number of DRC errors  0
+ ..... Total number of DRC errors  2
 
  ..... DRC update completed, total CPU time   0:00:00
  *************************************************************************
