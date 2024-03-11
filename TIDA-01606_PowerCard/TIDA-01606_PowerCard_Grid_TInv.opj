@@ -143,7 +143,7 @@
       (Type "COrSchematicDoc")
       (Frame
         (Placement "44 0 1 -1 -1 0 0 5 1461 24 826")
-        (Scroll "0 0")
+        (Scroll "0 76")
         (Zoom "100")
         (Occurrence "/"))
       (Path
@@ -154,11 +154,22 @@
       (Type "COrSchematicDoc")
       (Frame
         (Placement "44 0 1 -1 -1 -1 -1 5 1461 24 826")
-        (Scroll "1679 1317")
+        (Scroll "356 0")
         (Zoom "312")
         (Occurrence "/"))
       (Path
          "C:\USERS\SANDE\ONEDRIVE\DOCUMENTS\GITHUB\SANDEEP14002\TIDA-01606_POWERCARD\TIDA-01606_POWERCARD_GRID_TINV.DSN")
       (Schematic "SCHEMATIC1")
-      (Page "DriverHeaders")))
+      (Page "DriverHeaders"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 5 1461 24 826")
+        (Scroll "274 12")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path
+         "C:\USERS\SANDE\ONEDRIVE\DOCUMENTS\GITHUB\SANDEEP14002\TIDA-01606_POWERCARD\TIDA-01606_POWERCARD_GRID_TINV.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "Current_Temp_Sensing")))
   (MPSSessionName "sande"))
