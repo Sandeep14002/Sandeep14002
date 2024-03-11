@@ -1,2221 +1,410 @@
-\t (00:00:00) allegro 17.4 S031 Windows SPB 64-bit Edition
-\t (00:00:00)     Journal start - Mon Mar 11 11:35:22 2024
-\t (00:00:00)         Host=DESKTOP-00H8CHI User=pc Pid=11140 CPUs=4
-\t (00:00:00) CmdLine= c:\cadence\spb_17.4\tools\bin\allegro.exe -mpssession pc -proj C:\USERS\PC\DOCUMENTS\GITHUB\SANDEEP14002\TIDA-01606_POWERCARD\TIDA-01606_POWERCARD_GRID_TINV.opj C:\USERS\PC\DOCUMENTS\GITHUB\SANDEEP14002\TIDA-01606_POWERCARD\board\solutionstida01606_powercard_8mar.brd
-\t (00:00:00) 
-   (00:00:00) Loading axlcore.cxt 
+\t (00:00:01) allegro 17.4 S031 Windows SPB 64-bit Edition
+\t (00:00:01)     Journal start - Mon Mar 11 11:49:50 2024
+\t (00:00:01)         Host=DESKTOP-00H8CHI User=pc Pid=19388 CPUs=4
+\t (00:00:01) CmdLine= c:\cadence\spb_17.4\tools\bin\allegro.exe -mpssession pc -proj C:\USERS\PC\DOCUMENTS\GITHUB\SANDEEP14002\TIDA-01606_POWERCARD\TIDA-01606_POWERCARD_GRID_TINV.opj C:\USERS\PC\DOCUMENTS\GITHUB\SANDEEP14002\TIDA-01606_POWERCARD\board\solutionstida01606_powercard_8mar.brd
+\t (00:00:01) 
+   (00:00:01) Loading axlcore.cxt 
 \t (00:00:07) Opening existing design...
 \i (00:00:07) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged "solutionstida01606_powercard_8mar"
 \d (00:00:07) Design opened: C:/USERS/PC/DOCUMENTS/GITHUB/SANDEEP14002/TIDA-01606_POWERCARD/board/solutionstida01606_powercard_8mar.brd
-\i (00:00:07) trapsize 5764
-\i (00:00:08) trapsize 5919
-\i (00:00:08) trapsize 5764
-\i (00:00:16) trapsize 4912
-\i (00:00:16) trapsize 5007
-\i (00:00:16) trapsize 5106
-\i (00:00:16) trapsize 5229
+\i (00:00:07) trapsize 11713
+\i (00:00:07) trapsize 12027
+\i (00:00:08) trapsize 11713
+\i (00:00:16) trapsize 9980
+\i (00:00:16) trapsize 10174
+\i (00:00:16) trapsize 10375
+\i (00:00:16) trapsize 10625
 \t (00:00:16) > Sending response DoneOpenBoard
 \i (00:00:16) generaledit 
-\i (00:00:30) drc update 
-\t (00:00:31) Performing DRC...
-\t (00:00:31) Multithreaded DRC update (4 threads).
-\t (00:00:31) No DRC errors detected.
-\i (00:00:31) generaledit 
-\i (00:00:32) status 
-\i (00:00:32) generaledit 
-\i (00:00:35) setwindow form.status
-\i (00:00:35) FORM status fromto_color 1 
-\i (00:00:35) setwindow pcb
-\i (00:00:35) reports ucn 
-\i (00:00:35) generaledit 
-\i (00:00:37) zoom center 
-\t (00:00:37) Pick center for the new display.
-\i (00:00:37) pick -2193.090,-6740.004 
-\t (00:00:37) last pick:  -2193.090 -6740.004
-\i (00:00:37) trapsize 5229
-\i (00:00:47) zoom center 
-\t (00:00:47) Pick center for the new display.
-\i (00:00:47) pick -2361.000,-63.000 
-\t (00:00:47) last pick:  -2361.000 -63.000
-\i (00:00:47) trapsize 5229
-\i (00:00:49) setwindow text
-\i (00:00:49) close
-\i (00:00:50) setwindow form.status
-\i (00:00:50) FORM status done  
-\i (00:00:50) setwindow pcb
-\i (00:00:50) zoom out 1 
-\i (00:00:50) setwindow pcb
-\i (00:00:50) zoom out -2228.700 -195.299
-\i (00:00:50) trapsize 10458
-\i (00:00:50) zoom out 1 
-\i (00:00:50) setwindow pcb
-\i (00:00:50) zoom out -2228.700 -195.299
-\i (00:00:50) trapsize 20917
-\i (00:00:50) zoom out 1 
-\i (00:00:50) setwindow pcb
-\i (00:00:50) zoom out -2228.700 -195.299
-\i (00:00:50) trapsize 41834
-\i (00:00:50) zoom out 1 
-\i (00:00:50) setwindow pcb
-\i (00:00:50) zoom out -2228.700 -195.299
-\i (00:00:50) trapsize 83668
-\i (00:00:51) zoom out 1 
-\i (00:00:51) setwindow pcb
-\i (00:00:51) zoom out -2355.247 -2738.800
-\i (00:00:51) trapsize 163399
-\i (00:00:51) zoom out 1 
-\i (00:00:51) setwindow pcb
-\i (00:00:51) zoom out 9684.113 -8863.452
-\i (00:00:51) trapsize 163399
-\i (00:00:52) zoom in 1 
+\i (00:00:19) prepopup -2139.664 -2601.579
+\i (00:00:21) pop dyn_option_select @:@Delete 
+\i (00:00:21) delete 
+\i (00:00:21) generaledit 
+\i (00:00:23) setwindow form.find
+\i (00:00:23) FORM find all_on  
+\i (00:00:24) setwindow pcb
+\i (00:00:24) add connect 
+\t (00:00:24) Pick first element.
+\i (00:00:25) zoom out 1 
+\i (00:00:25) setwindow pcb
+\i (00:00:25) zoom out -2186.416 -1893.930
+\i (00:00:25) trapsize 21251
+\i (00:00:25) zoom out 1 
+\i (00:00:25) setwindow pcb
+\i (00:00:25) zoom out -2292.669 -1974.684
+\i (00:00:25) trapsize 42501
+\i (00:00:25) zoom in 1 
+\i (00:00:25) setwindow pcb
+\i (00:00:25) zoom in -2122.663 -3011.718
+\i (00:00:25) trapsize 21251
+\i (00:00:26) zoom in 1 
+\i (00:00:26) setwindow pcb
+\i (00:00:26) zoom in -2007.909 -2765.210
+\i (00:00:26) trapsize 10625
+\i (00:00:26) zoom in 1 
+\i (00:00:26) setwindow pcb
+\i (00:00:26) zoom in -2007.909 -2765.209
+\i (00:00:26) trapsize 5313
+\i (00:00:27) pick grid -2292.668 -2755.646
+\t (00:00:27) last pick:  -2293.000 -2756.000
+\t (00:00:27) last pick:  -2293.000 -2765.000
+\t (00:00:27) Target Symbol Pin is defined from TOP to BOTTOM.
+\t (00:00:27) last pick:  -2293.000 -2765.000
+\i (00:00:31) setwindow form.mini
+\i (00:00:31) FORM mini acon_line_width 20.000 
+\i (00:00:34) setwindow pcb
+\i (00:00:34) pick grid -2143.913 -2716.332
+\t (00:00:34) last pick:  -2144.000 -2716.000
+\t (00:00:34) No DRC errors detected.
+\i (00:00:38) zoom out 1 
+\i (00:00:38) setwindow pcb
+\i (00:00:38) zoom out -2074.849 -2454.948
+\i (00:00:38) trapsize 10625
+\i (00:00:39) zoom out 1 
+\i (00:00:39) setwindow pcb
+\i (00:00:39) zoom out -2068.473 -2393.322
+\i (00:00:39) trapsize 21251
+\i (00:00:41) zoom in 1 
+\i (00:00:41) setwindow pcb
+\i (00:00:41) zoom in -1996.220 -2346.570
+\i (00:00:41) trapsize 10625
+\i (00:00:41) zoom in 1 
+\i (00:00:41) setwindow pcb
+\i (00:00:41) zoom in -1996.220 -2346.570
+\i (00:00:41) trapsize 5313
+\i (00:00:41) zoom in 1 
+\i (00:00:41) setwindow pcb
+\i (00:00:41) zoom in -1996.220 -2346.570
+\i (00:00:41) trapsize 2656
+\i (00:00:44) pick grid -2004.720 -2412.978
+\t (00:00:44) last pick:  -2005.000 -2413.000
+\t (00:00:44) No DRC errors detected.
+\i (00:00:46) roam y -96 
+\i (00:00:46) roam y -96
+\i (00:00:46) roam y -96 
+\i (00:00:46) roam y -96
+\i (00:00:46) roam y -96 
+\i (00:00:46) roam y -96
+\i (00:00:46) roam y -96 
+\i (00:00:46) roam y -96
+\i (00:00:46) roam y -96 
+\i (00:00:46) roam y -96
+\i (00:00:46) roam y -96 
+\i (00:00:46) roam y -96
+\i (00:00:46) roam y -96 
+\i (00:00:46) roam y -96
+\i (00:00:46) roam y -96 
+\i (00:00:46) roam y -96
+\i (00:00:46) roam y -96 
+\i (00:00:46) roam y -96
+\i (00:00:46) roam y -96 
+\i (00:00:46) roam y -96
+\i (00:00:46) roam y -96 
+\i (00:00:46) roam y -96
+\i (00:00:49) pick grid -2277.261 -1774.397
+\t (00:00:49) last pick:  -2277.000 -1774.000
+\t (00:00:49) No DRC errors detected.
+\i (00:00:50) roam y -96 
+\i (00:00:50) roam y -96
+\i (00:00:50) roam y -96 
+\i (00:00:50) roam y -96
+\i (00:00:52) zoom out 1 
 \i (00:00:52) setwindow pcb
-\i (00:00:52) zoom in -2570.789 -6085.674
-\i (00:00:52) trapsize 81699
-\i (00:00:52) zoom in 1 
+\i (00:00:52) zoom out -2373.951 -1630.954
+\i (00:00:52) trapsize 5313
+\i (00:00:52) zoom out 1 
 \i (00:00:52) setwindow pcb
-\i (00:00:52) zoom in -8534.842 -6085.674
-\i (00:00:52) trapsize 40850
+\i (00:00:52) zoom out -2377.139 -1638.392
+\i (00:00:52) trapsize 10625
+\i (00:00:52) zoom out 1 
+\i (00:00:52) setwindow pcb
+\i (00:00:52) zoom out -2389.890 -1666.017
+\i (00:00:52) trapsize 21251
+\i (00:00:52) zoom out 1 
+\i (00:00:52) setwindow pcb
+\i (00:00:52) zoom out -2406.891 -1712.769
+\i (00:00:52) trapsize 42501
 \i (00:00:53) zoom in 1 
 \i (00:00:53) setwindow pcb
-\i (00:00:53) zoom in -1753.796 -6682.079
-\i (00:00:53) trapsize 20425
-\i (00:00:56) zoom in 1 
-\i (00:00:56) setwindow pcb
-\i (00:00:56) zoom in -2133.698 -4570.151
-\i (00:00:56) trapsize 10212
-\i (00:00:56) zoom in 1 
-\i (00:00:56) setwindow pcb
-\i (00:00:56) zoom in -2133.698 -4570.151
-\i (00:00:56) trapsize 5106
-\i (00:00:56) zoom in 1 
-\i (00:00:56) setwindow pcb
-\i (00:00:56) zoom in -2233.780 -4848.950
-\i (00:00:56) trapsize 2553
-\i (00:01:01) zoom out 1 
-\i (00:01:01) setwindow pcb
-\i (00:01:01) zoom out -2225.609 -4836.184
-\i (00:01:01) trapsize 5106
-\i (00:01:02) zoom out 1 
-\i (00:01:02) setwindow pcb
-\i (00:01:02) zoom out -2225.609 -4836.183
-\i (00:01:02) trapsize 10212
-\i (00:01:06) zoom out 1 
-\i (00:01:06) setwindow pcb
-\i (00:01:06) zoom out -2225.610 -4836.183
-\i (00:01:06) trapsize 20425
+\i (00:00:53) zoom in -2585.398 -1483.262
+\i (00:00:53) trapsize 21251
+\i (00:00:53) zoom in 1 
+\i (00:00:53) setwindow pcb
+\i (00:00:53) zoom in -2585.397 -1483.261
+\i (00:00:53) trapsize 10625
+\i (00:00:55) zoom in 1 
+\i (00:00:55) setwindow pcb
+\i (00:00:55) zoom in -2506.770 -1544.888
+\i (00:00:55) trapsize 5313
+\i (00:00:56) pick grid -2503.582 -1547.013
+\t (00:00:56) last pick:  -2504.000 -1547.000
+\t (00:00:56) No DRC errors detected.
+\i (00:01:00) pick grid -2508.894 -1533.200
+\t (00:01:00) last pick:  -2509.000 -1533.000
+\t (00:01:00) No DRC errors detected.
+\i (00:01:00) mouse_pos -2508.894 -1533.200
+\i (00:01:00) mouse_pos -2507.832 -1522.574
+\i (00:01:01) roam y -96 
+\i (00:01:01) roam y -96
+\i (00:01:02) roam y -96 
+\i (00:01:02) roam y -96
+\i (00:01:02) roam y -96 
+\i (00:01:02) roam y -96
+\i (00:01:02) roam y -96 
+\i (00:01:02) roam y -96
+\i (00:01:02) roam y -96 
+\i (00:01:02) roam y -96
+\i (00:01:02) roam y -96 
+\i (00:01:02) roam y -96
+\i (00:01:03) roam y -96 
+\i (00:01:03) roam y -96
+\i (00:01:03) roam y -96 
+\i (00:01:03) roam y -96
+\i (00:01:03) roam y -96 
+\i (00:01:03) roam y -96
+\i (00:01:03) roam y -96 
+\i (00:01:03) roam y -96
+\i (00:01:04) roam y -96 
+\i (00:01:04) roam y -96
+\i (00:01:04) roam y -96 
+\i (00:01:04) roam y -96
+\i (00:01:04) roam y -96 
+\i (00:01:04) roam y -96
+\i (00:01:05) zoom out 1 
+\i (00:01:05) setwindow pcb
+\i (00:01:05) zoom out -2608.773 -265.595
+\i (00:01:05) trapsize 10625
+\i (00:01:05) zoom out 1 
+\i (00:01:05) setwindow pcb
+\i (00:01:05) zoom out -2536.520 -484.478
+\i (00:01:05) trapsize 21251
 \i (00:01:06) zoom in 1 
 \i (00:01:06) setwindow pcb
-\i (00:01:06) zoom in -2225.610 -4836.183
-\i (00:01:06) trapsize 10212
-\i (00:01:11) zoom in 1 
-\i (00:01:11) setwindow pcb
-\i (00:01:11) zoom in -2135.741 -4795.334
-\i (00:01:11) trapsize 5106
-\i (00:01:14) add connect 
-\t (00:01:14) Pick first element.
-\i (00:01:16) pick grid -2219.482 -4831.077
-\t (00:01:16) last pick:  -2219.000 -4831.000
-\t (00:01:16) last pick:  -2221.000 -4832.000
-\t (00:01:16) Target Via is defined from TOP to BOTTOM.
-\t (00:01:16) last pick:  -2221.000 -4832.000
-\i (00:01:16) pick grid dbl -2219.482 -4831.077
-\t (00:01:16) last pick:  -2219.000 -4831.000
-\t (00:01:16) VIA used for drill.
+\i (00:01:06) zoom in -2693.775 -118.965
+\i (00:01:06) trapsize 10625
+\i (00:01:07) mouse_pos -2613.022 -106.214
+\i (00:01:07) pick grid -2572.646 -87.089
+\t (00:01:07) last pick:  -2573.000 -87.000
+\t (00:01:07) No DRC errors detected.
+\t (00:01:07) Pick first element.
+\i (00:01:08) prepopup -2647.023 -104.089
+\i (00:01:08) done 
+\i (00:01:08) generaledit 
+\i (00:01:11) drag_start grid -2515.269 -329.347
+\i (00:01:11) slide 
+\t (00:01:11) last pick:  -2509.000 -329.000
+\t (00:01:11) Waiting for the destination pick.
+\i (00:01:12) drag_stop grid -2528.019 -331.472
+\t (00:01:12) No DRC errors detected.
+\i (00:01:12) generaledit 
+\i (00:01:13) drag_start grid -2477.017 -244.344
+\i (00:01:13) slide 
+\t (00:01:13) last pick:  -2484.000 -244.000
+\t (00:01:13) Waiting for the destination pick.
+\i (00:01:14) drag_stop grid -2487.643 -237.969
+\t (00:01:14) No DRC errors detected.
+\i (00:01:14) generaledit 
+\i (00:01:16) drag_start grid -2430.266 -420.725
+\i (00:01:16) slide 
+\t (00:01:16) last pick:  -2436.000 -421.000
+\t (00:01:16) Waiting for the destination pick.
+\i (00:01:16) drag_stop grid -2394.140 -420.725
 \t (00:01:16) No DRC errors detected.
-\i (00:01:20) setwindow form.mini
-\i (00:01:20) FORM mini acon_line_width 20.000 
-\i (00:01:23) setwindow pcb
-\i (00:01:23) pick grid -2139.826 -4748.356
-\t (00:01:23) last pick:  -2140.000 -4748.000
-\t (00:01:23) No DRC errors detected.
-\t (00:01:23) last pick:  -2140.000 -4751.000
-\i (00:01:24) roam y -96 
-\i (00:01:24) roam y -96
-\i (00:01:25) roam y -96 
-\i (00:01:25) roam y -96
-\i (00:01:25) roam y -96 
-\i (00:01:25) roam y -96
-\i (00:01:25) roam y -96 
-\i (00:01:25) roam y -96
-\i (00:01:25) roam y -96 
-\i (00:01:25) roam y -96
-\i (00:01:25) roam y -96 
-\i (00:01:25) roam y -96
-\i (00:01:25) roam y -96 
-\i (00:01:25) roam y -96
-\i (00:01:25) roam y -96 
-\i (00:01:25) roam y -96
-\i (00:01:26) roam y -96 
-\i (00:01:26) roam y -96
-\i (00:01:26) roam y -96 
-\i (00:01:26) roam y -96
-\i (00:01:26) roam y -96 
-\i (00:01:26) roam y -96
-\i (00:01:26) roam y -96 
-\i (00:01:26) roam y -96
-\i (00:01:26) roam y -96 
-\i (00:01:26) roam y -96
-\i (00:01:27) roam y -96 
-\i (00:01:27) roam y -96
-\i (00:01:27) roam y -96 
-\i (00:01:27) roam y -96
-\i (00:01:27) roam y -96 
-\i (00:01:27) roam y -96
-\i (00:01:28) roam y -96 
-\i (00:01:28) roam y -96
-\i (00:01:28) roam y -96 
-\i (00:01:28) roam y -96
-\i (00:01:29) roam y -96 
-\i (00:01:29) roam y -96
-\i (00:01:30) roam y -96 
-\i (00:01:30) roam y -96
-\i (00:01:30) roam y -96 
-\i (00:01:30) roam y -96
-\i (00:01:32) mouse_pos -2051.999 -2518.473
-\i (00:01:32) mouse_pos -2025.446 -2505.196
-\i (00:01:33) mouse_pos -2005.022 -2436.773
-\i (00:01:33) pick grid -2007.064 -2430.646
-\t (00:01:33) last pick:  -2007.000 -2431.000
-\t (00:01:33) No DRC errors detected.
-\t (00:01:33) Pick first element.
-\i (00:01:33) prepopup -2001.958 -2465.368
-\i (00:01:34) done 
-\i (00:01:34) generaledit 
-\i (00:01:35) prepopup -2034.638 -2481.708
-\i (00:01:35) pop dyn_option_select @:@Copy 
-\i (00:01:35) copy 
-\t (00:01:35) last pick:  -2035.000 -2482.000
-\t (00:01:35) last pick:  -2035.000 -2482.000
-\i (00:01:36) paste 
-\i (00:01:36) prepopup -2034.638 -2481.708
-\i (00:01:37) cancel 
-\i (00:01:37) generaledit 
-\i (00:01:37) prepopup -2038.723 -2469.453
-\i (00:01:38) pop dyn_option_select @:@Delete 
-\i (00:01:38) delete 
-\i (00:01:38) generaledit 
-\i (00:01:39) drag_start grid -2042.808 -2443.922
-\i (00:01:39) slide 
-\t (00:01:39) last pick:  -2044.000 -2442.000
-\t (00:01:39) Waiting for the destination pick.
-\i (00:01:42) drag_stop grid -2055.062 -2500.090
-\t (00:01:42) No DRC errors detected.
-\i (00:01:42) generaledit 
-\i (00:01:43) drag_start grid -2216.419 -2520.515
-\i (00:01:43) slide 
-\t (00:01:43) last pick:  -2219.000 -2521.000
-\t (00:01:43) Waiting for the destination pick.
-\i (00:01:45) drag_stop grid -2246.035 -2519.494
-\t (00:01:45) No DRC errors detected.
-\i (00:01:45) generaledit 
-\i (00:01:45) zoom out 1 
-\i (00:01:45) setwindow pcb
-\i (00:01:45) zoom out -2126.549 -2607.321
-\i (00:01:45) trapsize 10212
-\i (00:01:46) zoom in 1 
-\i (00:01:46) setwindow pcb
-\i (00:01:46) zoom in -1899.834 -2384.689
-\i (00:01:46) trapsize 5106
-\i (00:01:46) zoom in 1 
-\i (00:01:46) setwindow pcb
-\i (00:01:46) zoom in -1899.835 -2384.689
-\i (00:01:46) trapsize 2553
+\i (00:01:16) generaledit 
+\i (00:01:17) drag_start grid -2464.267 -407.974
+\i (00:01:17) slide 
+\t (00:01:18) last pick:  -2461.000 -408.000
+\t (00:01:18) Waiting for the destination pick.
+\i (00:01:18) drag_stop grid -2415.390 -416.475
+\t (00:01:18) No DRC errors detected.
+\i (00:01:18) generaledit 
+\i (00:01:19) zoom out 1 
+\i (00:01:19) setwindow pcb
+\i (00:01:19) zoom out -2430.266 -437.725
+\i (00:01:19) trapsize 21251
+\i (00:01:19) zoom in 1 
+\i (00:01:19) setwindow pcb
+\i (00:01:19) zoom in -2392.014 -1861.524
+\i (00:01:19) trapsize 10625
+\i (00:01:20) zoom in 1 
+\i (00:01:20) setwindow pcb
+\i (00:01:20) zoom in -1879.872 -2071.906
+\i (00:01:20) trapsize 5313
+\i (00:01:21) zoom out 1 
+\i (00:01:21) setwindow pcb
+\i (00:01:21) zoom out -1896.872 -1959.277
+\i (00:01:21) trapsize 10625
+\i (00:01:21) zoom out 1 
+\i (00:01:21) setwindow pcb
+\i (00:01:21) zoom out -1956.375 -1695.767
+\i (00:01:21) trapsize 21251
+\i (00:01:21) zoom out 1 
+\i (00:01:21) setwindow pcb
+\i (00:01:21) zoom out -1956.375 -1695.767
+\i (00:01:21) trapsize 42501
+\i (00:01:22) zoom in 1 
+\i (00:01:22) setwindow pcb
+\i (00:01:22) zoom in -2160.382 -1185.750
+\i (00:01:22) trapsize 21251
+\i (00:01:22) zoom in 1 
+\i (00:01:22) setwindow pcb
+\i (00:01:22) zoom in -2160.381 -1185.750
+\i (00:01:22) trapsize 10625
+\i (00:01:27) shape edit boundary 
+\i (00:01:30) zoom in 1 
+\i (00:01:30) setwindow pcb
+\i (00:01:30) zoom in -2462.141 -688.483
+\i (00:01:30) trapsize 5313
+\i (00:01:30) pick grid -2305.948 -818.112
+\t (00:01:30) last pick:  -2306.000 -818.000
+\t (00:01:30) Pick the edit starting point on the shape boundary.
+\i (00:01:31) zoom in 1 
+\i (00:01:31) setwindow pcb
+\i (00:01:31) zoom in -2371.825 -789.423
+\i (00:01:31) trapsize 2656
+\i (00:01:31) zoom in 1 
+\i (00:01:31) setwindow pcb
+\i (00:01:31) zoom in -2371.293 -789.423
+\i (00:01:31) trapsize 1328
+\i (00:01:33) pick grid -2341.011 -747.719
+\t (00:01:33) last pick:  -2341.000 -748.000
+\t (00:01:33) Pick the next vertex or the closing point on the shape.
+\i (00:01:34) pick grid -2338.355 -848.659
+\t (00:01:34) last pick:  -2338.000 -849.000
+\t (00:01:34) Pick DONE or a start point on another shape or void boundary.
+\i (00:01:35) prepopup -2327.729 -829.002
+\i (00:01:36) done 
+\i (00:01:36) generaledit 
+\i (00:01:36) zoom out 1 
+\i (00:01:36) setwindow pcb
+\i (00:01:36) zoom out -2329.323 -827.674
+\i (00:01:36) trapsize 2656
+\i (00:01:36) zoom out 1 
+\i (00:01:36) setwindow pcb
+\i (00:01:36) zoom out -2329.323 -827.674
+\i (00:01:36) trapsize 5313
+\i (00:01:38) zoom out 1 
+\i (00:01:38) setwindow pcb
+\i (00:01:38) zoom out -2308.072 -857.426
+\i (00:01:38) trapsize 10625
+\i (00:01:38) zoom out 1 
+\i (00:01:38) setwindow pcb
+\i (00:01:38) zoom out -2314.447 -857.425
+\i (00:01:38) trapsize 21251
+\i (00:01:42) prepopup 1.881 -275.156
+\i (00:01:43) pick grid 31.632 13.854
+\t (00:01:43) last pick:  32.000 14.000
+\i (00:01:44) zoom in 1 
+\i (00:01:44) setwindow pcb
+\i (00:01:44) zoom in 27.382 -198.653
+\i (00:01:44) trapsize 10625
+\i (00:01:45) save 
+\i (00:01:46) fillin yes 
+\t (00:01:46) > Sending response DoneOpenBoard
+\i (00:01:46) generaledit 
 \i (00:01:46) zoom out 1 
 \i (00:01:46) setwindow pcb
-\i (00:01:46) zoom out -1954.981 -2424.006
-\i (00:01:46) trapsize 5106
+\i (00:01:46) zoom out -1655.674 -205.028
+\i (00:01:46) trapsize 21251
 \i (00:01:46) zoom out 1 
 \i (00:01:46) setwindow pcb
-\i (00:01:46) zoom out -1972.343 -2446.474
-\i (00:01:46) trapsize 10212
+\i (00:01:46) zoom out -1659.925 -200.778
+\i (00:01:46) trapsize 42501
 \i (00:01:47) zoom in 1 
 \i (00:01:47) setwindow pcb
-\i (00:01:47) zoom in -2101.020 -2605.788
-\i (00:01:47) trapsize 5106
+\i (00:01:47) zoom in -1311.413 -2682.863
+\i (00:01:47) trapsize 21251
+\i (00:01:47) zoom out 1 
+\i (00:01:47) setwindow pcb
+\i (00:01:47) zoom out -1324.164 -2691.363
+\i (00:01:47) trapsize 42501
+\i (00:01:47) zoom out 1 
+\i (00:01:47) setwindow pcb
+\i (00:01:47) zoom out -1324.163 -2691.362
+\i (00:01:47) trapsize 85003
+\i (00:01:48) zoom in 1 
+\i (00:01:48) setwindow pcb
+\i (00:01:48) zoom in -4890.748 -2895.370
+\i (00:01:48) trapsize 42501
+\i (00:01:49) zoom in 1 
+\i (00:01:49) setwindow pcb
+\i (00:01:49) zoom in -2799.677 -3005.874
+\i (00:01:49) trapsize 21251
+\i (00:01:49) zoom in 1 
+\i (00:01:49) setwindow pcb
+\i (00:01:49) zoom in -2795.427 -3005.873
+\i (00:01:49) trapsize 10625
 \i (00:01:50) zoom in 1 
 \i (00:01:50) setwindow pcb
-\i (00:01:50) zoom in -2118.381 -2497.536
-\i (00:01:50) trapsize 2553
+\i (00:01:50) zoom in -3460.574 -2801.866
+\i (00:01:50) trapsize 5313
+\i (00:01:50) zoom out 1 
+\i (00:01:50) setwindow pcb
+\i (00:01:50) zoom out -3420.198 -2880.494
+\i (00:01:50) trapsize 10625
+\i (00:01:50) zoom out 1 
+\i (00:01:50) setwindow pcb
+\i (00:01:50) zoom out -3420.197 -2880.494
+\i (00:01:50) trapsize 21251
 \i (00:01:51) zoom out 1 
 \i (00:01:51) setwindow pcb
-\i (00:01:51) zoom out -2134.210 -2591.490
-\i (00:01:51) trapsize 5106
+\i (00:01:51) zoom out -5073.504 -2837.992
+\i (00:01:51) trapsize 42501
+\i (00:01:52) zoom in 1 
+\i (00:01:52) setwindow pcb
+\i (00:01:52) zoom in -5532.519 -2956.995
+\i (00:01:52) trapsize 21251
+\i (00:01:52) zoom in 1 
+\i (00:01:52) setwindow pcb
+\i (00:01:52) zoom in -5532.518 -2956.995
+\i (00:01:52) trapsize 10625
 \i (00:01:52) zoom out 1 
 \i (00:01:52) setwindow pcb
-\i (00:01:52) zoom out -2134.210 -2591.490
-\i (00:01:52) trapsize 10212
-\i (00:01:55) prepopup -2148.507 -2983.647
-\i (00:02:00) pop dyn_option_select @:@Delete 
-\i (00:02:00) delete 
-\i (00:02:00) generaledit 
-\i (00:02:02) undo 
-\i (00:02:02) trapsize 10212
-\i (00:02:02) generaledit 
-\i (00:02:03) zoom in 1 
-\i (00:02:03) setwindow pcb
-\i (00:02:03) zoom in -2109.700 -2869.268
-\i (00:02:03) trapsize 5106
-\i (00:02:03) zoom in 1 
-\i (00:02:03) setwindow pcb
-\i (00:02:03) zoom in -2109.700 -2869.268
-\i (00:02:03) trapsize 2553
-\i (00:02:03) zoom out 1 
-\i (00:02:03) setwindow pcb
-\i (00:02:03) zoom out -2118.380 -2921.861
-\i (00:02:03) trapsize 5106
-\i (00:02:03) zoom out 1 
-\i (00:02:03) setwindow pcb
-\i (00:02:03) zoom out -2118.380 -2921.862
-\i (00:02:03) trapsize 10212
-\i (00:02:04) zoom out 1 
-\i (00:02:04) setwindow pcb
-\i (00:02:04) zoom out -2093.870 -3148.578
-\i (00:02:04) trapsize 20425
-\i (00:02:05) zoom out 1 
-\i (00:02:05) setwindow pcb
-\i (00:02:05) zoom out -2093.871 -3148.577
-\i (00:02:05) trapsize 40850
-\i (00:02:05) zoom in 1 
-\i (00:02:05) setwindow pcb
-\i (00:02:05) zoom in -2216.420 -3385.506
-\i (00:02:05) trapsize 20425
-\i (00:02:05) zoom in 1 
-\i (00:02:05) setwindow pcb
-\i (00:02:05) zoom in -2216.420 -3385.505
-\i (00:02:05) trapsize 10212
-\i (00:02:06) zoom out 1 
-\i (00:02:06) setwindow pcb
-\i (00:02:06) zoom out -2134.720 -3260.913
-\i (00:02:06) trapsize 20425
-\i (00:02:09) prepopup -2146.975 -3456.992
-\i (00:02:10) pop dyn_option_select @:@Delete 
-\i (00:02:10) delete 
-\i (00:02:10) generaledit 
-\i (00:02:10) zoom out 1 
-\i (00:02:10) setwindow pcb
-\i (00:02:10) zoom out -1930.472 -2995.390
-\i (00:02:10) trapsize 40850
-\i (00:02:10) zoom out 1 
-\i (00:02:10) setwindow pcb
-\i (00:02:10) zoom out -1930.472 -2995.390
-\i (00:02:10) trapsize 81699
-\i (00:02:11) zoom in 1 
-\i (00:02:11) setwindow pcb
-\i (00:02:11) zoom in -2358.361 -4939.836
-\i (00:02:11) trapsize 40850
-\i (00:02:12) zoom in 1 
-\i (00:02:12) setwindow pcb
-\i (00:02:12) zoom in -2627.968 -3796.044
-\i (00:02:12) trapsize 20425
-\i (00:02:13) zoom in 1 
-\i (00:02:13) setwindow pcb
-\i (00:02:13) zoom in -2558.523 -3853.233
-\i (00:02:13) trapsize 10212
-\i (00:02:13) zoom in 1 
-\i (00:02:13) setwindow pcb
-\i (00:02:13) zoom in -2558.523 -3853.233
-\i (00:02:13) trapsize 5106
-\i (00:02:14) drag_start grid -2068.326 -3493.755
-\i (00:02:14) slide 
-\t (00:02:14) last pick:  -2070.000 -3494.000
-\t (00:02:14) Waiting for the destination pick.
-\i (00:02:14) updateport CVPane
-\i (00:02:15) drag_stop grid -2001.946 -3502.947
-\t (00:02:15) No DRC errors detected.
-\i (00:02:15) generaledit 
-\i (00:02:15) zoom out 1 
-\i (00:02:15) setwindow pcb
-\i (00:02:15) zoom out -2001.946 -3503.968
-\i (00:02:15) trapsize 10212
-\i (00:02:15) zoom out 1 
-\i (00:02:15) setwindow pcb
-\i (00:02:15) zoom out -2001.945 -3503.967
-\i (00:02:15) trapsize 20425
-\i (00:02:15) zoom out 1 
-\i (00:02:15) setwindow pcb
-\i (00:02:15) zoom out -2001.946 -3503.967
-\i (00:02:15) trapsize 40850
-\i (00:02:16) zoom in 1 
-\i (00:02:16) setwindow pcb
-\i (00:02:16) zoom in -1903.906 -2539.914
-\i (00:02:16) trapsize 20425
-\i (00:02:16) zoom in 1 
-\i (00:02:16) setwindow pcb
-\i (00:02:16) zoom in -1903.906 -2539.914
-\i (00:02:16) trapsize 10212
-\i (00:02:19) zoom in 1 
-\i (00:02:19) setwindow pcb
-\i (00:02:19) zoom in -1920.245 -2715.568
-\i (00:02:19) trapsize 5106
-\i (00:02:20) drag_start grid -1968.244 -2730.887
-\i (00:02:20) slide 
-\t (00:02:20) last pick:  -1966.000 -2731.000
-\t (00:02:20) Waiting for the destination pick.
-\i (00:02:21) drag_stop grid -1931.479 -2732.929
-\t (00:02:21) No DRC errors detected.
-\i (00:02:21) generaledit 
-\i (00:02:22) drag_start grid -1998.881 -2987.218
-\i (00:02:22) slide 
-\t (00:02:22) last pick:  -2002.000 -2987.000
-\t (00:02:22) Waiting for the destination pick.
-\i (00:02:23) drag_stop grid -1932.501 -2990.282
-\t (00:02:23) No DRC errors detected.
-\i (00:02:24) generaledit 
-\i (00:02:24) zoom out 1 
-\i (00:02:24) setwindow pcb
-\i (00:02:24) zoom out -1963.138 -2981.091
-\i (00:02:24) trapsize 10212
-\i (00:02:24) zoom out 1 
-\i (00:02:24) setwindow pcb
-\i (00:02:24) zoom out -1963.138 -2981.091
-\i (00:02:24) trapsize 20425
-\i (00:02:25) roam y 96 
-\i (00:02:25) roam y 96
-\i (00:02:26) roam y 96 
-\i (00:02:26) roam y 96
-\i (00:02:26) roam y 96 
-\i (00:02:26) roam y 96
-\i (00:02:27) zoom in 1 
-\i (00:02:27) setwindow pcb
-\i (00:02:27) zoom in -2269.510 -3201.681
-\i (00:02:27) trapsize 10212
-\i (00:02:28) drag_start grid -2132.664 -3471.288
-\i (00:02:28) slide 
-\t (00:02:28) last pick:  -2141.000 -3471.000
-\t (00:02:28) Waiting for the destination pick.
-\t (00:02:28) New cline would result in DRC error(s); retaining old cline.
-\i (00:02:29) drag_stop grid -2167.386 -3465.161
-\t (00:02:29) DRC errors detected.
-\i (00:02:29) generaledit 
-\i (00:02:30) drag_start grid -2202.108 -3467.203
-\i (00:02:30) slide 
-\t (00:02:30) last pick:  -2193.000 -3467.000
-\t (00:02:30) Waiting for the destination pick.
-\i (00:02:33) drag_stop grid -2216.406 -3438.609
-\t (00:02:33) No DRC errors detected.
-\i (00:02:33) generaledit 
-\i (00:02:34) roam x -96 
-\i (00:02:34) roam x -96
-\i (00:02:35) zoom out 1 
-\i (00:02:35) setwindow pcb
-\i (00:02:35) zoom out -2411.466 -3438.609
-\i (00:02:35) trapsize 20425
-\i (00:02:35) zoom out 1 
-\i (00:02:35) setwindow pcb
-\i (00:02:35) zoom out -2411.466 -3438.608
-\i (00:02:35) trapsize 40850
-\i (00:02:35) zoom in 1 
-\i (00:02:35) setwindow pcb
-\i (00:02:35) zoom in -2215.388 -4582.400
-\i (00:02:35) trapsize 20425
-\i (00:02:36) zoom in 1 
-\i (00:02:36) setwindow pcb
-\i (00:02:36) zoom in -2084.669 -4811.158
-\i (00:02:36) trapsize 10212
-\i (00:02:36) zoom in 1 
-\i (00:02:36) setwindow pcb
-\i (00:02:36) zoom in -2082.626 -4811.158
-\i (00:02:36) trapsize 5106
-\i (00:02:39) drag_start grid -2165.347 -4694.736
-\i (00:02:39) drag_stop -2154.114 -4694.736
-\i (00:02:40) drag_start grid -2166.368 -4816.264
-\i (00:02:41) drag_stop grid -2146.965 -4819.328
-\i (00:02:41) pick grid -2117.349 -4806.052
-\t (00:02:41) last pick:  -2117.000 -4806.000
-\i (00:02:42) drag_start grid -2166.368 -4813.200
-\i (00:02:42) slide 
-\t (00:02:42) last pick:  -2167.000 -4813.000
-\t (00:02:42) Waiting for the destination pick.
-\i (00:02:43) drag_stop grid -2143.901 -4815.243
-\t (00:02:43) No DRC errors detected.
-\i (00:02:43) generaledit 
-\i (00:02:45) pick grid -2136.752 -4749.883
-\t (00:02:45) last pick:  -2137.000 -4750.000
-\i (00:02:47) add connect 
-\t (00:02:47) Pick first element.
-\t (00:02:47) last pick:  -2141.090 -4749.883
-\i (00:02:48) prepopup -2178.623 -4736.607
-\i (00:02:49) cancel 
-\i (00:02:49) generaledit 
-\i (00:02:50) prepopup -2161.262 -4758.053
-\i (00:02:52) pop dyn_option_select @:@Delete 
-\i (00:02:52) delete 
-\i (00:02:52) generaledit 
-\i (00:02:53) add connect 
-\t (00:02:53) Pick first element.
-\i (00:02:55) setwindow form.mini
-\i (00:02:55) FORM mini active_subclass TOP 
-\t (00:02:55) Pick first element.
-\i (00:02:56) setwindow pcb
-\i (00:02:56) pick grid -2213.346 -4830.561
-\t (00:02:56) last pick:  -2213.000 -4831.000
-\t (00:02:56) last pick:  -2221.000 -4832.000
-\t (00:02:56) Target Odd-angle Line Segment is defined on TOP.
-\t (00:02:56) last pick:  -2221.000 -4832.000
-\i (00:02:58) pick grid -2141.859 -4793.797
-\t (00:02:58) last pick:  -2142.000 -4794.000
-\t (00:02:58) No DRC errors detected.
-\i (00:03:00) roam y -96 
-\i (00:03:00) roam y -96
-\i (00:03:00) roam y -96 
-\i (00:03:00) roam y -96
-\i (00:03:00) roam y -96 
-\i (00:03:00) roam y -96
-\i (00:03:00) roam y -96 
-\i (00:03:00) roam y -96
-\i (00:03:00) roam y -96 
-\i (00:03:00) roam y -96
-\i (00:03:00) roam y -96 
-\i (00:03:00) roam y -96
-\i (00:03:00) roam y -96 
-\i (00:03:00) roam y -96
-\i (00:03:01) roam y -96 
-\i (00:03:01) roam y -96
-\i (00:03:01) roam y -96 
-\i (00:03:01) roam y -96
-\i (00:03:01) roam y -96 
-\i (00:03:01) roam y -96
-\i (00:03:04) pick grid -2099.988 -3446.782
-\t (00:03:04) last pick:  -2100.000 -3447.000
-\t (00:03:04) No DRC errors detected.
-\i (00:03:04) pick grid dbl -2099.988 -3446.782
-\t (00:03:04) last pick:  -2100.000 -3447.000
-\t (00:03:04) VIA used for drill.
-\t (00:03:04) No DRC errors detected.
-\i (00:03:08) setwindow form.mini
-\i (00:03:08) FORM mini active_subclass 'PWR LAYER' 
-\i (00:03:09) setwindow pcb
-\i (00:03:09) roam y -96 
-\i (00:03:09) roam y -96
-\i (00:03:09) roam y -96 
-\i (00:03:09) roam y -96
-\i (00:03:09) roam y -96 
-\i (00:03:09) roam y -96
-\i (00:03:09) roam y -96 
-\i (00:03:09) roam y -96
-\i (00:03:11) pick grid -1975.396 -3045.434
-\t (00:03:11) last pick:  -1975.000 -3045.000
-\t (00:03:11) No DRC errors detected.
-\i (00:03:12) roam y -96 
-\i (00:03:12) roam y -96
-\i (00:03:12) roam y -96 
-\i (00:03:12) roam y -96
-\i (00:03:13) roam y -96 
-\i (00:03:13) roam y -96
-\i (00:03:13) roam y -96 
-\i (00:03:13) roam y -96
-\i (00:03:17) zoom out 1 
-\i (00:03:17) setwindow pcb
-\i (00:03:17) zoom out -1964.163 -2679.829
-\i (00:03:17) trapsize 10212
-\i (00:03:18) mouse_pos -1900.845 -2377.541
-\i (00:03:19) mouse_pos -1915.142 -2385.711
-\i (00:03:20) pick grid -1919.227 -2540.939
-\t (00:03:20) last pick:  -1919.000 -2541.000
-\t (00:03:20) No DRC errors detected.
-\i (00:03:21) mouse_pos -1913.100 -2377.541
-\i (00:03:21) pick grid -1913.100 -2342.818
-\t (00:03:21) last pick:  -1913.000 -2343.000
-\t (00:03:21) No DRC errors detected.
-\t (00:03:21) Pick first element.
-\i (00:03:22) prepopup -1888.590 -2371.413
-\i (00:03:22) done 
-\i (00:03:22) generaledit 
-\i (00:03:24) prepopup -2029.522 -2420.433
-\i (00:03:25) pop dyn_option_select @:@Delete 
-\i (00:03:25) delete 
-\i (00:03:25) generaledit 
-\i (00:03:25) prepopup -2023.394 -2483.750
-\i (00:03:27) pop dyn_option_select @:@Delete 
-\i (00:03:27) delete 
-\i (00:03:27) generaledit 
-\i (00:03:27) prepopup -2009.097 -2400.008
-\i (00:03:28) pop dyn_option_select @:@Delete 
-\i (00:03:28) delete 
-\i (00:03:28) generaledit 
-\i (00:03:29) prepopup -2009.097 -2432.688
-\i (00:03:30) pop dyn_option_select @:@Delete 
-\i (00:03:30) delete 
-\i (00:03:30) generaledit 
-\i (00:03:31) zoom in 1 
-\i (00:03:31) setwindow pcb
-\i (00:03:31) zoom in -1939.652 -2361.201
-\i (00:03:31) trapsize 5106
-\i (00:03:32) prepopup -1944.759 -2366.307
-\i (00:03:33) pop dyn_option_select @:@Delete 
-\i (00:03:33) delete 
-\i (00:03:33) generaledit 
-\i (00:03:33) zoom in 1 
-\i (00:03:33) setwindow pcb
-\i (00:03:33) zoom in -1930.461 -2344.861
-\i (00:03:33) trapsize 2553
-\i (00:03:33) zoom in 1 
-\i (00:03:33) setwindow pcb
-\i (00:03:33) zoom in -1930.461 -2344.861
-\i (00:03:33) trapsize 1277
-\i (00:03:34) prepopup -1939.397 -2367.584
-\i (00:03:35) pop dyn_option_select @:@Delete 
-\i (00:03:35) delete 
-\i (00:03:35) generaledit 
-\i (00:03:35) zoom out 1 
-\i (00:03:35) setwindow pcb
-\i (00:03:35) zoom out -1973.609 -2344.606
-\i (00:03:35) trapsize 2553
-\i (00:03:35) zoom out 1 
-\i (00:03:35) setwindow pcb
-\i (00:03:35) zoom out -1973.609 -2344.605
-\i (00:03:35) trapsize 5106
-\i (00:03:36) drag_start grid -1949.100 -2528.429
-\i (00:03:36) slide 
-\t (00:03:36) last pick:  -1955.000 -2520.000
-\t (00:03:36) Waiting for the destination pick.
-\i (00:03:37) drag_stop grid -2002.204 -2462.048
-\t (00:03:37) No DRC errors detected.
-\i (00:03:37) generaledit 
-\i (00:03:38) drag_start grid -2000.162 -2521.280
-\i (00:03:38) slide 
-\t (00:03:38) last pick:  -2001.000 -2521.000
-\t (00:03:38) Waiting for the destination pick.
-\i (00:03:39) drag_stop grid -2019.565 -2513.110
-\t (00:03:39) No DRC errors detected.
-\i (00:03:39) generaledit 
-\i (00:03:41) drag_start grid -2103.307 -2482.473
-\i (00:03:41) slide 
-\t (00:03:41) last pick:  -2108.000 -2478.000
-\t (00:03:41) Waiting for the destination pick.
-\i (00:03:41) updateport CVPane
-\i (00:03:42) drag_stop grid -2114.541 -2464.090
-\t (00:03:42) No DRC errors detected.
-\i (00:03:42) generaledit 
-\i (00:03:43) drag_start grid -2159.475 -2559.066
-\i (00:03:43) slide 
-\t (00:03:43) last pick:  -2160.000 -2559.000
-\t (00:03:43) Waiting for the destination pick.
-\i (00:03:44) drag_stop grid -2142.114 -2563.151
-\t (00:03:44) No DRC errors detected.
-\i (00:03:44) generaledit 
-\i (00:03:44) zoom out 1 
-\i (00:03:44) setwindow pcb
-\i (00:03:44) zoom out -2217.686 -2599.916
-\i (00:03:44) trapsize 10212
-\i (00:03:44) zoom out 1 
-\i (00:03:44) setwindow pcb
-\i (00:03:44) zoom out -2217.687 -2599.915
-\i (00:03:44) trapsize 20425
-\i (00:03:45) zoom in 1 
-\i (00:03:45) setwindow pcb
-\i (00:03:45) zoom in -1903.144 -2648.934
-\i (00:03:45) trapsize 10212
-\i (00:03:47) save 
-\i (00:03:48) fillin yes 
-\t (00:03:48) > Sending response DoneOpenBoard
-\i (00:03:48) generaledit 
-\i (00:03:48) zoom out 1 
-\i (00:03:48) setwindow pcb
-\i (00:03:48) zoom out -2044.075 -2861.352
-\i (00:03:48) trapsize 20425
-\i (00:03:49) zoom out 1 
-\i (00:03:49) setwindow pcb
-\i (00:03:49) zoom out -2035.905 -2820.503
-\i (00:03:49) trapsize 40850
-\i (00:03:51) zoom out 1 
-\i (00:03:51) setwindow pcb
-\i (00:03:51) zoom out 251.678 -3849.914
-\i (00:03:51) trapsize 81699
-\i (00:03:52) zoom in 1 
-\i (00:03:52) setwindow pcb
-\i (00:03:52) zoom in -2603.459 -5108.086
-\i (00:03:52) trapsize 40850
-\i (00:03:53) zoom in 1 
-\i (00:03:53) setwindow pcb
-\i (00:03:53) zoom in -2922.086 -2542.724
-\i (00:03:53) trapsize 20425
-\i (00:03:54) zoom in 1 
-\i (00:03:54) setwindow pcb
-\i (00:03:54) zoom in -2983.361 -2252.691
-\i (00:03:54) trapsize 10212
-\i (00:03:54) zoom in 1 
-\i (00:03:54) setwindow pcb
-\i (00:03:54) zoom in -2983.360 -2252.691
-\i (00:03:54) trapsize 5106
-\i (00:03:54) zoom out 1 
-\i (00:03:54) setwindow pcb
-\i (00:03:54) zoom out -2809.749 -2348.688
-\i (00:03:54) trapsize 10212
-\i (00:03:54) zoom out 1 
-\i (00:03:54) setwindow pcb
-\i (00:03:54) zoom out -2809.750 -2348.688
-\i (00:03:54) trapsize 20425
-\i (00:03:55) zoom in 1 
-\i (00:03:55) setwindow pcb
-\i (00:03:55) zoom in -2221.514 -2181.203
-\i (00:03:55) trapsize 10212
-\i (00:03:55) zoom in 1 
-\i (00:03:55) setwindow pcb
-\i (00:03:55) zoom in -2266.449 -2358.899
-\i (00:03:55) trapsize 5106
-\i (00:03:56) zoom in 1 
-\i (00:03:56) setwindow pcb
-\i (00:03:56) zoom in -2295.044 -2396.685
-\i (00:03:56) trapsize 2553
-\i (00:03:58) zoom out 1 
-\i (00:03:58) setwindow pcb
-\i (00:03:58) zoom out -2129.092 -2290.986
-\i (00:03:58) trapsize 5106
-\i (00:03:58) zoom out 1 
-\i (00:03:58) setwindow pcb
-\i (00:03:58) zoom out -2129.092 -2290.987
-\i (00:03:58) trapsize 10212
-\i (00:03:59) zoom out 1 
-\i (00:03:59) setwindow pcb
-\i (00:03:59) zoom out -2129.092 -2290.986
-\i (00:03:59) trapsize 20425
-\i (00:04:00) zoom out 1 
-\i (00:04:00) setwindow pcb
-\i (00:04:00) zoom out -2129.091 -2290.987
-\i (00:04:00) trapsize 40850
-\i (00:04:00) zoom out 1 
-\i (00:04:00) setwindow pcb
-\i (00:04:00) zoom out -1516.346 -1849.809
-\i (00:04:00) trapsize 81699
-\i (00:04:01) zoom in 1 
-\i (00:04:01) setwindow pcb
-\i (00:04:01) zoom in -3028.296 -591.639
-\i (00:04:01) trapsize 40850
-\i (00:04:02) zoom in 1 
-\i (00:04:02) setwindow pcb
-\i (00:04:02) zoom in -2464.570 -1523.012
-\i (00:04:02) trapsize 20425
-\i (00:04:02) zoom in 1 
-\i (00:04:02) setwindow pcb
-\i (00:04:02) zoom in -2468.655 -1510.757
-\i (00:04:02) trapsize 10212
-\i (00:04:03) zoom in 1 
-\i (00:04:03) setwindow pcb
-\i (00:04:03) zoom in -2864.897 -1514.842
-\i (00:04:03) trapsize 5106
-\i (00:04:03) zoom in 1 
-\i (00:04:03) setwindow pcb
-\i (00:04:03) zoom in -2864.897 -1514.842
-\i (00:04:03) trapsize 2553
-\i (00:04:05) drag_start grid -2718.859 -1534.245
-\i (00:04:05) slide 
-\t (00:04:05) last pick:  -2714.000 -1534.000
-\t (00:04:05) Waiting for the destination pick.
-\i (00:04:07) drag_stop grid -2611.629 -1540.883
-\t (00:04:07) No DRC errors detected.
-\i (00:04:07) generaledit 
-\i (00:04:07) zoom out 1 
-\i (00:04:07) setwindow pcb
-\i (00:04:07) zoom out -2611.629 -1541.394
-\i (00:04:07) trapsize 5106
-\i (00:04:07) zoom out 1 
-\i (00:04:07) setwindow pcb
-\i (00:04:07) zoom out -2611.628 -1541.393
-\i (00:04:07) trapsize 10212
-\i (00:04:07) zoom out 1 
-\i (00:04:07) setwindow pcb
-\i (00:04:07) zoom out -2611.628 -1541.393
-\i (00:04:07) trapsize 20425
-\i (00:04:08) zoom in 1 
-\i (00:04:08) setwindow pcb
-\i (00:04:08) zoom in -2342.021 -1304.465
-\i (00:04:08) trapsize 10212
-\i (00:04:09) drag_start grid -2619.798 -1402.504
-\i (00:04:09) slide 
-\t (00:04:09) last pick:  -2612.000 -1403.000
-\t (00:04:09) Waiting for the destination pick.
-\t (00:04:09) New cline would result in DRC error(s); retaining old cline.
-\i (00:04:10) drag_stop grid -2517.674 -1402.504
-\t (00:04:10) No DRC errors detected.
-\i (00:04:10) generaledit 
-\i (00:04:11) zoom in 1 
-\i (00:04:11) setwindow pcb
-\i (00:04:11) zoom in -2254.193 -2217.456
-\i (00:04:11) trapsize 5106
-\i (00:04:12) drag_start grid -2233.769 -2097.970
-\i (00:04:12) slide 
-\t (00:04:12) last pick:  -2242.000 -2106.000
-\t (00:04:12) Waiting for the destination pick.
-\i (00:04:16) drag_stop grid -2127.560 -1984.612
-\t (00:04:16) No DRC errors detected.
-\i (00:04:16) generaledit 
-\i (00:04:16) zoom out 1 
-\i (00:04:16) setwindow pcb
-\i (00:04:16) zoom out -2207.216 -2009.122
-\i (00:04:16) trapsize 10212
-\i (00:04:16) zoom out 1 
-\i (00:04:16) setwindow pcb
-\i (00:04:16) zoom out -2207.217 -2009.122
-\i (00:04:16) trapsize 20425
-\i (00:04:17) zoom out 1 
-\i (00:04:17) setwindow pcb
-\i (00:04:17) zoom out -2092.838 -1694.579
-\i (00:04:17) trapsize 40850
-\i (00:04:18) zoom in 1 
-\i (00:04:18) setwindow pcb
-\i (00:04:18) zoom in -1725.191 -934.773
-\i (00:04:18) trapsize 20425
-\i (00:04:18) zoom in 1 
-\i (00:04:18) setwindow pcb
-\i (00:04:18) zoom in -1725.192 -934.773
-\i (00:04:18) trapsize 10212
-\i (00:04:19) zoom out 1 
-\i (00:04:19) setwindow pcb
-\i (00:04:19) zoom out -2180.666 -1134.937
-\i (00:04:19) trapsize 20425
-\i (00:04:20) zoom in 1 
-\i (00:04:20) setwindow pcb
-\i (00:04:20) zoom in -2282.790 -2107.159
-\i (00:04:20) trapsize 10212
-\i (00:04:20) zoom in 1 
-\i (00:04:20) setwindow pcb
-\i (00:04:20) zoom in -1970.290 -2223.581
-\i (00:04:20) trapsize 5106
-\i (00:04:20) zoom in 1 
-\i (00:04:20) setwindow pcb
-\i (00:04:20) zoom in -1970.290 -2223.581
-\i (00:04:20) trapsize 2553
-\i (00:04:21) zoom out 1 
-\i (00:04:21) setwindow pcb
-\i (00:04:21) zoom out -2007.055 -2156.690
-\i (00:04:21) trapsize 5106
-\i (00:04:21) zoom out 1 
-\i (00:04:21) setwindow pcb
-\i (00:04:21) zoom out -2007.054 -2156.689
-\i (00:04:21) trapsize 10212
-\i (00:04:22) zoom in 1 
-\i (00:04:22) setwindow pcb
-\i (00:04:22) zoom in -1894.718 -2340.513
-\i (00:04:22) trapsize 5106
-\i (00:04:24) drag_start grid -2092.839 -2263.920
-\i (00:04:24) slide 
-\t (00:04:24) last pick:  -2099.000 -2264.000
-\t (00:04:24) Waiting for the destination pick.
-\t (00:04:24) New cline would result in DRC error(s); retaining old cline.
-\i (00:04:29) drag_stop grid -2014.203 -2254.729
-\t (00:04:29) No DRC errors detected.
-\i (00:04:29) generaledit 
-\i (00:04:31) zoom out 1 
-\i (00:04:31) setwindow pcb
-\i (00:04:31) zoom out -1848.762 -2124.010
-\i (00:04:31) trapsize 10212
-\i (00:04:31) zoom out 1 
-\i (00:04:31) setwindow pcb
-\i (00:04:31) zoom out -1848.762 -2124.009
-\i (00:04:31) trapsize 20425
-\i (00:04:31) zoom out 1 
-\i (00:04:31) setwindow pcb
-\i (00:04:31) zoom out -1848.763 -2124.009
-\i (00:04:31) trapsize 40850
-\i (00:04:31) zoom in 1 
-\i (00:04:31) setwindow pcb
-\i (00:04:31) zoom in -1726.213 -2311.918
-\i (00:04:31) trapsize 20425
-\i (00:04:31) zoom in 1 
-\i (00:04:31) setwindow pcb
-\i (00:04:31) zoom in -1726.213 -2311.918
-\i (00:04:31) trapsize 10212
-\i (00:04:33) drag_start grid -1844.677 -2175.071
-\i (00:04:33) slide 
-\t (00:04:33) last pick:  -1858.000 -2175.000
-\t (00:04:33) Waiting for the destination pick.
-\i (00:04:34) drag_stop grid -1673.108 -2209.793
-\t (00:04:34) No DRC errors detected.
-\i (00:04:34) generaledit 
-\i (00:04:35) drag_start grid -1787.488 -2379.319
-\i (00:04:35) slide 
-\t (00:04:35) last pick:  -1791.000 -2376.000
-\t (00:04:35) Waiting for the destination pick.
-\i (00:04:36) drag_stop grid -1748.680 -2469.189
-\t (00:04:36) No DRC errors detected.
-\i (00:04:36) generaledit 
-\i (00:04:36) zoom in 1 
-\i (00:04:36) setwindow pcb
-\i (00:04:36) zoom in -1891.654 -2795.986
-\i (00:04:36) trapsize 5106
-\i (00:04:38) drag_start grid -1848.762 -2528.420
-\i (00:04:38) slide 
-\t (00:04:38) last pick:  -1858.000 -2528.000
-\t (00:04:38) Waiting for the destination pick.
-\i (00:04:38) updateport CVPane
-\i (00:04:39) drag_stop grid -1734.383 -2531.484
-\t (00:04:39) No DRC errors detected.
-\i (00:04:39) generaledit 
-\i (00:04:40) drag_start grid -1776.254 -2538.633
-\i (00:04:40) slide 
-\t (00:04:40) last pick:  -1786.000 -2539.000
-\t (00:04:40) Waiting for the destination pick.
-\i (00:04:41) drag_stop grid -1858.974 -2525.356
-\t (00:04:41) No DRC errors detected.
-\i (00:04:41) generaledit 
-\i (00:04:43) zoom out 1 
-\i (00:04:43) setwindow pcb
-\i (00:04:43) zoom out -1885.527 -2719.392
-\i (00:04:43) trapsize 10212
-\i (00:04:43) zoom in 1 
-\i (00:04:43) setwindow pcb
-\i (00:04:43) zoom in -1652.683 -2899.132
-\i (00:04:43) trapsize 5106
-\i (00:04:52) drag_start grid -1875.314 -2625.439
-\i (00:04:52) slide 
-\t (00:04:52) last pick:  -1875.000 -2631.000
-\t (00:04:52) Waiting for the destination pick.
-\i (00:04:59) drag_stop grid -1876.335 -2530.463
-\t (00:04:59) No DRC errors detected.
-\i (00:04:59) generaledit 
-\i (00:05:00) zoom out 1 
-\i (00:05:00) setwindow pcb
-\i (00:05:00) zoom out -1863.059 -2568.249
-\i (00:05:00) trapsize 10212
-\i (00:05:01) zoom in 1 
-\i (00:05:01) setwindow pcb
-\i (00:05:01) zoom in -1816.082 -2198.560
-\i (00:05:01) trapsize 5106
-\i (00:05:01) zoom out 1 
-\i (00:05:01) setwindow pcb
-\i (00:05:01) zoom out -1905.952 -2338.470
-\i (00:05:01) trapsize 10212
-\i (00:05:01) zoom out 1 
-\i (00:05:01) setwindow pcb
-\i (00:05:01) zoom out -1905.952 -2338.469
-\i (00:05:01) trapsize 20425
-\i (00:05:02) zoom in 1 
-\i (00:05:02) setwindow pcb
-\i (00:05:02) zoom in -2093.860 -1170.168
-\i (00:05:02) trapsize 10212
-\i (00:05:04) zoom in 1 
-\i (00:05:04) setwindow pcb
-\i (00:05:04) zoom in -1920.249 -2403.828
-\i (00:05:04) trapsize 5106
-\i (00:05:04) zoom in 1 
-\i (00:05:04) setwindow pcb
-\i (00:05:04) zoom in -1922.292 -2405.870
-\i (00:05:04) trapsize 2553
-\i (00:05:05) zoom out 1 
-\i (00:05:05) setwindow pcb
-\i (00:05:05) zoom out -2035.139 -2363.999
-\i (00:05:05) trapsize 5106
-\i (00:05:05) zoom out 1 
-\i (00:05:05) setwindow pcb
-\i (00:05:05) zoom out -2035.138 -2363.998
-\i (00:05:05) trapsize 10212
-\i (00:05:06) zoom in 1 
-\i (00:05:06) setwindow pcb
-\i (00:05:06) zoom in -2106.626 -2386.466
-\i (00:05:06) trapsize 5106
-\i (00:05:07) drag_start grid -2110.711 -2363.999
-\i (00:05:07) slide 
-\t (00:05:07) last pick:  -2117.000 -2358.000
-\t (00:05:07) Waiting for the destination pick.
-\i (00:05:07) updateport CVPane
-\i (00:05:09) drag_stop grid -2115.817 -2324.170
-\t (00:05:09) No DRC errors detected.
-\i (00:05:09) generaledit 
-\i (00:05:10) zoom in 1 
-\i (00:05:10) setwindow pcb
-\i (00:05:10) zoom in -2237.345 -2230.216
-\i (00:05:10) trapsize 2553
-\i (00:05:10) zoom in 1 
-\i (00:05:10) setwindow pcb
-\i (00:05:10) zoom in -2237.345 -2229.705
-\i (00:05:10) trapsize 1277
-\i (00:05:11) zoom out 1 
-\i (00:05:11) setwindow pcb
-\i (00:05:11) zoom out -2244.749 -2266.214
-\i (00:05:11) trapsize 2553
-\i (00:05:11) zoom out 1 
-\i (00:05:11) setwindow pcb
-\i (00:05:11) zoom out -2244.750 -2266.215
-\i (00:05:11) trapsize 5106
-\i (00:05:11) zoom in 1 
-\i (00:05:11) setwindow pcb
-\i (00:05:11) zoom in -2395.894 -2293.788
-\i (00:05:11) trapsize 2553
-\i (00:05:12) zoom out 1 
-\i (00:05:12) setwindow pcb
-\i (00:05:12) zoom out -2402.021 -2310.638
-\i (00:05:12) trapsize 5106
-\i (00:05:12) zoom out 1 
-\i (00:05:12) setwindow pcb
-\i (00:05:12) zoom out -2402.021 -2310.638
-\i (00:05:12) trapsize 10212
-\i (00:05:13) zoom in 1 
-\i (00:05:13) setwindow pcb
-\i (00:05:13) zoom in -2643.036 -2363.742
-\i (00:05:13) trapsize 5106
-\i (00:05:15) drag_start grid -2153.861 -2270.809
-\i (00:05:15) slide 
-\t (00:05:15) last pick:  -2160.000 -2265.000
-\t (00:05:15) Waiting for the destination pick.
-\i (00:05:25) drag_stop grid -2167.137 -2262.639
-\t (00:05:25) No DRC errors detected.
-\i (00:05:25) generaledit 
-\i (00:05:25) zoom out 1 
-\i (00:05:25) setwindow pcb
-\i (00:05:25) zoom out -2179.392 -2259.575
-\i (00:05:25) trapsize 10212
-\i (00:05:25) zoom out 1 
-\i (00:05:25) setwindow pcb
-\i (00:05:25) zoom out -2179.393 -2259.576
-\i (00:05:25) trapsize 20425
-\i (00:05:25) zoom in 1 
-\i (00:05:25) setwindow pcb
-\i (00:05:25) zoom in -3221.060 -2320.850
-\i (00:05:25) trapsize 10212
-\i (00:05:26) zoom in 1 
-\i (00:05:26) setwindow pcb
-\i (00:05:26) zoom in -3137.317 -2363.742
-\i (00:05:26) trapsize 5106
-\i (00:05:27) drag_start grid -2668.567 -2266.724
-\i (00:05:27) slide 
-\t (00:05:27) last pick:  -2678.000 -2264.000
-\t (00:05:27) Waiting for the destination pick.
-\i (00:05:29) drag_stop grid -2893.240 -2266.724
-\t (00:05:29) No DRC errors detected.
-\i (00:05:29) generaledit 
-\i (00:05:30) drag_start grid -2629.760 -2260.597
-\i (00:05:30) slide 
-\t (00:05:30) last pick:  -2631.000 -2265.000
-\t (00:05:30) Waiting for the destination pick.
-\i (00:05:32) drag_stop grid -2828.902 -2263.660
-\t (00:05:32) No DRC errors detected.
-\i (00:05:32) generaledit 
-\i (00:05:33) drag_start grid -2573.591 -2262.639
-\i (00:05:33) slide 
-\t (00:05:33) last pick:  -2585.000 -2264.000
-\t (00:05:33) Waiting for the destination pick.
-\i (00:05:35) drag_stop grid -2765.585 -2263.660
-\t (00:05:35) No DRC errors detected.
-\i (00:05:35) generaledit 
-\i (00:05:36) drag_start grid -2532.741 -2269.788
-\i (00:05:36) slide 
-\t (00:05:36) last pick:  -2544.000 -2263.000
-\t (00:05:36) Waiting for the destination pick.
-\i (00:05:38) drag_stop grid -2703.289 -2262.639
-\t (00:05:38) No DRC errors detected.
-\i (00:05:38) generaledit 
-\i (00:05:39) drag_start grid -2502.104 -2256.512
-\i (00:05:39) slide 
-\t (00:05:39) last pick:  -2503.000 -2263.000
-\t (00:05:39) Waiting for the destination pick.
-\i (00:05:41) drag_stop grid -2639.972 -2258.554
-\t (00:05:41) No DRC errors detected.
-\i (00:05:41) generaledit 
-\i (00:05:42) drag_start grid -2464.318 -2265.703
-\i (00:05:42) slide 
-\t (00:05:42) last pick:  -2461.000 -2264.000
-\t (00:05:42) Waiting for the destination pick.
-\i (00:05:45) drag_stop grid -2581.761 -2257.533
-\t (00:05:45) No DRC errors detected.
-\i (00:05:45) generaledit 
-\i (00:05:46) drag_start grid -2409.171 -2269.788
-\i (00:05:46) slide 
-\t (00:05:46) last pick:  -2418.000 -2265.000
-\t (00:05:46) Waiting for the destination pick.
-\i (00:05:48) drag_stop grid -2526.614 -2251.406
-\t (00:05:48) No DRC errors detected.
-\i (00:05:48) generaledit 
-\i (00:05:49) zoom out 1 
-\i (00:05:49) setwindow pcb
-\i (00:05:49) zoom out -2527.635 -2264.682
-\i (00:05:49) trapsize 10212
-\i (00:05:49) zoom in 1 
-\i (00:05:49) setwindow pcb
-\i (00:05:49) zoom in -2121.181 -2215.661
-\i (00:05:49) trapsize 5106
-\i (00:05:49) zoom in 1 
-\i (00:05:49) setwindow pcb
-\i (00:05:49) zoom in -2123.224 -2215.661
-\i (00:05:49) trapsize 2553
-\i (00:05:50) drag_start grid -2338.195 -2273.872
-\i (00:05:50) slide 
-\t (00:05:51) last pick:  -2349.000 -2269.000
-\t (00:05:51) Waiting for the destination pick.
-\i (00:05:52) drag_stop grid -2465.850 -2246.298
-\t (00:05:52) No DRC errors detected.
-\i (00:05:52) generaledit 
-\i (00:05:53) drag_start grid -2483.722 -2213.108
-\i (00:05:53) slide 
-\t (00:05:53) last pick:  -2481.000 -2213.000
-\t (00:05:53) Waiting for the destination pick.
-\t (00:05:54) New cline would result in DRC error(s); retaining old cline.
-\i (00:05:55) drag_stop grid -2490.870 -2216.172
-\t (00:05:55) No DRC errors detected.
-\i (00:05:55) generaledit 
-\i (00:05:55) zoom out 1 
-\i (00:05:55) setwindow pcb
-\i (00:05:55) zoom out -2450.021 -2286.127
-\i (00:05:55) trapsize 5106
-\i (00:05:56) drag_start grid -2386.704 -2302.466
-\i (00:05:56) slide 
-\t (00:05:56) last pick:  -2387.000 -2302.000
-\t (00:05:56) Waiting for the destination pick.
-\i (00:05:57) drag_stop grid -2487.807 -2300.424
-\t (00:05:57) No DRC errors detected.
-\i (00:05:57) generaledit 
-\i (00:05:57) zoom out 1 
-\i (00:05:57) setwindow pcb
-\i (00:05:57) zoom out -2487.807 -2300.424
-\i (00:05:57) trapsize 10212
-\i (00:05:57) zoom out 1 
-\i (00:05:57) setwindow pcb
-\i (00:05:57) zoom out -2487.807 -2300.423
-\i (00:05:57) trapsize 20425
-\i (00:05:58) zoom in 1 
-\i (00:05:58) setwindow pcb
-\i (00:05:58) zoom in -2687.970 -2504.672
-\i (00:05:58) trapsize 10212
-\i (00:05:59) zoom in 1 
-\i (00:05:59) setwindow pcb
-\i (00:05:59) zoom in -2681.842 -2588.413
-\i (00:05:59) trapsize 5106
-\i (00:06:01) drag_start grid -2411.213 -2234.042
-\i (00:06:01) slide 
-\t (00:06:01) last pick:  -2411.000 -2233.000
-\t (00:06:01) Waiting for the destination pick.
-\i (00:06:01) drag_stop grid -2584.824 -2327.996
-\t (00:06:01) No DRC errors detected.
-\i (00:06:01) generaledit 
-\i (00:06:03) drag_start grid -2494.954 -2297.359
-\i (00:06:03) slide 
-\t (00:06:03) last pick:  -2491.000 -2297.000
-\t (00:06:03) Waiting for the destination pick.
-\t (00:06:03) New cline would result in DRC error(s); retaining old cline.
-\i (00:06:04) drag_stop grid -2498.018 -2295.316
-\t (00:06:04) No DRC errors detected.
-\i (00:06:04) generaledit 
-\i (00:06:05) zoom in 1 
-\i (00:06:05) setwindow pcb
-\i (00:06:05) zoom in -2537.847 -2283.061
-\i (00:06:05) trapsize 2553
-\i (00:06:06) drag_start grid -2528.145 -2256.509
-\i (00:06:06) slide 
-\t (00:06:06) last pick:  -2527.000 -2251.000
-\t (00:06:06) Waiting for the destination pick.
-\i (00:06:07) drag_stop grid -2531.719 -2254.977
-\t (00:06:07) No DRC errors detected.
-\i (00:06:07) generaledit 
-\i (00:06:08) drag_start grid -2450.531 -2244.765
-\i (00:06:08) slide 
-\t (00:06:08) last pick:  -2466.000 -2246.000
-\t (00:06:08) Waiting for the destination pick.
-\i (00:06:10) drag_stop grid -2460.743 -2252.424
-\t (00:06:10) No DRC errors detected.
-\i (00:06:10) generaledit 
-\i (00:06:11) drag_start grid -2464.828 -2320.336
-\i (00:06:11) slide 
-\t (00:06:11) last pick:  -2466.000 -2320.000
-\t (00:06:11) Waiting for the destination pick.
-\i (00:06:11) updateport CVPane
-\i (00:06:11) drag_stop grid -2459.722 -2319.826
-\t (00:06:11) No DRC errors detected.
-\i (00:06:11) generaledit 
-\i (00:06:13) drag_start grid -2526.102 -2197.787
-\i (00:06:13) slide 
-\t (00:06:13) last pick:  -2527.000 -2198.000
-\t (00:06:13) Waiting for the destination pick.
-\i (00:06:13) updateport CVPane
-\i (00:06:13) drag_stop grid -2533.762 -2194.213
-\t (00:06:13) No DRC errors detected.
-\i (00:06:13) generaledit 
-\i (00:06:14) zoom out 1 
-\i (00:06:14) setwindow pcb
-\i (00:06:14) zoom out -2558.782 -2230.467
-\i (00:06:14) trapsize 5106
-\i (00:06:15) zoom in 1 
-\i (00:06:15) setwindow pcb
-\i (00:06:15) zoom in -2447.467 -2192.681
-\i (00:06:15) trapsize 2553
-\i (00:06:16) drag_start grid -2466.360 -2196.766
-\i (00:06:16) slide 
-\t (00:06:16) last pick:  -2466.000 -2197.000
-\t (00:06:16) Waiting for the destination pick.
-\i (00:06:17) drag_stop grid -2459.211 -2196.766
-\t (00:06:17) No DRC errors detected.
-\i (00:06:17) generaledit 
-\i (00:06:18) drag_start grid -2289.174 -2265.189
-\i (00:06:18) slide 
-\t (00:06:18) last pick:  -2300.000 -2268.000
-\t (00:06:18) Waiting for the destination pick.
-\i (00:06:19) drag_stop grid -2405.085 -2251.403
-\t (00:06:19) No DRC errors detected.
-\i (00:06:19) generaledit 
-\i (00:06:20) drag_start grid -2256.494 -2269.785
-\i (00:06:20) slide 
-\t (00:06:20) last pick:  -2257.000 -2268.000
-\t (00:06:20) Waiting for the destination pick.
-\i (00:06:22) drag_stop grid -2352.491 -2250.381
-\t (00:06:22) No DRC errors detected.
-\i (00:06:22) generaledit 
-\i (00:06:23) drag_start grid -2204.922 -2267.232
-\i (00:06:23) slide 
-\t (00:06:23) last pick:  -2209.000 -2267.000
-\t (00:06:23) Waiting for the destination pick.
-\i (00:06:24) drag_stop grid -2295.812 -2249.871
-\t (00:06:24) No DRC errors detected.
-\i (00:06:24) generaledit 
-\i (00:06:25) drag_start grid -2158.455 -2255.998
-\i (00:06:25) slide 
-\t (00:06:25) last pick:  -2164.000 -2260.000
-\t (00:06:25) Waiting for the destination pick.
-\i (00:06:27) drag_stop grid -2247.303 -2248.850
-\t (00:06:27) No DRC errors detected.
-\i (00:06:27) generaledit 
-\i (00:06:27) zoom out 1 
-\i (00:06:27) setwindow pcb
-\i (00:06:27) zoom out -2250.367 -2248.850
-\i (00:06:27) trapsize 5106
-\i (00:06:27) zoom out 1 
-\i (00:06:27) setwindow pcb
-\i (00:06:27) zoom out -2250.367 -2248.849
-\i (00:06:27) trapsize 10212
-\i (00:06:28) zoom in 1 
-\i (00:06:28) setwindow pcb
-\i (00:06:28) zoom in -1858.209 -2175.319
-\i (00:06:28) trapsize 5106
-\i (00:06:28) zoom in 1 
-\i (00:06:28) setwindow pcb
-\i (00:06:28) zoom in -1858.209 -2175.319
-\i (00:06:28) trapsize 2553
-\i (00:06:30) drag_start grid -2009.863 -2138.554
-\i (00:06:30) slide 
-\t (00:06:30) last pick:  -2014.000 -2139.000
-\t (00:06:30) Waiting for the destination pick.
-\i (00:06:31) drag_stop grid -2170.198 -2154.384
-\t (00:06:31) No DRC errors detected.
-\i (00:06:31) generaledit 
-\i (00:06:32) drag_start grid -1989.949 -2141.618
-\i (00:06:32) slide 
-\t (00:06:32) last pick:  -1994.000 -2142.000
-\t (00:06:32) Waiting for the destination pick.
-\i (00:06:33) drag_stop grid -2152.837 -2164.596
-\t (00:06:33) No DRC errors detected.
-\i (00:06:33) generaledit 
-\i (00:06:33) zoom out 1 
-\i (00:06:33) setwindow pcb
-\i (00:06:33) zoom out -2152.837 -2164.596
-\i (00:06:33) trapsize 5106
-\i (00:06:34) zoom out 1 
-\i (00:06:34) setwindow pcb
-\i (00:06:34) zoom out -2091.562 -2104.343
-\i (00:06:34) trapsize 10212
-\i (00:06:34) zoom out 1 
-\i (00:06:34) setwindow pcb
-\i (00:06:34) zoom out -2091.563 -2104.342
-\i (00:06:34) trapsize 20425
-\i (00:06:35) zoom in 1 
-\i (00:06:35) setwindow pcb
-\i (00:06:35) zoom in -2193.687 -1544.702
-\i (00:06:35) trapsize 10212
-\i (00:06:37) zoom out 1 
-\i (00:06:37) setwindow pcb
-\i (00:06:37) zoom out -2420.403 -1661.124
-\i (00:06:37) trapsize 20425
-\i (00:06:37) zoom out 1 
-\i (00:06:37) setwindow pcb
-\i (00:06:37) zoom out -2420.403 -1661.123
-\i (00:06:37) trapsize 40850
-\i (00:06:37) zoom out 1 
-\i (00:06:37) setwindow pcb
-\i (00:06:37) zoom out -2420.403 -1661.123
-\i (00:06:37) trapsize 81699
-\i (00:06:38) zoom in 1 
-\i (00:06:38) setwindow pcb
-\i (00:06:38) zoom in -3698.231 -664.391
-\i (00:06:38) trapsize 40850
-\i (00:06:39) zoom in 1 
-\i (00:06:39) setwindow pcb
-\i (00:06:39) zoom in -2742.347 -362.103
-\i (00:06:39) trapsize 20425
-\i (00:06:40) zoom in 1 
-\i (00:06:40) setwindow pcb
-\i (00:06:40) zoom in -2754.602 -435.633
-\i (00:06:40) trapsize 10212
-\i (00:06:40) zoom in 1 
-\i (00:06:40) setwindow pcb
-\i (00:06:40) zoom in -2754.601 -435.633
-\i (00:06:40) trapsize 5106
-\i (00:06:41) drag_start grid -2642.264 -505.078
-\i (00:06:41) slide 
-\t (00:06:41) last pick:  -2643.000 -506.000
-\t (00:06:41) Waiting for the destination pick.
-\i (00:06:42) drag_stop grid -2704.560 -545.927
-\t (00:06:42) No DRC errors detected.
-\i (00:06:42) generaledit 
-\i (00:06:43) drag_start grid -2648.392 -465.249
-\i (00:06:43) slide 
-\t (00:06:43) last pick:  -2657.000 -464.000
-\t (00:06:43) Waiting for the destination pick.
-\i (00:06:44) drag_stop grid -2713.751 -506.099
-\t (00:06:44) No DRC errors detected.
-\i (00:06:44) generaledit 
-\i (00:06:45) zoom in 1 
-\i (00:06:45) setwindow pcb
-\i (00:06:45) zoom in -2545.246 -942.169
-\i (00:06:45) trapsize 2553
-\i (00:06:45) zoom out 1 
-\i (00:06:45) setwindow pcb
-\i (00:06:45) zoom out -2523.289 -914.596
-\i (00:06:45) trapsize 5106
-\i (00:06:45) zoom out 1 
-\i (00:06:45) setwindow pcb
-\i (00:06:45) zoom out -2523.289 -914.595
-\i (00:06:45) trapsize 10212
-\i (00:06:46) drag_start grid -2517.162 -1129.056
-\i (00:06:46) slide 
-\t (00:06:46) last pick:  -2518.000 -1129.000
-\t (00:06:46) Waiting for the destination pick.
-\i (00:06:47) drag_stop grid -2584.564 -1135.184
-\t (00:06:47) No DRC errors detected.
-\i (00:06:47) generaledit 
-\i (00:06:48) drag_start grid -2500.822 -1110.674
-\i (00:06:48) slide 
-\t (00:06:49) last pick:  -2498.000 -1111.000
-\t (00:06:49) Waiting for the destination pick.
-\i (00:06:50) drag_stop grid -2564.139 -1104.546
-\t (00:06:50) No DRC errors detected.
-\i (00:06:50) generaledit 
-\i (00:06:50) zoom out 1 
-\i (00:06:50) setwindow pcb
-\i (00:06:50) zoom out -2562.096 -1053.484
-\i (00:06:50) trapsize 20425
-\i (00:06:50) zoom out 1 
-\i (00:06:50) setwindow pcb
-\i (00:06:50) zoom out -2562.097 -1053.485
-\i (00:06:50) trapsize 40850
-\i (00:06:51) zoom in 1 
-\i (00:06:51) setwindow pcb
-\i (00:06:51) zoom in -2333.338 -2009.367
-\i (00:06:51) trapsize 20425
-\i (00:06:51) zoom in 1 
-\i (00:06:51) setwindow pcb
-\i (00:06:51) zoom in -2288.404 -2009.367
-\i (00:06:51) trapsize 10212
-\i (00:06:53) drag_start grid -2288.403 -1829.628
-\i (00:06:53) slide 
-\t (00:06:53) last pick:  -2286.000 -1827.000
-\t (00:06:53) Waiting for the destination pick.
-\i (00:06:54) drag_stop grid -2331.296 -1892.945
-\t (00:06:54) No DRC errors detected.
-\i (00:06:54) generaledit 
-\i (00:06:54) drag_start grid -2292.488 -1786.736
-\i (00:06:54) slide 
-\t (00:06:54) last pick:  -2295.000 -1789.000
-\t (00:06:54) Waiting for the destination pick.
-\i (00:06:55) drag_stop grid -2321.083 -1872.521
-\t (00:06:55) No DRC errors detected.
-\i (00:06:55) generaledit 
-\i (00:06:57) zoom out 1 
-\i (00:06:57) setwindow pcb
-\i (00:06:57) zoom out -2247.554 -1623.337
-\i (00:06:57) trapsize 20425
-\i (00:06:57) zoom out 1 
-\i (00:06:57) setwindow pcb
-\i (00:06:57) zoom out -2243.468 -1623.338
-\i (00:06:57) trapsize 40850
-\i (00:06:57) zoom in 1 
-\i (00:06:57) setwindow pcb
-\i (00:06:57) zoom in -2316.999 -1272.030
-\i (00:06:57) trapsize 20425
-\i (00:06:58) zoom in 1 
-\i (00:06:58) setwindow pcb
-\i (00:06:58) zoom in -3003.274 -22.029
-\i (00:06:58) trapsize 10212
-\i (00:06:59) zoom in 1 
-\i (00:06:59) setwindow pcb
-\i (00:06:59) zoom in -3040.039 -54.709
-\i (00:06:59) trapsize 5106
-\i (00:07:00) zoom out 1 
-\i (00:07:00) setwindow pcb
-\i (00:07:00) zoom out -3045.145 -142.535
-\i (00:07:00) trapsize 10212
-\i (00:07:00) zoom out 1 
-\i (00:07:00) setwindow pcb
-\i (00:07:00) zoom out -3059.444 -146.620
-\i (00:07:00) trapsize 20425
-\i (00:07:01) zoom in 1 
-\i (00:07:01) setwindow pcb
-\i (00:07:01) zoom in -2311.894 -1486.491
-\i (00:07:01) trapsize 10212
-\i (00:07:03) pick grid -2465.080 -1192.373
-\t (00:07:03) last pick:  -2465.000 -1192.000
-\i (00:07:04) drag_start grid -2477.335 -1176.033
-\i (00:07:04) slide 
-\t (00:07:04) last pick:  -2478.000 -1176.000
-\t (00:07:04) Waiting for the destination pick.
-\i (00:07:05) drag_stop grid -2505.930 -1176.033
-\t (00:07:05) No DRC errors detected.
-\i (00:07:05) generaledit 
-\i (00:07:06) drag_start grid -2467.123 -1163.778
-\i (00:07:06) slide 
-\t (00:07:06) last pick:  -2458.000 -1164.000
-\t (00:07:06) Waiting for the destination pick.
-\i (00:07:06) drag_stop grid -2489.590 -1161.735
-\t (00:07:06) No DRC errors detected.
-\i (00:07:06) generaledit 
-\i (00:07:08) roam y 96 
-\i (00:07:08) roam y 96
-\i (00:07:09) roam y 96 
-\i (00:07:09) roam y 96
-\i (00:07:11) drag_start grid -1983.054 -1982.317
-\i (00:07:11) slide 
-\t (00:07:11) last pick:  -1986.000 -1985.000
-\t (00:07:11) Waiting for the destination pick.
-\i (00:07:12) drag_stop grid -1929.949 -1931.255
-\t (00:07:12) No DRC errors detected.
-\i (00:07:12) generaledit 
-\i (00:07:13) drag_start grid -2046.371 -1941.467
-\i (00:07:13) slide 
-\t (00:07:13) last pick:  -2052.000 -1947.000
-\t (00:07:13) Waiting for the destination pick.
-\i (00:07:14) drag_stop grid -2005.521 -1886.320
-\t (00:07:14) No DRC errors detected.
-\i (00:07:14) generaledit 
-\i (00:07:14) zoom in 1 
-\i (00:07:14) setwindow pcb
-\i (00:07:14) zoom in -1921.779 -2186.565
-\i (00:07:14) trapsize 5106
-\i (00:07:15) drag_start grid -1890.121 -2123.248
-\i (00:07:15) slide 
-\t (00:07:15) last pick:  -1898.000 -2123.000
-\t (00:07:15) Waiting for the destination pick.
-\i (00:07:17) drag_stop grid -1798.209 -2152.864
-\t (00:07:17) No DRC errors detected.
-\i (00:07:17) generaledit 
-\i (00:07:18) drag_start grid -1930.971 -2134.481
-\i (00:07:18) slide 
-\t (00:07:18) last pick:  -1934.000 -2134.000
-\t (00:07:18) Waiting for the destination pick.
-\t (00:07:18) New cline would result in DRC error(s); retaining old cline.
-\i (00:07:19) drag_stop grid -1898.291 -2140.609
-\t (00:07:19) No DRC errors detected.
-\i (00:07:19) generaledit 
-\i (00:07:19) zoom out 1 
-\i (00:07:19) setwindow pcb
-\i (00:07:19) zoom out -1905.440 -2112.014
-\i (00:07:19) trapsize 10212
-\i (00:07:19) zoom out 1 
-\i (00:07:19) setwindow pcb
-\i (00:07:19) zoom out -1905.439 -2112.014
-\i (00:07:19) trapsize 20425
-\i (00:07:20) zoom in 1 
-\i (00:07:20) setwindow pcb
-\i (00:07:20) zoom in -1680.767 -2422.472
-\i (00:07:20) trapsize 10212
-\i (00:07:21) zoom in 1 
-\i (00:07:21) setwindow pcb
-\i (00:07:21) zoom in -1748.169 -2216.181
-\i (00:07:21) trapsize 5106
-\i (00:07:22) drag_start grid -1793.104 -2152.864
-\i (00:07:22) slide 
-\t (00:07:22) last pick:  -1801.000 -2153.000
-\t (00:07:22) Waiting for the destination pick.
-\i (00:07:23) drag_stop grid -1783.913 -2208.011
-\t (00:07:23) No DRC errors detected.
-\i (00:07:23) generaledit 
-\i (00:07:24) drag_start grid -1896.249 -2158.991
-\i (00:07:24) slide 
-\t (00:07:24) last pick:  -1898.000 -2159.000
-\t (00:07:24) Waiting for the destination pick.
-\t (00:07:24) New cline would result in DRC error(s); retaining old cline.
-\i (00:07:27) drag_stop grid -1839.060 -2202.905
-\t (00:07:27) No DRC errors detected.
-\i (00:07:27) generaledit 
-\i (00:07:27) drag_start grid -1812.508 -2123.248
-\i (00:07:27) slide 
-\t (00:07:27) last pick:  -1819.000 -2123.000
-\t (00:07:27) Waiting for the destination pick.
-\i (00:07:28) drag_stop grid -1781.870 -2120.184
-\t (00:07:28) No DRC errors detected.
-\i (00:07:28) generaledit 
-\i (00:07:29) zoom out 1 
-\i (00:07:29) setwindow pcb
-\i (00:07:29) zoom out -1802.295 -2123.248
-\i (00:07:29) trapsize 10212
-\i (00:07:29) zoom out 1 
-\i (00:07:29) setwindow pcb
-\i (00:07:29) zoom out -1802.296 -2123.248
-\i (00:07:29) trapsize 20425
-\i (00:07:29) zoom in 1 
-\i (00:07:29) setwindow pcb
-\i (00:07:29) zoom in -1908.504 -2621.614
-\i (00:07:29) trapsize 10212
-\i (00:07:30) zoom in 1 
-\i (00:07:30) setwindow pcb
-\i (00:07:30) zoom in -1896.249 -2384.686
-\i (00:07:30) trapsize 5106
-\i (00:07:31) drag_start grid -1919.738 -2341.793
-\i (00:07:31) slide 
-\t (00:07:31) last pick:  -1921.000 -2346.000
-\t (00:07:31) Waiting for the destination pick.
-\i (00:07:33) drag_stop grid -1837.017 -2347.921
-\t (00:07:33) No DRC errors detected.
-\i (00:07:33) generaledit 
-\i (00:07:34) drag_start grid -1876.845 -1984.358
-\i (00:07:34) slide 
-\t (00:07:34) last pick:  -1878.000 -1986.000
-\t (00:07:34) Waiting for the destination pick.
-\i (00:07:36) drag_stop grid -1871.739 -1993.550
-\t (00:07:36) No DRC errors detected.
-\i (00:07:36) generaledit 
-\i (00:07:38) drag_start grid -2038.202 -2338.729
-\i (00:07:39) slide 
-\t (00:07:39) last pick:  -2040.000 -2337.000
-\t (00:07:39) Waiting for the destination pick.
-\i (00:07:39) drag_stop grid -2023.904 -2369.367
-\t (00:07:39) No DRC errors detected.
-\i (00:07:39) generaledit 
-\i (00:07:41) pick grid -1968.757 -2262.136
-\t (00:07:41) last pick:  -1969.000 -2262.000
-\i (00:07:42) drag_start grid -1951.396 -2141.630
-\i (00:07:42) slide 
-\t (00:07:42) last pick:  -1954.000 -2142.000
-\t (00:07:42) Waiting for the destination pick.
-\i (00:07:43) drag_stop grid -1977.948 -2141.630
-\t (00:07:43) No DRC errors detected.
-\i (00:07:43) generaledit 
-\i (00:07:44) drag_start grid -2005.522 -2289.710
-\i (00:07:44) slide 
-\t (00:07:45) last pick:  -2008.000 -2290.000
-\t (00:07:45) Waiting for the destination pick.
-\i (00:07:45) drag_stop grid -1994.288 -2293.795
-\t (00:07:45) No DRC errors detected.
-\i (00:07:45) generaledit 
-\i (00:07:45) zoom out 1 
-\i (00:07:45) setwindow pcb
-\i (00:07:45) zoom out -1975.906 -2225.372
-\i (00:07:45) trapsize 10212
-\i (00:07:45) zoom out 1 
-\i (00:07:45) setwindow pcb
-\i (00:07:45) zoom out -1975.906 -2225.371
-\i (00:07:45) trapsize 20425
-\i (00:07:47) zoom out 1 
-\i (00:07:47) setwindow pcb
-\i (00:07:47) zoom out -2029.011 -1620.795
-\i (00:07:47) trapsize 40850
-\i (00:07:48) zoom in 1 
-\i (00:07:48) setwindow pcb
-\i (00:07:48) zoom in -1881.952 -3810.339
-\i (00:07:48) trapsize 20425
-\i (00:07:50) zoom in 1 
-\i (00:07:50) setwindow pcb
-\i (00:07:50) zoom in -1910.547 -2523.574
-\i (00:07:50) trapsize 10212
-\i (00:07:51) zoom in 1 
-\i (00:07:51) setwindow pcb
-\i (00:07:51) zoom in -1910.547 -2523.573
-\i (00:07:51) trapsize 5106
-\i (00:07:53) zoom out 1 
-\i (00:07:53) setwindow pcb
-\i (00:07:53) zoom out -1939.142 -2750.289
-\i (00:07:53) trapsize 10212
-\i (00:07:54) zoom in 1 
-\i (00:07:54) setwindow pcb
-\i (00:07:54) zoom in -1918.718 -2799.309
-\i (00:07:54) trapsize 5106
-\i (00:07:55) drag_start grid -1988.162 -2729.864
-\i (00:07:55) slide 
-\t (00:07:55) last pick:  -1975.000 -2730.000
-\t (00:07:55) Waiting for the destination pick.
-\i (00:07:55) updateport CVPane
-\i (00:07:57) drag_stop grid -1958.546 -2733.949
-\t (00:07:57) No DRC errors detected.
-\i (00:07:57) generaledit 
-\i (00:07:57) zoom out 1 
-\i (00:07:57) setwindow pcb
-\i (00:07:57) zoom out -1971.822 -2746.204
-\i (00:07:57) trapsize 10212
-\i (00:07:58) zoom in 1 
-\i (00:07:58) setwindow pcb
-\i (00:07:58) zoom in -2012.673 -3211.891
-\i (00:07:58) trapsize 5106
-\i (00:07:58) zoom out 1 
-\i (00:07:58) setwindow pcb
-\i (00:07:58) zoom out -2015.737 -3213.933
-\i (00:07:58) trapsize 10212
-\i (00:07:58) zoom out 1 
-\i (00:07:58) setwindow pcb
-\i (00:07:58) zoom out -2015.737 -3209.848
-\i (00:07:58) trapsize 20425
-\i (00:07:59) zoom in 1 
-\i (00:07:59) setwindow pcb
-\i (00:07:59) zoom in -2044.332 -3626.515
-\i (00:07:59) trapsize 10212
-\i (00:08:00) drag_start grid -2087.224 -3448.818
-\i (00:08:00) slide 
-\t (00:08:00) last pick:  -2100.000 -3447.000
-\t (00:08:00) Waiting for the destination pick.
-\i (00:08:01) drag_stop grid -1976.930 -3477.413
-\t (00:08:01) No DRC errors detected.
-\i (00:08:01) generaledit 
-\i (00:08:03) drag_start grid -2099.479 -3260.910
-\i (00:08:03) slide 
-\t (00:08:03) last pick:  -2100.000 -3261.000
-\t (00:08:03) Waiting for the destination pick.
-\i (00:08:04) drag_stop grid -1962.632 -3283.377
-\t (00:08:04) No DRC errors detected.
-\i (00:08:04) generaledit 
-\i (00:08:04) zoom out 1 
-\i (00:08:04) setwindow pcb
-\i (00:08:04) zoom out -2040.247 -3559.113
-\i (00:08:04) trapsize 20425
-\i (00:08:05) zoom in 1 
-\i (00:08:05) setwindow pcb
-\i (00:08:05) zoom in -2097.436 -3779.700
-\i (00:08:05) trapsize 10212
-\i (00:08:06) pick grid -2136.243 -3620.386
-\t (00:08:06) last pick:  -2136.000 -3620.000
-\i (00:08:08) zoom in 1 
-\i (00:08:08) setwindow pcb
-\i (00:08:08) zoom in -2052.501 -3683.703
-\i (00:08:08) trapsize 5106
-\i (00:08:09) pick grid -2170.965 -3562.175
-\t (00:08:09) last pick:  -2171.000 -3562.000
-\i (00:08:10) drag_start grid -2147.477 -3569.324
-\i (00:08:10) slide 
-\t (00:08:10) last pick:  -2142.000 -3569.000
-\t (00:08:10) Waiting for the destination pick.
-\i (00:08:10) updateport CVPane
-\t (00:08:10) New cline would result in DRC error(s); retaining old cline.
-\i (00:08:12) drag_stop grid -1971.823 -3604.046
-\t (00:08:12) DRC errors detected.
-\i (00:08:12) generaledit 
-\i (00:08:12) zoom out 1 
-\i (00:08:12) setwindow pcb
-\i (00:08:12) zoom out -2004.503 -3508.049
-\i (00:08:12) trapsize 10212
-\i (00:08:13) zoom out 1 
-\i (00:08:13) setwindow pcb
-\i (00:08:13) zoom out -2004.503 -3508.049
-\i (00:08:13) trapsize 20425
-\i (00:08:13) zoom out 1 
-\i (00:08:13) setwindow pcb
-\i (00:08:13) zoom out -1984.078 -3479.455
-\i (00:08:13) trapsize 40850
-\i (00:08:14) zoom in 1 
-\i (00:08:14) setwindow pcb
-\i (00:08:14) zoom in -2057.608 -3969.652
-\i (00:08:14) trapsize 20425
-\i (00:08:14) zoom in 1 
-\i (00:08:14) setwindow pcb
-\i (00:08:14) zoom in -2057.608 -3969.651
-\i (00:08:14) trapsize 10212
-\i (00:08:15) zoom in 1 
-\i (00:08:15) setwindow pcb
-\i (00:08:15) zoom in -2080.075 -3604.046
-\i (00:08:15) trapsize 5106
-\i (00:08:15) zoom out 1 
-\i (00:08:15) setwindow pcb
-\i (00:08:15) zoom out -2080.075 -3604.046
-\i (00:08:15) trapsize 10212
-\i (00:08:15) zoom out 1 
-\i (00:08:15) setwindow pcb
-\i (00:08:15) zoom out -2080.076 -3604.045
-\i (00:08:15) trapsize 20425
-\i (00:08:16) zoom in 1 
-\i (00:08:16) setwindow pcb
-\i (00:08:16) zoom in -1933.017 -3506.006
-\i (00:08:16) trapsize 10212
-\i (00:08:18) drag_start grid -1961.611 -3414.094
-\i (00:08:18) slide 
-\t (00:08:18) last pick:  -1958.000 -3414.000
-\t (00:08:18) Waiting for the destination pick.
-\i (00:08:18) updateport CVPane
-\i (00:08:19) drag_stop grid -1975.909 -3401.839
-\t (00:08:19) No DRC errors detected.
-\i (00:08:19) generaledit 
-\i (00:08:20) zoom out 1 
-\i (00:08:20) setwindow pcb
-\i (00:08:20) zoom out -1975.909 -3401.839
-\i (00:08:20) trapsize 20425
-\i (00:08:21) zoom in 1 
-\i (00:08:21) setwindow pcb
-\i (00:08:21) zoom in -1930.974 -2527.655
-\i (00:08:21) trapsize 10212
-\i (00:08:21) zoom in 1 
-\i (00:08:21) setwindow pcb
-\i (00:08:21) zoom in -1930.974 -2515.400
-\i (00:08:21) trapsize 5106
-\i (00:08:21) zoom out 1 
-\i (00:08:21) setwindow pcb
-\i (00:08:21) zoom out -1971.824 -2575.654
-\i (00:08:21) trapsize 10212
-\i (00:08:21) zoom out 1 
-\i (00:08:21) setwindow pcb
-\i (00:08:21) zoom out -1971.824 -2575.653
-\i (00:08:21) trapsize 20425
-\i (00:08:22) zoom in 1 
-\i (00:08:22) setwindow pcb
-\i (00:08:22) zoom in -2086.203 -3519.281
-\i (00:08:22) trapsize 10212
-\i (00:08:22) zoom in 1 
-\i (00:08:22) setwindow pcb
-\i (00:08:22) zoom in -2086.203 -3519.281
-\i (00:08:22) trapsize 5106
-\i (00:08:27) shape add circle 
-\i (00:08:31) setwindow form.mini
-\i (00:08:31) FORM mini dyns_netname_list  
-\t (00:08:35) No valid name selected.
-\i (00:08:37) fillin "Pgnd"
-\t (00:08:37) Assigning selected shape to net: PGND
-\i (00:08:39) FORM mini subclass 'GND LAYER' 
-\i (00:08:39) setwindow pcb
-\i (00:08:39) updateport CVPane
-\i (00:08:42) pick grid -2215.900 -3346.691
-\t (00:08:42) last pick:  -2216.000 -3347.000
-\i (00:08:44) pick grid -2019.822 -3412.050
-\t (00:08:44) last pick:  -2020.000 -3412.000
-\i (00:08:46) prepopup -2063.735 -3395.710
-\i (00:08:47) done 
-\i (00:08:47) generaledit 
-\i (00:08:49) shape edit boundary 
-\i (00:08:50) pick grid -2105.606 -3280.310
-\t (00:08:50) last pick:  -2106.000 -3280.000
-\t (00:08:50) Pick the edit starting point on the shape boundary.
-\i (00:08:51) pick grid -2114.797 -3239.460
-\t (00:08:51) last pick:  -2115.000 -3239.000
-\w (00:08:51) WARNING(SPMHGE-615): Nothing found ... pick selected shape boundary.
-\i (00:08:52) move 
-\t (00:08:53) Select element(s) to move.
-\i (00:08:53) pick grid -2228.155 -3200.653
-\t (00:08:53) last pick:  -2228.000 -3201.000
-\t (00:08:53) Pick user-pick origin.
-\i (00:08:54) pick grid -2038.204 -3195.547
-\t (00:08:54) last pick:  -2038.000 -3196.000
-\t (00:08:54) Pick new location for the element(s).
-\i (00:08:57) pick grid -2035.141 -3253.758
-\t (00:08:57) last pick:  -2035.000 -3254.000
-\i (00:08:58) prepopup -1794.127 -3276.225
-\i (00:08:59) done 
-\i (00:08:59) generaledit 
-\i (00:09:05) shape operations or 
-\i (00:09:06) pick grid -2659.120 -3436.560
-\t (00:09:06) last pick:  -2659.000 -3437.000
-\i (00:09:07) pick grid -2210.794 -3357.924
-\t (00:09:07) last pick:  -2211.000 -3358.000
-\i (00:09:08) prepopup -2464.062 -3445.751
-\i (00:09:09) done 
-\i (00:09:09) generaledit 
-\i (00:09:09) zoom out 1 
-\i (00:09:09) setwindow pcb
-\i (00:09:09) zoom out -2264.920 -3555.024
-\i (00:09:09) trapsize 10212
-\i (00:09:09) zoom out 1 
-\i (00:09:09) setwindow pcb
-\i (00:09:09) zoom out -2264.920 -3555.024
-\i (00:09:09) trapsize 20425
-\i (00:09:12) save 
-\i (00:09:13) fillin yes 
-\t (00:09:13) > Sending response DoneOpenBoard
-\i (00:09:13) generaledit 
-\i (00:09:15) zoom in 1 
-\i (00:09:15) setwindow pcb
-\i (00:09:15) zoom in -1983.058 -3706.168
-\i (00:09:15) trapsize 10212
-\i (00:09:54) zoom out 1 
-\i (00:09:54) setwindow pcb
-\i (00:09:54) zoom out -1272.273 -3506.004
-\i (00:09:54) trapsize 20425
-\i (00:09:54) zoom out 1 
-\i (00:09:54) setwindow pcb
-\i (00:09:54) zoom out -1296.783 -3481.495
-\i (00:09:54) trapsize 40850
-\i (00:09:55) zoom in 1 
-\i (00:09:55) setwindow pcb
-\i (00:09:55) zoom in -2252.666 -2272.343
-\i (00:09:55) trapsize 20425
-\i (00:09:56) zoom in 1 
-\i (00:09:56) setwindow pcb
-\i (00:09:56) zoom in -2179.137 -2938.193
-\i (00:09:56) trapsize 10212
-\i (00:09:57) zoom in 1 
-\i (00:09:57) setwindow pcb
-\i (00:09:57) zoom in -2179.137 -2938.193
-\i (00:09:57) trapsize 5106
-\i (00:09:57) zoom in 1 
-\i (00:09:57) setwindow pcb
-\i (00:09:57) zoom in -2254.709 -2820.750
-\i (00:09:57) trapsize 2553
-\i (00:09:57) zoom out 1 
-\i (00:09:57) setwindow pcb
-\i (00:09:57) zoom out -2261.858 -2801.346
-\i (00:09:57) trapsize 5106
-\i (00:09:58) zoom out 1 
-\i (00:09:58) setwindow pcb
-\i (00:09:58) zoom out -2261.858 -2801.345
-\i (00:09:58) trapsize 10212
-\i (00:09:58) zoom in 1 
-\i (00:09:58) setwindow pcb
-\i (00:09:58) zoom in -2296.580 -2789.091
-\i (00:09:58) trapsize 5106
-\i (00:09:58) zoom in 1 
-\i (00:09:58) setwindow pcb
-\i (00:09:58) zoom in -2296.580 -2789.091
-\i (00:09:58) trapsize 2553
-\i (00:10:00) drag_start grid -2313.430 -2786.538
-\i (00:10:00) slide 
-\t (00:10:00) last pick:  -2313.000 -2785.000
-\t (00:10:00) Waiting for the destination pick.
-\i (00:10:02) drag_stop grid -2290.963 -2765.092
-\t (00:10:02) No DRC errors detected.
-\i (00:10:02) generaledit 
-\i (00:10:02) zoom out 1 
-\i (00:10:02) setwindow pcb
-\i (00:10:02) zoom out -2304.239 -2751.816
-\i (00:10:02) trapsize 5106
-\i (00:10:02) zoom out 1 
-\i (00:10:02) setwindow pcb
-\i (00:10:02) zoom out -2304.238 -2751.815
-\i (00:10:02) trapsize 10212
-\i (00:10:02) zoom out 1 
-\i (00:10:02) setwindow pcb
-\i (00:10:02) zoom out -2304.239 -2751.815
-\i (00:10:02) trapsize 20425
-\i (00:10:04) zoom out 1 
-\i (00:10:04) setwindow pcb
-\i (00:10:04) zoom out -3198.848 -3879.267
-\i (00:10:04) trapsize 40850
-\i (00:10:04) zoom out 1 
-\i (00:10:04) setwindow pcb
-\i (00:10:04) zoom out -3198.849 -3887.437
-\i (00:10:04) trapsize 81699
-\i (00:10:05) zoom in 1 
-\i (00:10:05) setwindow pcb
-\i (00:10:05) zoom in -2260.322 -5292.666
-\i (00:10:05) trapsize 40850
-\i (00:10:05) zoom in 1 
-\i (00:10:05) setwindow pcb
-\i (00:10:05) zoom in -2203.132 -5161.947
-\i (00:10:05) trapsize 20425
-\i (00:10:05) zoom in 1 
-\i (00:10:05) setwindow pcb
-\i (00:10:05) zoom in -2194.962 -4986.293
-\i (00:10:05) trapsize 10212
-\i (00:10:06) zoom in 1 
-\i (00:10:06) setwindow pcb
-\i (00:10:06) zoom in -2248.066 -4796.341
-\i (00:10:06) trapsize 5106
-\i (00:10:09) zoom out 1 
-\i (00:10:09) setwindow pcb
-\i (00:10:09) zoom out -1824.251 -4873.956
-\i (00:10:09) trapsize 10212
-\i (00:10:10) zoom out 1 
-\i (00:10:10) setwindow pcb
-\i (00:10:10) zoom out -1824.251 -4873.955
-\i (00:10:10) trapsize 20425
-\i (00:10:11) zoom in 1 
-\i (00:10:11) setwindow pcb
-\i (00:10:11) zoom in -1440.264 -4808.596
-\i (00:10:11) trapsize 10212
-\i (00:10:13) drag_start grid -1709.871 -4826.978
-\i (00:10:13) slide 
-\t (00:10:13) last pick:  -1723.000 -4824.000
-\t (00:10:13) Waiting for the destination pick.
-\i (00:10:15) drag_stop grid -1767.061 -4824.935
-\t (00:10:15) No DRC errors detected.
-\i (00:10:15) generaledit 
-\i (00:10:30) setwindow form.find
-\i (00:10:30) FORM find all_off  
-\i (00:10:34) FORM find clines YES 
-\i (00:10:35) setwindow pcb
-\i (00:10:35) prepopup -1907.992 -4775.916
-\i (00:10:36) pop dyn_option_select @:@Delete 
-\i (00:10:36) delete 
-\i (00:10:36) generaledit 
-\i (00:10:37) zoom in 1 
-\i (00:10:37) setwindow pcb
-\i (00:10:37) zoom in -1999.904 -4788.171
-\i (00:10:37) trapsize 5106
-\i (00:10:38) drag_start grid -2037.690 -4685.025
-\i (00:10:38) move 
-\t (00:10:38) last pick:  -2038.000 -4685.000
-\t (00:10:38) Pick new location for the element(s).
-\i (00:10:38) drag_stop grid -2016.244 -4720.768
-\i (00:10:38) generaledit 
-\i (00:10:39) undo 
-\i (00:10:39) trapsize 5106
-\i (00:10:40) generaledit 
-\i (00:10:40) prepopup -2018.287 -4721.790
-\i (00:10:41) pick grid -1993.777 -4685.025
-\t (00:10:41) last pick:  -1994.000 -4685.000
-\i (00:10:42) prepopup -1845.697 -4511.414
-\i (00:10:43) pick grid -1840.591 -4475.670
-\t (00:10:43) last pick:  -1841.000 -4476.000
-\i (00:10:45) setwindow form.find
-\i (00:10:45) FORM find all_on  
-\i (00:10:46) setwindow pcb
-\i (00:10:46) drag_start grid -2019.308 -4676.855
-\i (00:10:46) slide 
-\t (00:10:46) last pick:  -2022.000 -4674.000
-\t (00:10:46) Waiting for the destination pick.
-\i (00:10:46) updateport CVPane
-\i (00:10:47) drag_stop grid -2012.159 -4746.300
-\t (00:10:47) No DRC errors detected.
-\i (00:10:47) generaledit 
-\i (00:10:48) drag_start grid -2055.052 -4743.236
-\i (00:10:48) slide 
-\t (00:10:48) last pick:  -2055.000 -4742.000
-\t (00:10:48) Waiting for the destination pick.
-\i (00:10:49) drag_stop grid -2096.922 -4831.063
-\t (00:10:49) No DRC errors detected.
-\i (00:10:49) generaledit 
-\i (00:10:51) zoom out 1 
-\i (00:10:51) setwindow pcb
-\i (00:10:51) zoom out -1807.911 -4619.666
-\i (00:10:51) trapsize 10212
-\i (00:10:52) zoom in 1 
-\i (00:10:52) setwindow pcb
-\i (00:10:52) zoom in -1781.359 -4985.270
-\i (00:10:52) trapsize 5106
-\i (00:10:52) zoom out 1 
-\i (00:10:52) setwindow pcb
-\i (00:10:52) zoom out -1781.359 -4985.270
-\i (00:10:52) trapsize 10212
-\i (00:10:52) zoom out 1 
-\i (00:10:52) setwindow pcb
-\i (00:10:52) zoom out -1781.359 -4985.270
-\i (00:10:52) trapsize 20425
-\i (00:10:54) save 
-\i (00:10:55) fillin yes 
-\t (00:10:55) > Sending response DoneOpenBoard
-\i (00:10:55) generaledit 
-\i (00:11:05) xrefdes J24 
-\i (00:11:05) xname_flush 
-\i (00:11:05) trapsize 7118
-\i (00:11:08) xrefdes '!' J24 
-\i (00:11:08) xname_flush '!' 
-\i (00:11:12) xNet +12V 
-\i (00:11:12) xname_flush 
-\i (00:11:12) trapsize 54196
-\i (00:11:14) xrefdes J24.9 
-\i (00:11:14) xname_flush 
-\i (00:11:14) trapsize 1297
-\i (00:11:14) xrefdes '!' J24.9 
-\i (00:11:14) xname_flush '!' 
-\i (00:11:15) xrefdes J24.9 
-\i (00:11:15) xname_flush 
-\i (00:11:15) trapsize 1297
-\i (00:11:17) xrefdes '!' J24.9 
-\i (00:11:17) xname_flush '!' 
-\i (00:11:38) xrefdes J24.15 
-\i (00:11:38) xname_flush 
-\i (00:11:38) trapsize 1297
-\i (00:11:41) xrefdes '!' J24.15 
-\i (00:11:41) xname_flush '!' 
-\i (00:11:45) xrefdes J24.15 
-\i (00:11:45) xname_flush 
-\i (00:11:45) trapsize 1297
-\i (00:11:46) xrefdes '!' J24.15 
-\i (00:11:46) xname_flush '!' 
-\t (00:11:56) > DoPhysicalNetlistGenerate message received
-\t (00:11:56) > Generating physical netlist...
-\t (00:11:56) Starting genfeedformat...
-\t (00:11:57) > Sending response DonePhysicalNetlistGeneration
-\t (00:11:57) > Physical Netlist Generated
-\t (00:11:58) > DoPullSchematic message received
-\t (00:11:58) > Pulling schematic...
-\t (00:11:58) Starting Cadence Logic Import...
-\t (00:11:58) Opening existing design...
-\i (00:11:59) trapsize 1297
-\t (00:11:59) > Sending response DonePullSchematic
-\t (00:11:59) > Schematic pulled successfully
-\i (00:11:59) generaledit 
-\i (00:12:01) zoom out 1 
-\i (00:12:01) setwindow pcb
-\i (00:12:01) zoom out -2023.446 -4713.184
-\i (00:12:01) trapsize 2594
-\i (00:12:01) zoom out 1 
-\i (00:12:01) setwindow pcb
-\i (00:12:01) zoom out -2023.445 -4713.185
-\i (00:12:01) trapsize 5188
-\i (00:12:01) zoom out 1 
-\i (00:12:01) setwindow pcb
-\i (00:12:01) zoom out -2023.444 -4713.185
-\i (00:12:01) trapsize 10375
-\i (00:12:02) zoom out 1 
-\i (00:12:02) setwindow pcb
-\i (00:12:02) zoom out -1963.268 -4642.632
-\i (00:12:02) trapsize 20751
-\i (00:12:02) zoom out 1 
-\i (00:12:02) setwindow pcb
-\i (00:12:02) zoom out -1963.268 -4642.632
-\i (00:12:02) trapsize 41501
-\i (00:12:03) save 
-\i (00:12:04) fillin yes 
-\t (00:12:04) > Sending response DoneOpenBoard
-\i (00:12:04) generaledit 
-\i (00:12:53) zoom in 1 
-\i (00:12:53) setwindow pcb
-\i (00:12:53) zoom in -1340.747 -2135.948
-\i (00:12:53) trapsize 20751
-\i (00:12:53) zoom in 1 
-\i (00:12:53) setwindow pcb
-\i (00:12:53) zoom in -1361.497 -2148.398
-\i (00:12:53) trapsize 10375
-\i (00:12:54) zoom in 1 
-\i (00:12:54) setwindow pcb
-\i (00:12:54) zoom in -2054.570 -2565.487
-\i (00:12:54) trapsize 5188
-\i (00:12:56) zoom out 1 
-\i (00:12:56) setwindow pcb
-\i (00:12:56) zoom out -2049.382 -2568.600
-\i (00:12:56) trapsize 10375
-\i (00:12:56) zoom in 1 
-\i (00:12:56) setwindow pcb
-\i (00:12:56) zoom in -2111.635 -2603.876
-\i (00:12:56) trapsize 5188
-\i (00:13:00) setwindow form.find
-\i (00:13:00) FORM find all_off  
-\i (00:13:03) FORM find clines YES 
-\i (00:13:04) setwindow pcb
-\i (00:13:04) prepopup -2188.412 -2689.991
-\i (00:13:06) pop dyn_option_select '@:@Change Width...' 
-\i (00:13:06) change width 
-\i (00:13:07) setwindow form.chgwidth
-\i (00:13:07) FORM chgwidth done  
-\t (00:13:07) Changed 1 items out of 1 items found.
-\i (00:13:07) setwindow pcb
-\i (00:13:07) generaledit 
-\i (00:13:08) zoom out 1 
-\i (00:13:08) setwindow pcb
-\i (00:13:08) zoom out -2074.283 -2700.366
-\i (00:13:08) trapsize 10375
-\i (00:13:09) zoom in 1 
-\i (00:13:09) setwindow pcb
-\i (00:13:09) zoom in -2043.157 -2297.804
-\i (00:13:09) trapsize 5188
-\i (00:13:10) drag_start grid -1975.717 -2236.589
-\i (00:13:10) move 
-\t (00:13:10) last pick:  -1976.000 -2237.000
-\t (00:13:10) Pick new location for the element(s).
-\i (00:13:11) drag_stop grid -1967.417 -2238.664
-\i (00:13:11) generaledit 
-\i (00:13:11) prepopup -1914.503 -2205.463
-\i (00:13:12) pick grid -1927.991 -2129.723
-\t (00:13:12) last pick:  -1928.000 -2130.000
-\i (00:13:13) undo 
-\i (00:13:13) generaledit 
-\i (00:13:14) setwindow form.find
-\i (00:13:14) FORM find all_on  
-\i (00:13:16) setwindow pcb
-\i (00:13:16) zoom out 1 
-\i (00:13:16) setwindow pcb
-\i (00:13:16) zoom out -1969.492 -2253.190
-\i (00:13:16) trapsize 10375
-\i (00:13:16) zoom out 1 
-\i (00:13:16) setwindow pcb
-\i (00:13:16) zoom out -1969.492 -2253.190
-\i (00:13:16) trapsize 20751
-\i (00:13:16) zoom in 1 
-\i (00:13:16) setwindow pcb
-\i (00:13:16) zoom in -2010.994 -2473.146
-\i (00:13:16) trapsize 10375
-\i (00:13:16) zoom in 1 
-\i (00:13:16) setwindow pcb
-\i (00:13:16) zoom in -2010.994 -2473.146
-\i (00:13:16) trapsize 5188
-\i (00:13:17) prepopup -1949.779 -2416.082
-\i (00:13:18) pick grid -1926.953 -2379.768
-\t (00:13:18) last pick:  -1927.000 -2380.000
-\i (00:13:19) undo 
-\i (00:13:19) generaledit 
-\i (00:13:19) undo 
-\i (00:13:19) generaledit 
-\i (00:13:20) pick grid -1937.329 -2390.143
-\t (00:13:20) last pick:  -1937.000 -2390.000
-\i (00:13:21) prepopup -1981.943 -2453.433
-\i (00:13:22) pick grid -1929.028 -2419.194
-\t (00:13:22) last pick:  -1929.000 -2419.000
-\i (00:13:23) zoom out 1 
-\i (00:13:23) setwindow pcb
-\i (00:13:23) zoom out -2045.232 -2391.181
-\i (00:13:23) trapsize 10375
-\i (00:13:23) zoom out 1 
-\i (00:13:23) setwindow pcb
-\i (00:13:23) zoom out -2045.232 -2391.181
-\i (00:13:23) trapsize 20751
-\i (00:13:23) zoom out 1 
-\i (00:13:23) setwindow pcb
-\i (00:13:23) zoom out -2045.233 -2391.180
-\i (00:13:23) trapsize 41501
-\i (00:13:23) zoom out 1 
-\i (00:13:23) setwindow pcb
-\i (00:13:23) zoom out -2045.233 -2391.181
-\i (00:13:23) trapsize 83003
-\i (00:13:23) zoom in 1 
-\i (00:13:23) setwindow pcb
-\i (00:13:23) zoom in -2422.470 -299.511
-\i (00:13:23) trapsize 41501
-\i (00:13:23) zoom in 1 
-\i (00:13:23) setwindow pcb
-\i (00:13:23) zoom in -2422.470 -258.010
-\i (00:13:23) trapsize 20751
-\i (00:13:24) zoom in 1 
-\i (00:13:24) setwindow pcb
-\i (00:13:24) zoom in -2712.980 78.152
-\i (00:13:24) trapsize 10375
-\i (00:13:25) zoom in 1 
-\i (00:13:25) setwindow pcb
-\i (00:13:25) zoom in -2775.231 -152.181
-\i (00:13:25) trapsize 5188
-\i (00:13:25) zoom out 1 
-\i (00:13:25) setwindow pcb
-\i (00:13:25) zoom out -2775.231 -153.218
-\i (00:13:25) trapsize 10375
-\i (00:13:25) zoom out 1 
-\i (00:13:25) setwindow pcb
-\i (00:13:25) zoom out -2775.230 -153.219
-\i (00:13:25) trapsize 20751
-\i (00:13:25) zoom out 1 
-\i (00:13:25) setwindow pcb
-\i (00:13:25) zoom out -2775.231 -153.219
-\i (00:13:25) trapsize 41501
-\i (00:13:25) zoom out 1 
-\i (00:13:25) setwindow pcb
-\i (00:13:25) zoom out -2775.231 -153.218
-\i (00:13:25) trapsize 83003
-\i (00:13:26) zoom in 1 
-\i (00:13:26) setwindow pcb
-\i (00:13:26) zoom in -3086.492 261.795
-\i (00:13:26) trapsize 41501
-\i (00:13:26) zoom in 1 
-\i (00:13:26) setwindow pcb
-\i (00:13:26) zoom in -2953.688 211.994
-\i (00:13:26) trapsize 20751
-\i (00:13:27) zoom in 1 
-\i (00:13:27) setwindow pcb
-\i (00:13:27) zoom in -2795.982 25.238
-\i (00:13:27) trapsize 10375
-\i (00:13:27) zoom in 1 
-\i (00:13:27) setwindow pcb
-\i (00:13:27) zoom in -2787.681 83.340
-\i (00:13:27) trapsize 5188
-\i (00:13:27) zoom in 1 
-\i (00:13:27) setwindow pcb
-\i (00:13:27) zoom in -2787.681 83.341
-\i (00:13:27) trapsize 2594
-\i (00:13:29) zoom out 1 
-\i (00:13:29) setwindow pcb
-\i (00:13:29) zoom out -2720.760 91.122
-\i (00:13:29) trapsize 5188
-\i (00:13:29) zoom out 1 
-\i (00:13:29) setwindow pcb
-\i (00:13:29) zoom out -2720.759 91.123
-\i (00:13:29) trapsize 10375
-\i (00:13:31) setwindow form.find
-\i (00:13:31) FORM find all_off  
-\i (00:13:32) FORM find clines YES 
-\i (00:13:34) setwindow pcb
-\i (00:13:34) prepopup -2639.831 134.699
-\i (00:13:35) pop dyn_option_select @:@Delete 
-\i (00:13:35) delete 
-\i (00:13:35) generaledit 
-\i (00:13:36) save 
-\i (00:13:37) fillin yes 
-\t (00:13:37) > Sending response DoneOpenBoard
-\i (00:13:38) generaledit 
-\i (00:13:39) add connect 
-\t (00:13:39) Pick first element.
-\i (00:13:41) setwindow form.mini
-\i (00:13:41) FORM mini active_subclass TOP 
-\t (00:13:41) Pick first element.
-\i (00:13:42) setwindow pcb
-\i (00:13:42) pick grid -2751.884 37.171
-\t (00:13:42) last pick:  -2752.000 37.000
-\t (00:13:42) last pick:  -2761.000 37.000
-\t (00:13:42) Target Via is defined from TOP to BOTTOM.
-\t (00:13:42) last pick:  -2761.000 37.000
-\i (00:13:43) pick grid -2724.908 126.399
-\t (00:13:43) last pick:  -2725.000 126.000
-\t (00:13:43) No DRC errors detected.
-\t (00:13:43) last pick:  -2727.000 126.000
-\i (00:13:44) pick grid -2484.200 105.648
-\t (00:13:44) last pick:  -2484.000 106.000
-\t (00:13:44) No DRC errors detected.
-\i (00:13:44) mouse_pos -2484.200 105.648
-\i (00:13:44) mouse_pos -2486.276 103.573
-\i (00:13:48) pick grid -2521.552 -137.135
-\t (00:13:48) last pick:  -2522.000 -137.000
-\t (00:13:48) No DRC errors detected.
-\i (00:13:49) pick grid -2565.128 -145.436
-\t (00:13:49) last pick:  -2565.000 -145.000
-\t (00:13:49) No DRC errors detected.
-\t (00:13:49) last pick:  -2557.000 -137.000
-\i (00:13:54) pick grid -2563.053 -411.044
-\t (00:13:54) last pick:  -2563.000 -411.000
-\t (00:13:54) No DRC errors detected.
-\i (00:13:56) pick grid -2482.125 -593.651
-\t (00:13:56) last pick:  -2482.000 -594.000
-\t (00:13:56) No DRC errors detected.
-\i (00:13:57) roam y 96 
-\i (00:13:57) roam y 96
-\i (00:13:58) roam y 96 
-\i (00:13:58) roam y 96
-\i (00:13:58) roam y 96 
-\i (00:13:58) roam y 96
-\i (00:13:58) roam y 96 
-\i (00:13:58) roam y 96
-\i (00:13:58) roam y 96 
-\i (00:13:58) roam y 96
-\i (00:14:03) pick grid -1969.583 -2041.386
-\t (00:14:03) last pick:  -1970.000 -2041.000
-\t (00:14:03) No DRC errors detected.
-\i (00:14:04) roam y 96 
-\i (00:14:04) roam y 96
-\i (00:14:04) roam y 96 
-\i (00:14:04) roam y 96
-\i (00:14:05) mouse_pos -2027.685 -2493.750
-\i (00:14:06) pick grid -2019.385 -2473.000
-\t (00:14:06) last pick:  -2019.000 -2473.000
-\t (00:14:06) No DRC errors detected.
-\t (00:14:06) Pick first element.
-\i (00:14:06) prepopup -2085.787 -2466.774
-\i (00:14:08) done 
-\i (00:14:08) generaledit 
-\i (00:14:10) save 
-\i (00:14:11) fillin yes 
-\t (00:14:11) > Sending response DoneOpenBoard
-\i (00:14:11) generaledit 
-\i (00:14:11) zoom out 1 
-\i (00:14:11) setwindow pcb
-\i (00:14:11) zoom out -2617.005 -1945.932
-\i (00:14:11) trapsize 20751
-\i (00:14:11) zoom out 1 
-\i (00:14:11) setwindow pcb
-\i (00:14:11) zoom out -2621.155 -1945.932
-\i (00:14:11) trapsize 41501
-\i (00:14:17) zoom in 1 
-\i (00:14:17) setwindow pcb
-\i (00:14:17) zoom in -1982.033 -3141.172
-\i (00:14:17) trapsize 20751
-\i (00:14:17) zoom in 1 
-\i (00:14:17) setwindow pcb
-\i (00:14:17) zoom in -2002.784 -3091.370
-\i (00:14:17) trapsize 10375
-\i (00:14:17) zoom in 1 
-\i (00:14:17) setwindow pcb
-\i (00:14:17) zoom in -2013.159 -3066.469
-\i (00:14:17) trapsize 5188
-\i (00:14:19) drag_start grid -2154.263 -2670.130
-\i (00:14:19) move 
-\t (00:14:19) last pick:  -2154.000 -2670.000
-\t (00:14:19) Pick new location for the element(s).
-\i (00:14:20) drag_stop grid -2170.864 -2697.106
-\i (00:14:20) generaledit 
-\i (00:14:21) undo 
-\i (00:14:21) generaledit 
-\i (00:14:22) pick grid -2148.038 -2725.120
-\t (00:14:22) last pick:  -2148.000 -2725.000
-\i (00:14:22) pick grid -2111.724 -2685.693
-\t (00:14:22) last pick:  -2112.000 -2686.000
-\i (00:14:23) undo 
-\i (00:14:23) generaledit 
-\i (00:14:23) undo 
-\i (00:14:23) generaledit 
-\i (00:14:23) undo 
-\i (00:14:23) generaledit 
-\i (00:14:25) exit 
-\e (00:14:25) Do you want to save the changes you made to C:/USERS/PC/DOCUMENTS/GITHUB/SANDEEP14002/TIDA-01606_POWERCARD/board/solutionstida01606_powercard_8mar.brd?
-\i (00:14:26) fillin no 
-\t (00:14:26)     Journal end - Mon Mar 11 11:49:47 2024
+\i (00:01:52) zoom out -5494.267 -2931.494
+\i (00:01:52) trapsize 21251
+\i (00:01:52) zoom out 1 
+\i (00:01:52) setwindow pcb
+\i (00:01:52) zoom out -5494.267 -2931.494
+\i (00:01:52) trapsize 42501
+\i (00:01:53) zoom in 1 
+\i (00:01:53) setwindow pcb
+\i (00:01:53) zoom in -6165.789 -2676.485
+\i (00:01:53) trapsize 21251
+\i (00:01:54) zoom out 1 
+\i (00:01:54) setwindow pcb
+\i (00:01:54) zoom out -6259.292 -2723.236
+\i (00:01:54) trapsize 42501
+\i (00:01:54) zoom out 1 
+\i (00:01:54) setwindow pcb
+\i (00:01:54) zoom out -6242.292 -2740.237
+\i (00:01:54) trapsize 85003
+\i (00:01:55) zoom in 1 
+\i (00:01:55) setwindow pcb
+\i (00:01:55) zoom in -5842.780 -2638.234
+\i (00:01:55) trapsize 42501
+\i (00:01:55) zoom in 1 
+\i (00:01:55) setwindow pcb
+\i (00:01:55) zoom in -7134.824 -2578.731
+\i (00:01:55) trapsize 21251
+\i (00:01:55) zoom in 1 
+\i (00:01:55) setwindow pcb
+\i (00:01:55) zoom in -7134.823 -2574.481
+\i (00:01:55) trapsize 10625
+\i (00:01:56) zoom out 1 
+\i (00:01:56) setwindow pcb
+\i (00:01:56) zoom out -6246.543 -2778.488
+\i (00:01:56) trapsize 21251
+\i (00:01:57) zoom in 1 
+\i (00:01:57) setwindow pcb
+\i (00:01:57) zoom in -5434.766 -2859.240
+\i (00:01:57) trapsize 10625
+\i (00:01:58) zoom out 1 
+\i (00:01:58) setwindow pcb
+\i (00:01:58) zoom out -7294.203 -2315.222
+\i (00:01:58) trapsize 21251
+\i (00:01:58) zoom out 1 
+\i (00:01:58) setwindow pcb
+\i (00:01:58) zoom out -7294.204 -2315.221
+\i (00:01:58) trapsize 42501
+\i (00:01:59) exit 
+\t (00:01:59)     Journal end - Mon Mar 11 11:51:48 2024

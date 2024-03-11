@@ -1,6 +1,6 @@
 (ExpressProject "TIDA-01606_PowerCard_Grid_TInv"
   (ProjectVersion "19981106")
-  (SoftwareVersion "17.4-2019 S031 (4044358)  [7/23/2022]-[03/11/24]")
+  (SoftwareVersion "17.4-2019 P001 (3823098) [10/7/2019]-[03/11/24]")
   (ProjectType "PCB")
   (Folder "Design Resources"
     (Folder "Library")
@@ -126,61 +126,39 @@
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 0 200 0 649"))
+        (Placement "44 0 1 -1 -1 -1 -1 0 200 0 808"))
       (Tab 0))
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 5 1674 24 667")
-        (Scroll "-10 482")
-        (Zoom "80")
+        (Placement "44 0 1 -1 -1 -1 -1 5 1461 24 826")
+        (Scroll "-177 0")
+        (Zoom "53")
         (Occurrence "/"))
       (Path
-         "C:\USERS\PC\DOCUMENTS\GITHUB\SANDEEP14002\TIDA-01606_POWERCARD\TIDA-01606_POWERCARD_GRID_TINV.DSN")
+         "C:\USERS\SANDE\ONEDRIVE\DOCUMENTS\GITHUB\SANDEEP14002\TIDA-01606_POWERCARD\TIDA-01606_POWERCARD_GRID_TINV.DSN")
       (Schematic "SCHEMATIC1")
       (Page "PowerBoard"))
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 5 1674 24 667")
-        (Scroll "422 784")
-        (Zoom "200")
-        (Occurrence "/"))
-      (Path
-         "C:\USERS\PC\DOCUMENTS\GITHUB\SANDEEP14002\TIDA-01606_POWERCARD\TIDA-01606_POWERCARD_GRID_TINV.DSN")
-      (Schematic "SCHEMATIC1")
-      (Page "DriverHeaders"))
-    (Doc
-      (Type "COrSchematicDoc")
-      (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 5 1674 24 667")
-        (Scroll "106 408")
+        (Placement "44 0 1 -1 -1 0 0 5 1461 24 826")
+        (Scroll "0 0")
         (Zoom "100")
         (Occurrence "/"))
       (Path
-         "C:\USERS\PC\DOCUMENTS\GITHUB\SANDEEP14002\TIDA-01606_POWERCARD\TIDA-01606_POWERCARD_GRID_TINV.DSN")
+         "C:\USERS\SANDE\ONEDRIVE\DOCUMENTS\GITHUB\SANDEEP14002\TIDA-01606_POWERCARD\TIDA-01606_POWERCARD_GRID_TINV.DSN")
       (Schematic "SCHEMATIC1")
-      (Page "VoltageSensing"))
+      (Page "uCheaders_smps"))
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 5 1674 24 667")
-        (Scroll "193 141")
-        (Zoom "100")
+        (Placement "44 0 1 -1 -1 -1 -1 5 1461 24 826")
+        (Scroll "1679 1317")
+        (Zoom "312")
         (Occurrence "/"))
       (Path
-         "C:\USERS\PC\DOCUMENTS\GITHUB\SANDEEP14002\TIDA-01606_POWERCARD\TIDA-01606_POWERCARD_GRID_TINV.DSN")
+         "C:\USERS\SANDE\ONEDRIVE\DOCUMENTS\GITHUB\SANDEEP14002\TIDA-01606_POWERCARD\TIDA-01606_POWERCARD_GRID_TINV.DSN")
       (Schematic "SCHEMATIC1")
-      (Page "Current_Temp_Sensing"))
-    (Doc
-      (Type "COrSchematicDoc")
-      (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 5 1674 24 667")
-        (Scroll "-347 -5")
-        (Zoom "62")
-        (Occurrence "/"))
-      (Path
-         "C:\USERS\PC\DOCUMENTS\GITHUB\SANDEEP14002\TIDA-01606_POWERCARD\TIDA-01606_POWERCARD_GRID_TINV.DSN")
-      (Schematic "SCHEMATIC1")
-      (Page "uCheaders_smps")))
-  (MPSSessionName "pc"))
+      (Page "DriverHeaders")))
+  (MPSSessionName "sande"))
