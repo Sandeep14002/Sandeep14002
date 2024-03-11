@@ -1,0 +1,97 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Dangling Line, Via and Antenna Report                            )
+(                                                                     )
+(    Drawing          : gate_driver_splitphase_modified.brd           )
+(    Software Version : 22.1P001                                      )
+(    Date/Time        : Thu Apr 20 11:17:14 2023                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Report methodology:
+  - Dangling lines have at least one end not connected.
+  - Dangling vias have one or no connection
+      - Plus are not a test, thieving or netshort property via.
+  - Antenna vias do not have connections on their start and end layers.
+      - Plus they are not a thieving vias.
+      - Optionally, VOLTAGE nets, testvias and through vias can be suppressed with
+        the environment variable report_antennavia.
+      - Section may be suppressed by variable report_noantennavia.
+  - Not part of the current partition.
+  - To suppress items in dangle report add the OK_DANGLE property to the via
+    or connect line.
+
+<< Dangling Lines >>  - Location marked with a star (*) is dangling.
+  Net                 Layer                  Length       Location
+  ------------------------------------------------------------------------------------------
+  G4                   TOP                     3.94     *(-6161.06 -319.88) to  (-6165.00 -319.88)
+  N16653062            BOTTOM                104.88      (-6540.00 -660.00) to *(-6540.00 -555.12)
+  GNDPWR1              TOP                     3.94     *(-6168.94 -660.12) to  (-6165.00 -660.12)
+  15VPWR2              TOP                   222.37     *(-1167.20 -1040.40) to  (-965.00 -1000.00)
+  22VPWR7              TOP                     3.94     *(-1891.06 -1175.12) to  (-1895.00 -1175.12)
+  GNDPWR2              TOP                     3.94     *(-6661.06 -430.12) to  (-6665.00 -430.12)
+  0                    TOP                    24.16     *(-6318.94 -1585.12) to  (-6300.00 -1600.12)
+  Not a Net            LAYER_1                 7.07     *(-2535.00 -1405.00) to *(-2530.00 -1410.00)
+
+
+<< Dangling Vias >>
+  Net                  Padstack               Location            Layers
+  ---------------------------------------------------------------------------
+  GND22VPWR2           VIA                  (470.00 -1450.00) TOP/BOTTOM 
+  GND22VPWR2           VIA                  (170.00 -1490.00) TOP/BOTTOM 
+  GND22VPWR2           VIA                  (-50.00 -1430.00) TOP/BOTTOM 
+  22VPWR1              VIA                  (900.00 -100.00) TOP/BOTTOM 
+  -7VPWR1              VIA                  (1000.00 -100.00) TOP/BOTTOM 
+  0                    VIA                  (300.00 -100.00) TOP/BOTTOM 
+
+
+<< Antenna Vias >>
+  Net                  Padstack               Location            Layers
+  ---------------------------------------------------------------------------
+  EPWM5B               VIA                  (-6415.00 -1360.00) TOP/BOTTOM 
+  EPWM5A               VIA                  (-6465.00 -1360.00) TOP/BOTTOM 
+  N16653062            VIA                  (-6415.00 -430.12) TOP/BOTTOM 
+  GND22VPWR2           VIA                  (470.00 -1450.00) TOP/BOTTOM 
+  GND22VPWR2           VIA                  (170.00 -1490.00) TOP/BOTTOM 
+  GND22VPWR2           VIA                  (-50.00 -1430.00) TOP/BOTTOM 
+  EPWM2A               VIA                  (-4090.00 -1365.00) TOP/BOTTOM 
+  EPWM4B               VIA                  (-1400.00 -1365.00) TOP/BOTTOM 
+  15VPWR2              VIA                  (-965.00 -1000.00) TOP/BOTTOM 
+  15VPWR2              VIA                  (-6465.00 -979.06) TOP/BOTTOM 
+  EPWM1A               VIA                  (-5275.00 -1360.00) TOP/BOTTOM 
+  5VCC1                VIA                  (-6115.00 -1380.00) TOP/BOTTOM 
+  5VCC1                VIA                  (-5175.00 -1360.94) TOP/BOTTOM 
+  5VCC1                VIA                  (-4925.00 -1370.00) TOP/BOTTOM 
+  5VCC1                VIA                  (-3740.00 -1370.00) TOP/BOTTOM 
+  5VCC1                VIA                  (-2295.00 -1370.00) TOP/BOTTOM 
+  5VCC1                VIA                  (-1100.00 -1370.00) TOP/BOTTOM 
+  5VCC1                VIA                  (400.00 -455.12) TOP/BOTTOM 
+  22VPWR1              VIA                  (900.00 -100.00) TOP/BOTTOM 
+  EPWM2B               VIA                  (-4040.00 -1365.00) TOP/BOTTOM 
+  DIS1PWM_IC           VIA                  (-1250.00 -1360.00) TOP/BOTTOM 
+  DIS1PWM_IC           VIA                  (100.00 -312.40) TOP/BOTTOM 
+  DIS1PWM_IC           VIA                  (-2445.00 -1360.94) TOP/BOTTOM 
+  DIS1PWM_IC           VIA                  (-3890.00 -1365.00) TOP/BOTTOM 
+  EPWM1B               VIA                  (-5225.00 -1360.00) TOP/BOTTOM 
+  -7VPWR1              VIA                  (-5920.00 -660.12) TOP/BOTTOM 
+  -7VPWR1              VIA                  (1000.00 -100.00) TOP/BOTTOM 
+  EPWM3B               VIA                  (-2595.00 -1365.00) TOP/BOTTOM 
+  DIS2PWM_IC           VIA                  (-5075.00 -1365.00) TOP/BOTTOM 
+  DIS2PWM_IC           VIA                  (-6265.00 -1360.94) TOP/BOTTOM 
+  DIS2PWM_IC           VIA                  (0.00 -312.40)   TOP/BOTTOM 
+  EPWM4A               VIA                  (-1450.00 -1365.00) TOP/BOTTOM 
+  -7VPWR2              VIA                  (-3310.00 -900.00) TOP/BOTTOM 
+  -7VPWR2              VIA                  (-6365.00 -979.06) TOP/BOTTOM 
+  0                    VIA                  (-6315.00 -1360.94) TOP/BOTTOM 
+  0                    VIA                  (-5125.00 -1360.00) TOP/BOTTOM 
+  0                    VIA                  (-1300.00 -1365.00) TOP/BOTTOM 
+  0                    VIA                  (-3940.00 -1360.94) TOP/BOTTOM 
+  0                    VIA                  (-2495.00 -1360.94) TOP/BOTTOM 
+  0                    VIA                  (300.00 -100.00) TOP/BOTTOM 
+  EPWM3A               VIA                  (-2645.00 -1365.00) TOP/BOTTOM 
+
+<< Summary >>
+  Total dangling lines:       8
+  Total dangling vias:        6
+  Total antenna vias:        41

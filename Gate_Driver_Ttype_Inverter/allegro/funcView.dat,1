@@ -1,0 +1,116 @@
+A!FUNC_LOGICAL_PATH!COMP_DEVICE_TYPE!REFDES!FUNC_PRIM_FILE!COMP_PARENT_PPT!COMP_PARENT_PPT_PART!COMP_PARENT_PART_TYPE!FUNC_SCH_SIZE!FUNC_HAS_FIXED_SIZE!FUNC_DES!FUNC_GROUP!FUNC_ROOM!FUNC_CDS_FSP_UID!FUNC_NO_SWAP_PIN!FUNC_HARD_LOCATION!FUNC_NO_SWAP_GATE_EXT!FUNC_CDS_FSP_MAPPED_CELL!FUNC_CDS_FSP_FPGA_SYMBOL!FUNC_CDS_FSP_TERM_TYPE!FUNC_CDS_FSP_TERM_NAME!FUNC_ROOM!FUNC_GROUP!FUNC_CDS_FSP_TERM_INDEX!FUNC_CDS_FSP_INSTANCE_ID!FUNC_NO_SWAP_GATE!FUNC_NO_XNET_CONNECTION!FUNC_CDS_FSP_IS_FPGA!
+J!c:/users/pc/desktop/gate_driver_splitphase/allegro/gate_driver_splitphase_modified_v1.brd!Mon Mar 11 16:01:01 2024!-10275.00!-10780.00!10725.00!6220.00!0.01!mils!GATE_DRIVER_CLLLC_DAB!62.400000 mil!4!UP TO DATE!
+S!@gate_driver_clllc_dab.schematic1(sch_1):ins16611671@discrete.\cap np.normal\(chips)!CAP NP_SNPD0805_MODIFIED_10NF 0805 50V!C401!.\chipsView.dat!!!!!!F104!!driver_supply!!!!!!!!!driver_supply!!!!!!!
+S!@gate_driver_clllc_dab.schematic1(sch_1):ins16611351@discrete.\cap.normal\(chips)!CAP_CAP_SMD_PTH_470UF50V_470U 35/50V!C404!.\chipsView.dat!!!!!!F103!!driver_supply!!!!!!!!!driver_supply!!!!!!!
+S!@gate_driver_clllc_dab.schematic1(sch_1):ins16611597@discrete.\cap.normal\(chips)!CAP_CAP_SMD_PTH_470UF50V_470U 35/50V_1!C405!.\chipsView.dat!!!!!!F102!!driver_supply!!!!!!!!!driver_supply!!!!!!!
+S!@gate_driver_clllc_dab.schematic1(sch_1):ins16606506@discrete.\cap np.normal\(chips)!CAP NP_SNPD1206_MODIFIED_10U 1206 50V!C607!.\chipsView.dat!!!!!!F97!!driver!!!!!!!!!driver!!!!!!!
+S!@gate_driver_clllc_dab.schematic1(sch_1):ins16606752@discrete.\cap np.normal\(chips)!CAP NP_SNPD1206_MODIFIED_10U 1206 50V!C608!.\chipsView.dat!!!!!!F96!!driver!!!!!!!!!driver!!!!!!!
+S!@gate_driver_clllc_dab.schematic1(sch_1):ins16607198@discrete.\cap np.normal\(chips)!CAP NP_SNPD1206_MODIFIED_10U 1206 50V!C610!.\chipsView.dat!!!!!!F95!!driver!!!!!!!!!driver!!!!!!!
+S!@gate_driver_clllc_dab.schematic1(sch_1):ins16607390@discrete.\cap np.normal\(chips)!CAP NP_SNPD1206_MODIFIED_10U 1206 50V!C611!.\chipsView.dat!!!!!!F94!!driver!!!!!!!!!driver!!!!!!!
+S!@gate_driver_clllc_dab.schematic1(sch_1):ins16607884@discrete.\cap np.normal\(chips)!CAP NP_SNPD1206_MODIFIED_10U 1206 50V!C613!.\chipsView.dat!!!!!!F93!!driver!!!!!!!!!driver!!!!!!!
+S!@gate_driver_clllc_dab.schematic1(sch_1):ins16608164@discrete.\cap np.normal\(chips)!CAP NP_SNPD1206_MODIFIED_10U 1206 50V!C614!.\chipsView.dat!!!!!!F92!!driver!!!!!!!!!driver!!!!!!!
+S!@gate_driver_clllc_dab.schematic1(sch_1):ins16611551@discrete.\resistor.normal\(chips)!RESISTOR_SNPD0805_MODIFIED_1K 0805 5%!R400!.\chipsView.dat!!!!!!F40!!driver_supply!!!!!!!!!driver_supply!!!!!!!
+S!@gate_driver_clllc_dab.schematic1(sch_1):ins16611197@discrete.\resistor.normal\(chips)!RESISTOR_SNPD0805_MODIFIED_47E 0805 5%!R401!.\chipsView.dat!!!!!!F39!!driver_supply!!!!!!!!!driver_supply!!!!!!!
+S!@gate_driver_clllc_dab.schematic1(sch_1):ins16611261@discrete.\resistor.normal\(chips)!RESISTOR_SNPD0805_MODIFIED_10E 0805 5%!R402!.\chipsView.dat!!!!!!F38!!driver_supply!!!!!!!!!driver_supply!!!!!!!
+S!@gate_driver_clllc_dab.schematic1(sch_1):ins16611415@discrete.\resistor.normal\(chips)!RESISTOR_SNPD0805_MODIFIED_10E 0805 5%!R403!.\chipsView.dat!!!!!!F37!!driver_supply!!!!!!!!!driver_supply!!!!!!!
+S!@gate_driver_clllc_dab.schematic1(sch_1):ins16614437@discrete.\resistor.normal\(chips)!RESISTOR_SNPD2512_MODIFIED_470E 2512!R404!.\chipsView.dat!!!!!!F36!!driver_supply!!!!!!!!!driver_supply!!!!!!!
+S!@gate_driver_clllc_dab.schematic1(sch_1):ins16614502@discrete.\resistor.normal\(chips)!RESISTOR_SNPD2512_MODIFIED_470E 2512!R405!.\chipsView.dat!!!!!!F35!!driver_supply!!!!!!!!!driver_supply!!!!!!!
+S!@gate_driver_clllc_dab.schematic1(sch_1):ins16708242@discrete.\resistor.normal\(chips)!RESISTOR_SNPD1206_MODIFIED_12E 1206 5%!R672!.\chipsView.dat!!!!!!F4!!driver!!!!!!!!!driver!!!!!!!
+S!@gate_driver_clllc_dab.schematic1(sch_1):ins16667174@discrete.\cap np.normal\(chips)!CAP NP_SNPD1206_MODIFIED_1U 1206 50V!C648!.\chipsView.dat!!!!!!F79!!driver!!!!!!!!!driver!!!!!!!
+S!@gate_driver_clllc_dab.schematic1(sch_1):ins16667200@discrete.\cap np.normal\(chips)!CAP NP_SNPD1206_MODIFIED_1U 1206 50V!C649!.\chipsView.dat!!!!!!F78!!driver!!!!!!!!!driver!!!!!!!
+S!@gate_driver_clllc_dab.schematic1(sch_1):ins16667226@discrete.\cap np.normal\(chips)!CAP NP_SNPD1206_MODIFIED_1U 1206 50V!C650!.\chipsView.dat!!!!!!F77!!driver!!!!!!!!!driver!!!!!!!
+S!@gate_driver_clllc_dab.schematic1(sch_1):ins16646005@b66418w1008d1.\b66418w1008d1.normal\(chips)!B66418W1008D1_B66418W1008D1_EFD20/10/7!U400!.\chipsView.dat!!!!!!F3!!!!!!!!!!!!!!!!!!
+S!@gate_driver_clllc_dab.schematic1(sch_1):ins16646394@b66418w1008d1.\b66418w1008d1.normal\(chips)!B66418W1008D1_B66418W1008D1_EFD20/10/7!U402!.\chipsView.dat!!!!!!F2!!!!!!!!!!!!!!!!!!
+S!@gate_driver_clllc_dab.schematic1(sch_1):ins16606630@discrete.\cap.normal\(chips)!CAP_220UF_35V_100 UF ELECTROLYTIC!C606!.\chipsView.dat!!!!!!F101!!driver!!!!!!!!!driver!!!!!!!
+S!@gate_driver_clllc_dab.schematic1(sch_1):ins16607246@discrete.\cap.normal\(chips)!CAP_220UF_35V_100 UF ELECTROLYTIC!C609!.\chipsView.dat!!!!!!F100!!driver!!!!!!!!!driver!!!!!!!
+S!@gate_driver_clllc_dab.schematic1(sch_1):ins16608036@discrete.\cap.normal\(chips)!CAP_220UF_35V_100 UF ELECTROLYTIC!C612!.\chipsView.dat!!!!!!F99!!driver!!!!!!!!!driver!!!!!!!
+S!@gate_driver_clllc_dab.schematic1(sch_1):ins16608748@discrete.\cap.normal\(chips)!CAP_220UF_35V_100 UF ELECTROLYTIC!C615!.\chipsView.dat!!!!!!F98!!driver!!!!!!!!!driver!!!!!!!
+S!@gate_driver_clllc_dab.schematic1(sch_1):ins16606490@discrete.\diode zener.normal\(chips)!DIODE ZENER_SOD3716X135N_BZT52B12-E3-18_SOD123_2.4V!D602!.\chipsView.dat!!!!!!F68!!driver!!!!!!!!!driver!!!!!!!
+S!@gate_driver_clllc_dab.schematic1(sch_1):ins16607176@discrete.\diode zener.normal\(chips)!DIODE ZENER_SOD3716X135N_BZT52B12-E3-18_SOD123_2.4V!D603!.\chipsView.dat!!!!!!F67!!driver!!!!!!!!!driver!!!!!!!
+S!@gate_driver_clllc_dab.schematic1(sch_1):ins16607868@discrete.\diode zener.normal\(chips)!DIODE ZENER_SOD3716X135N_BZT52B12-E3-18_SOD123_2.4V!D604!.\chipsView.dat!!!!!!F66!!driver!!!!!!!!!driver!!!!!!!
+S!@gate_driver_clllc_dab.schematic1(sch_1):ins16608574@discrete.\diode zener.normal\(chips)!DIODE ZENER_SOD3716X135N_BZT52B12-E3-18_SOD123_2.4V!D605!.\chipsView.dat!!!!!!F65!!driver!!!!!!!!!driver!!!!!!!
+S!@gate_driver_clllc_dab.schematic1(sch_1):ins16695981@discrete.\cap np.normal\(chips)!CAP NP_SNPD0805_MODIFIED_0.1U 0805 50V!C663!.\chipsView.dat!!!!!!F108!!driver!!!!!!!!!driver!!!!!!!
+S!@gate_driver_clllc_dab.schematic1(sch_1):ins16697872@discrete.\cap np.normal\(chips)!CAP NP_SNPD0805_MODIFIED_0.1U 0805 50V!C664!.\chipsView.dat!!!!!!F107!!driver!!!!!!!!!driver!!!!!!!
+S!@gate_driver_clllc_dab.schematic1(sch_1):ins16698080@discrete.\cap np.normal\(chips)!CAP NP_SNPD0805_MODIFIED_0.1U 0805 50V!C665!.\chipsView.dat!!!!!!F106!!driver!!!!!!!!!driver!!!!!!!
+S!@gate_driver_clllc_dab.schematic1(sch_1):ins16698317@discrete.\cap np.normal\(chips)!CAP NP_SNPD0805_MODIFIED_0.1U 0805 50V!C666!.\chipsView.dat!!!!!!F105!!driver!!!!!!!!!driver!!!!!!!
+S!@gate_driver_clllc_dab.schematic1(sch_1):ins16685817@discrete.\cap np.normal\(chips)!CAP NP_SNPD0805_MODIFIED_0.1U 0805 50V!C651!.\chipsView.dat!!!!!!F109!!driver!!!!!!!!!driver!!!!!!!
+S!@gate_driver_clllc_dab.schematic1(sch_1):ins16652960@discrete.\cap np.normal\(chips)!CAP NP_SNPD0805_MODIFIED_0.1U 0805 50V!C642!.\chipsView.dat!!!!!!F110!!driver!!!!!!!!!driver!!!!!!!
+S!@gate_driver_clllc_dab.schematic1(sch_1):ins16611483@discrete.\cap np.normal\(chips)!CAP NP_SNPD0805_MODIFIED_0.1U 0805 50V!C400!.\chipsView.dat!!!!!!F113!!driver_supply!!!!!!!!!driver_supply!!!!!!!
+S!@gate_driver_clllc_dab.schematic1(sch_1):ins16611431@discrete.\cap np.normal\(chips)!CAP NP_SNPD0805_MODIFIED_0.1U 0805 50V!C402!.\chipsView.dat!!!!!!F112!!driver_supply!!!!!!!!!driver_supply!!!!!!!
+S!@gate_driver_clllc_dab.schematic1(sch_1):ins16604556@discrete.\cap np.normal\(chips)!CAP NP_SNPD0805_MODIFIED_0.1U 0805 50V!C622!.\chipsView.dat!!!!!!F111!!driver!!!!!!!!!driver!!!!!!!
+S!@gate_driver_clllc_dab.schematic1(sch_1):ins16608590@discrete.\cap np.normal\(chips)!CAP NP_SNPD1206_MODIFIED_22U 1206 50V!C616!.\chipsView.dat!!!!!!F91!!driver!!!!!!!!!driver!!!!!!!
+S!@gate_driver_clllc_dab.schematic1(sch_1):ins16608864@discrete.\cap np.normal\(chips)!CAP NP_SNPD1206_MODIFIED_22U 1206 50V!C617!.\chipsView.dat!!!!!!F90!!driver!!!!!!!!!driver!!!!!!!
+S!@gate_driver_clllc_dab.schematic1(sch_1):ins16653108@discrete.\cap np.normal\(chips)!CAP NP_SNPD1206_MODIFIED_0.1U 1206 50V!C643!.\chipsView.dat!!!!!!F85!!driver!!!!!!!!!driver!!!!!!!
+S!@gate_driver_clllc_dab.schematic1(sch_1):ins16653278@discrete.\cap np.normal\(chips)!CAP NP_SNPD1206_MODIFIED_0.1U 1206 50V!C644!.\chipsView.dat!!!!!!F84!!driver!!!!!!!!!driver!!!!!!!
+S!@gate_driver_clllc_dab.schematic1(sch_1):ins16653470@discrete.\cap np.normal\(chips)!CAP NP_SNPD1206_MODIFIED_0.1U 1206 50V!C645!.\chipsView.dat!!!!!!F83!!driver!!!!!!!!!driver!!!!!!!
+S!@gate_driver_clllc_dab.schematic1(sch_1):ins16653662@discrete.\cap np.normal\(chips)!CAP NP_SNPD1206_MODIFIED_0.1U 1206 50V!C647!.\chipsView.dat!!!!!!F82!!driver!!!!!!!!!driver!!!!!!!
+S!@gate_driver_clllc_dab.schematic1(sch_1):ins16604870@discrete.\cap np.normal\(chips)!CAP NP_SNPD1206_MODIFIED_0.1U 1206 50V!C618!.\chipsView.dat!!!!!!F89!!driver!!!!!!!!!driver!!!!!!!
+S!@gate_driver_clllc_dab.schematic1(sch_1):ins16605124@discrete.\cap np.normal\(chips)!CAP NP_SNPD1206_MODIFIED_0.1U 1206 50V!C619!.\chipsView.dat!!!!!!F88!!driver!!!!!!!!!driver!!!!!!!
+S!@gate_driver_clllc_dab.schematic1(sch_1):ins16605404@discrete.\cap np.normal\(chips)!CAP NP_SNPD1206_MODIFIED_0.1U 1206 50V!C620!.\chipsView.dat!!!!!!F87!!driver!!!!!!!!!driver!!!!!!!
+S!@gate_driver_clllc_dab.schematic1(sch_1):ins16605702@discrete.\cap np.normal\(chips)!CAP NP_SNPD1206_MODIFIED_0.1U 1206 50V!C621!.\chipsView.dat!!!!!!F86!!driver!!!!!!!!!driver!!!!!!!
+S!@gate_driver_clllc_dab.schematic1(sch_1):ins16653526@discrete.\cap np.normal\(chips)!CAP NP_SNPD1206_MODIFIED_2.2NF 1206 50V!C646!.\chipsView.dat!!!!!!F80!!driver!!!!!!!!!driver!!!!!!!
+S!@gate_driver_clllc_dab.schematic1(sch_1):ins16605464@discrete.\cap np.normal\(chips)!CAP NP_SNPD1206_MODIFIED_2.2NF 1206 50V!C623!.\chipsView.dat!!!!!!F81!!driver!!!!!!!!!driver!!!!!!!
+S!@gate_driver_clllc_dab.schematic1(sch_1):ins16680952@bav99.\bav99.normal\(chips)!BAV99_BAV99_BAV99!D616!.\chipsView.dat!!!!!!F74!!driver_supply!!!!!!!!!driver_supply!!!!!!!
+S!@gate_driver_clllc_dab.schematic1(sch_1):ins16681010@bav99.\bav99.normal\(chips)!BAV99_BAV99_BAV99!D617!.\chipsView.dat!!!!!!F73!!driver_supply!!!!!!!!!driver_supply!!!!!!!
+S!@gate_driver_clllc_dab.schematic1(sch_1):ins16681067@bav99.\bav99.normal\(chips)!BAV99_BAV99_BAV99!D618!.\chipsView.dat!!!!!!F72!!driver_supply!!!!!!!!!driver_supply!!!!!!!
+S!@gate_driver_clllc_dab.schematic1(sch_1):ins16681122@bav99.\bav99.normal\(chips)!BAV99_BAV99_BAV99!D619!.\chipsView.dat!!!!!!F71!!driver_supply!!!!!!!!!driver_supply!!!!!!!
+S!@gate_driver_clllc_dab.schematic1(sch_1):ins16681179@bav99.\bav99.normal\(chips)!BAV99_BAV99_BAV99!D620!.\chipsView.dat!!!!!!F70!!driver_supply!!!!!!!!!driver_supply!!!!!!!
+S!@gate_driver_clllc_dab.schematic1(sch_1):ins16681287@bav99.\bav99.normal\(chips)!BAV99_BAV99_BAV99!D621!.\chipsView.dat!!!!!!F69!!driver_supply!!!!!!!!!driver_supply!!!!!!!
+S!@gate_driver_clllc_dab.schematic1(sch_1):ins16611951@bav99.\bav99.normal\(chips)!BAV99_BAV99_BAV99!D408!.\chipsView.dat!!!!!!F76!!driver_supply!!!!!!!!!driver_supply!!!!!!!
+S!@gate_driver_clllc_dab.schematic1(sch_1):ins16612223@bav99.\bav99.normal\(chips)!BAV99_BAV99_BAV99!D409!.\chipsView.dat!!!!!!F75!!driver_supply!!!!!!!!!driver_supply!!!!!!!
+S!@gate_driver_clllc_dab.schematic1(sch_1):ins16708180@discrete.\diode.normal\(chips)!DIODE_DO214_1N4148 SMD!D624!.\chipsView.dat!!!!!!F60!!driver!!!!!!!!!driver!!!!!!!
+S!@gate_driver_clllc_dab.schematic1(sch_1):ins16653032@discrete.\diode.normal\(chips)!DIODE_DO214_1N4148 SMD!D614!.\chipsView.dat!!!!!!F62!!driver!!!!!!!!!driver!!!!!!!
+S!@gate_driver_clllc_dab.schematic1(sch_1):ins16653390@discrete.\diode.normal\(chips)!DIODE_DO214_1N4148 SMD!D615!.\chipsView.dat!!!!!!F61!!driver!!!!!!!!!driver!!!!!!!
+S!@gate_driver_clllc_dab.schematic1(sch_1):ins16604668@discrete.\diode.normal\(chips)!DIODE_DO214_1N4148 SMD!D606!.\chipsView.dat!!!!!!F64!!driver!!!!!!!!!driver!!!!!!!
+S!@gate_driver_clllc_dab.schematic1(sch_1):ins16605282@discrete.\diode.normal\(chips)!DIODE_DO214_1N4148 SMD!D607!.\chipsView.dat!!!!!!F63!!driver!!!!!!!!!driver!!!!!!!
+S!@gate_driver_clllc_dab.schematic1(sch_1):ins16611307@ir21531spbf.\ir21531spbf.normal\(chips)!IR21531SPBF_SOIC127P600X175-8N_IR21531SPBF!IC400!.\chipsView.dat!!!!!!F59!!driver_supply!!!!!!!!!driver_supply!!!!!!!
+S!@gate_driver_clllc_dab.schematic1(sch_1):ins16729955@connector.\con2.normal\(chips)!CON2_SIP_2PIN_BERGSTRIP_CON2!J629!.\chipsView.dat!!!!!!F45!!driver!!!!!!!!!driver!!!!!!!
+S!@gate_driver_clllc_dab.schematic1(sch_1):ins16653148@connector.\con2.normal\(chips)!CON2_SIP_2PIN_BERGSTRIP_CON2!J624!.\chipsView.dat!!!!!!F49!!driver!!!!!!!!!driver!!!!!!!
+S!@gate_driver_clllc_dab.schematic1(sch_1):ins16653302@connector.\con2.normal\(chips)!CON2_SIP_2PIN_BERGSTRIP_CON2!J625!.\chipsView.dat!!!!!!F48!!driver!!!!!!!!!driver!!!!!!!
+S!@gate_driver_clllc_dab.schematic1(sch_1):ins16653510@connector.\con2.normal\(chips)!CON2_SIP_2PIN_BERGSTRIP_CON2!J626!.\chipsView.dat!!!!!!F47!!driver!!!!!!!!!driver!!!!!!!
+S!@gate_driver_clllc_dab.schematic1(sch_1):ins16653686@connector.\con2.normal\(chips)!CON2_SIP_2PIN_BERGSTRIP_CON2!J627!.\chipsView.dat!!!!!!F46!!driver!!!!!!!!!driver!!!!!!!
+S!@gate_driver_clllc_dab.schematic1(sch_1):ins16688304@connector.\con2.normal\(chips)!CON2_SIP_2PIN_BERGSTRIP_CON2!T602!.\chipsView.dat!!!!!!F44!!driver!!!!!!!!!driver!!!!!!!
+S!@gate_driver_clllc_dab.schematic1(sch_1):ins16688336@connector.\con2.normal\(chips)!CON2_SIP_2PIN_BERGSTRIP_CON2!T603!.\chipsView.dat!!!!!!F43!!driver!!!!!!!!!driver!!!!!!!
+S!@gate_driver_clllc_dab.schematic1(sch_1):ins16688898@connector.\con2.normal\(chips)!CON2_SIP_2PIN_BERGSTRIP_CON2!J622!.\chipsView.dat!!!!!!F51!!driver!!!!!!!!!driver!!!!!!!
+S!@gate_driver_clllc_dab.schematic1(sch_1):ins16688918@connector.\con2.normal\(chips)!CON2_SIP_2PIN_BERGSTRIP_CON2!J623!.\chipsView.dat!!!!!!F50!!driver!!!!!!!!!driver!!!!!!!
+S!@gate_driver_clllc_dab.schematic1(sch_1):ins16604910@connector.\con2.normal\(chips)!CON2_SIP_2PIN_BERGSTRIP_CON2!J600!.\chipsView.dat!!!!!!F58!!driver!!!!!!!!!driver!!!!!!!
+S!@gate_driver_clllc_dab.schematic1(sch_1):ins16605148@connector.\con2.normal\(chips)!CON2_SIP_2PIN_BERGSTRIP_CON2!J601!.\chipsView.dat!!!!!!F57!!driver!!!!!!!!!driver!!!!!!!
+S!@gate_driver_clllc_dab.schematic1(sch_1):ins16605444@connector.\con2.normal\(chips)!CON2_SIP_2PIN_BERGSTRIP_CON2!J602!.\chipsView.dat!!!!!!F56!!driver!!!!!!!!!driver!!!!!!!
+S!@gate_driver_clllc_dab.schematic1(sch_1):ins16605726@connector.\con2.normal\(chips)!CON2_SIP_2PIN_BERGSTRIP_CON2!J603!.\chipsView.dat!!!!!!F55!!driver!!!!!!!!!driver!!!!!!!
+S!@gate_driver_clllc_dab.schematic1(sch_1):ins16604528@connector.\con2.normal\(chips)!CON2_SIP_2PIN_BERGSTRIP_CON2!J617!.\chipsView.dat!!!!!!F54!!driver!!!!!!!!!driver!!!!!!!
+S!@gate_driver_clllc_dab.schematic1(sch_1):ins16604428@connector.\con2.normal\(chips)!CON2_SIP_2PIN_BERGSTRIP_CON2!J618!.\chipsView.dat!!!!!!F53!!driver!!!!!!!!!driver!!!!!!!
+S!@gate_driver_clllc_dab.schematic1(sch_1):ins16604768@connector.\con2.normal\(chips)!CON2_SIP_2PIN_BERGSTRIP_CON2!J619!.\chipsView.dat!!!!!!F52!!driver!!!!!!!!!driver!!!!!!!
+S!@gate_driver_clllc_dab.schematic1(sch_1):ins16611277@csd19531kcs.\csd19531kcs.normal\(chips)!CSD19531KCS_TO254P1036X470X1965-3_CSD19531KCS!Q400!.\chipsView.dat!!!!!!F42!!driver_supply!!!!!!!!!driver_supply!!!!!!!
+S!@gate_driver_clllc_dab.schematic1(sch_1):ins16611567@csd19531kcs.\csd19531kcs.normal\(chips)!CSD19531KCS_TO254P1036X470X1965-3_CSD19531KCS!Q401!.\chipsView.dat!!!!!!F41!!driver_supply!!!!!!!!!driver_supply!!!!!!!
+S!@gate_driver_clllc_dab.schematic1(sch_1):ins16606336@discrete.\resistor.normal\(chips)!RESISTOR_SNPD1206_MODIFIED_10E 1206 5%!R604!.\chipsView.dat!!!!!!F34!!driver!!!!!!!!!driver!!!!!!!
+S!@gate_driver_clllc_dab.schematic1(sch_1):ins16607124@discrete.\resistor.normal\(chips)!RESISTOR_SNPD1206_MODIFIED_10E 1206 5%!R606!.\chipsView.dat!!!!!!F33!!driver!!!!!!!!!driver!!!!!!!
+S!@gate_driver_clllc_dab.schematic1(sch_1):ins16607760@discrete.\resistor.normal\(chips)!RESISTOR_SNPD1206_MODIFIED_10E 1206 5%!R608!.\chipsView.dat!!!!!!F32!!driver!!!!!!!!!driver!!!!!!!
+S!@gate_driver_clllc_dab.schematic1(sch_1):ins16608406@discrete.\resistor.normal\(chips)!RESISTOR_SNPD1206_MODIFIED_10E 1206 5%!R610!.\chipsView.dat!!!!!!F31!!driver!!!!!!!!!driver!!!!!!!
+S!@gate_driver_clllc_dab.schematic1(sch_1):ins16604784@discrete.\resistor.normal\(chips)!RESISTOR_SNPD1206_MODIFIED_10E 1206 5%!R644!.\chipsView.dat!!!!!!F30!!driver!!!!!!!!!driver!!!!!!!
+S!@gate_driver_clllc_dab.schematic1(sch_1):ins16606704@discrete.\resistor.normal\(chips)!RESISTOR_SNPD1206_MODIFIED_510E || 510E 1206 5%!R605!.\chipsView.dat!!!!!!F29!!driver!!!!!!!!!driver!!!!!!!
+S!@gate_driver_clllc_dab.schematic1(sch_1):ins16607374@discrete.\resistor.normal\(chips)!RESISTOR_SNPD1206_MODIFIED_510E || 510E 1206 5%!R607!.\chipsView.dat!!!!!!F28!!driver!!!!!!!!!driver!!!!!!!
+S!@gate_driver_clllc_dab.schematic1(sch_1):ins16608108@discrete.\resistor.normal\(chips)!RESISTOR_SNPD1206_MODIFIED_510E || 510E 1206 5%!R609!.\chipsView.dat!!!!!!F27!!driver!!!!!!!!!driver!!!!!!!
+S!@gate_driver_clllc_dab.schematic1(sch_1):ins16608808@discrete.\resistor.normal\(chips)!RESISTOR_SNPD1206_MODIFIED_510E || 510E 1206 5%!R611!.\chipsView.dat!!!!!!F26!!driver!!!!!!!!!driver!!!!!!!
+S!@gate_driver_clllc_dab.schematic1(sch_1):ins16653016@discrete.\resistor.normal\(chips)!RESISTOR_SNPD1206_MODIFIED_2.2E 1206 5%!R645!.\chipsView.dat!!!!!!F23!!driver!!!!!!!!!driver!!!!!!!
+S!@gate_driver_clllc_dab.schematic1(sch_1):ins16653374@discrete.\resistor.normal\(chips)!RESISTOR_SNPD1206_MODIFIED_2.2E 1206 5%!R648!.\chipsView.dat!!!!!!F22!!driver!!!!!!!!!driver!!!!!!!
+S!@gate_driver_clllc_dab.schematic1(sch_1):ins16604652@discrete.\resistor.normal\(chips)!RESISTOR_SNPD1206_MODIFIED_2.2E 1206 5%!R612!.\chipsView.dat!!!!!!F25!!driver!!!!!!!!!driver!!!!!!!
+S!@gate_driver_clllc_dab.schematic1(sch_1):ins16605266@discrete.\resistor.normal\(chips)!RESISTOR_SNPD1206_MODIFIED_2.2E 1206 5%!R615!.\chipsView.dat!!!!!!F24!!driver!!!!!!!!!driver!!!!!!!
+S!@gate_driver_clllc_dab.schematic1(sch_1):ins16653124@discrete.\resistor.normal\(chips)!RESISTOR_SNPD1206_MODIFIED_4.7E 1206 5%!R646!.\chipsView.dat!!!!!!F19!!driver!!!!!!!!!driver!!!!!!!
+S!@gate_driver_clllc_dab.schematic1(sch_1):ins16653486@discrete.\resistor.normal\(chips)!RESISTOR_SNPD1206_MODIFIED_4.7E 1206 5%!R650!.\chipsView.dat!!!!!!F18!!driver!!!!!!!!!driver!!!!!!!
+S!@gate_driver_clllc_dab.schematic1(sch_1):ins16604886@discrete.\resistor.normal\(chips)!RESISTOR_SNPD1206_MODIFIED_4.7E 1206 5%!R613!.\chipsView.dat!!!!!!F21!!driver!!!!!!!!!driver!!!!!!!
+S!@gate_driver_clllc_dab.schematic1(sch_1):ins16605420@discrete.\resistor.normal\(chips)!RESISTOR_SNPD1206_MODIFIED_4.7E 1206 5%!R616!.\chipsView.dat!!!!!!F20!!driver!!!!!!!!!driver!!!!!!!
+S!@gate_driver_clllc_dab.schematic1(sch_1):ins16653218@discrete.\resistor.normal\(chips)!RESISTOR_SNPD1206_MODIFIED_10K 1206 1%!R647!.\chipsView.dat!!!!!!F15!!driver!!!!!!!!!driver!!!!!!!
+S!@gate_driver_clllc_dab.schematic1(sch_1):ins16653586@discrete.\resistor.normal\(chips)!RESISTOR_SNPD1206_MODIFIED_10K 1206 1%!R651!.\chipsView.dat!!!!!!F14!!driver!!!!!!!!!driver!!!!!!!
+S!@gate_driver_clllc_dab.schematic1(sch_1):ins16605008@discrete.\resistor.normal\(chips)!RESISTOR_SNPD1206_MODIFIED_10K 1206 1%!R614!.\chipsView.dat!!!!!!F17!!driver!!!!!!!!!driver!!!!!!!
+S!@gate_driver_clllc_dab.schematic1(sch_1):ins16605556@discrete.\resistor.normal\(chips)!RESISTOR_SNPD1206_MODIFIED_10K 1206 1%!R617!.\chipsView.dat!!!!!!F16!!driver!!!!!!!!!driver!!!!!!!
+S!@gate_driver_clllc_dab.schematic1(sch_1):ins16728327@discrete.\resistor.normal\(chips)!RESISTOR_SNPD0805_MODIFIED_10K 0805 1%!R673!.\chipsView.dat!!!!!!F11!!driver!!!!!!!!!driver!!!!!!!
+S!@gate_driver_clllc_dab.schematic1(sch_1):ins16728622@discrete.\resistor.normal\(chips)!RESISTOR_SNPD0805_MODIFIED_10K 0805 1%!R674!.\chipsView.dat!!!!!!F10!!driver!!!!!!!!!driver!!!!!!!
+S!@gate_driver_clllc_dab.schematic1(sch_1):ins16653454@discrete.\resistor.normal\(chips)!RESISTOR_SNPD0805_MODIFIED_10K 0805 1%!R649!.\chipsView.dat!!!!!!F12!!driver!!!!!!!!!driver!!!!!!!
+S!@gate_driver_clllc_dab.schematic1(sch_1):ins16605388@discrete.\resistor.normal\(chips)!RESISTOR_SNPD0805_MODIFIED_10K 0805 1%!R618!.\chipsView.dat!!!!!!F13!!driver!!!!!!!!!driver!!!!!!!
+S!@gate_driver_clllc_dab.schematic1(sch_1):ins16695957@discrete.\resistor.normal\(chips)!RESISTOR_SNPD0805_MODIFIED_10E 0805 1%!R662!.\chipsView.dat!!!!!!F8!!driver!!!!!!!!!driver!!!!!!!
+S!@gate_driver_clllc_dab.schematic1(sch_1):ins16697852@discrete.\resistor.normal\(chips)!RESISTOR_SNPD0805_MODIFIED_10E 0805 1%!R663!.\chipsView.dat!!!!!!F7!!driver!!!!!!!!!driver!!!!!!!
+S!@gate_driver_clllc_dab.schematic1(sch_1):ins16698060@discrete.\resistor.normal\(chips)!RESISTOR_SNPD0805_MODIFIED_10E 0805 1%!R664!.\chipsView.dat!!!!!!F6!!driver!!!!!!!!!driver!!!!!!!
+S!@gate_driver_clllc_dab.schematic1(sch_1):ins16698297@discrete.\resistor.normal\(chips)!RESISTOR_SNPD0805_MODIFIED_10E 0805 1%!R665!.\chipsView.dat!!!!!!F5!!driver!!!!!!!!!driver!!!!!!!
+S!@gate_driver_clllc_dab.schematic1(sch_1):ins16604494@discrete.\resistor.normal\(chips)!RESISTOR_SNPD0805_MODIFIED_10E 0805 1%!R641!.\chipsView.dat!!!!!!F9!!driver!!!!!!!!!driver!!!!!!!
+S!@gate_driver_clllc_dab.schematic1(sch_1):ins16652976@spcmv3.\ucc21520adwr_2.normal\(chips)!UCC21520ADWR_2_UCC21520_UCC21520DW SOIC16!U604!.\chipsView.dat!!!!!!F0!!driver!!!!!!!!!driver!!!!!!!
+S!@gate_driver_clllc_dab.schematic1(sch_1):ins16604612@spcmv3.\ucc21520adwr_2.normal\(chips)!UCC21520ADWR_2_UCC21520_UCC21520DW SOIC16!U600!.\chipsView.dat!!!!!!F1!!driver!!!!!!!!!driver!!!!!!!

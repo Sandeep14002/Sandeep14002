@@ -1,0 +1,363 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    ARTWORK LOG                                                      )
+(                                                                     )
+(    Drawing          : gate_driver_splitphase_modified_v1.brd        )
+(    Software Version : 17.4S031                                      )
+(    Date/Time        : Sat May 13 13:59:16 2023                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+ ---- Photoplot outline rectangle not found; using drawing extents.
+
+
+
+Results from parameter file ...
+    DEVICE-TYPE           GERBER_RS274X
+    OUTPUT-UNITS          INCHES
+    FILM-SIZE             2400000 1600000
+    FORMAT                2.5
+    ABORT-ON-ERROR        NO
+    SCALE                 1
+    SUPPRESS-LEAD-ZEROES  YES
+    SUPPRESS-TRAIL-ZEROES NO
+    SUPPRESS-EQUAL        YES
+    UNDEF-APT-CONT        NO
+
+
+
+================================================================
+     PROCESSING FILM < TOP >
+     TO FILE < C:/Users/pc/Documents/GitHub/M.Tech.-Project/Gate_Driver_SplitPhase/allegro/Gerber/TOP.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                8.00 MIL
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.00
+  Offset y:                           0.00
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED (UNIT = IN):
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.00800                                  DARK 
+  CIRCLE     0.02000                                  DARK 
+  CIRCLE     0.03000                                  DARK 
+  CIRCLE     0.03500                                  DARK 
+  CIRCLE     0.05000                                  DARK 
+  CIRCLE     0.06000                                  DARK 
+  CIRCLE     0.06909                                  DARK 
+  CIRCLE     0.08268                                  DARK 
+  CIRCLE     0.11811                                  DARK 
+  SQUARE     0.06909                     0.000 NO     DARK 
+  SQUARE     0.13000                     0.000 NO     DARK 
+  RECTANGLE  0.02559     x 0.06004       0.000 NO     DARK 
+  RECTANGLE  0.02756     x 0.03543       0.000 NO     DARK 
+  RECTANGLE  0.02953     x 0.04921       0.000 NO     DARK 
+  RECTANGLE  0.03937     x 0.03937      90.000 NO     DARK 
+  RECTANGLE  0.05118     x 0.05906      90.000 NO     DARK 
+  RECTANGLE  0.06299     x 0.07087      90.000 NO     DARK 
+  RECTANGLE  0.07087     x 0.12598      90.000 NO     DARK 
+  OBLONG     0.02559     x 0.08268       0.000 NO     DARK 
+
+     TOP created.
+
+
+================================================================
+     PROCESSING FILM < LAYER_1 >
+     TO FILE < C:/Users/pc/Documents/GitHub/M.Tech.-Project/Gate_Driver_SplitPhase/allegro/Gerber/LAYER_1.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                8.00 MIL
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.00
+  Offset y:                           0.00
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED (UNIT = IN):
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.00800                                  DARK 
+  CIRCLE     0.01000                                  DARK 
+  CIRCLE     0.03000                                  DARK 
+  CIRCLE     0.03500                                  DARK 
+  CIRCLE     0.05000                                  DARK 
+  CIRCLE     0.05500                                  DARK 
+  CIRCLE     0.06909                                  DARK 
+  CIRCLE     0.08268                                  DARK 
+  CIRCLE     0.11000                                  DARK 
+  CIRCLE     0.11811                                  DARK 
+
+     LAYER_1 created.
+
+
+================================================================
+     PROCESSING FILM < LAYER_2 >
+     TO FILE < C:/Users/pc/Documents/GitHub/M.Tech.-Project/Gate_Driver_SplitPhase/allegro/Gerber/LAYER_2.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                8.00 MIL
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.00
+  Offset y:                           0.00
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED (UNIT = IN):
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.00800                                  DARK 
+  CIRCLE     0.03000                                  DARK 
+  CIRCLE     0.03500                                  DARK 
+  CIRCLE     0.05000                                  DARK 
+  CIRCLE     0.05500                                  DARK 
+  CIRCLE     0.06909                                  DARK 
+  CIRCLE     0.08268                                  DARK 
+  CIRCLE     0.11000                                  DARK 
+  CIRCLE     0.11811                                  DARK 
+
+     LAYER_2 created.
+
+
+================================================================
+     PROCESSING FILM < BOTTOM >
+     TO FILE < C:/Users/pc/Documents/GitHub/M.Tech.-Project/Gate_Driver_SplitPhase/allegro/Gerber/BOTTOM.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                8.00 MIL
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.00
+  Offset y:                           0.00
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED (UNIT = IN):
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.00800                                  DARK 
+  CIRCLE     0.01000                                  DARK 
+  CIRCLE     0.03000                                  DARK 
+  CIRCLE     0.03500                                  DARK 
+  CIRCLE     0.06000                                  DARK 
+  CIRCLE     0.06909                                  DARK 
+  CIRCLE     0.08268                                  DARK 
+  CIRCLE     0.11811                                  DARK 
+  SQUARE     0.06909                     0.000 NO     DARK 
+  SQUARE     0.13000                     0.000 NO     DARK 
+  RECTANGLE  0.05118     x 0.05906      90.000 NO     DARK 
+
+     BOTTOM created.
+
+
+================================================================
+     PROCESSING FILM < DrillDimensions >
+     TO FILE < C:/Users/pc/Documents/GitHub/M.Tech.-Project/Gate_Driver_SplitPhase/allegro/Gerber/DrillDimensions.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                8.00 MIL
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.00
+  Offset y:                           0.00
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+    WARNING: 0 width line found at (8880.00 305.00) in MIL
+           ... using undefined line width of 8.00 MIL
+
+    WARNING: Multiple 0 width lines; all will be treated the same as the first.
+           ... using undefined line width of 8.00 MIL
+
+
+
+  APERTURES USED (UNIT = IN):
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.00800                                  DARK 
+
+     DrillDimensions created with warnings
+
+
+================================================================
+     PROCESSING FILM < SilkscreenBOTTOM >
+     TO FILE < C:/Users/pc/Documents/GitHub/M.Tech.-Project/Gate_Driver_SplitPhase/allegro/Gerber/SilkscreenBOTTOM.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                8.00 MIL
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.00
+  Offset y:                           0.00
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED (UNIT = IN):
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.00100                                  DARK 
+  CIRCLE     0.00800                                  DARK 
+
+     SilkscreenBOTTOM created.
+
+
+================================================================
+     PROCESSING FILM < SilkscreenTOP >
+     TO FILE < C:/Users/pc/Documents/GitHub/M.Tech.-Project/Gate_Driver_SplitPhase/allegro/Gerber/SilkscreenTOP.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                8.00 MIL
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.00
+  Offset y:                           0.00
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED (UNIT = IN):
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.00100                                  DARK 
+  CIRCLE     0.00394                                  DARK 
+  CIRCLE     0.00787                                  DARK 
+  CIRCLE     0.00800                                  DARK 
+
+     SilkscreenTOP created.
+
+
+================================================================
+     PROCESSING FILM < SoldermaskBOTTOM >
+     TO FILE < C:/Users/pc/Documents/GitHub/M.Tech.-Project/Gate_Driver_SplitPhase/allegro/Gerber/SoldermaskBOTTOM.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                8.00 MIL
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.00
+  Offset y:                           0.00
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED (UNIT = IN):
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.00800                                  DARK 
+  CIRCLE     0.03500                                  DARK 
+  CIRCLE     0.07000                                  DARK 
+  CIRCLE     0.07697                                  DARK 
+  CIRCLE     0.10000                                  DARK 
+  CIRCLE     0.11811                                  DARK 
+  SQUARE     0.07697                     0.000 NO     DARK 
+  SQUARE     0.13500                     0.000 NO     DARK 
+  RECTANGLE  0.05906     x 0.06693      90.000 NO     DARK 
+
+     SoldermaskBOTTOM created.
+
+
+================================================================
+     PROCESSING FILM < SoldermaskTOP >
+     TO FILE < C:/Users/pc/Documents/GitHub/M.Tech.-Project/Gate_Driver_SplitPhase/allegro/Gerber/SoldermaskTOP.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                8.00 MIL
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.00
+  Offset y:                           0.00
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED (UNIT = IN):
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.00800                                  DARK 
+  CIRCLE     0.03500                                  DARK 
+  CIRCLE     0.07000                                  DARK 
+  CIRCLE     0.07697                                  DARK 
+  CIRCLE     0.10000                                  DARK 
+  CIRCLE     0.11811                                  DARK 
+  SQUARE     0.07697                     0.000 NO     DARK 
+  SQUARE     0.13500                     0.000 NO     DARK 
+  RECTANGLE  0.02559     x 0.06004       0.000 NO     DARK 
+  RECTANGLE  0.02756     x 0.03543       0.000 NO     DARK 
+  RECTANGLE  0.02953     x 0.04921       0.000 NO     DARK 
+  RECTANGLE  0.03937     x 0.03937      90.000 NO     DARK 
+  RECTANGLE  0.05906     x 0.06693      90.000 NO     DARK 
+  RECTANGLE  0.07087     x 0.07874      90.000 NO     DARK 
+  RECTANGLE  0.07874     x 0.13386      90.000 NO     DARK 
+  OBLONG     0.02959     x 0.08668       0.000 NO     DARK 
+
+     SoldermaskTOP created.
+
+
+------------------------------------------------------
+ SUMMARY:
+        TOP created.
+        LAYER_1 created.
+        LAYER_2 created.
+        BOTTOM created.
+        DrillDimensions created with warnings
+        SilkscreenBOTTOM created.
+        SilkscreenTOP created.
+        SoldermaskBOTTOM created.
+        SoldermaskTOP created.
+
+ ARTWORK had warnings

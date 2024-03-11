@@ -1,0 +1,61 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    NC DRILL Log                                                     )
+(                                                                     )
+(    Drawing          : gate_driver_splitphase_modified_v1.brd        )
+(    Software Version : 22.1P001                                      )
+(    Date/Time        : Thu May 11 12:10:15 2023                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+
+ Processing NC Parameters file 'nc_param.txt' ...
+
+ NC PARAMETERS
+ -------------
+
+ FORMAT   		2.5
+ MACHINE-OFFSET		x:0.00000	y:0.00000   (inch)
+ FEEDRATE		1
+ COORDINATES		ABSOLUTE
+ OUTPUT-UNITS		ENGLISH
+ TOOL-ORDER		INCREASING
+ REPEAT-CODES		YES
+ SUPPRESS-LEAD-ZEROES	NO
+ SUPPRESS-TRAIL-ZEROES	NO
+ SUPPRESS-EQUAL		NO
+ TOOL-SELECT		NO
+ HEADER			none
+ LEADER			12
+ CODE			ASCII
+ SEPARATE		NO
+ SEPARATE-ROUTING	NO
+ OPTIMIZE_DRILLING	NO
+ ENHANCED_EXCELLON	YES
+ SCALE			1.000000
+
+ WARNING(SPMHMF-358): Design precision is the same as that of the drill output file data.
+ WARNING(SPMHMF-359): Data rounding errors may still be possible.
+
+
+ Drill files being output to directory 'C:/Users/Ganesh/Documents/GitHub/SplitPhaseConverter/Gate_Driver_SplitPhase/allegro/Gerber' ...
+
+
+
+     'gate_driver_splitphase_modified_v1-1-4.drl' created for holes connecting TOP and BOTTOM
+     ----------------------------------------------------------------------------------------
+
+           Num     Size      +/- Tolerance     Plating   Quantity
+
+            1.  20.0000    0.0000/  0.0000      PLATED        115
+            2.  35.0000    0.0000/  0.0000      PLATED         76
+            3.  44.0000    0.0000/  0.0000      PLATED          4
+            4.  46.0600    0.0000/  0.0000      PLATED         18
+            5.  55.1200    0.0000/  0.0000      PLATED         40
+            6. 157.4800    0.0000/  0.0000  NON_PLATED          3
+
+     ---- Total holes:                                        256
+
+     ---- Total head travel:              24.11 feet (7.35 meters)
+

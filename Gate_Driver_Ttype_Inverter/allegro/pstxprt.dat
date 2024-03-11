@@ -1,0 +1,1374 @@
+FILE_TYPE = EXPANDEDPARTLIST;
+{ Using PSTWRITER 17.4.0 d001Mar-11-2024 at 16:01:03 }
+DIRECTIVES
+ PST_VERSION='PST_HDL_CENTRIC_VERSION_0';
+ ROOT_DRAWING='GATE_DRIVER_CLLLC_DAB';
+ POST_TIME='Jul 23 2022 21:42:55';
+ SOURCE_TOOL='CAPTURE_WRITER';
+END_DIRECTIVES;
+
+PART_NAME
+ C400 'CAP NP_SNPD0805_MODIFIED_0.1U 0805 50V':
+ ROOM='driver_supply';
+
+SECTION_NUMBER 1
+ '@GATE_DRIVER_CLLLC_DAB.SCHEMATIC1(SCH_1):INS16611483@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@gate_driver_clllc_dab.schematic1(sch_1):ins16611483@discrete.\cap np.normal\(chips)',
+ P_PATH='@gate_driver_clllc_dab.schematic1(sch_1):page1_ins16611483@discrete.\cap np.normal\(chips)',
+ ROOM='driver_supply',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C401 'CAP NP_SNPD0805_MODIFIED_10NF 0805 50V':
+ ROOM='driver_supply';
+
+SECTION_NUMBER 1
+ '@GATE_DRIVER_CLLLC_DAB.SCHEMATIC1(SCH_1):INS16611671@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@gate_driver_clllc_dab.schematic1(sch_1):ins16611671@discrete.\cap np.normal\(chips)',
+ P_PATH='@gate_driver_clllc_dab.schematic1(sch_1):page1_ins16611671@discrete.\cap np.normal\(chips)',
+ ROOM='driver_supply',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C402 'CAP NP_SNPD0805_MODIFIED_0.1U 0805 50V':
+ ROOM='driver_supply';
+
+SECTION_NUMBER 1
+ '@GATE_DRIVER_CLLLC_DAB.SCHEMATIC1(SCH_1):INS16611431@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@gate_driver_clllc_dab.schematic1(sch_1):ins16611431@discrete.\cap np.normal\(chips)',
+ P_PATH='@gate_driver_clllc_dab.schematic1(sch_1):page1_ins16611431@discrete.\cap np.normal\(chips)',
+ ROOM='driver_supply',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C404 'CAP_CAP_SMD_PTH_470UF50V_470U 35/50V':
+ ROOM='driver_supply';
+
+SECTION_NUMBER 1
+ '@GATE_DRIVER_CLLLC_DAB.SCHEMATIC1(SCH_1):INS16611351@DISCRETE.CAP.NORMAL(CHIPS)':
+ C_PATH='@gate_driver_clllc_dab.schematic1(sch_1):ins16611351@discrete.\cap.normal\(chips)',
+ P_PATH='@gate_driver_clllc_dab.schematic1(sch_1):page1_ins16611351@discrete.\cap.normal\(chips)',
+ ROOM='driver_supply',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C405 'CAP_CAP_SMD_PTH_470UF50V_470U 35/50V_1':
+ ROOM='driver_supply';
+
+SECTION_NUMBER 1
+ '@GATE_DRIVER_CLLLC_DAB.SCHEMATIC1(SCH_1):INS16611597@DISCRETE.CAP.NORMAL(CHIPS)':
+ C_PATH='@gate_driver_clllc_dab.schematic1(sch_1):ins16611597@discrete.\cap.normal\(chips)',
+ P_PATH='@gate_driver_clllc_dab.schematic1(sch_1):page1_ins16611597@discrete.\cap.normal\(chips)',
+ ROOM='driver_supply',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C606 'CAP_220UF_35V_100 UF ELECTROLYTIC':
+ ROOM='driver';
+
+SECTION_NUMBER 1
+ '@GATE_DRIVER_CLLLC_DAB.SCHEMATIC1(SCH_1):INS16606630@DISCRETE.CAP.NORMAL(CHIPS)':
+ C_PATH='@gate_driver_clllc_dab.schematic1(sch_1):ins16606630@discrete.\cap.normal\(chips)',
+ P_PATH='@gate_driver_clllc_dab.schematic1(sch_1):page1_ins16606630@discrete.\cap.normal\(chips)',
+ ROOM='driver',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C607 'CAP NP_SNPD1206_MODIFIED_10U 1206 50V':
+ ROOM='driver';
+
+SECTION_NUMBER 1
+ '@GATE_DRIVER_CLLLC_DAB.SCHEMATIC1(SCH_1):INS16606506@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@gate_driver_clllc_dab.schematic1(sch_1):ins16606506@discrete.\cap np.normal\(chips)',
+ P_PATH='@gate_driver_clllc_dab.schematic1(sch_1):page1_ins16606506@discrete.\cap np.normal\(chips)',
+ ROOM='driver',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C608 'CAP NP_SNPD1206_MODIFIED_10U 1206 50V':
+ ROOM='driver';
+
+SECTION_NUMBER 1
+ '@GATE_DRIVER_CLLLC_DAB.SCHEMATIC1(SCH_1):INS16606752@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@gate_driver_clllc_dab.schematic1(sch_1):ins16606752@discrete.\cap np.normal\(chips)',
+ P_PATH='@gate_driver_clllc_dab.schematic1(sch_1):page1_ins16606752@discrete.\cap np.normal\(chips)',
+ ROOM='driver',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C609 'CAP_220UF_35V_100 UF ELECTROLYTIC':
+ ROOM='driver';
+
+SECTION_NUMBER 1
+ '@GATE_DRIVER_CLLLC_DAB.SCHEMATIC1(SCH_1):INS16607246@DISCRETE.CAP.NORMAL(CHIPS)':
+ C_PATH='@gate_driver_clllc_dab.schematic1(sch_1):ins16607246@discrete.\cap.normal\(chips)',
+ P_PATH='@gate_driver_clllc_dab.schematic1(sch_1):page1_ins16607246@discrete.\cap.normal\(chips)',
+ ROOM='driver',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C610 'CAP NP_SNPD1206_MODIFIED_10U 1206 50V':
+ ROOM='driver';
+
+SECTION_NUMBER 1
+ '@GATE_DRIVER_CLLLC_DAB.SCHEMATIC1(SCH_1):INS16607198@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@gate_driver_clllc_dab.schematic1(sch_1):ins16607198@discrete.\cap np.normal\(chips)',
+ P_PATH='@gate_driver_clllc_dab.schematic1(sch_1):page1_ins16607198@discrete.\cap np.normal\(chips)',
+ ROOM='driver',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C611 'CAP NP_SNPD1206_MODIFIED_10U 1206 50V':
+ ROOM='driver';
+
+SECTION_NUMBER 1
+ '@GATE_DRIVER_CLLLC_DAB.SCHEMATIC1(SCH_1):INS16607390@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@gate_driver_clllc_dab.schematic1(sch_1):ins16607390@discrete.\cap np.normal\(chips)',
+ P_PATH='@gate_driver_clllc_dab.schematic1(sch_1):page1_ins16607390@discrete.\cap np.normal\(chips)',
+ ROOM='driver',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C612 'CAP_220UF_35V_100 UF ELECTROLYTIC':
+ ROOM='driver';
+
+SECTION_NUMBER 1
+ '@GATE_DRIVER_CLLLC_DAB.SCHEMATIC1(SCH_1):INS16608036@DISCRETE.CAP.NORMAL(CHIPS)':
+ C_PATH='@gate_driver_clllc_dab.schematic1(sch_1):ins16608036@discrete.\cap.normal\(chips)',
+ P_PATH='@gate_driver_clllc_dab.schematic1(sch_1):page1_ins16608036@discrete.\cap.normal\(chips)',
+ ROOM='driver',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C613 'CAP NP_SNPD1206_MODIFIED_10U 1206 50V':
+ ROOM='driver';
+
+SECTION_NUMBER 1
+ '@GATE_DRIVER_CLLLC_DAB.SCHEMATIC1(SCH_1):INS16607884@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@gate_driver_clllc_dab.schematic1(sch_1):ins16607884@discrete.\cap np.normal\(chips)',
+ P_PATH='@gate_driver_clllc_dab.schematic1(sch_1):page1_ins16607884@discrete.\cap np.normal\(chips)',
+ ROOM='driver',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C614 'CAP NP_SNPD1206_MODIFIED_10U 1206 50V':
+ ROOM='driver';
+
+SECTION_NUMBER 1
+ '@GATE_DRIVER_CLLLC_DAB.SCHEMATIC1(SCH_1):INS16608164@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@gate_driver_clllc_dab.schematic1(sch_1):ins16608164@discrete.\cap np.normal\(chips)',
+ P_PATH='@gate_driver_clllc_dab.schematic1(sch_1):page1_ins16608164@discrete.\cap np.normal\(chips)',
+ ROOM='driver',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C615 'CAP_220UF_35V_100 UF ELECTROLYTIC':
+ ROOM='driver';
+
+SECTION_NUMBER 1
+ '@GATE_DRIVER_CLLLC_DAB.SCHEMATIC1(SCH_1):INS16608748@DISCRETE.CAP.NORMAL(CHIPS)':
+ C_PATH='@gate_driver_clllc_dab.schematic1(sch_1):ins16608748@discrete.\cap.normal\(chips)',
+ P_PATH='@gate_driver_clllc_dab.schematic1(sch_1):page1_ins16608748@discrete.\cap.normal\(chips)',
+ ROOM='driver',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C616 'CAP NP_SNPD1206_MODIFIED_22U 1206 50V':
+ ROOM='driver';
+
+SECTION_NUMBER 1
+ '@GATE_DRIVER_CLLLC_DAB.SCHEMATIC1(SCH_1):INS16608590@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@gate_driver_clllc_dab.schematic1(sch_1):ins16608590@discrete.\cap np.normal\(chips)',
+ P_PATH='@gate_driver_clllc_dab.schematic1(sch_1):page1_ins16608590@discrete.\cap np.normal\(chips)',
+ ROOM='driver',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C617 'CAP NP_SNPD1206_MODIFIED_22U 1206 50V':
+ ROOM='driver';
+
+SECTION_NUMBER 1
+ '@GATE_DRIVER_CLLLC_DAB.SCHEMATIC1(SCH_1):INS16608864@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@gate_driver_clllc_dab.schematic1(sch_1):ins16608864@discrete.\cap np.normal\(chips)',
+ P_PATH='@gate_driver_clllc_dab.schematic1(sch_1):page1_ins16608864@discrete.\cap np.normal\(chips)',
+ ROOM='driver',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C618 'CAP NP_SNPD1206_MODIFIED_0.1U 1206 50V':
+ ROOM='driver';
+
+SECTION_NUMBER 1
+ '@GATE_DRIVER_CLLLC_DAB.SCHEMATIC1(SCH_1):INS16604870@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@gate_driver_clllc_dab.schematic1(sch_1):ins16604870@discrete.\cap np.normal\(chips)',
+ P_PATH='@gate_driver_clllc_dab.schematic1(sch_1):page1_ins16604870@discrete.\cap np.normal\(chips)',
+ ROOM='driver',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C619 'CAP NP_SNPD1206_MODIFIED_0.1U 1206 50V':
+ ROOM='driver';
+
+SECTION_NUMBER 1
+ '@GATE_DRIVER_CLLLC_DAB.SCHEMATIC1(SCH_1):INS16605124@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@gate_driver_clllc_dab.schematic1(sch_1):ins16605124@discrete.\cap np.normal\(chips)',
+ P_PATH='@gate_driver_clllc_dab.schematic1(sch_1):page1_ins16605124@discrete.\cap np.normal\(chips)',
+ ROOM='driver',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C620 'CAP NP_SNPD1206_MODIFIED_0.1U 1206 50V':
+ ROOM='driver';
+
+SECTION_NUMBER 1
+ '@GATE_DRIVER_CLLLC_DAB.SCHEMATIC1(SCH_1):INS16605404@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@gate_driver_clllc_dab.schematic1(sch_1):ins16605404@discrete.\cap np.normal\(chips)',
+ P_PATH='@gate_driver_clllc_dab.schematic1(sch_1):page1_ins16605404@discrete.\cap np.normal\(chips)',
+ ROOM='driver',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C621 'CAP NP_SNPD1206_MODIFIED_0.1U 1206 50V':
+ ROOM='driver';
+
+SECTION_NUMBER 1
+ '@GATE_DRIVER_CLLLC_DAB.SCHEMATIC1(SCH_1):INS16605702@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@gate_driver_clllc_dab.schematic1(sch_1):ins16605702@discrete.\cap np.normal\(chips)',
+ P_PATH='@gate_driver_clllc_dab.schematic1(sch_1):page1_ins16605702@discrete.\cap np.normal\(chips)',
+ ROOM='driver',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C622 'CAP NP_SNPD0805_MODIFIED_0.1U 0805 50V':
+ ROOM='driver';
+
+SECTION_NUMBER 1
+ '@GATE_DRIVER_CLLLC_DAB.SCHEMATIC1(SCH_1):INS16604556@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@gate_driver_clllc_dab.schematic1(sch_1):ins16604556@discrete.\cap np.normal\(chips)',
+ P_PATH='@gate_driver_clllc_dab.schematic1(sch_1):page1_ins16604556@discrete.\cap np.normal\(chips)',
+ ROOM='driver',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C623 'CAP NP_SNPD1206_MODIFIED_2.2NF 1206 50V':
+ ROOM='driver';
+
+SECTION_NUMBER 1
+ '@GATE_DRIVER_CLLLC_DAB.SCHEMATIC1(SCH_1):INS16605464@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@gate_driver_clllc_dab.schematic1(sch_1):ins16605464@discrete.\cap np.normal\(chips)',
+ P_PATH='@gate_driver_clllc_dab.schematic1(sch_1):page1_ins16605464@discrete.\cap np.normal\(chips)',
+ ROOM='driver',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C642 'CAP NP_SNPD0805_MODIFIED_0.1U 0805 50V':
+ ROOM='driver';
+
+SECTION_NUMBER 1
+ '@GATE_DRIVER_CLLLC_DAB.SCHEMATIC1(SCH_1):INS16652960@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@gate_driver_clllc_dab.schematic1(sch_1):ins16652960@discrete.\cap np.normal\(chips)',
+ P_PATH='@gate_driver_clllc_dab.schematic1(sch_1):page1_ins16652960@discrete.\cap np.normal\(chips)',
+ ROOM='driver',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C643 'CAP NP_SNPD1206_MODIFIED_0.1U 1206 50V':
+ ROOM='driver';
+
+SECTION_NUMBER 1
+ '@GATE_DRIVER_CLLLC_DAB.SCHEMATIC1(SCH_1):INS16653108@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@gate_driver_clllc_dab.schematic1(sch_1):ins16653108@discrete.\cap np.normal\(chips)',
+ P_PATH='@gate_driver_clllc_dab.schematic1(sch_1):page1_ins16653108@discrete.\cap np.normal\(chips)',
+ ROOM='driver',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C644 'CAP NP_SNPD1206_MODIFIED_0.1U 1206 50V':
+ ROOM='driver';
+
+SECTION_NUMBER 1
+ '@GATE_DRIVER_CLLLC_DAB.SCHEMATIC1(SCH_1):INS16653278@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@gate_driver_clllc_dab.schematic1(sch_1):ins16653278@discrete.\cap np.normal\(chips)',
+ P_PATH='@gate_driver_clllc_dab.schematic1(sch_1):page1_ins16653278@discrete.\cap np.normal\(chips)',
+ ROOM='driver',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C645 'CAP NP_SNPD1206_MODIFIED_0.1U 1206 50V':
+ ROOM='driver';
+
+SECTION_NUMBER 1
+ '@GATE_DRIVER_CLLLC_DAB.SCHEMATIC1(SCH_1):INS16653470@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@gate_driver_clllc_dab.schematic1(sch_1):ins16653470@discrete.\cap np.normal\(chips)',
+ P_PATH='@gate_driver_clllc_dab.schematic1(sch_1):page1_ins16653470@discrete.\cap np.normal\(chips)',
+ ROOM='driver',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C646 'CAP NP_SNPD1206_MODIFIED_2.2NF 1206 50V':
+ ROOM='driver';
+
+SECTION_NUMBER 1
+ '@GATE_DRIVER_CLLLC_DAB.SCHEMATIC1(SCH_1):INS16653526@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@gate_driver_clllc_dab.schematic1(sch_1):ins16653526@discrete.\cap np.normal\(chips)',
+ P_PATH='@gate_driver_clllc_dab.schematic1(sch_1):page1_ins16653526@discrete.\cap np.normal\(chips)',
+ ROOM='driver',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C647 'CAP NP_SNPD1206_MODIFIED_0.1U 1206 50V':
+ ROOM='driver';
+
+SECTION_NUMBER 1
+ '@GATE_DRIVER_CLLLC_DAB.SCHEMATIC1(SCH_1):INS16653662@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@gate_driver_clllc_dab.schematic1(sch_1):ins16653662@discrete.\cap np.normal\(chips)',
+ P_PATH='@gate_driver_clllc_dab.schematic1(sch_1):page1_ins16653662@discrete.\cap np.normal\(chips)',
+ ROOM='driver',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C648 'CAP NP_SNPD1206_MODIFIED_1U 1206 50V':
+ ROOM='driver';
+
+SECTION_NUMBER 1
+ '@GATE_DRIVER_CLLLC_DAB.SCHEMATIC1(SCH_1):INS16667174@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@gate_driver_clllc_dab.schematic1(sch_1):ins16667174@discrete.\cap np.normal\(chips)',
+ P_PATH='@gate_driver_clllc_dab.schematic1(sch_1):page1_ins16667174@discrete.\cap np.normal\(chips)',
+ ROOM='driver',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C649 'CAP NP_SNPD1206_MODIFIED_1U 1206 50V':
+ ROOM='driver';
+
+SECTION_NUMBER 1
+ '@GATE_DRIVER_CLLLC_DAB.SCHEMATIC1(SCH_1):INS16667200@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@gate_driver_clllc_dab.schematic1(sch_1):ins16667200@discrete.\cap np.normal\(chips)',
+ P_PATH='@gate_driver_clllc_dab.schematic1(sch_1):page1_ins16667200@discrete.\cap np.normal\(chips)',
+ ROOM='driver',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C650 'CAP NP_SNPD1206_MODIFIED_1U 1206 50V':
+ ROOM='driver';
+
+SECTION_NUMBER 1
+ '@GATE_DRIVER_CLLLC_DAB.SCHEMATIC1(SCH_1):INS16667226@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@gate_driver_clllc_dab.schematic1(sch_1):ins16667226@discrete.\cap np.normal\(chips)',
+ P_PATH='@gate_driver_clllc_dab.schematic1(sch_1):page1_ins16667226@discrete.\cap np.normal\(chips)',
+ ROOM='driver',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C651 'CAP NP_SNPD0805_MODIFIED_0.1U 0805 50V':
+ ROOM='driver';
+
+SECTION_NUMBER 1
+ '@GATE_DRIVER_CLLLC_DAB.SCHEMATIC1(SCH_1):INS16685817@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@gate_driver_clllc_dab.schematic1(sch_1):ins16685817@discrete.\cap np.normal\(chips)',
+ P_PATH='@gate_driver_clllc_dab.schematic1(sch_1):page1_ins16685817@discrete.\cap np.normal\(chips)',
+ ROOM='driver',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C663 'CAP NP_SNPD0805_MODIFIED_0.1U 0805 50V':
+ ROOM='driver';
+
+SECTION_NUMBER 1
+ '@GATE_DRIVER_CLLLC_DAB.SCHEMATIC1(SCH_1):INS16695981@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@gate_driver_clllc_dab.schematic1(sch_1):ins16695981@discrete.\cap np.normal\(chips)',
+ P_PATH='@gate_driver_clllc_dab.schematic1(sch_1):page1_ins16695981@discrete.\cap np.normal\(chips)',
+ ROOM='driver',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C664 'CAP NP_SNPD0805_MODIFIED_0.1U 0805 50V':
+ ROOM='driver';
+
+SECTION_NUMBER 1
+ '@GATE_DRIVER_CLLLC_DAB.SCHEMATIC1(SCH_1):INS16697872@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@gate_driver_clllc_dab.schematic1(sch_1):ins16697872@discrete.\cap np.normal\(chips)',
+ P_PATH='@gate_driver_clllc_dab.schematic1(sch_1):page1_ins16697872@discrete.\cap np.normal\(chips)',
+ ROOM='driver',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C665 'CAP NP_SNPD0805_MODIFIED_0.1U 0805 50V':
+ ROOM='driver';
+
+SECTION_NUMBER 1
+ '@GATE_DRIVER_CLLLC_DAB.SCHEMATIC1(SCH_1):INS16698080@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@gate_driver_clllc_dab.schematic1(sch_1):ins16698080@discrete.\cap np.normal\(chips)',
+ P_PATH='@gate_driver_clllc_dab.schematic1(sch_1):page1_ins16698080@discrete.\cap np.normal\(chips)',
+ ROOM='driver',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C666 'CAP NP_SNPD0805_MODIFIED_0.1U 0805 50V':
+ ROOM='driver';
+
+SECTION_NUMBER 1
+ '@GATE_DRIVER_CLLLC_DAB.SCHEMATIC1(SCH_1):INS16698317@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@gate_driver_clllc_dab.schematic1(sch_1):ins16698317@discrete.\cap np.normal\(chips)',
+ P_PATH='@gate_driver_clllc_dab.schematic1(sch_1):page1_ins16698317@discrete.\cap np.normal\(chips)',
+ ROOM='driver',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D408 'BAV99_BAV99_BAV99':
+ ROOM='driver_supply';
+
+SECTION_NUMBER 1
+ '@GATE_DRIVER_CLLLC_DAB.SCHEMATIC1(SCH_1):INS16611951@BAV99.BAV99.NORMAL(CHIPS)':
+ C_PATH='@gate_driver_clllc_dab.schematic1(sch_1):ins16611951@bav99.\bav99.normal\(chips)',
+ P_PATH='@gate_driver_clllc_dab.schematic1(sch_1):page1_ins16611951@bav99.\bav99.normal\(chips)',
+ ROOM='driver_supply',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D409 'BAV99_BAV99_BAV99':
+ ROOM='driver_supply';
+
+SECTION_NUMBER 1
+ '@GATE_DRIVER_CLLLC_DAB.SCHEMATIC1(SCH_1):INS16612223@BAV99.BAV99.NORMAL(CHIPS)':
+ C_PATH='@gate_driver_clllc_dab.schematic1(sch_1):ins16612223@bav99.\bav99.normal\(chips)',
+ P_PATH='@gate_driver_clllc_dab.schematic1(sch_1):page1_ins16612223@bav99.\bav99.normal\(chips)',
+ ROOM='driver_supply',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D602 'DIODE ZENER_SOD3716X135N_BZT52B12-E3-18_SOD123_2.4V':
+ ROOM='driver';
+
+SECTION_NUMBER 1
+ '@GATE_DRIVER_CLLLC_DAB.SCHEMATIC1(SCH_1):INS16606490@DISCRETE.DIODE ZENER.NORMAL(CHIPS)':
+ C_PATH='@gate_driver_clllc_dab.schematic1(sch_1):ins16606490@discrete.\diode zener.normal\(chips)',
+ P_PATH='@gate_driver_clllc_dab.schematic1(sch_1):page1_ins16606490@discrete.\diode zener.normal\(chips)',
+ ROOM='driver',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D603 'DIODE ZENER_SOD3716X135N_BZT52B12-E3-18_SOD123_2.4V':
+ ROOM='driver';
+
+SECTION_NUMBER 1
+ '@GATE_DRIVER_CLLLC_DAB.SCHEMATIC1(SCH_1):INS16607176@DISCRETE.DIODE ZENER.NORMAL(CHIPS)':
+ C_PATH='@gate_driver_clllc_dab.schematic1(sch_1):ins16607176@discrete.\diode zener.normal\(chips)',
+ P_PATH='@gate_driver_clllc_dab.schematic1(sch_1):page1_ins16607176@discrete.\diode zener.normal\(chips)',
+ ROOM='driver',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D604 'DIODE ZENER_SOD3716X135N_BZT52B12-E3-18_SOD123_2.4V':
+ ROOM='driver';
+
+SECTION_NUMBER 1
+ '@GATE_DRIVER_CLLLC_DAB.SCHEMATIC1(SCH_1):INS16607868@DISCRETE.DIODE ZENER.NORMAL(CHIPS)':
+ C_PATH='@gate_driver_clllc_dab.schematic1(sch_1):ins16607868@discrete.\diode zener.normal\(chips)',
+ P_PATH='@gate_driver_clllc_dab.schematic1(sch_1):page1_ins16607868@discrete.\diode zener.normal\(chips)',
+ ROOM='driver',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D605 'DIODE ZENER_SOD3716X135N_BZT52B12-E3-18_SOD123_2.4V':
+ ROOM='driver';
+
+SECTION_NUMBER 1
+ '@GATE_DRIVER_CLLLC_DAB.SCHEMATIC1(SCH_1):INS16608574@DISCRETE.DIODE ZENER.NORMAL(CHIPS)':
+ C_PATH='@gate_driver_clllc_dab.schematic1(sch_1):ins16608574@discrete.\diode zener.normal\(chips)',
+ P_PATH='@gate_driver_clllc_dab.schematic1(sch_1):page1_ins16608574@discrete.\diode zener.normal\(chips)',
+ ROOM='driver',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D606 'DIODE_DO214_1N4148 SMD':
+ ROOM='driver';
+
+SECTION_NUMBER 1
+ '@GATE_DRIVER_CLLLC_DAB.SCHEMATIC1(SCH_1):INS16604668@DISCRETE.DIODE.NORMAL(CHIPS)':
+ C_PATH='@gate_driver_clllc_dab.schematic1(sch_1):ins16604668@discrete.\diode.normal\(chips)',
+ P_PATH='@gate_driver_clllc_dab.schematic1(sch_1):page1_ins16604668@discrete.\diode.normal\(chips)',
+ ROOM='driver',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D607 'DIODE_DO214_1N4148 SMD':
+ ROOM='driver';
+
+SECTION_NUMBER 1
+ '@GATE_DRIVER_CLLLC_DAB.SCHEMATIC1(SCH_1):INS16605282@DISCRETE.DIODE.NORMAL(CHIPS)':
+ C_PATH='@gate_driver_clllc_dab.schematic1(sch_1):ins16605282@discrete.\diode.normal\(chips)',
+ P_PATH='@gate_driver_clllc_dab.schematic1(sch_1):page1_ins16605282@discrete.\diode.normal\(chips)',
+ ROOM='driver',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D614 'DIODE_DO214_1N4148 SMD':
+ ROOM='driver';
+
+SECTION_NUMBER 1
+ '@GATE_DRIVER_CLLLC_DAB.SCHEMATIC1(SCH_1):INS16653032@DISCRETE.DIODE.NORMAL(CHIPS)':
+ C_PATH='@gate_driver_clllc_dab.schematic1(sch_1):ins16653032@discrete.\diode.normal\(chips)',
+ P_PATH='@gate_driver_clllc_dab.schematic1(sch_1):page1_ins16653032@discrete.\diode.normal\(chips)',
+ ROOM='driver',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D615 'DIODE_DO214_1N4148 SMD':
+ ROOM='driver';
+
+SECTION_NUMBER 1
+ '@GATE_DRIVER_CLLLC_DAB.SCHEMATIC1(SCH_1):INS16653390@DISCRETE.DIODE.NORMAL(CHIPS)':
+ C_PATH='@gate_driver_clllc_dab.schematic1(sch_1):ins16653390@discrete.\diode.normal\(chips)',
+ P_PATH='@gate_driver_clllc_dab.schematic1(sch_1):page1_ins16653390@discrete.\diode.normal\(chips)',
+ ROOM='driver',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D616 'BAV99_BAV99_BAV99':
+ ROOM='driver_supply';
+
+SECTION_NUMBER 1
+ '@GATE_DRIVER_CLLLC_DAB.SCHEMATIC1(SCH_1):INS16680952@BAV99.BAV99.NORMAL(CHIPS)':
+ C_PATH='@gate_driver_clllc_dab.schematic1(sch_1):ins16680952@bav99.\bav99.normal\(chips)',
+ P_PATH='@gate_driver_clllc_dab.schematic1(sch_1):page1_ins16680952@bav99.\bav99.normal\(chips)',
+ ROOM='driver_supply',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D617 'BAV99_BAV99_BAV99':
+ ROOM='driver_supply';
+
+SECTION_NUMBER 1
+ '@GATE_DRIVER_CLLLC_DAB.SCHEMATIC1(SCH_1):INS16681010@BAV99.BAV99.NORMAL(CHIPS)':
+ C_PATH='@gate_driver_clllc_dab.schematic1(sch_1):ins16681010@bav99.\bav99.normal\(chips)',
+ P_PATH='@gate_driver_clllc_dab.schematic1(sch_1):page1_ins16681010@bav99.\bav99.normal\(chips)',
+ ROOM='driver_supply',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D618 'BAV99_BAV99_BAV99':
+ ROOM='driver_supply';
+
+SECTION_NUMBER 1
+ '@GATE_DRIVER_CLLLC_DAB.SCHEMATIC1(SCH_1):INS16681067@BAV99.BAV99.NORMAL(CHIPS)':
+ C_PATH='@gate_driver_clllc_dab.schematic1(sch_1):ins16681067@bav99.\bav99.normal\(chips)',
+ P_PATH='@gate_driver_clllc_dab.schematic1(sch_1):page1_ins16681067@bav99.\bav99.normal\(chips)',
+ ROOM='driver_supply',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D619 'BAV99_BAV99_BAV99':
+ ROOM='driver_supply';
+
+SECTION_NUMBER 1
+ '@GATE_DRIVER_CLLLC_DAB.SCHEMATIC1(SCH_1):INS16681122@BAV99.BAV99.NORMAL(CHIPS)':
+ C_PATH='@gate_driver_clllc_dab.schematic1(sch_1):ins16681122@bav99.\bav99.normal\(chips)',
+ P_PATH='@gate_driver_clllc_dab.schematic1(sch_1):page1_ins16681122@bav99.\bav99.normal\(chips)',
+ ROOM='driver_supply',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D620 'BAV99_BAV99_BAV99':
+ ROOM='driver_supply';
+
+SECTION_NUMBER 1
+ '@GATE_DRIVER_CLLLC_DAB.SCHEMATIC1(SCH_1):INS16681179@BAV99.BAV99.NORMAL(CHIPS)':
+ C_PATH='@gate_driver_clllc_dab.schematic1(sch_1):ins16681179@bav99.\bav99.normal\(chips)',
+ P_PATH='@gate_driver_clllc_dab.schematic1(sch_1):page1_ins16681179@bav99.\bav99.normal\(chips)',
+ ROOM='driver_supply',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D621 'BAV99_BAV99_BAV99':
+ ROOM='driver_supply';
+
+SECTION_NUMBER 1
+ '@GATE_DRIVER_CLLLC_DAB.SCHEMATIC1(SCH_1):INS16681287@BAV99.BAV99.NORMAL(CHIPS)':
+ C_PATH='@gate_driver_clllc_dab.schematic1(sch_1):ins16681287@bav99.\bav99.normal\(chips)',
+ P_PATH='@gate_driver_clllc_dab.schematic1(sch_1):page1_ins16681287@bav99.\bav99.normal\(chips)',
+ ROOM='driver_supply',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D624 'DIODE_DO214_1N4148 SMD':
+ ROOM='driver';
+
+SECTION_NUMBER 1
+ '@GATE_DRIVER_CLLLC_DAB.SCHEMATIC1(SCH_1):INS16708180@DISCRETE.DIODE.NORMAL(CHIPS)':
+ C_PATH='@gate_driver_clllc_dab.schematic1(sch_1):ins16708180@discrete.\diode.normal\(chips)',
+ P_PATH='@gate_driver_clllc_dab.schematic1(sch_1):page1_ins16708180@discrete.\diode.normal\(chips)',
+ ROOM='driver',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ IC400 'IR21531SPBF_SOIC127P600X175-8N_IR21531SPBF':
+ ROOM='driver_supply';
+
+SECTION_NUMBER 1
+ '@GATE_DRIVER_CLLLC_DAB.SCHEMATIC1(SCH_1):INS16611307@IR21531SPBF.IR21531SPBF.NORMAL(CHIPS)':
+ C_PATH='@gate_driver_clllc_dab.schematic1(sch_1):ins16611307@ir21531spbf.\ir21531spbf.normal\(chips)',
+ P_PATH='@gate_driver_clllc_dab.schematic1(sch_1):page1_ins16611307@ir21531spbf.\ir21531spbf.normal\(chips)',
+ ROOM='driver_supply',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J600 'CON2_SIP_2PIN_BERGSTRIP_CON2':
+ ROOM='driver';
+
+SECTION_NUMBER 1
+ '@GATE_DRIVER_CLLLC_DAB.SCHEMATIC1(SCH_1):INS16604910@CONNECTOR.CON2.NORMAL(CHIPS)':
+ C_PATH='@gate_driver_clllc_dab.schematic1(sch_1):ins16604910@connector.\con2.normal\(chips)',
+ P_PATH='@gate_driver_clllc_dab.schematic1(sch_1):page1_ins16604910@connector.\con2.normal\(chips)',
+ ROOM='driver',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J601 'CON2_SIP_2PIN_BERGSTRIP_CON2':
+ ROOM='driver';
+
+SECTION_NUMBER 1
+ '@GATE_DRIVER_CLLLC_DAB.SCHEMATIC1(SCH_1):INS16605148@CONNECTOR.CON2.NORMAL(CHIPS)':
+ C_PATH='@gate_driver_clllc_dab.schematic1(sch_1):ins16605148@connector.\con2.normal\(chips)',
+ P_PATH='@gate_driver_clllc_dab.schematic1(sch_1):page1_ins16605148@connector.\con2.normal\(chips)',
+ ROOM='driver',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J602 'CON2_SIP_2PIN_BERGSTRIP_CON2':
+ ROOM='driver';
+
+SECTION_NUMBER 1
+ '@GATE_DRIVER_CLLLC_DAB.SCHEMATIC1(SCH_1):INS16605444@CONNECTOR.CON2.NORMAL(CHIPS)':
+ C_PATH='@gate_driver_clllc_dab.schematic1(sch_1):ins16605444@connector.\con2.normal\(chips)',
+ P_PATH='@gate_driver_clllc_dab.schematic1(sch_1):page1_ins16605444@connector.\con2.normal\(chips)',
+ ROOM='driver',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J603 'CON2_SIP_2PIN_BERGSTRIP_CON2':
+ ROOM='driver';
+
+SECTION_NUMBER 1
+ '@GATE_DRIVER_CLLLC_DAB.SCHEMATIC1(SCH_1):INS16605726@CONNECTOR.CON2.NORMAL(CHIPS)':
+ C_PATH='@gate_driver_clllc_dab.schematic1(sch_1):ins16605726@connector.\con2.normal\(chips)',
+ P_PATH='@gate_driver_clllc_dab.schematic1(sch_1):page1_ins16605726@connector.\con2.normal\(chips)',
+ ROOM='driver',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J617 'CON2_SIP_2PIN_BERGSTRIP_CON2':
+ ROOM='driver';
+
+SECTION_NUMBER 1
+ '@GATE_DRIVER_CLLLC_DAB.SCHEMATIC1(SCH_1):INS16604528@CONNECTOR.CON2.NORMAL(CHIPS)':
+ C_PATH='@gate_driver_clllc_dab.schematic1(sch_1):ins16604528@connector.\con2.normal\(chips)',
+ P_PATH='@gate_driver_clllc_dab.schematic1(sch_1):page1_ins16604528@connector.\con2.normal\(chips)',
+ ROOM='driver',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J618 'CON2_SIP_2PIN_BERGSTRIP_CON2':
+ ROOM='driver';
+
+SECTION_NUMBER 1
+ '@GATE_DRIVER_CLLLC_DAB.SCHEMATIC1(SCH_1):INS16604428@CONNECTOR.CON2.NORMAL(CHIPS)':
+ C_PATH='@gate_driver_clllc_dab.schematic1(sch_1):ins16604428@connector.\con2.normal\(chips)',
+ P_PATH='@gate_driver_clllc_dab.schematic1(sch_1):page1_ins16604428@connector.\con2.normal\(chips)',
+ ROOM='driver',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J619 'CON2_SIP_2PIN_BERGSTRIP_CON2':
+ ROOM='driver';
+
+SECTION_NUMBER 1
+ '@GATE_DRIVER_CLLLC_DAB.SCHEMATIC1(SCH_1):INS16604768@CONNECTOR.CON2.NORMAL(CHIPS)':
+ C_PATH='@gate_driver_clllc_dab.schematic1(sch_1):ins16604768@connector.\con2.normal\(chips)',
+ P_PATH='@gate_driver_clllc_dab.schematic1(sch_1):page1_ins16604768@connector.\con2.normal\(chips)',
+ ROOM='driver',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J622 'CON2_SIP_2PIN_BERGSTRIP_CON2':
+ ROOM='driver';
+
+SECTION_NUMBER 1
+ '@GATE_DRIVER_CLLLC_DAB.SCHEMATIC1(SCH_1):INS16688898@CONNECTOR.CON2.NORMAL(CHIPS)':
+ C_PATH='@gate_driver_clllc_dab.schematic1(sch_1):ins16688898@connector.\con2.normal\(chips)',
+ P_PATH='@gate_driver_clllc_dab.schematic1(sch_1):page1_ins16688898@connector.\con2.normal\(chips)',
+ ROOM='driver',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J623 'CON2_SIP_2PIN_BERGSTRIP_CON2':
+ ROOM='driver';
+
+SECTION_NUMBER 1
+ '@GATE_DRIVER_CLLLC_DAB.SCHEMATIC1(SCH_1):INS16688918@CONNECTOR.CON2.NORMAL(CHIPS)':
+ C_PATH='@gate_driver_clllc_dab.schematic1(sch_1):ins16688918@connector.\con2.normal\(chips)',
+ P_PATH='@gate_driver_clllc_dab.schematic1(sch_1):page1_ins16688918@connector.\con2.normal\(chips)',
+ ROOM='driver',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J624 'CON2_SIP_2PIN_BERGSTRIP_CON2':
+ ROOM='driver';
+
+SECTION_NUMBER 1
+ '@GATE_DRIVER_CLLLC_DAB.SCHEMATIC1(SCH_1):INS16653148@CONNECTOR.CON2.NORMAL(CHIPS)':
+ C_PATH='@gate_driver_clllc_dab.schematic1(sch_1):ins16653148@connector.\con2.normal\(chips)',
+ P_PATH='@gate_driver_clllc_dab.schematic1(sch_1):page1_ins16653148@connector.\con2.normal\(chips)',
+ ROOM='driver',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J625 'CON2_SIP_2PIN_BERGSTRIP_CON2':
+ ROOM='driver';
+
+SECTION_NUMBER 1
+ '@GATE_DRIVER_CLLLC_DAB.SCHEMATIC1(SCH_1):INS16653302@CONNECTOR.CON2.NORMAL(CHIPS)':
+ C_PATH='@gate_driver_clllc_dab.schematic1(sch_1):ins16653302@connector.\con2.normal\(chips)',
+ P_PATH='@gate_driver_clllc_dab.schematic1(sch_1):page1_ins16653302@connector.\con2.normal\(chips)',
+ ROOM='driver',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J626 'CON2_SIP_2PIN_BERGSTRIP_CON2':
+ ROOM='driver';
+
+SECTION_NUMBER 1
+ '@GATE_DRIVER_CLLLC_DAB.SCHEMATIC1(SCH_1):INS16653510@CONNECTOR.CON2.NORMAL(CHIPS)':
+ C_PATH='@gate_driver_clllc_dab.schematic1(sch_1):ins16653510@connector.\con2.normal\(chips)',
+ P_PATH='@gate_driver_clllc_dab.schematic1(sch_1):page1_ins16653510@connector.\con2.normal\(chips)',
+ ROOM='driver',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J627 'CON2_SIP_2PIN_BERGSTRIP_CON2':
+ ROOM='driver';
+
+SECTION_NUMBER 1
+ '@GATE_DRIVER_CLLLC_DAB.SCHEMATIC1(SCH_1):INS16653686@CONNECTOR.CON2.NORMAL(CHIPS)':
+ C_PATH='@gate_driver_clllc_dab.schematic1(sch_1):ins16653686@connector.\con2.normal\(chips)',
+ P_PATH='@gate_driver_clllc_dab.schematic1(sch_1):page1_ins16653686@connector.\con2.normal\(chips)',
+ ROOM='driver',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J629 'CON2_SIP_2PIN_BERGSTRIP_CON2':
+ ROOM='driver';
+
+SECTION_NUMBER 1
+ '@GATE_DRIVER_CLLLC_DAB.SCHEMATIC1(SCH_1):INS16729955@CONNECTOR.CON2.NORMAL(CHIPS)':
+ C_PATH='@gate_driver_clllc_dab.schematic1(sch_1):ins16729955@connector.\con2.normal\(chips)',
+ P_PATH='@gate_driver_clllc_dab.schematic1(sch_1):page1_ins16729955@connector.\con2.normal\(chips)',
+ ROOM='driver',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Q400 'CSD19531KCS_TO254P1036X470X1965-3_CSD19531KCS':
+ ROOM='driver_supply';
+
+SECTION_NUMBER 1
+ '@GATE_DRIVER_CLLLC_DAB.SCHEMATIC1(SCH_1):INS16611277@CSD19531KCS.CSD19531KCS.NORMAL(CHIPS)':
+ C_PATH='@gate_driver_clllc_dab.schematic1(sch_1):ins16611277@csd19531kcs.\csd19531kcs.normal\(chips)',
+ P_PATH='@gate_driver_clllc_dab.schematic1(sch_1):page1_ins16611277@csd19531kcs.\csd19531kcs.normal\(chips)',
+ ROOM='driver_supply',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Q401 'CSD19531KCS_TO254P1036X470X1965-3_CSD19531KCS':
+ ROOM='driver_supply';
+
+SECTION_NUMBER 1
+ '@GATE_DRIVER_CLLLC_DAB.SCHEMATIC1(SCH_1):INS16611567@CSD19531KCS.CSD19531KCS.NORMAL(CHIPS)':
+ C_PATH='@gate_driver_clllc_dab.schematic1(sch_1):ins16611567@csd19531kcs.\csd19531kcs.normal\(chips)',
+ P_PATH='@gate_driver_clllc_dab.schematic1(sch_1):page1_ins16611567@csd19531kcs.\csd19531kcs.normal\(chips)',
+ ROOM='driver_supply',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R400 'RESISTOR_SNPD0805_MODIFIED_1K 0805 5%':
+ ROOM='driver_supply';
+
+SECTION_NUMBER 1
+ '@GATE_DRIVER_CLLLC_DAB.SCHEMATIC1(SCH_1):INS16611551@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@gate_driver_clllc_dab.schematic1(sch_1):ins16611551@discrete.\resistor.normal\(chips)',
+ P_PATH='@gate_driver_clllc_dab.schematic1(sch_1):page1_ins16611551@discrete.\resistor.normal\(chips)',
+ ROOM='driver_supply',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R401 'RESISTOR_SNPD0805_MODIFIED_47E 0805 5%':
+ ROOM='driver_supply';
+
+SECTION_NUMBER 1
+ '@GATE_DRIVER_CLLLC_DAB.SCHEMATIC1(SCH_1):INS16611197@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@gate_driver_clllc_dab.schematic1(sch_1):ins16611197@discrete.\resistor.normal\(chips)',
+ P_PATH='@gate_driver_clllc_dab.schematic1(sch_1):page1_ins16611197@discrete.\resistor.normal\(chips)',
+ ROOM='driver_supply',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R402 'RESISTOR_SNPD0805_MODIFIED_10E 0805 5%':
+ ROOM='driver_supply';
+
+SECTION_NUMBER 1
+ '@GATE_DRIVER_CLLLC_DAB.SCHEMATIC1(SCH_1):INS16611261@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@gate_driver_clllc_dab.schematic1(sch_1):ins16611261@discrete.\resistor.normal\(chips)',
+ P_PATH='@gate_driver_clllc_dab.schematic1(sch_1):page1_ins16611261@discrete.\resistor.normal\(chips)',
+ ROOM='driver_supply',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R403 'RESISTOR_SNPD0805_MODIFIED_10E 0805 5%':
+ ROOM='driver_supply';
+
+SECTION_NUMBER 1
+ '@GATE_DRIVER_CLLLC_DAB.SCHEMATIC1(SCH_1):INS16611415@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@gate_driver_clllc_dab.schematic1(sch_1):ins16611415@discrete.\resistor.normal\(chips)',
+ P_PATH='@gate_driver_clllc_dab.schematic1(sch_1):page1_ins16611415@discrete.\resistor.normal\(chips)',
+ ROOM='driver_supply',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R404 'RESISTOR_SNPD2512_MODIFIED_470E 2512':
+ ROOM='driver_supply';
+
+SECTION_NUMBER 1
+ '@GATE_DRIVER_CLLLC_DAB.SCHEMATIC1(SCH_1):INS16614437@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@gate_driver_clllc_dab.schematic1(sch_1):ins16614437@discrete.\resistor.normal\(chips)',
+ P_PATH='@gate_driver_clllc_dab.schematic1(sch_1):page1_ins16614437@discrete.\resistor.normal\(chips)',
+ ROOM='driver_supply',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R405 'RESISTOR_SNPD2512_MODIFIED_470E 2512':
+ ROOM='driver_supply';
+
+SECTION_NUMBER 1
+ '@GATE_DRIVER_CLLLC_DAB.SCHEMATIC1(SCH_1):INS16614502@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@gate_driver_clllc_dab.schematic1(sch_1):ins16614502@discrete.\resistor.normal\(chips)',
+ P_PATH='@gate_driver_clllc_dab.schematic1(sch_1):page1_ins16614502@discrete.\resistor.normal\(chips)',
+ ROOM='driver_supply',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R604 'RESISTOR_SNPD1206_MODIFIED_10E 1206 5%':
+ ROOM='driver';
+
+SECTION_NUMBER 1
+ '@GATE_DRIVER_CLLLC_DAB.SCHEMATIC1(SCH_1):INS16606336@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@gate_driver_clllc_dab.schematic1(sch_1):ins16606336@discrete.\resistor.normal\(chips)',
+ P_PATH='@gate_driver_clllc_dab.schematic1(sch_1):page1_ins16606336@discrete.\resistor.normal\(chips)',
+ ROOM='driver',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R605 'RESISTOR_SNPD1206_MODIFIED_510E || 510E 1206 5%':
+ ROOM='driver';
+
+SECTION_NUMBER 1
+ '@GATE_DRIVER_CLLLC_DAB.SCHEMATIC1(SCH_1):INS16606704@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@gate_driver_clllc_dab.schematic1(sch_1):ins16606704@discrete.\resistor.normal\(chips)',
+ P_PATH='@gate_driver_clllc_dab.schematic1(sch_1):page1_ins16606704@discrete.\resistor.normal\(chips)',
+ ROOM='driver',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R606 'RESISTOR_SNPD1206_MODIFIED_10E 1206 5%':
+ ROOM='driver';
+
+SECTION_NUMBER 1
+ '@GATE_DRIVER_CLLLC_DAB.SCHEMATIC1(SCH_1):INS16607124@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@gate_driver_clllc_dab.schematic1(sch_1):ins16607124@discrete.\resistor.normal\(chips)',
+ P_PATH='@gate_driver_clllc_dab.schematic1(sch_1):page1_ins16607124@discrete.\resistor.normal\(chips)',
+ ROOM='driver',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R607 'RESISTOR_SNPD1206_MODIFIED_510E || 510E 1206 5%':
+ ROOM='driver';
+
+SECTION_NUMBER 1
+ '@GATE_DRIVER_CLLLC_DAB.SCHEMATIC1(SCH_1):INS16607374@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@gate_driver_clllc_dab.schematic1(sch_1):ins16607374@discrete.\resistor.normal\(chips)',
+ P_PATH='@gate_driver_clllc_dab.schematic1(sch_1):page1_ins16607374@discrete.\resistor.normal\(chips)',
+ ROOM='driver',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R608 'RESISTOR_SNPD1206_MODIFIED_10E 1206 5%':
+ ROOM='driver';
+
+SECTION_NUMBER 1
+ '@GATE_DRIVER_CLLLC_DAB.SCHEMATIC1(SCH_1):INS16607760@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@gate_driver_clllc_dab.schematic1(sch_1):ins16607760@discrete.\resistor.normal\(chips)',
+ P_PATH='@gate_driver_clllc_dab.schematic1(sch_1):page1_ins16607760@discrete.\resistor.normal\(chips)',
+ ROOM='driver',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R609 'RESISTOR_SNPD1206_MODIFIED_510E || 510E 1206 5%':
+ ROOM='driver';
+
+SECTION_NUMBER 1
+ '@GATE_DRIVER_CLLLC_DAB.SCHEMATIC1(SCH_1):INS16608108@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@gate_driver_clllc_dab.schematic1(sch_1):ins16608108@discrete.\resistor.normal\(chips)',
+ P_PATH='@gate_driver_clllc_dab.schematic1(sch_1):page1_ins16608108@discrete.\resistor.normal\(chips)',
+ ROOM='driver',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R610 'RESISTOR_SNPD1206_MODIFIED_10E 1206 5%':
+ ROOM='driver';
+
+SECTION_NUMBER 1
+ '@GATE_DRIVER_CLLLC_DAB.SCHEMATIC1(SCH_1):INS16608406@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@gate_driver_clllc_dab.schematic1(sch_1):ins16608406@discrete.\resistor.normal\(chips)',
+ P_PATH='@gate_driver_clllc_dab.schematic1(sch_1):page1_ins16608406@discrete.\resistor.normal\(chips)',
+ ROOM='driver',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R611 'RESISTOR_SNPD1206_MODIFIED_510E || 510E 1206 5%':
+ ROOM='driver';
+
+SECTION_NUMBER 1
+ '@GATE_DRIVER_CLLLC_DAB.SCHEMATIC1(SCH_1):INS16608808@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@gate_driver_clllc_dab.schematic1(sch_1):ins16608808@discrete.\resistor.normal\(chips)',
+ P_PATH='@gate_driver_clllc_dab.schematic1(sch_1):page1_ins16608808@discrete.\resistor.normal\(chips)',
+ ROOM='driver',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R612 'RESISTOR_SNPD1206_MODIFIED_2.2E 1206 5%':
+ ROOM='driver';
+
+SECTION_NUMBER 1
+ '@GATE_DRIVER_CLLLC_DAB.SCHEMATIC1(SCH_1):INS16604652@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@gate_driver_clllc_dab.schematic1(sch_1):ins16604652@discrete.\resistor.normal\(chips)',
+ P_PATH='@gate_driver_clllc_dab.schematic1(sch_1):page1_ins16604652@discrete.\resistor.normal\(chips)',
+ ROOM='driver',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R613 'RESISTOR_SNPD1206_MODIFIED_4.7E 1206 5%':
+ ROOM='driver';
+
+SECTION_NUMBER 1
+ '@GATE_DRIVER_CLLLC_DAB.SCHEMATIC1(SCH_1):INS16604886@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@gate_driver_clllc_dab.schematic1(sch_1):ins16604886@discrete.\resistor.normal\(chips)',
+ P_PATH='@gate_driver_clllc_dab.schematic1(sch_1):page1_ins16604886@discrete.\resistor.normal\(chips)',
+ ROOM='driver',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R614 'RESISTOR_SNPD1206_MODIFIED_10K 1206 1%':
+ ROOM='driver';
+
+SECTION_NUMBER 1
+ '@GATE_DRIVER_CLLLC_DAB.SCHEMATIC1(SCH_1):INS16605008@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@gate_driver_clllc_dab.schematic1(sch_1):ins16605008@discrete.\resistor.normal\(chips)',
+ P_PATH='@gate_driver_clllc_dab.schematic1(sch_1):page1_ins16605008@discrete.\resistor.normal\(chips)',
+ ROOM='driver',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R615 'RESISTOR_SNPD1206_MODIFIED_2.2E 1206 5%':
+ ROOM='driver';
+
+SECTION_NUMBER 1
+ '@GATE_DRIVER_CLLLC_DAB.SCHEMATIC1(SCH_1):INS16605266@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@gate_driver_clllc_dab.schematic1(sch_1):ins16605266@discrete.\resistor.normal\(chips)',
+ P_PATH='@gate_driver_clllc_dab.schematic1(sch_1):page1_ins16605266@discrete.\resistor.normal\(chips)',
+ ROOM='driver',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R616 'RESISTOR_SNPD1206_MODIFIED_4.7E 1206 5%':
+ ROOM='driver';
+
+SECTION_NUMBER 1
+ '@GATE_DRIVER_CLLLC_DAB.SCHEMATIC1(SCH_1):INS16605420@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@gate_driver_clllc_dab.schematic1(sch_1):ins16605420@discrete.\resistor.normal\(chips)',
+ P_PATH='@gate_driver_clllc_dab.schematic1(sch_1):page1_ins16605420@discrete.\resistor.normal\(chips)',
+ ROOM='driver',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R617 'RESISTOR_SNPD1206_MODIFIED_10K 1206 1%':
+ ROOM='driver';
+
+SECTION_NUMBER 1
+ '@GATE_DRIVER_CLLLC_DAB.SCHEMATIC1(SCH_1):INS16605556@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@gate_driver_clllc_dab.schematic1(sch_1):ins16605556@discrete.\resistor.normal\(chips)',
+ P_PATH='@gate_driver_clllc_dab.schematic1(sch_1):page1_ins16605556@discrete.\resistor.normal\(chips)',
+ ROOM='driver',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R618 'RESISTOR_SNPD0805_MODIFIED_10K 0805 1%':
+ ROOM='driver';
+
+SECTION_NUMBER 1
+ '@GATE_DRIVER_CLLLC_DAB.SCHEMATIC1(SCH_1):INS16605388@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@gate_driver_clllc_dab.schematic1(sch_1):ins16605388@discrete.\resistor.normal\(chips)',
+ P_PATH='@gate_driver_clllc_dab.schematic1(sch_1):page1_ins16605388@discrete.\resistor.normal\(chips)',
+ ROOM='driver',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R641 'RESISTOR_SNPD0805_MODIFIED_10E 0805 1%':
+ ROOM='driver';
+
+SECTION_NUMBER 1
+ '@GATE_DRIVER_CLLLC_DAB.SCHEMATIC1(SCH_1):INS16604494@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@gate_driver_clllc_dab.schematic1(sch_1):ins16604494@discrete.\resistor.normal\(chips)',
+ P_PATH='@gate_driver_clllc_dab.schematic1(sch_1):page1_ins16604494@discrete.\resistor.normal\(chips)',
+ ROOM='driver',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R644 'RESISTOR_SNPD1206_MODIFIED_10E 1206 5%':
+ ROOM='driver';
+
+SECTION_NUMBER 1
+ '@GATE_DRIVER_CLLLC_DAB.SCHEMATIC1(SCH_1):INS16604784@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@gate_driver_clllc_dab.schematic1(sch_1):ins16604784@discrete.\resistor.normal\(chips)',
+ P_PATH='@gate_driver_clllc_dab.schematic1(sch_1):page1_ins16604784@discrete.\resistor.normal\(chips)',
+ ROOM='driver',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R645 'RESISTOR_SNPD1206_MODIFIED_2.2E 1206 5%':
+ ROOM='driver';
+
+SECTION_NUMBER 1
+ '@GATE_DRIVER_CLLLC_DAB.SCHEMATIC1(SCH_1):INS16653016@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@gate_driver_clllc_dab.schematic1(sch_1):ins16653016@discrete.\resistor.normal\(chips)',
+ P_PATH='@gate_driver_clllc_dab.schematic1(sch_1):page1_ins16653016@discrete.\resistor.normal\(chips)',
+ ROOM='driver',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R646 'RESISTOR_SNPD1206_MODIFIED_4.7E 1206 5%':
+ ROOM='driver';
+
+SECTION_NUMBER 1
+ '@GATE_DRIVER_CLLLC_DAB.SCHEMATIC1(SCH_1):INS16653124@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@gate_driver_clllc_dab.schematic1(sch_1):ins16653124@discrete.\resistor.normal\(chips)',
+ P_PATH='@gate_driver_clllc_dab.schematic1(sch_1):page1_ins16653124@discrete.\resistor.normal\(chips)',
+ ROOM='driver',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R647 'RESISTOR_SNPD1206_MODIFIED_10K 1206 1%':
+ ROOM='driver';
+
+SECTION_NUMBER 1
+ '@GATE_DRIVER_CLLLC_DAB.SCHEMATIC1(SCH_1):INS16653218@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@gate_driver_clllc_dab.schematic1(sch_1):ins16653218@discrete.\resistor.normal\(chips)',
+ P_PATH='@gate_driver_clllc_dab.schematic1(sch_1):page1_ins16653218@discrete.\resistor.normal\(chips)',
+ ROOM='driver',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R648 'RESISTOR_SNPD1206_MODIFIED_2.2E 1206 5%':
+ ROOM='driver';
+
+SECTION_NUMBER 1
+ '@GATE_DRIVER_CLLLC_DAB.SCHEMATIC1(SCH_1):INS16653374@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@gate_driver_clllc_dab.schematic1(sch_1):ins16653374@discrete.\resistor.normal\(chips)',
+ P_PATH='@gate_driver_clllc_dab.schematic1(sch_1):page1_ins16653374@discrete.\resistor.normal\(chips)',
+ ROOM='driver',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R649 'RESISTOR_SNPD0805_MODIFIED_10K 0805 1%':
+ ROOM='driver';
+
+SECTION_NUMBER 1
+ '@GATE_DRIVER_CLLLC_DAB.SCHEMATIC1(SCH_1):INS16653454@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@gate_driver_clllc_dab.schematic1(sch_1):ins16653454@discrete.\resistor.normal\(chips)',
+ P_PATH='@gate_driver_clllc_dab.schematic1(sch_1):page1_ins16653454@discrete.\resistor.normal\(chips)',
+ ROOM='driver',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R650 'RESISTOR_SNPD1206_MODIFIED_4.7E 1206 5%':
+ ROOM='driver';
+
+SECTION_NUMBER 1
+ '@GATE_DRIVER_CLLLC_DAB.SCHEMATIC1(SCH_1):INS16653486@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@gate_driver_clllc_dab.schematic1(sch_1):ins16653486@discrete.\resistor.normal\(chips)',
+ P_PATH='@gate_driver_clllc_dab.schematic1(sch_1):page1_ins16653486@discrete.\resistor.normal\(chips)',
+ ROOM='driver',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R651 'RESISTOR_SNPD1206_MODIFIED_10K 1206 1%':
+ ROOM='driver';
+
+SECTION_NUMBER 1
+ '@GATE_DRIVER_CLLLC_DAB.SCHEMATIC1(SCH_1):INS16653586@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@gate_driver_clllc_dab.schematic1(sch_1):ins16653586@discrete.\resistor.normal\(chips)',
+ P_PATH='@gate_driver_clllc_dab.schematic1(sch_1):page1_ins16653586@discrete.\resistor.normal\(chips)',
+ ROOM='driver',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R662 'RESISTOR_SNPD0805_MODIFIED_10E 0805 1%':
+ ROOM='driver';
+
+SECTION_NUMBER 1
+ '@GATE_DRIVER_CLLLC_DAB.SCHEMATIC1(SCH_1):INS16695957@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@gate_driver_clllc_dab.schematic1(sch_1):ins16695957@discrete.\resistor.normal\(chips)',
+ P_PATH='@gate_driver_clllc_dab.schematic1(sch_1):page1_ins16695957@discrete.\resistor.normal\(chips)',
+ ROOM='driver',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R663 'RESISTOR_SNPD0805_MODIFIED_10E 0805 1%':
+ ROOM='driver';
+
+SECTION_NUMBER 1
+ '@GATE_DRIVER_CLLLC_DAB.SCHEMATIC1(SCH_1):INS16697852@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@gate_driver_clllc_dab.schematic1(sch_1):ins16697852@discrete.\resistor.normal\(chips)',
+ P_PATH='@gate_driver_clllc_dab.schematic1(sch_1):page1_ins16697852@discrete.\resistor.normal\(chips)',
+ ROOM='driver',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R664 'RESISTOR_SNPD0805_MODIFIED_10E 0805 1%':
+ ROOM='driver';
+
+SECTION_NUMBER 1
+ '@GATE_DRIVER_CLLLC_DAB.SCHEMATIC1(SCH_1):INS16698060@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@gate_driver_clllc_dab.schematic1(sch_1):ins16698060@discrete.\resistor.normal\(chips)',
+ P_PATH='@gate_driver_clllc_dab.schematic1(sch_1):page1_ins16698060@discrete.\resistor.normal\(chips)',
+ ROOM='driver',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R665 'RESISTOR_SNPD0805_MODIFIED_10E 0805 1%':
+ ROOM='driver';
+
+SECTION_NUMBER 1
+ '@GATE_DRIVER_CLLLC_DAB.SCHEMATIC1(SCH_1):INS16698297@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@gate_driver_clllc_dab.schematic1(sch_1):ins16698297@discrete.\resistor.normal\(chips)',
+ P_PATH='@gate_driver_clllc_dab.schematic1(sch_1):page1_ins16698297@discrete.\resistor.normal\(chips)',
+ ROOM='driver',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R672 'RESISTOR_SNPD1206_MODIFIED_12E 1206 5%':
+ ROOM='driver';
+
+SECTION_NUMBER 1
+ '@GATE_DRIVER_CLLLC_DAB.SCHEMATIC1(SCH_1):INS16708242@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@gate_driver_clllc_dab.schematic1(sch_1):ins16708242@discrete.\resistor.normal\(chips)',
+ P_PATH='@gate_driver_clllc_dab.schematic1(sch_1):page1_ins16708242@discrete.\resistor.normal\(chips)',
+ ROOM='driver',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R673 'RESISTOR_SNPD0805_MODIFIED_10K 0805 1%':
+ ROOM='driver';
+
+SECTION_NUMBER 1
+ '@GATE_DRIVER_CLLLC_DAB.SCHEMATIC1(SCH_1):INS16728327@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@gate_driver_clllc_dab.schematic1(sch_1):ins16728327@discrete.\resistor.normal\(chips)',
+ P_PATH='@gate_driver_clllc_dab.schematic1(sch_1):page1_ins16728327@discrete.\resistor.normal\(chips)',
+ ROOM='driver',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R674 'RESISTOR_SNPD0805_MODIFIED_10K 0805 1%':
+ ROOM='driver';
+
+SECTION_NUMBER 1
+ '@GATE_DRIVER_CLLLC_DAB.SCHEMATIC1(SCH_1):INS16728622@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@gate_driver_clllc_dab.schematic1(sch_1):ins16728622@discrete.\resistor.normal\(chips)',
+ P_PATH='@gate_driver_clllc_dab.schematic1(sch_1):page1_ins16728622@discrete.\resistor.normal\(chips)',
+ ROOM='driver',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ T602 'CON2_SIP_2PIN_BERGSTRIP_CON2':
+ ROOM='driver';
+
+SECTION_NUMBER 1
+ '@GATE_DRIVER_CLLLC_DAB.SCHEMATIC1(SCH_1):INS16688304@CONNECTOR.CON2.NORMAL(CHIPS)':
+ C_PATH='@gate_driver_clllc_dab.schematic1(sch_1):ins16688304@connector.\con2.normal\(chips)',
+ P_PATH='@gate_driver_clllc_dab.schematic1(sch_1):page1_ins16688304@connector.\con2.normal\(chips)',
+ ROOM='driver',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ T603 'CON2_SIP_2PIN_BERGSTRIP_CON2':
+ ROOM='driver';
+
+SECTION_NUMBER 1
+ '@GATE_DRIVER_CLLLC_DAB.SCHEMATIC1(SCH_1):INS16688336@CONNECTOR.CON2.NORMAL(CHIPS)':
+ C_PATH='@gate_driver_clllc_dab.schematic1(sch_1):ins16688336@connector.\con2.normal\(chips)',
+ P_PATH='@gate_driver_clllc_dab.schematic1(sch_1):page1_ins16688336@connector.\con2.normal\(chips)',
+ ROOM='driver',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U400 'B66418W1008D1_B66418W1008D1_EFD20/10/7':;
+
+SECTION_NUMBER 1
+ '@GATE_DRIVER_CLLLC_DAB.SCHEMATIC1(SCH_1):INS16646005@B66418W1008D1.B66418W1008D1.NORMAL(CHIPS)':
+ C_PATH='@gate_driver_clllc_dab.schematic1(sch_1):ins16646005@b66418w1008d1.\b66418w1008d1.normal\(chips)',
+ P_PATH='@gate_driver_clllc_dab.schematic1(sch_1):page1_ins16646005@b66418w1008d1.\b66418w1008d1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U402 'B66418W1008D1_B66418W1008D1_EFD20/10/7':;
+
+SECTION_NUMBER 1
+ '@GATE_DRIVER_CLLLC_DAB.SCHEMATIC1(SCH_1):INS16646394@B66418W1008D1.B66418W1008D1.NORMAL(CHIPS)':
+ C_PATH='@gate_driver_clllc_dab.schematic1(sch_1):ins16646394@b66418w1008d1.\b66418w1008d1.normal\(chips)',
+ P_PATH='@gate_driver_clllc_dab.schematic1(sch_1):page1_ins16646394@b66418w1008d1.\b66418w1008d1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U600 'UCC21520ADWR_2_UCC21520_UCC21520DW SOIC16':
+ ROOM='driver';
+
+SECTION_NUMBER 1
+ '@GATE_DRIVER_CLLLC_DAB.SCHEMATIC1(SCH_1):INS16604612@SPCMV3.UCC21520ADWR_2.NORMAL(CHIPS)':
+ C_PATH='@gate_driver_clllc_dab.schematic1(sch_1):ins16604612@spcmv3.\ucc21520adwr_2.normal\(chips)',
+ P_PATH='@gate_driver_clllc_dab.schematic1(sch_1):page1_ins16604612@spcmv3.\ucc21520adwr_2.normal\(chips)',
+ ROOM='driver',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U604 'UCC21520ADWR_2_UCC21520_UCC21520DW SOIC16':
+ ROOM='driver';
+
+SECTION_NUMBER 1
+ '@GATE_DRIVER_CLLLC_DAB.SCHEMATIC1(SCH_1):INS16652976@SPCMV3.UCC21520ADWR_2.NORMAL(CHIPS)':
+ C_PATH='@gate_driver_clllc_dab.schematic1(sch_1):ins16652976@spcmv3.\ucc21520adwr_2.normal\(chips)',
+ P_PATH='@gate_driver_clllc_dab.schematic1(sch_1):page1_ins16652976@spcmv3.\ucc21520adwr_2.normal\(chips)',
+ ROOM='driver',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+END.

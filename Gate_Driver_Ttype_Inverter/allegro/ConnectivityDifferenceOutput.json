@@ -1,0 +1,1335 @@
+{
+	"Gate Swap" : [],
+	"Ref Des" : [],
+	"Pin Swap" : [
+		{
+			"Name" : "U400.6",
+			"C_PATH" : "@gate_driver_clllc_dab.schematic1(sch_1):ins16646005@b66418w1008d1.\\b66418w1008d1.normal\\(chips):\\6\\",
+			"Logical" : "U400.6",
+			"Physical" : "U400.8"
+		}
+	],
+	"Component Property" : [],
+	"Net Property" : [],
+	"Pin Property" : [],
+	"Component" : [
+		{
+			"Name" : "U401",
+			"C_PATH" : "@gate_driver_clllc_dab.schematic1(sch_1):ins16646344@b66418w1008d1.\\b66418w1008d1.normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "U401"
+		},
+		{
+			"Name" : "U403",
+			"C_PATH" : "@gate_driver_clllc_dab.schematic1(sch_1):ins16646444@b66418w1008d1.\\b66418w1008d1.normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "U403"
+		},
+		{
+			"Name" : "U404",
+			"C_PATH" : "@gate_driver_clllc_dab.schematic1(sch_1):ins16646494@b66418w1008d1.\\b66418w1008d1.normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "U404"
+		},
+		{
+			"Name" : "C600",
+			"C_PATH" : "@gate_driver_clllc_dab.schematic1(sch_1):ins16604976@discrete.\\cap.normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "C600"
+		},
+		{
+			"Name" : "C603",
+			"C_PATH" : "@gate_driver_clllc_dab.schematic1(sch_1):ins16605826@discrete.\\cap.normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "C603"
+		},
+		{
+			"Name" : "D600",
+			"C_PATH" : "@gate_driver_clllc_dab.schematic1(sch_1):ins16604744@discrete.\\diode zener.normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "D600"
+		},
+		{
+			"Name" : "D601",
+			"C_PATH" : "@gate_driver_clllc_dab.schematic1(sch_1):ins16605670@discrete.\\diode zener.normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "D601"
+		},
+		{
+			"Name" : "C667",
+			"C_PATH" : "@gate_driver_clllc_dab.schematic1(sch_1):ins16698521@discrete.\\cap np.normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "C667"
+		},
+		{
+			"Name" : "C668",
+			"C_PATH" : "@gate_driver_clllc_dab.schematic1(sch_1):ins16698724@discrete.\\cap np.normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "C668"
+		},
+		{
+			"Name" : "C669",
+			"C_PATH" : "@gate_driver_clllc_dab.schematic1(sch_1):ins16698970@discrete.\\cap np.normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "C669"
+		},
+		{
+			"Name" : "C670",
+			"C_PATH" : "@gate_driver_clllc_dab.schematic1(sch_1):ins16699230@discrete.\\cap np.normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "C670"
+		},
+		{
+			"Name" : "C671",
+			"C_PATH" : "@gate_driver_clllc_dab.schematic1(sch_1):ins16699437@discrete.\\cap np.normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "C671"
+		},
+		{
+			"Name" : "C672",
+			"C_PATH" : "@gate_driver_clllc_dab.schematic1(sch_1):ins16699669@discrete.\\cap np.normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "C672"
+		},
+		{
+			"Name" : "C658",
+			"C_PATH" : "@gate_driver_clllc_dab.schematic1(sch_1):ins16691755@discrete.\\cap np.normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "C658"
+		},
+		{
+			"Name" : "C628",
+			"C_PATH" : "@gate_driver_clllc_dab.schematic1(sch_1):ins16605976@discrete.\\cap np.normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "C628"
+		},
+		{
+			"Name" : "C634",
+			"C_PATH" : "@gate_driver_clllc_dab.schematic1(sch_1):ins16607262@discrete.\\cap np.normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "C634"
+		},
+		{
+			"Name" : "C640",
+			"C_PATH" : "@gate_driver_clllc_dab.schematic1(sch_1):ins16608430@discrete.\\cap np.normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "C640"
+		},
+		{
+			"Name" : "C601",
+			"C_PATH" : "@gate_driver_clllc_dab.schematic1(sch_1):ins16604830@discrete.\\cap np.normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "C601"
+		},
+		{
+			"Name" : "C602",
+			"C_PATH" : "@gate_driver_clllc_dab.schematic1(sch_1):ins16605096@discrete.\\cap np.normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "C602"
+		},
+		{
+			"Name" : "C604",
+			"C_PATH" : "@gate_driver_clllc_dab.schematic1(sch_1):ins16605742@discrete.\\cap np.normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "C604"
+		},
+		{
+			"Name" : "C605",
+			"C_PATH" : "@gate_driver_clllc_dab.schematic1(sch_1):ins16605910@discrete.\\cap np.normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "C605"
+		},
+		{
+			"Name" : "C624",
+			"C_PATH" : "@gate_driver_clllc_dab.schematic1(sch_1):ins16606172@discrete.\\cap np.normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "C624"
+		},
+		{
+			"Name" : "C625",
+			"C_PATH" : "@gate_driver_clllc_dab.schematic1(sch_1):ins16606450@discrete.\\cap np.normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "C625"
+		},
+		{
+			"Name" : "C626",
+			"C_PATH" : "@gate_driver_clllc_dab.schematic1(sch_1):ins16606788@discrete.\\cap np.normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "C626"
+		},
+		{
+			"Name" : "C627",
+			"C_PATH" : "@gate_driver_clllc_dab.schematic1(sch_1):ins16607012@discrete.\\cap np.normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "C627"
+		},
+		{
+			"Name" : "C630",
+			"C_PATH" : "@gate_driver_clllc_dab.schematic1(sch_1):ins16607474@discrete.\\cap np.normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "C630"
+		},
+		{
+			"Name" : "C631",
+			"C_PATH" : "@gate_driver_clllc_dab.schematic1(sch_1):ins16607680@discrete.\\cap np.normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "C631"
+		},
+		{
+			"Name" : "C632",
+			"C_PATH" : "@gate_driver_clllc_dab.schematic1(sch_1):ins16607968@discrete.\\cap np.normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "C632"
+		},
+		{
+			"Name" : "C633",
+			"C_PATH" : "@gate_driver_clllc_dab.schematic1(sch_1):ins16608240@discrete.\\cap np.normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "C633"
+		},
+		{
+			"Name" : "C636",
+			"C_PATH" : "@gate_driver_clllc_dab.schematic1(sch_1):ins16608638@discrete.\\cap np.normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "C636"
+		},
+		{
+			"Name" : "C637",
+			"C_PATH" : "@gate_driver_clllc_dab.schematic1(sch_1):ins16608892@discrete.\\cap np.normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "C637"
+		},
+		{
+			"Name" : "C638",
+			"C_PATH" : "@gate_driver_clllc_dab.schematic1(sch_1):ins16609124@discrete.\\cap np.normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "C638"
+		},
+		{
+			"Name" : "C639",
+			"C_PATH" : "@gate_driver_clllc_dab.schematic1(sch_1):ins16609308@discrete.\\cap np.normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "C639"
+		},
+		{
+			"Name" : "C629",
+			"C_PATH" : "@gate_driver_clllc_dab.schematic1(sch_1):ins16606844@discrete.\\cap np.normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "C629"
+		},
+		{
+			"Name" : "C635",
+			"C_PATH" : "@gate_driver_clllc_dab.schematic1(sch_1):ins16608056@discrete.\\cap np.normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "C635"
+		},
+		{
+			"Name" : "C641",
+			"C_PATH" : "@gate_driver_clllc_dab.schematic1(sch_1):ins16609180@discrete.\\cap np.normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "C641"
+		},
+		{
+			"Name" : "D622",
+			"C_PATH" : "@gate_driver_clllc_dab.schematic1(sch_1):ins16681344@bav99.\\bav99.normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "D622"
+		},
+		{
+			"Name" : "D623",
+			"C_PATH" : "@gate_driver_clllc_dab.schematic1(sch_1):ins16681400@bav99.\\bav99.normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "D623"
+		},
+		{
+			"Name" : "D608",
+			"C_PATH" : "@gate_driver_clllc_dab.schematic1(sch_1):ins16606048@discrete.\\diode.normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "D608"
+		},
+		{
+			"Name" : "D609",
+			"C_PATH" : "@gate_driver_clllc_dab.schematic1(sch_1):ins16606602@discrete.\\diode.normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "D609"
+		},
+		{
+			"Name" : "D610",
+			"C_PATH" : "@gate_driver_clllc_dab.schematic1(sch_1):ins16607358@discrete.\\diode.normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "D610"
+		},
+		{
+			"Name" : "D611",
+			"C_PATH" : "@gate_driver_clllc_dab.schematic1(sch_1):ins16607852@discrete.\\diode.normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "D611"
+		},
+		{
+			"Name" : "D612",
+			"C_PATH" : "@gate_driver_clllc_dab.schematic1(sch_1):ins16608502@discrete.\\diode.normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "D612"
+		},
+		{
+			"Name" : "D613",
+			"C_PATH" : "@gate_driver_clllc_dab.schematic1(sch_1):ins16609028@discrete.\\diode.normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "D613"
+		},
+		{
+			"Name" : "T608",
+			"C_PATH" : "@gate_driver_clllc_dab.schematic1(sch_1):ins16688590@connector.\\con2.normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "T608"
+		},
+		{
+			"Name" : "T609",
+			"C_PATH" : "@gate_driver_clllc_dab.schematic1(sch_1):ins16688622@connector.\\con2.normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "T609"
+		},
+		{
+			"Name" : "T604",
+			"C_PATH" : "@gate_driver_clllc_dab.schematic1(sch_1):ins16688368@connector.\\con2.normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "T604"
+		},
+		{
+			"Name" : "T605",
+			"C_PATH" : "@gate_driver_clllc_dab.schematic1(sch_1):ins16688400@connector.\\con2.normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "T605"
+		},
+		{
+			"Name" : "T606",
+			"C_PATH" : "@gate_driver_clllc_dab.schematic1(sch_1):ins16688432@connector.\\con2.normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "T606"
+		},
+		{
+			"Name" : "T607",
+			"C_PATH" : "@gate_driver_clllc_dab.schematic1(sch_1):ins16688464@connector.\\con2.normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "T607"
+		},
+		{
+			"Name" : "J620",
+			"C_PATH" : "@gate_driver_clllc_dab.schematic1(sch_1):ins16688834@connector.\\con2.normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "J620"
+		},
+		{
+			"Name" : "J621",
+			"C_PATH" : "@gate_driver_clllc_dab.schematic1(sch_1):ins16688854@connector.\\con2.normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "J621"
+		},
+		{
+			"Name" : "J604",
+			"C_PATH" : "@gate_driver_clllc_dab.schematic1(sch_1):ins16606212@connector.\\con2.normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "J604"
+		},
+		{
+			"Name" : "J605",
+			"C_PATH" : "@gate_driver_clllc_dab.schematic1(sch_1):ins16606474@connector.\\con2.normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "J605"
+		},
+		{
+			"Name" : "J606",
+			"C_PATH" : "@gate_driver_clllc_dab.schematic1(sch_1):ins16606828@connector.\\con2.normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "J606"
+		},
+		{
+			"Name" : "J607",
+			"C_PATH" : "@gate_driver_clllc_dab.schematic1(sch_1):ins16607036@connector.\\con2.normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "J607"
+		},
+		{
+			"Name" : "J608",
+			"C_PATH" : "@gate_driver_clllc_dab.schematic1(sch_1):ins16607514@connector.\\con2.normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "J608"
+		},
+		{
+			"Name" : "J609",
+			"C_PATH" : "@gate_driver_clllc_dab.schematic1(sch_1):ins16607704@connector.\\con2.normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "J609"
+		},
+		{
+			"Name" : "J610",
+			"C_PATH" : "@gate_driver_clllc_dab.schematic1(sch_1):ins16608008@connector.\\con2.normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "J610"
+		},
+		{
+			"Name" : "J611",
+			"C_PATH" : "@gate_driver_clllc_dab.schematic1(sch_1):ins16608264@connector.\\con2.normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "J611"
+		},
+		{
+			"Name" : "J612",
+			"C_PATH" : "@gate_driver_clllc_dab.schematic1(sch_1):ins16608678@connector.\\con2.normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "J612"
+		},
+		{
+			"Name" : "J613",
+			"C_PATH" : "@gate_driver_clllc_dab.schematic1(sch_1):ins16608916@connector.\\con2.normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "J613"
+		},
+		{
+			"Name" : "J614",
+			"C_PATH" : "@gate_driver_clllc_dab.schematic1(sch_1):ins16609164@connector.\\con2.normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "J614"
+		},
+		{
+			"Name" : "J615",
+			"C_PATH" : "@gate_driver_clllc_dab.schematic1(sch_1):ins16609332@connector.\\con2.normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "J615"
+		},
+		{
+			"Name" : "J616",
+			"C_PATH" : "@gate_driver_clllc_dab.schematic1(sch_1):ins16604400@connector.\\con2.normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "J616"
+		},
+		{
+			"Name" : "R600",
+			"C_PATH" : "@gate_driver_clllc_dab.schematic1(sch_1):ins16604580@discrete.\\resistor.normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "R600"
+		},
+		{
+			"Name" : "R602",
+			"C_PATH" : "@gate_driver_clllc_dab.schematic1(sch_1):ins16605520@discrete.\\resistor.normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "R602"
+		},
+		{
+			"Name" : "R601",
+			"C_PATH" : "@gate_driver_clllc_dab.schematic1(sch_1):ins16605080@discrete.\\resistor.normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "R601"
+		},
+		{
+			"Name" : "R603",
+			"C_PATH" : "@gate_driver_clllc_dab.schematic1(sch_1):ins16605894@discrete.\\resistor.normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "R603"
+		},
+		{
+			"Name" : "R619",
+			"C_PATH" : "@gate_driver_clllc_dab.schematic1(sch_1):ins16606032@discrete.\\resistor.normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "R619"
+		},
+		{
+			"Name" : "R622",
+			"C_PATH" : "@gate_driver_clllc_dab.schematic1(sch_1):ins16606586@discrete.\\resistor.normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "R622"
+		},
+		{
+			"Name" : "R620",
+			"C_PATH" : "@gate_driver_clllc_dab.schematic1(sch_1):ins16606188@discrete.\\resistor.normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "R620"
+		},
+		{
+			"Name" : "R623",
+			"C_PATH" : "@gate_driver_clllc_dab.schematic1(sch_1):ins16606804@discrete.\\resistor.normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "R623"
+		},
+		{
+			"Name" : "R627",
+			"C_PATH" : "@gate_driver_clllc_dab.schematic1(sch_1):ins16607490@discrete.\\resistor.normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "R627"
+		},
+		{
+			"Name" : "R630",
+			"C_PATH" : "@gate_driver_clllc_dab.schematic1(sch_1):ins16607984@discrete.\\resistor.normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "R630"
+		},
+		{
+			"Name" : "R634",
+			"C_PATH" : "@gate_driver_clllc_dab.schematic1(sch_1):ins16608654@discrete.\\resistor.normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "R634"
+		},
+		{
+			"Name" : "R637",
+			"C_PATH" : "@gate_driver_clllc_dab.schematic1(sch_1):ins16609140@discrete.\\resistor.normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "R637"
+		},
+		{
+			"Name" : "R621",
+			"C_PATH" : "@gate_driver_clllc_dab.schematic1(sch_1):ins16606308@discrete.\\resistor.normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "R621"
+		},
+		{
+			"Name" : "R624",
+			"C_PATH" : "@gate_driver_clllc_dab.schematic1(sch_1):ins16606908@discrete.\\resistor.normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "R624"
+		},
+		{
+			"Name" : "R628",
+			"C_PATH" : "@gate_driver_clllc_dab.schematic1(sch_1):ins16607620@discrete.\\resistor.normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "R628"
+		},
+		{
+			"Name" : "R631",
+			"C_PATH" : "@gate_driver_clllc_dab.schematic1(sch_1):ins16608144@discrete.\\resistor.normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "R631"
+		},
+		{
+			"Name" : "R635",
+			"C_PATH" : "@gate_driver_clllc_dab.schematic1(sch_1):ins16608784@discrete.\\resistor.normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "R635"
+		},
+		{
+			"Name" : "R638",
+			"C_PATH" : "@gate_driver_clllc_dab.schematic1(sch_1):ins16609240@discrete.\\resistor.normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "R638"
+		},
+		{
+			"Name" : "R625",
+			"C_PATH" : "@gate_driver_clllc_dab.schematic1(sch_1):ins16606772@discrete.\\resistor.normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "R625"
+		},
+		{
+			"Name" : "R632",
+			"C_PATH" : "@gate_driver_clllc_dab.schematic1(sch_1):ins16607952@discrete.\\resistor.normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "R632"
+		},
+		{
+			"Name" : "R639",
+			"C_PATH" : "@gate_driver_clllc_dab.schematic1(sch_1):ins16609108@discrete.\\resistor.normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "R639"
+		},
+		{
+			"Name" : "R626",
+			"C_PATH" : "@gate_driver_clllc_dab.schematic1(sch_1):ins16607342@discrete.\\resistor.normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "R626"
+		},
+		{
+			"Name" : "R629",
+			"C_PATH" : "@gate_driver_clllc_dab.schematic1(sch_1):ins16607836@discrete.\\resistor.normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "R629"
+		},
+		{
+			"Name" : "R633",
+			"C_PATH" : "@gate_driver_clllc_dab.schematic1(sch_1):ins16608486@discrete.\\resistor.normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "R633"
+		},
+		{
+			"Name" : "R636",
+			"C_PATH" : "@gate_driver_clllc_dab.schematic1(sch_1):ins16609012@discrete.\\resistor.normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "R636"
+		},
+		{
+			"Name" : "R666",
+			"C_PATH" : "@gate_driver_clllc_dab.schematic1(sch_1):ins16698501@discrete.\\resistor.normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "R666"
+		},
+		{
+			"Name" : "R667",
+			"C_PATH" : "@gate_driver_clllc_dab.schematic1(sch_1):ins16698704@discrete.\\resistor.normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "R667"
+		},
+		{
+			"Name" : "R668",
+			"C_PATH" : "@gate_driver_clllc_dab.schematic1(sch_1):ins16698950@discrete.\\resistor.normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "R668"
+		},
+		{
+			"Name" : "R669",
+			"C_PATH" : "@gate_driver_clllc_dab.schematic1(sch_1):ins16699210@discrete.\\resistor.normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "R669"
+		},
+		{
+			"Name" : "R670",
+			"C_PATH" : "@gate_driver_clllc_dab.schematic1(sch_1):ins16699417@discrete.\\resistor.normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "R670"
+		},
+		{
+			"Name" : "R671",
+			"C_PATH" : "@gate_driver_clllc_dab.schematic1(sch_1):ins16699649@discrete.\\resistor.normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "R671"
+		},
+		{
+			"Name" : "R640",
+			"C_PATH" : "@gate_driver_clllc_dab.schematic1(sch_1):ins16604378@discrete.\\resistor.normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "R640"
+		},
+		{
+			"Name" : "U601",
+			"C_PATH" : "@gate_driver_clllc_dab.schematic1(sch_1):ins16605992@spcmv3.\\ucc21520adwr_2.normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "U601"
+		},
+		{
+			"Name" : "U602",
+			"C_PATH" : "@gate_driver_clllc_dab.schematic1(sch_1):ins16607302@spcmv3.\\ucc21520adwr_2.normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "U602"
+		},
+		{
+			"Name" : "U603",
+			"C_PATH" : "@gate_driver_clllc_dab.schematic1(sch_1):ins16608446@spcmv3.\\ucc21520adwr_2.normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "U603"
+		},
+		{
+			"Name" : "R673",
+			"C_PATH" : "@gate_driver_clllc_dab.schematic1(sch_1):ins16728327@discrete.\\resistor.normal\\(chips)",
+			"Logical" : "R673",
+			"Physical" : null
+		},
+		{
+			"Name" : "R674",
+			"C_PATH" : "@gate_driver_clllc_dab.schematic1(sch_1):ins16728622@discrete.\\resistor.normal\\(chips)",
+			"Logical" : "R674",
+			"Physical" : null
+		},
+		{
+			"Name" : "C401",
+			"C_PATH" : "@gate_driver_clllc_dab.schematic1(sch_1):ins16611671@discrete.\\cap np.normal\\(chips)",
+			"Logical" : "CAP NP_SNPD0805_MODIFIED_10NF 0805 50V",
+			"Physical" : "CAP NP_SNPD0805_MODIFIED_0.1U 0805 50V"
+		},
+		{
+			"Name" : "C404",
+			"C_PATH" : "@gate_driver_clllc_dab.schematic1(sch_1):ins16611351@discrete.\\cap.normal\\(chips)",
+			"Logical" : "CAP_CAP_SMD_PTH_470UF50V_470U 35\/50V",
+			"Physical" : "CAP_CAP_SMD_PTH_470UF50V_220U 35V"
+		},
+		{
+			"Name" : "C405",
+			"C_PATH" : "@gate_driver_clllc_dab.schematic1(sch_1):ins16611597@discrete.\\cap.normal\\(chips)",
+			"Logical" : "CAP_CAP_SMD_PTH_470UF50V_470U 35\/50V_1",
+			"Physical" : "CAP_CAP_SMD_PTH_470UF50V_220U 35V_1"
+		},
+		{
+			"Name" : "C607",
+			"C_PATH" : "@gate_driver_clllc_dab.schematic1(sch_1):ins16606506@discrete.\\cap np.normal\\(chips)",
+			"Logical" : "CAP NP_SNPD1206_MODIFIED_10U 1206 50V",
+			"Physical" : "CAP NP_SNPD1206_MODIFIED_22U 1206 50V"
+		},
+		{
+			"Name" : "C608",
+			"C_PATH" : "@gate_driver_clllc_dab.schematic1(sch_1):ins16606752@discrete.\\cap np.normal\\(chips)",
+			"Logical" : "CAP NP_SNPD1206_MODIFIED_10U 1206 50V",
+			"Physical" : "CAP NP_SNPD1206_MODIFIED_22U 1206 50V"
+		},
+		{
+			"Name" : "C610",
+			"C_PATH" : "@gate_driver_clllc_dab.schematic1(sch_1):ins16607198@discrete.\\cap np.normal\\(chips)",
+			"Logical" : "CAP NP_SNPD1206_MODIFIED_10U 1206 50V",
+			"Physical" : "CAP NP_SNPD1206_MODIFIED_22U 1206 50V"
+		},
+		{
+			"Name" : "C611",
+			"C_PATH" : "@gate_driver_clllc_dab.schematic1(sch_1):ins16607390@discrete.\\cap np.normal\\(chips)",
+			"Logical" : "CAP NP_SNPD1206_MODIFIED_10U 1206 50V",
+			"Physical" : "CAP NP_SNPD1206_MODIFIED_22U 1206 50V"
+		},
+		{
+			"Name" : "C613",
+			"C_PATH" : "@gate_driver_clllc_dab.schematic1(sch_1):ins16607884@discrete.\\cap np.normal\\(chips)",
+			"Logical" : "CAP NP_SNPD1206_MODIFIED_10U 1206 50V",
+			"Physical" : "CAP NP_SNPD1206_MODIFIED_22U 1206 50V"
+		},
+		{
+			"Name" : "C614",
+			"C_PATH" : "@gate_driver_clllc_dab.schematic1(sch_1):ins16608164@discrete.\\cap np.normal\\(chips)",
+			"Logical" : "CAP NP_SNPD1206_MODIFIED_10U 1206 50V",
+			"Physical" : "CAP NP_SNPD1206_MODIFIED_22U 1206 50V"
+		},
+		{
+			"Name" : "R400",
+			"C_PATH" : "@gate_driver_clllc_dab.schematic1(sch_1):ins16611551@discrete.\\resistor.normal\\(chips)",
+			"Logical" : "RESISTOR_SNPD0805_MODIFIED_1K 0805 5%",
+			"Physical" : "RESISTOR_SNPD0805_MODIFIED_0E 0805 5%"
+		},
+		{
+			"Name" : "R401",
+			"C_PATH" : "@gate_driver_clllc_dab.schematic1(sch_1):ins16611197@discrete.\\resistor.normal\\(chips)",
+			"Logical" : "RESISTOR_SNPD0805_MODIFIED_47E 0805 5%",
+			"Physical" : "RESISTOR_SNPD0805_MODIFIED_0E 0805 5%"
+		},
+		{
+			"Name" : "R402",
+			"C_PATH" : "@gate_driver_clllc_dab.schematic1(sch_1):ins16611261@discrete.\\resistor.normal\\(chips)",
+			"Logical" : "RESISTOR_SNPD0805_MODIFIED_10E 0805 5%",
+			"Physical" : "RESISTOR_SNPD0805_MODIFIED_0E 0805 5%"
+		},
+		{
+			"Name" : "R403",
+			"C_PATH" : "@gate_driver_clllc_dab.schematic1(sch_1):ins16611415@discrete.\\resistor.normal\\(chips)",
+			"Logical" : "RESISTOR_SNPD0805_MODIFIED_10E 0805 5%",
+			"Physical" : "RESISTOR_SNPD0805_MODIFIED_0E 0805 5%"
+		},
+		{
+			"Name" : "R404",
+			"C_PATH" : "@gate_driver_clllc_dab.schematic1(sch_1):ins16614437@discrete.\\resistor.normal\\(chips)",
+			"Logical" : "RESISTOR_SNPD2512_MODIFIED_470E 2512",
+			"Physical" : "RESISTOR_SNPD2512_MODIFIED_560E 2512"
+		},
+		{
+			"Name" : "R405",
+			"C_PATH" : "@gate_driver_clllc_dab.schematic1(sch_1):ins16614502@discrete.\\resistor.normal\\(chips)",
+			"Logical" : "RESISTOR_SNPD2512_MODIFIED_470E 2512",
+			"Physical" : "RESISTOR_SNPD2512_MODIFIED_560E 2512"
+		},
+		{
+			"Name" : "R645",
+			"C_PATH" : "@gate_driver_clllc_dab.schematic1(sch_1):ins16653016@discrete.\\resistor.normal\\(chips)",
+			"Logical" : "RESISTOR_SNPD1206_MODIFIED_2.2E 1206 5%",
+			"Physical" : "RESISTOR_SNPD1206_MODIFIED_7.5E 1206 5%"
+		},
+		{
+			"Name" : "R648",
+			"C_PATH" : "@gate_driver_clllc_dab.schematic1(sch_1):ins16653374@discrete.\\resistor.normal\\(chips)",
+			"Logical" : "RESISTOR_SNPD1206_MODIFIED_2.2E 1206 5%",
+			"Physical" : "RESISTOR_SNPD1206_MODIFIED_7.5E 1206 5%"
+		},
+		{
+			"Name" : "R672",
+			"C_PATH" : "@gate_driver_clllc_dab.schematic1(sch_1):ins16708242@discrete.\\resistor.normal\\(chips)",
+			"Logical" : "RESISTOR_SNPD1206_MODIFIED_12E 1206 5%",
+			"Physical" : "RESISTOR_SNPD1206_MODIFIED_2.2E 1206 5%"
+		}
+	],
+	"Net" : [
+		{
+			"Name" : "EPWM5B_IC",
+			"C_PATH" : "@gate_driver_clllc_dab.schematic1(sch_1):epwm5b_ic",
+			"Logical" : null,
+			"Physical" : "EPWM5B_IC"
+		},
+		{
+			"Name" : "EPWM5A_IC",
+			"C_PATH" : "@gate_driver_clllc_dab.schematic1(sch_1):epwm5a_ic",
+			"Logical" : null,
+			"Physical" : "EPWM5A_IC"
+		},
+		{
+			"Name" : "EPWM4B_IC",
+			"C_PATH" : "@gate_driver_clllc_dab.schematic1(sch_1):epwm4b_ic",
+			"Logical" : null,
+			"Physical" : "EPWM4B_IC"
+		},
+		{
+			"Name" : "EPWM4A_IC",
+			"C_PATH" : "@gate_driver_clllc_dab.schematic1(sch_1):epwm4a_ic",
+			"Logical" : null,
+			"Physical" : "EPWM4A_IC"
+		},
+		{
+			"Name" : "EPWM3B_IC",
+			"C_PATH" : "@gate_driver_clllc_dab.schematic1(sch_1):epwm3b_ic",
+			"Logical" : null,
+			"Physical" : "EPWM3B_IC"
+		},
+		{
+			"Name" : "EPWM3A_IC",
+			"C_PATH" : "@gate_driver_clllc_dab.schematic1(sch_1):epwm3a_ic",
+			"Logical" : null,
+			"Physical" : "EPWM3A_IC"
+		},
+		{
+			"Name" : "EPWM5B",
+			"C_PATH" : "@gate_driver_clllc_dab.schematic1(sch_1):epwm5b",
+			"Logical" : null,
+			"Physical" : "EPWM5B"
+		},
+		{
+			"Name" : "EPWM5A",
+			"C_PATH" : "@gate_driver_clllc_dab.schematic1(sch_1):epwm5a",
+			"Logical" : null,
+			"Physical" : "EPWM5A"
+		},
+		{
+			"Name" : "N16611929",
+			"C_PATH" : "@gate_driver_clllc_dab.schematic1(sch_1):n16611929",
+			"Logical" : null,
+			"Physical" : "N16611929"
+		},
+		{
+			"Name" : "N16611893",
+			"C_PATH" : "@gate_driver_clllc_dab.schematic1(sch_1):n16611893",
+			"Logical" : null,
+			"Physical" : "N16611893"
+		},
+		{
+			"Name" : "N16611865",
+			"C_PATH" : "@gate_driver_clllc_dab.schematic1(sch_1):n16611865",
+			"Logical" : null,
+			"Physical" : "N16611865"
+		},
+		{
+			"Name" : "N16611889",
+			"C_PATH" : "@gate_driver_clllc_dab.schematic1(sch_1):n16611889",
+			"Logical" : null,
+			"Physical" : "N16611889"
+		},
+		{
+			"Name" : "N16611877",
+			"C_PATH" : "@gate_driver_clllc_dab.schematic1(sch_1):n16611877",
+			"Logical" : null,
+			"Physical" : "N16611877"
+		},
+		{
+			"Name" : "N16611869",
+			"C_PATH" : "@gate_driver_clllc_dab.schematic1(sch_1):n16611869",
+			"Logical" : null,
+			"Physical" : "N16611869"
+		},
+		{
+			"Name" : "EPWM4B",
+			"C_PATH" : "@gate_driver_clllc_dab.schematic1(sch_1):epwm4b",
+			"Logical" : null,
+			"Physical" : "EPWM4B"
+		},
+		{
+			"Name" : "GNDPWR1",
+			"C_PATH" : "@gate_driver_clllc_dab.schematic1(sch_1):gndpwr1",
+			"Logical" : null,
+			"Physical" : "GNDPWR1"
+		},
+		{
+			"Name" : "15VPWR2",
+			"C_PATH" : "@gate_driver_clllc_dab.schematic1(sch_1):\\15vpwr2\\",
+			"Logical" : null,
+			"Physical" : "15VPWR2"
+		},
+		{
+			"Name" : "N16606098",
+			"C_PATH" : "@gate_driver_clllc_dab.schematic1(sch_1):n16606098",
+			"Logical" : null,
+			"Physical" : "N16606098"
+		},
+		{
+			"Name" : "N16608564",
+			"C_PATH" : "@gate_driver_clllc_dab.schematic1(sch_1):n16608564",
+			"Logical" : null,
+			"Physical" : "N16608564"
+		},
+		{
+			"Name" : "N16607424",
+			"C_PATH" : "@gate_driver_clllc_dab.schematic1(sch_1):n16607424",
+			"Logical" : null,
+			"Physical" : "N16607424"
+		},
+		{
+			"Name" : "22VPWR1",
+			"C_PATH" : "@gate_driver_clllc_dab.schematic1(sch_1):\\22vpwr1\\",
+			"Logical" : null,
+			"Physical" : "22VPWR1"
+		},
+		{
+			"Name" : "N16607930",
+			"C_PATH" : "@gate_driver_clllc_dab.schematic1(sch_1):n16607930",
+			"Logical" : null,
+			"Physical" : "N16607930"
+		},
+		{
+			"Name" : "N16606690",
+			"C_PATH" : "@gate_driver_clllc_dab.schematic1(sch_1):n16606690",
+			"Logical" : null,
+			"Physical" : "N16606690"
+		},
+		{
+			"Name" : "DIS1PWM_IC",
+			"C_PATH" : "@gate_driver_clllc_dab.schematic1(sch_1):dis1pwm_ic",
+			"Logical" : null,
+			"Physical" : "DIS1PWM_IC"
+		},
+		{
+			"Name" : "N16609078",
+			"C_PATH" : "@gate_driver_clllc_dab.schematic1(sch_1):n16609078",
+			"Logical" : null,
+			"Physical" : "N16609078"
+		},
+		{
+			"Name" : "G6",
+			"C_PATH" : "@gate_driver_clllc_dab.schematic1(sch_1):g6",
+			"Logical" : null,
+			"Physical" : "G6"
+		},
+		{
+			"Name" : "N16607910",
+			"C_PATH" : "@gate_driver_clllc_dab.schematic1(sch_1):n16607910",
+			"Logical" : null,
+			"Physical" : "N16607910"
+		},
+		{
+			"Name" : "DIS1PWM",
+			"C_PATH" : "@gate_driver_clllc_dab.schematic1(sch_1):dis1pwm",
+			"Logical" : null,
+			"Physical" : "DIS1PWM"
+		},
+		{
+			"Name" : "N16607918",
+			"C_PATH" : "@gate_driver_clllc_dab.schematic1(sch_1):n16607918",
+			"Logical" : null,
+			"Physical" : "N16607918"
+		},
+		{
+			"Name" : "G9",
+			"C_PATH" : "@gate_driver_clllc_dab.schematic1(sch_1):g9",
+			"Logical" : null,
+			"Physical" : "G9"
+		},
+		{
+			"Name" : "N16609070",
+			"C_PATH" : "@gate_driver_clllc_dab.schematic1(sch_1):n16609070",
+			"Logical" : null,
+			"Physical" : "N16609070"
+		},
+		{
+			"Name" : "G10",
+			"C_PATH" : "@gate_driver_clllc_dab.schematic1(sch_1):g10",
+			"Logical" : null,
+			"Physical" : "G10"
+		},
+		{
+			"Name" : "-7VPWR1",
+			"C_PATH" : "@gate_driver_clllc_dab.schematic1(sch_1):\\-7vpwr1\\",
+			"Logical" : null,
+			"Physical" : "-7VPWR1"
+		},
+		{
+			"Name" : "N16606106",
+			"C_PATH" : "@gate_driver_clllc_dab.schematic1(sch_1):n16606106",
+			"Logical" : null,
+			"Physical" : "N16606106"
+		},
+		{
+			"Name" : "EPWM3B",
+			"C_PATH" : "@gate_driver_clllc_dab.schematic1(sch_1):epwm3b",
+			"Logical" : null,
+			"Physical" : "EPWM3B"
+		},
+		{
+			"Name" : "N16608556",
+			"C_PATH" : "@gate_driver_clllc_dab.schematic1(sch_1):n16608556",
+			"Logical" : null,
+			"Physical" : "N16608556"
+		},
+		{
+			"Name" : "N16609090",
+			"C_PATH" : "@gate_driver_clllc_dab.schematic1(sch_1):n16609090",
+			"Logical" : null,
+			"Physical" : "N16609090"
+		},
+		{
+			"Name" : "N16607432",
+			"C_PATH" : "@gate_driver_clllc_dab.schematic1(sch_1):n16607432",
+			"Logical" : null,
+			"Physical" : "N16607432"
+		},
+		{
+			"Name" : "G7",
+			"C_PATH" : "@gate_driver_clllc_dab.schematic1(sch_1):g7",
+			"Logical" : null,
+			"Physical" : "G7"
+		},
+		{
+			"Name" : "GNDPWR2",
+			"C_PATH" : "@gate_driver_clllc_dab.schematic1(sch_1):gndpwr2",
+			"Logical" : null,
+			"Physical" : "GNDPWR2"
+		},
+		{
+			"Name" : "N16606682",
+			"C_PATH" : "@gate_driver_clllc_dab.schematic1(sch_1):n16606682",
+			"Logical" : null,
+			"Physical" : "N16606682"
+		},
+		{
+			"Name" : "EPWM4A",
+			"C_PATH" : "@gate_driver_clllc_dab.schematic1(sch_1):epwm4a",
+			"Logical" : null,
+			"Physical" : "EPWM4A"
+		},
+		{
+			"Name" : "N16606734",
+			"C_PATH" : "@gate_driver_clllc_dab.schematic1(sch_1):n16606734",
+			"Logical" : null,
+			"Physical" : "N16606734"
+		},
+		{
+			"Name" : "-7VPWR2",
+			"C_PATH" : "@gate_driver_clllc_dab.schematic1(sch_1):\\-7vpwr2\\",
+			"Logical" : null,
+			"Physical" : "-7VPWR2"
+		},
+		{
+			"Name" : "G8",
+			"C_PATH" : "@gate_driver_clllc_dab.schematic1(sch_1):g8",
+			"Logical" : null,
+			"Physical" : "G8"
+		},
+		{
+			"Name" : "G5",
+			"C_PATH" : "@gate_driver_clllc_dab.schematic1(sch_1):g5",
+			"Logical" : null,
+			"Physical" : "G5"
+		},
+		{
+			"Name" : "EPWM3A",
+			"C_PATH" : "@gate_driver_clllc_dab.schematic1(sch_1):epwm3a",
+			"Logical" : null,
+			"Physical" : "EPWM3A"
+		},
+		{
+			"Name" : "15VPWR1",
+			"C_PATH" : "@gate_driver_clllc_dab.schematic1(sch_1):\\15vpwr1\\",
+			"Logical" : null,
+			"Physical" : "15VPWR1"
+		},
+		{
+			"Name" : "N16611913",
+			"C_PATH" : "@gate_driver_clllc_dab.schematic1(sch_1):n16611913",
+			"Logical" : "N16611913",
+			"Physical" : null
+		},
+		{
+			"Name" : "N16611909",
+			"C_PATH" : "@gate_driver_clllc_dab.schematic1(sch_1):n16611909",
+			"Logical" : "N16611909",
+			"Physical" : null
+		},
+		{
+			"Name" : "N16611921",
+			"C_PATH" : "@gate_driver_clllc_dab.schematic1(sch_1):n16611921",
+			"Logical" : "N16611921",
+			"Physical" : null
+		},
+		{
+			"Name" : "N16611937",
+			"C_PATH" : "@gate_driver_clllc_dab.schematic1(sch_1):n16611937",
+			"Logical" : "N16611937",
+			"Physical" : null
+		},
+		{
+			"Name" : "GND22VPWR3",
+			"C_PATH" : "@gate_driver_clllc_dab.schematic1(sch_1):gnd22vpwr3",
+			"Logical" : "GND22VPWR3",
+			"Physical" : null
+		},
+		{
+			"Name" : "N16728343",
+			"C_PATH" : "@gate_driver_clllc_dab.schematic1(sch_1):n16728343",
+			"Logical" : "N16728343",
+			"Physical" : null
+		}
+	],
+	"Connection" : [
+		{
+			"Name" : "C620.2",
+			"C_PATH" : "@gate_driver_clllc_dab.schematic1(sch_1):ins16605404@discrete.\\cap np.normal\\(chips):\\2\\",
+			"Logical" : "GNDPWR4",
+			"Physical" : "GNDPWR1"
+		},
+		{
+			"Name" : "C620.1",
+			"C_PATH" : "@gate_driver_clllc_dab.schematic1(sch_1):ins16605404@discrete.\\cap np.normal\\(chips):\\1\\",
+			"Logical" : "15VPWR4",
+			"Physical" : "15VPWR1"
+		},
+		{
+			"Name" : "C621.1",
+			"C_PATH" : "@gate_driver_clllc_dab.schematic1(sch_1):ins16605702@discrete.\\cap np.normal\\(chips):\\1\\",
+			"Logical" : "GNDPWR4",
+			"Physical" : "GNDPWR1"
+		},
+		{
+			"Name" : "C621.2",
+			"C_PATH" : "@gate_driver_clllc_dab.schematic1(sch_1):ins16605702@discrete.\\cap np.normal\\(chips):\\2\\",
+			"Logical" : "-7VPWR4",
+			"Physical" : "-7VPWR1"
+		},
+		{
+			"Name" : "C643.1",
+			"C_PATH" : "@gate_driver_clllc_dab.schematic1(sch_1):ins16653108@discrete.\\cap np.normal\\(chips):\\1\\",
+			"Logical" : "15VPWR5",
+			"Physical" : "15VPWR2"
+		},
+		{
+			"Name" : "C643.2",
+			"C_PATH" : "@gate_driver_clllc_dab.schematic1(sch_1):ins16653108@discrete.\\cap np.normal\\(chips):\\2\\",
+			"Logical" : "GNDPWR5",
+			"Physical" : "GNDPWR2"
+		},
+		{
+			"Name" : "C644.2",
+			"C_PATH" : "@gate_driver_clllc_dab.schematic1(sch_1):ins16653278@discrete.\\cap np.normal\\(chips):\\2\\",
+			"Logical" : "-7VPWR5",
+			"Physical" : "-7VPWR2"
+		},
+		{
+			"Name" : "C644.1",
+			"C_PATH" : "@gate_driver_clllc_dab.schematic1(sch_1):ins16653278@discrete.\\cap np.normal\\(chips):\\1\\",
+			"Logical" : "GNDPWR5",
+			"Physical" : "GNDPWR2"
+		},
+		{
+			"Name" : "C645.2",
+			"C_PATH" : "@gate_driver_clllc_dab.schematic1(sch_1):ins16653470@discrete.\\cap np.normal\\(chips):\\2\\",
+			"Logical" : "GNDPWR6",
+			"Physical" : "GNDPWR1"
+		},
+		{
+			"Name" : "C645.1",
+			"C_PATH" : "@gate_driver_clllc_dab.schematic1(sch_1):ins16653470@discrete.\\cap np.normal\\(chips):\\1\\",
+			"Logical" : "15VPWR6",
+			"Physical" : "15VPWR1"
+		},
+		{
+			"Name" : "C647.1",
+			"C_PATH" : "@gate_driver_clllc_dab.schematic1(sch_1):ins16653662@discrete.\\cap np.normal\\(chips):\\1\\",
+			"Logical" : "GNDPWR6",
+			"Physical" : "GNDPWR1"
+		},
+		{
+			"Name" : "C647.2",
+			"C_PATH" : "@gate_driver_clllc_dab.schematic1(sch_1):ins16653662@discrete.\\cap np.normal\\(chips):\\2\\",
+			"Logical" : "-7VPWR6",
+			"Physical" : "-7VPWR1"
+		},
+		{
+			"Name" : "D408.1",
+			"C_PATH" : "@gate_driver_clllc_dab.schematic1(sch_1):ins16611951@bav99.\\bav99.normal\\(chips):A",
+			"Logical" : "GND22VPWR3",
+			"Physical" : "-7VPWR2"
+		},
+		{
+			"Name" : "D409.1",
+			"C_PATH" : "@gate_driver_clllc_dab.schematic1(sch_1):ins16612223@bav99.\\bav99.normal\\(chips):A",
+			"Logical" : "GND22VPWR3",
+			"Physical" : "-7VPWR2"
+		},
+		{
+			"Name" : "D616.3",
+			"C_PATH" : "@gate_driver_clllc_dab.schematic1(sch_1):ins16680952@bav99.\\bav99.normal\\(chips):COM",
+			"Logical" : "N16611909",
+			"Physical" : "N16611865"
+		},
+		{
+			"Name" : "D617.3",
+			"C_PATH" : "@gate_driver_clllc_dab.schematic1(sch_1):ins16681010@bav99.\\bav99.normal\\(chips):COM",
+			"Logical" : "N16611913",
+			"Physical" : "N16611869"
+		},
+		{
+			"Name" : "D619.3",
+			"C_PATH" : "@gate_driver_clllc_dab.schematic1(sch_1):ins16681122@bav99.\\bav99.normal\\(chips):COM",
+			"Logical" : "N16611921",
+			"Physical" : "N16611877"
+		},
+		{
+			"Name" : "D621.3",
+			"C_PATH" : "@gate_driver_clllc_dab.schematic1(sch_1):ins16681287@bav99.\\bav99.normal\\(chips):COM",
+			"Logical" : "N16611937",
+			"Physical" : "N16611929"
+		},
+		{
+			"Name" : "J603.2",
+			"C_PATH" : "@gate_driver_clllc_dab.schematic1(sch_1):ins16605726@connector.\\con2.normal\\(chips):\\2\\",
+			"Logical" : "GNDPWR4",
+			"Physical" : "GNDPWR1"
+		},
+		{
+			"Name" : "J603.1",
+			"C_PATH" : "@gate_driver_clllc_dab.schematic1(sch_1):ins16605726@connector.\\con2.normal\\(chips):\\1\\",
+			"Logical" : "GNDPWR4",
+			"Physical" : "GNDPWR1"
+		},
+		{
+			"Name" : "J625.1",
+			"C_PATH" : "@gate_driver_clllc_dab.schematic1(sch_1):ins16653302@connector.\\con2.normal\\(chips):\\1\\",
+			"Logical" : "GNDPWR5",
+			"Physical" : "GNDPWR2"
+		},
+		{
+			"Name" : "J625.2",
+			"C_PATH" : "@gate_driver_clllc_dab.schematic1(sch_1):ins16653302@connector.\\con2.normal\\(chips):\\2\\",
+			"Logical" : "GNDPWR5",
+			"Physical" : "GNDPWR2"
+		},
+		{
+			"Name" : "J627.2",
+			"C_PATH" : "@gate_driver_clllc_dab.schematic1(sch_1):ins16653686@connector.\\con2.normal\\(chips):\\2\\",
+			"Logical" : "GNDPWR6",
+			"Physical" : "GNDPWR1"
+		},
+		{
+			"Name" : "J627.1",
+			"C_PATH" : "@gate_driver_clllc_dab.schematic1(sch_1):ins16653686@connector.\\con2.normal\\(chips):\\1\\",
+			"Logical" : "GNDPWR6",
+			"Physical" : "GNDPWR1"
+		},
+		{
+			"Name" : "R617.1",
+			"C_PATH" : "@gate_driver_clllc_dab.schematic1(sch_1):ins16605556@discrete.\\resistor.normal\\(chips):\\1\\",
+			"Logical" : "GNDPWR4",
+			"Physical" : "GNDPWR1"
+		},
+		{
+			"Name" : "R647.1",
+			"C_PATH" : "@gate_driver_clllc_dab.schematic1(sch_1):ins16653218@discrete.\\resistor.normal\\(chips):\\1\\",
+			"Logical" : "GNDPWR5",
+			"Physical" : "GNDPWR2"
+		},
+		{
+			"Name" : "R651.1",
+			"C_PATH" : "@gate_driver_clllc_dab.schematic1(sch_1):ins16653586@discrete.\\resistor.normal\\(chips):\\1\\",
+			"Logical" : "GNDPWR6",
+			"Physical" : "GNDPWR1"
+		},
+		{
+			"Name" : "R673.2",
+			"C_PATH" : "@gate_driver_clllc_dab.schematic1(sch_1):ins16728327@discrete.\\resistor.normal\\(chips):\\2\\",
+			"Logical" : "5VCC1",
+			"Physical" : null
+		},
+		{
+			"Name" : "R673.1",
+			"C_PATH" : "@gate_driver_clllc_dab.schematic1(sch_1):ins16728327@discrete.\\resistor.normal\\(chips):\\1\\",
+			"Logical" : "N16728343",
+			"Physical" : null
+		},
+		{
+			"Name" : "R674.1",
+			"C_PATH" : "@gate_driver_clllc_dab.schematic1(sch_1):ins16728622@discrete.\\resistor.normal\\(chips):\\1\\",
+			"Logical" : "N16653436",
+			"Physical" : null
+		},
+		{
+			"Name" : "R674.2",
+			"C_PATH" : "@gate_driver_clllc_dab.schematic1(sch_1):ins16728622@discrete.\\resistor.normal\\(chips):\\2\\",
+			"Logical" : "5VCC1",
+			"Physical" : null
+		},
+		{
+			"Name" : "U400.8",
+			"C_PATH" : "@gate_driver_clllc_dab.schematic1(sch_1):ins16646005@b66418w1008d1.\\b66418w1008d1.normal\\(chips):\\8\\",
+			"Logical" : "N16611913",
+			"Physical" : "N16611853"
+		},
+		{
+			"Name" : "U400.7",
+			"C_PATH" : "@gate_driver_clllc_dab.schematic1(sch_1):ins16646005@b66418w1008d1.\\b66418w1008d1.normal\\(chips):\\7\\",
+			"Logical" : "N16611909",
+			"Physical" : "N16611853"
+		},
+		{
+			"Name" : "U400.6",
+			"C_PATH" : "@gate_driver_clllc_dab.schematic1(sch_1):ins16646005@b66418w1008d1.\\b66418w1008d1.normal\\(chips):\\6\\",
+			"Logical" : "N16611853",
+			"Physical" : "N16611845"
+		},
+		{
+			"Name" : "U402.6",
+			"C_PATH" : "@gate_driver_clllc_dab.schematic1(sch_1):ins16646394@b66418w1008d1.\\b66418w1008d1.normal\\(chips):\\6\\",
+			"Logical" : "N16611921",
+			"Physical" : "N16611873"
+		},
+		{
+			"Name" : "U402.8",
+			"C_PATH" : "@gate_driver_clllc_dab.schematic1(sch_1):ins16646394@b66418w1008d1.\\b66418w1008d1.normal\\(chips):\\8\\",
+			"Logical" : "N16611937",
+			"Physical" : "N16611877"
+		},
+		{
+			"Name" : "U402.7",
+			"C_PATH" : "@gate_driver_clllc_dab.schematic1(sch_1):ins16646394@b66418w1008d1.\\b66418w1008d1.normal\\(chips):\\7\\",
+			"Logical" : "N16611945",
+			"Physical" : "N16611877"
+		},
+		{
+			"Name" : "U600.11",
+			"C_PATH" : "@gate_driver_clllc_dab.schematic1(sch_1):ins16604612@spcmv3.\\ucc21520adwr_2.normal\\(chips):VDDB",
+			"Logical" : "15VPWR4",
+			"Physical" : "15VPWR1"
+		},
+		{
+			"Name" : "U600.9",
+			"C_PATH" : "@gate_driver_clllc_dab.schematic1(sch_1):ins16604612@spcmv3.\\ucc21520adwr_2.normal\\(chips):VSSB",
+			"Logical" : "-7VPWR4",
+			"Physical" : "-7VPWR1"
+		},
+		{
+			"Name" : "U604.11",
+			"C_PATH" : "@gate_driver_clllc_dab.schematic1(sch_1):ins16652976@spcmv3.\\ucc21520adwr_2.normal\\(chips):VDDB",
+			"Logical" : "15VPWR6",
+			"Physical" : "15VPWR1"
+		},
+		{
+			"Name" : "U604.14",
+			"C_PATH" : "@gate_driver_clllc_dab.schematic1(sch_1):ins16652976@spcmv3.\\ucc21520adwr_2.normal\\(chips):VSSA",
+			"Logical" : "-7VPWR5",
+			"Physical" : "-7VPWR2"
+		},
+		{
+			"Name" : "U604.16",
+			"C_PATH" : "@gate_driver_clllc_dab.schematic1(sch_1):ins16652976@spcmv3.\\ucc21520adwr_2.normal\\(chips):VDDA",
+			"Logical" : "15VPWR5",
+			"Physical" : "15VPWR2"
+		},
+		{
+			"Name" : "U604.1",
+			"C_PATH" : "@gate_driver_clllc_dab.schematic1(sch_1):ins16652976@spcmv3.\\ucc21520adwr_2.normal\\(chips):INA",
+			"Logical" : "EPWM2A_IC",
+			"Physical" : "EPWM5A_IC"
+		},
+		{
+			"Name" : "U604.2",
+			"C_PATH" : "@gate_driver_clllc_dab.schematic1(sch_1):ins16652976@spcmv3.\\ucc21520adwr_2.normal\\(chips):INB",
+			"Logical" : "EPWM2B_IC",
+			"Physical" : "EPWM5B_IC"
+		},
+		{
+			"Name" : "U604.9",
+			"C_PATH" : "@gate_driver_clllc_dab.schematic1(sch_1):ins16652976@spcmv3.\\ucc21520adwr_2.normal\\(chips):VSSB",
+			"Logical" : "-7VPWR6",
+			"Physical" : "-7VPWR1"
+		}
+	]
+}

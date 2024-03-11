@@ -1,0 +1,20 @@
+\t (00:00:00) padstack_editor 22.1 P001 Windows SPB 64-bit Edition
+\t (00:00:00)     Journal start - Wed May 10 17:38:03 2023
+\t (00:00:00)         Host=DESKTOP-RR1969N User=Ganesh Pid=9376 CPUs=6
+\t (00:00:00) CmdLine= padstack_editor -mpssession Ganesh -file C:/Users/Ganesh/AppData/Local/Temp/#Taaaaag04976.tmp -pname R125_75 -data C:/Users/Ganesh/AppData/Local/Temp/#Taaaaaj04976.tmp
+\t (00:00:00) 
+\d (00:00:02) QtSignal GuidedTabsParent GuidedTabs currentChanged "Mask Layers"
+\d (00:00:05) QtSignal GuidedTabsParent GuidedTabs currentChanged "Design Layers"
+\d (00:00:08) QtSignal GuidedTabsParent GuidedTabs currentChanged "Mask Layers"
+\d (00:00:12) QtSignal GuidedMaskLayersTab PadShape CurrentIndexChanged Rectangle
+\d (00:00:26) QtSignal GuidedMaskLayersTab PadWidth editingFinished "29.53"
+\d (00:00:28) QtSignal GuidedTabsParent GuidedTabs currentChanged "Design Layers"
+\d (00:00:31) QtSignal GuidedTabsParent GuidedTabs currentChanged "Mask Layers"
+\d (00:00:38) QtSignal GuidedMaskLayersTab PadHeight editingFinished "49.21"
+\d (00:00:38) QtSignal GuidedMaskLayersTab LayersTable itemSelectionChanged 2 Pad
+\d (00:00:38) QtSignal GuidedMaskLayersTab LayersTable cellClicked 2 Pad 2 1
+\d (00:00:46) QtSignal GuidedMaskLayersTab PadWidth editingFinished "29.53"
+\d (00:00:50) QtSignal GuidedMaskLayersTab PadHeight editingFinished "49.21"
+\d (00:00:50) QtSignal GuidedMaskLayersTab LayersTable itemSelectionChanged
+\d (00:00:55) QtSignal MainWindow UpdateToDesign triggered
+\t (00:00:58)     Journal end - Wed May 10 17:39:01 2023
