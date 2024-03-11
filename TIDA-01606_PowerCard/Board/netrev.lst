@@ -3,8 +3,8 @@
 (    Allegro Netrev Import Logic                                      )
 (                                                                     )
 (    Drawing          : solutionstida01606_powercard_8mar.brd         )
-(    Software Version : unreleased                                    )
-(    Date/Time        : Fri Mar  8 11:29:57 2024                      )
+(    Software Version : 17.4S031                                      )
+(    Date/Time        : Mon Mar 11 11:47:19 2024                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
@@ -17,21 +17,21 @@ Ripup retain bondwire:       No
 Ripup symbols:               Always
 Missing symbol has error:    No
 DRC update:                  Yes
-Schematic directory:         'c:\users\sande\onedrive\documents\github\sandeep14002\tida-01606_powercard\allegro'
-Design Directory:            'C:/Users/sande/OneDrive/DOCUMENTS/GitHub/SANDEEP14002/TIDA-01606_POWERCARD/Board'
-Old design name:             'C:/Users/sande/OneDrive/DOCUMENTS/GitHub/SANDEEP14002/TIDA-01606_POWERCARD/Board/solutionstida01606_powercard_8mar.brd'
-New design name:             'C:/Users/sande/OneDrive/DOCUMENTS/GitHub/SANDEEP14002/TIDA-01606_POWERCARD/Board/solutionstida01606_powercard_8mar.brd'
+Schematic directory:         'c:\users\pc\documents\github\sandeep14002\tida-01606_powercard\allegro'
+Design Directory:            'C:/USERS/PC/DOCUMENTS/GITHUB/SANDEEP14002/TIDA-01606_POWERCARD/board'
+Old design name:             'C:/USERS/PC/DOCUMENTS/GITHUB/SANDEEP14002/TIDA-01606_POWERCARD/board/solutionstida01606_powercard_8mar.brd'
+New design name:             'C:/USERS/PC/DOCUMENTS/GITHUB/SANDEEP14002/TIDA-01606_POWERCARD/board/solutionstida01606_powercard_8mar.brd'
 
-CmdLine: netrev -i c:\users\sande\onedrive\documents\github\sandeep14002\tida-01606_powercard\allegro -y 1 -q netrev_constraint_report.xml C:/Users/sande/OneDrive/DOCUMENTS/GitHub/SANDEEP14002/TIDA-01606_POWERCARD/Board/#Taaaabg01864.tmp
+CmdLine: netrev -i c:\users\pc\documents\github\sandeep14002\tida-01606_powercard\allegro -y 1 -q netrev_constraint_report.xml C:/USERS/PC/DOCUMENTS/GITHUB/SANDEEP14002/TIDA-01606_POWERCARD/board/#Taaaabj11140.tmp
 
 ------ Preparing to read pst files ------
 
-Starting to read c:/users/sande/onedrive/documents/github/sandeep14002/tida-01606_powercard/allegro/pstchip.dat 
-   Finished reading c:/users/sande/onedrive/documents/github/sandeep14002/tida-01606_powercard/allegro/pstchip.dat (00:00:00.04)
-Starting to read c:/users/sande/onedrive/documents/github/sandeep14002/tida-01606_powercard/allegro/pstxprt.dat 
-   Finished reading c:/users/sande/onedrive/documents/github/sandeep14002/tida-01606_powercard/allegro/pstxprt.dat (00:00:00.00)
-Starting to read c:/users/sande/onedrive/documents/github/sandeep14002/tida-01606_powercard/allegro/pstxnet.dat 
-   Finished reading c:/users/sande/onedrive/documents/github/sandeep14002/tida-01606_powercard/allegro/pstxnet.dat (00:00:00.00)
+Starting to read c:/users/pc/documents/github/sandeep14002/tida-01606_powercard/allegro/pstchip.dat 
+   Finished reading c:/users/pc/documents/github/sandeep14002/tida-01606_powercard/allegro/pstchip.dat (00:00:00.01)
+Starting to read c:/users/pc/documents/github/sandeep14002/tida-01606_powercard/allegro/pstxprt.dat 
+   Finished reading c:/users/pc/documents/github/sandeep14002/tida-01606_powercard/allegro/pstxprt.dat (00:00:00.00)
+Starting to read c:/users/pc/documents/github/sandeep14002/tida-01606_powercard/allegro/pstxnet.dat 
+   Finished reading c:/users/pc/documents/github/sandeep14002/tida-01606_powercard/allegro/pstxnet.dat (00:00:00.00)
 
 ------ Oversights/Warnings/Errors ------
 
@@ -60,9 +60,9 @@ PADPATH =  .
 ------ Summary Statistics ------
 
 
-netrev run on Mar 8 11:29:57 2024
+netrev run on Mar 11 11:47:19 2024
    DESIGN NAME : 'TIDA-01606_POWERCARD_GRID_TINV'
-   PACKAGING ON Oct  7 2019 04:16:49
+   PACKAGING ON Jul 23 2022 21:42:55
 
    COMPILE 'logic'
    CHECK_PIN_NAMES OFF
@@ -85,6 +85,6 @@ netrev run on Mar 8 11:29:57 2024
  No oversight detected
  No warning detected
 
-cpu time      0:02:26
-elapsed time  0:00:02
+cpu time      0:00:41
+elapsed time  0:00:01
 

@@ -1,0 +1,18 @@
+{
+	"Gate Swap" : [],
+	"Ref Des" : [],
+	"Pin Swap" : [],
+	"Component Property" : [],
+	"Net Property" : [],
+	"Pin Property" : [],
+	"Component" : [],
+	"Net" : [],
+	"Connection" : [
+		{
+			"Name" : "J24.15",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins14691107@tida01606_powercard_0.\\header 8x2_0.normal\\(chips):\\15\\",
+			"Logical" : "NC",
+			"Physical" : "+12V"
+		}
+	]
+}

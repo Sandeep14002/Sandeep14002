@@ -1,8 +1,66 @@
 \t (00:00:00) padstack_editor 17.4 S031 Windows SPB 64-bit Edition
-\t (00:00:00)     Journal start - Mon Mar  4 16:09:22 2024
-\t (00:00:00)         Host=DESKTOP-00H8CHI User=pc Pid=5620 CPUs=4
-\t (00:00:00) CmdLine= padstack_editor -mpssession pc -file C:/Users/pc/AppData/Local/Temp/#Taaaads18768.tmp -pname T_N163_235_M235 -data C:/Users/pc/AppData/Local/Temp/#Taaaadv18768.tmp
+\t (00:00:00)     Journal start - Mon Mar 11 10:38:54 2024
+\t (00:00:00)         Host=DESKTOP-00H8CHI User=pc Pid=8224 CPUs=4
+\t (00:00:00) CmdLine= padstack_editor -mpssession pc -file C:/Users/pc/AppData/Local/Temp/#Taaaaau17512.tmp -pname RX39Y78P5D0T-1 -data C:/Users/pc/AppData/Local/Temp/#Taaaaax17512.tmp
 \t (00:00:00) 
-\d (00:00:02) QtSignal GuidedTabsParent GuidedTabs currentChanged Drill
-\d (00:00:03) QtSignal GuidedTabsParent GuidedTabs currentChanged Start
-\t (00:00:05)     Journal end - Mon Mar  4 16:09:27 2024
+\d (00:00:13) QtSignal GuidedTabsParent GuidedTabs currentChanged "Mask Layers"
+\d (00:00:28) QtSignal GuidedTabsParent GuidedTabs currentChanged "Design Layers"
+\d (00:00:41) QtSignal GuidedTabsParent GuidedTabs currentChanged "Mask Layers"
+\d (00:01:06) QtSignal GuidedTabsParent GuidedTabs currentChanged Drill
+\d (00:01:09) QtSignal GuidedTabsParent GuidedTabs currentChanged Start
+\d (00:01:14) QtSignal GuidedTabsParent PadstackTypes currentRowChanged 5
+\d (00:01:14) QtSignal GuidedTabsParent PadstackTypes itemSelectionChanged Slot
+\d (00:01:14) QtSignal GuidedTabsParent PadstackTypes itemClicked Slot
+\d (00:01:30) QtFillin Cancel
+\d (00:01:32) QtSignal GuidedTabsParent GuidedTabs currentChanged Drill
+\d (00:01:44) QtSignal GuidedDrillTab slotXSize editingFinished "50.000"
+\d (00:01:49) QtSignal GuidedDrillTab slotYSize editingFinished "90.000"
+\d (00:01:49) QtSignal GuidedTabsParent GuidedTabs currentChanged "Drill Symbol"
+\d (00:01:52) QtSignal GuidedTabsParent GuidedTabs currentChanged "Drill Offset"
+\d (00:01:55) QtSignal GuidedTabsParent GuidedTabs currentChanged "Design Layers"
+\d (00:01:59) QtSignal GuidedDesignLayersTab LayersTable customContextMenuRequest 0 "Regular Pad"
+\d (00:02:00) QtFillin Copy
+\d (00:02:00) QtSignal GuidedDesignLayersTab LayersTable itemSelectionChanged 4 "Regular Pad"
+\d (00:02:01) QtSignal GuidedDesignLayersTab LayersTable cellClicked 4 "Regular Pad" 4 2
+\d (00:02:01) QtSignal GuidedDesignLayersTab LayersTable customContextMenuRequest 4 "Regular Pad"
+\d (00:02:02) QtFillin Paste
+\d (00:02:03) QtSignal GuidedDesignLayersTab LayersTable itemSelectionChanged 2 "Regular Pad"
+\d (00:02:03) QtSignal GuidedDesignLayersTab LayersTable customContextMenuRequest 2 "Regular Pad"
+\d (00:02:04) QtFillin Paste
+\d (00:02:04) QtSignal GuidedDesignLayersTab LayersTable itemSelectionChanged 1 "Regular Pad"
+\d (00:02:05) QtSignal GuidedDesignLayersTab LayersTable customContextMenuRequest 1 "Regular Pad"
+\d (00:02:05) QtFillin Paste
+\d (00:02:08) QtSignal GuidedTabsParent GuidedTabs currentChanged "Mask Layers"
+\d (00:02:09) QtSignal GuidedMaskLayersTab LayersTable customContextMenuRequest 0 Pad
+\d (00:02:12) QtFillin Copy
+\d (00:02:13) QtSignal GuidedMaskLayersTab LayersTable itemSelectionChanged 1 Pad
+\d (00:02:13) QtSignal GuidedMaskLayersTab LayersTable cellClicked 1 Pad 1 1
+\d (00:02:13) QtSignal GuidedMaskLayersTab LayersTable customContextMenuRequest 1 Pad
+\d (00:02:14) QtFillin Paste
+\d (00:02:15) QtSignal GuidedMaskLayersTab LayersTable itemSelectionChanged 2 Pad
+\d (00:02:15) QtSignal GuidedMaskLayersTab LayersTable cellClicked 2 Pad 2 1
+\d (00:02:15) QtSignal GuidedMaskLayersTab LayersTable customContextMenuRequest 2 Pad
+\d (00:02:16) QtFillin Copy
+\d (00:02:16) QtSignal GuidedMaskLayersTab LayersTable itemSelectionChanged 3 Pad
+\d (00:02:16) QtSignal GuidedMaskLayersTab LayersTable cellClicked 3 Pad 3 1
+\d (00:02:17) QtSignal GuidedMaskLayersTab LayersTable customContextMenuRequest 3 Pad
+\d (00:02:18) QtFillin Paste
+\d (00:02:19) QtSignal GuidedMaskLayersTab LayersTable itemSelectionChanged
+\d (00:02:20) QtSignal GuidedTabsParent GuidedTabs currentChanged Start
+\d (00:02:21) QtSignal MainWindow Save triggered
+\d (00:02:37) QtSignal MainWindow pseCheckBrowser closed
+\d (00:02:38) QtSignal GuidedTabsParent GuidedTabs currentChanged Drill
+\d (00:02:42) QtSignal GuidedDrillTab slotXSize editingFinished "30.000"
+\d (00:02:48) QtSignal MainWindow Save triggered
+\d (00:02:48) QtSignal GuidedDrillTab slotYSize editingFinished "80.000"
+\d (00:02:49) QtSignal MainWindow pseCheckBrowser closed
+\d (00:02:55) QtSignal MainWindow Save triggered
+\d (00:02:55) QtSignal GuidedDrillTab slotYSize editingFinished "60.000"
+\d (00:03:06) QtSignal pseCheckBrowser Close clicked
+\d (00:03:08) QtFillin Yes
+\d (00:03:18) QtSignal MainWindow UpdateToDesign triggered
+\d (00:03:21) QtSignal pseCheckBrowser Save clicked
+\d (00:03:26) QtFillin "C:/Users/pc/Downloads/RX39Y78P5D0T-1_warnings.html"
+\d (00:03:27) QtSignal pseCheckBrowser Close clicked
+\d (00:03:28) QtFillin Yes
+\t (00:03:29)     Journal end - Mon Mar 11 10:42:23 2024

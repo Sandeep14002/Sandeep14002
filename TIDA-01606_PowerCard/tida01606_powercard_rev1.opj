@@ -67,11 +67,11 @@
       (Path "Outputs")
       (Path "PSpice Resources")
       (Path "Logs")
-      (Select "Design Resources" "Library"))
+      (Select "Design Resources" ".\tida01606_powercard_rev1.dbk"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 0 200 0 634"))
+        (Placement "44 0 1 -1 -1 -1 -1 0 153 0 649"))
       (Tab 0)))
   (MPSSessionName "pc"))
