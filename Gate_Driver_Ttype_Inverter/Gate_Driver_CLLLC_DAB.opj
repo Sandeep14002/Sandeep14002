@@ -1,6 +1,6 @@
 (ExpressProject "Gate_Driver_CLLLC_DAB"
   (ProjectVersion "19981106")
-  (SoftwareVersion "17.4-2019 S031 (4044358)  [7/23/2022]-[03/11/24]")
+  (SoftwareVersion "17.4-2019 P001 (3823098) [10/7/2019]-[03/11/24]")
   (ProjectType "PCB")
   (Folder "Design Resources"
     (Folder "Library"
@@ -166,33 +166,35 @@
       (Path "Design Resources" "Library")
       (Path "Layout")
       (Path "Outputs")
-      (Path "Logs"))
+      (Path "Logs")
+      (Select "Design Resources" ".\gate_driver_clllc_dab.dsn" "SCHEMATIC1"
+         "Driver_Supply"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 0 200 0 649"))
+        (Placement "44 0 1 -1 -1 -1 -1 0 262 0 808"))
       (Tab 0))
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 5 1674 24 667")
-        (Scroll "636 1097")
-        (Zoom "344")
+        (Placement "44 0 1 -1 -1 -1 -1 5 1399 24 826")
+        (Scroll "-144 -5")
+        (Zoom "65")
         (Occurrence "/"))
       (Path
-         "C:\USERS\PC\DESKTOP\GATE_DRIVER_SPLITPHASE\GATE_DRIVER_CLLLC_DAB.DSN")
+         "C:\USERS\SANDE\ONEDRIVE\DOCUMENTS\GITHUB\SANDEEP14002\GATE_DRIVER_TTYPE_INVERTER\GATE_DRIVER_CLLLC_DAB.DSN")
       (Schematic "SCHEMATIC1")
       (Page "Driver"))
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 5 1674 24 667")
-        (Scroll "350 116")
-        (Zoom "100")
+        (Placement "44 0 1 -1 -1 -1 -1 5 1399 24 826")
+        (Scroll "103 143")
+        (Zoom "66")
         (Occurrence "/"))
       (Path
-         "C:\USERS\PC\DESKTOP\GATE_DRIVER_SPLITPHASE\GATE_DRIVER_CLLLC_DAB.DSN")
+         "C:\USERS\SANDE\ONEDRIVE\DOCUMENTS\GITHUB\SANDEEP14002\GATE_DRIVER_TTYPE_INVERTER\GATE_DRIVER_CLLLC_DAB.DSN")
       (Schematic "SCHEMATIC1")
       (Page "Driver_Supply")))
-  (MPSSessionName "pc"))
+  (MPSSessionName "sande"))
