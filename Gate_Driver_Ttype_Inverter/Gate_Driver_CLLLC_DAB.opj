@@ -173,28 +173,28 @@
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 0 262 0 808"))
+        (Placement "44 0 1 -1 -1 -1 -1 0 200 0 800"))
       (Tab 0))
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 5 1399 24 826")
-        (Scroll "-144 -5")
+        (Placement "44 0 1 -1 -1 -1 -1 5 1453 24 818")
+        (Scroll "-171 -1")
         (Zoom "65")
         (Occurrence "/"))
       (Path
-         "C:\USERS\SANDE\ONEDRIVE\DOCUMENTS\GITHUB\SANDEEP14002\GATE_DRIVER_TTYPE_INVERTER\GATE_DRIVER_CLLLC_DAB.DSN")
+         "C:\USERS\SANDE\ONEDRIVE\DOCUMENTS\GITHUB\GRID-TINV_TIDA-01606\GATE_DRIVER_TTYPE_INVERTER\GATE_DRIVER_CLLLC_DAB.DSN")
       (Schematic "SCHEMATIC1")
       (Page "Driver"))
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 5 1399 24 826")
-        (Scroll "103 143")
-        (Zoom "66")
+        (Placement "44 0 1 -1 -1 -1 -1 5 1453 24 818")
+        (Scroll "-162 0")
+        (Zoom "33")
         (Occurrence "/"))
       (Path
-         "C:\USERS\SANDE\ONEDRIVE\DOCUMENTS\GITHUB\SANDEEP14002\GATE_DRIVER_TTYPE_INVERTER\GATE_DRIVER_CLLLC_DAB.DSN")
+         "C:\USERS\SANDE\ONEDRIVE\DOCUMENTS\GITHUB\GRID-TINV_TIDA-01606\GATE_DRIVER_TTYPE_INVERTER\GATE_DRIVER_CLLLC_DAB.DSN")
       (Schematic "SCHEMATIC1")
       (Page "Driver_Supply")))
   (MPSSessionName "sande"))
