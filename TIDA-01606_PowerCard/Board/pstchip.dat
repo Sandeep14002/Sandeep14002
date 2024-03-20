@@ -1,5 +1,5 @@
 FILE_TYPE=LIBRARY_PARTS;
-{ Using PSTWRITER 17.4.0 d001Mar-04-2024 at 20:58:52}
+{ Using PSTWRITER 17.4.0 d001Mar-20-2024 at 16:55:55}
 primitive 'CAPACITOR NON-POL_BOXCAPACITOR1';
   pin
     '1':
@@ -88,21 +88,6 @@ primitive 'CAPACITOR NON-POL_RES0603_0.1UF';
     PART_NAME='CAPACITOR NON-POL';
     JEDEC_TYPE='Res0603';
     VALUE='0.1uF 0603 25V';
-  end_body;
-end_primitive;
-primitive 'CAPACITOR NON-POL_SNPD1206_MODI';
-  pin
-    '1':
-      PIN_NUMBER='(1)';
-      PINUSE='UNSPEC';
-    '2':
-      PIN_NUMBER='(2)';
-      PINUSE='UNSPEC';
-  end_pin;
-  body
-    PART_NAME='CAPACITOR NON-POL';
-    JEDEC_TYPE='snpd1206_modified';
-    VALUE='10uF 1206 25V';
   end_body;
 end_primitive;
 primitive 'CAPACITOR POL_0_CAP_B45_NCH_ELE';
@@ -223,6 +208,36 @@ primitive 'CAP NP_SNPD0805_MODIFIED_100P 0';
     PART_NAME='CAP NP';
     JEDEC_TYPE='snpd0805_modified';
     VALUE='100p 0805 25V';
+  end_body;
+end_primitive;
+primitive 'C_SNPD0805_MODIFIED_0.33N 0805';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='C';
+    JEDEC_TYPE='snpd0805_modified';
+    VALUE='0.33n 0805 25V';
+  end_body;
+end_primitive;
+primitive 'C_SNPD0805_MODIFIED_0.1U 0805 5';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='C';
+    JEDEC_TYPE='snpd0805_modified';
+    VALUE='0.1u 0805 50V';
   end_body;
 end_primitive;
 primitive 'DIODE ZENER_DO214_REV3_BZV55C15';
@@ -480,21 +495,6 @@ primitive 'INDUCTOR_CONN2_HIGHAMP_340UH';
     VALUE='340uH';
   end_body;
 end_primitive;
-primitive 'VARISTOR_0_RES0603_74279228260';
-  pin
-    '1':
-      PIN_NUMBER='(1)';
-      PINUSE='UNSPEC';
-    '2':
-      PIN_NUMBER='(2)';
-      PINUSE='UNSPEC';
-  end_pin;
-  body
-    PART_NAME='VARISTOR_0';
-    JEDEC_TYPE='Res0603';
-    VALUE='74279228260';
-  end_body;
-end_primitive;
 primitive 'INDUCTOR_CONN2_HIGHAMP_0.006E 1';
   pin
     '1':
@@ -508,6 +508,21 @@ primitive 'INDUCTOR_CONN2_HIGHAMP_0.006E 1';
     PART_NAME='INDUCTOR';
     JEDEC_TYPE='conn2_highamp';
     VALUE='0.006E 15A';
+  end_body;
+end_primitive;
+primitive 'VARISTOR_0_RES0603_74279228260';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='VARISTOR_0';
+    JEDEC_TYPE='Res0603';
+    VALUE='74279228260';
   end_body;
 end_primitive;
 primitive 'INDUCTOR_SMR0805_10E 0805';
@@ -831,6 +846,21 @@ primitive 'RESISTOR_RES0603_820E 0603 1%';
     VALUE='820E 0603 1%';
   end_body;
 end_primitive;
+primitive 'R_SNPD0805_MODIFIED_2.2K 0805 1';
+  pin
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='R';
+    JEDEC_TYPE='snpd0805_modified';
+    VALUE='2.2K 0805 1%';
+  end_body;
+end_primitive;
 primitive 'RESISTOR_RES_PSR400IT_0.001E 10';
   pin
     '1':
@@ -1029,121 +1059,124 @@ primitive 'OPA4340_8_SOIC14_OPA4350UA';
     VALUE='OPA4350UA';
   end_body;
 end_primitive;
-primitive 'SOCKET8_6_CASR_LEM_CASR 15-NP';
+primitive 'ACS758REV_5_ACS758REV_ACS772LCB';
   pin
-    'UC':
-      PIN_NUMBER='(14)';
-      PINUSE='UNSPEC';
-    'IN1':
+    'VCC':
       PIN_NUMBER='(1)';
       PINUSE='UNSPEC';
-    'IN2':
+    'GND':
       PIN_NUMBER='(2)';
       PINUSE='UNSPEC';
-    'IN3':
+    'VIOUT':
       PIN_NUMBER='(3)';
       PINUSE='UNSPEC';
-    'OUT2':
-      PIN_NUMBER='(9)';
+    '4':
+      PIN_NUMBER='(IP+)';
       PINUSE='UNSPEC';
-    'OUT1':
-      PIN_NUMBER='(8)';
+    '5':
+      PIN_NUMBER='(IP-)';
       PINUSE='UNSPEC';
-    'VOUT':
-      PIN_NUMBER='(12)';
+    '6':
+      PIN_NUMBER='(IP-@2)';
       PINUSE='UNSPEC';
-    'VREF':
-      PIN_NUMBER='(11)';
+    '7':
+      PIN_NUMBER='(IP-@3)';
       PINUSE='UNSPEC';
-    'OUT3':
-      PIN_NUMBER='(10)';
+    '8':
+      PIN_NUMBER='(IP-@4)';
       PINUSE='UNSPEC';
-    'GND':
-      PIN_NUMBER='(13)';
+    '9':
+      PIN_NUMBER='(IP-@5)';
+      PINUSE='UNSPEC';
+    '10':
+      PIN_NUMBER='(IP-@6)';
+      PINUSE='UNSPEC';
+    '11':
+      PIN_NUMBER='(IP-@7)';
+      PINUSE='UNSPEC';
+    '12':
+      PIN_NUMBER='(IP-@8)';
+      PINUSE='UNSPEC';
+    '13':
+      PIN_NUMBER='(IP-@9)';
+      PINUSE='UNSPEC';
+    '14':
+      PIN_NUMBER='(IP-@10)';
+      PINUSE='UNSPEC';
+    '15':
+      PIN_NUMBER='(IP-@11)';
+      PINUSE='UNSPEC';
+    '16':
+      PIN_NUMBER='(IP-@12)';
+      PINUSE='UNSPEC';
+    '17':
+      PIN_NUMBER='(IP-@13)';
+      PINUSE='UNSPEC';
+    '18':
+      PIN_NUMBER='(IP-@14)';
+      PINUSE='UNSPEC';
+    '19':
+      PIN_NUMBER='(IP-@15)';
+      PINUSE='UNSPEC';
+    '20':
+      PIN_NUMBER='(IP-@16)';
+      PINUSE='UNSPEC';
+    '21':
+      PIN_NUMBER='(IP-@17)';
+      PINUSE='UNSPEC';
+    '22':
+      PIN_NUMBER='(IP+@2)';
+      PINUSE='UNSPEC';
+    '23':
+      PIN_NUMBER='(IP+@3)';
+      PINUSE='UNSPEC';
+    '24':
+      PIN_NUMBER='(IP+@4)';
+      PINUSE='UNSPEC';
+    '25':
+      PIN_NUMBER='(IP+@5)';
+      PINUSE='UNSPEC';
+    '26':
+      PIN_NUMBER='(IP+@6)';
+      PINUSE='UNSPEC';
+    '27':
+      PIN_NUMBER='(IP+@7)';
+      PINUSE='UNSPEC';
+    '28':
+      PIN_NUMBER='(IP+@8)';
+      PINUSE='UNSPEC';
+    '29':
+      PIN_NUMBER='(IP+@9)';
+      PINUSE='UNSPEC';
+    '30':
+      PIN_NUMBER='(IP+@10)';
+      PINUSE='UNSPEC';
+    '31':
+      PIN_NUMBER='(IP+@11)';
+      PINUSE='UNSPEC';
+    '32':
+      PIN_NUMBER='(IP+@12)';
+      PINUSE='UNSPEC';
+    '33':
+      PIN_NUMBER='(IP+@13)';
+      PINUSE='UNSPEC';
+    '34':
+      PIN_NUMBER='(IP+@14)';
+      PINUSE='UNSPEC';
+    '35':
+      PIN_NUMBER='(IP+@15)';
+      PINUSE='UNSPEC';
+    '36':
+      PIN_NUMBER='(IP+@16)';
+      PINUSE='UNSPEC';
+    '37':
+      PIN_NUMBER='(IP+@17)';
       PINUSE='UNSPEC';
   end_pin;
   body
-    PART_NAME='socket8_6';
-    JEDEC_TYPE='CASR_LEM';
-    VALUE='CASR 15-NP';
-  end_body;
-end_primitive;
-primitive 'SOCKET8_7_CASR_LEM_CASR 15-NP';
-  pin
-    'UC':
-      PIN_NUMBER='(14)';
-      PINUSE='UNSPEC';
-    'IN1':
-      PIN_NUMBER='(1)';
-      PINUSE='UNSPEC';
-    'IN2':
-      PIN_NUMBER='(2)';
-      PINUSE='UNSPEC';
-    'IN3':
-      PIN_NUMBER='(3)';
-      PINUSE='UNSPEC';
-    'OUT2':
-      PIN_NUMBER='(9)';
-      PINUSE='UNSPEC';
-    'OUT1':
-      PIN_NUMBER='(8)';
-      PINUSE='UNSPEC';
-    'VOUT':
-      PIN_NUMBER='(12)';
-      PINUSE='UNSPEC';
-    'VREF':
-      PIN_NUMBER='(11)';
-      PINUSE='UNSPEC';
-    'OUT3':
-      PIN_NUMBER='(10)';
-      PINUSE='UNSPEC';
-    'GND':
-      PIN_NUMBER='(13)';
-      PINUSE='UNSPEC';
-  end_pin;
-  body
-    PART_NAME='socket8_7';
-    JEDEC_TYPE='CASR_LEM';
-    VALUE='CASR 15-NP';
-  end_body;
-end_primitive;
-primitive 'SOCKET8_8_CASR_LEM_CASR 15-NP';
-  pin
-    'UC':
-      PIN_NUMBER='(14)';
-      PINUSE='UNSPEC';
-    'IN1':
-      PIN_NUMBER='(1)';
-      PINUSE='UNSPEC';
-    'IN2':
-      PIN_NUMBER='(2)';
-      PINUSE='UNSPEC';
-    'IN3':
-      PIN_NUMBER='(3)';
-      PINUSE='UNSPEC';
-    'OUT2':
-      PIN_NUMBER='(9)';
-      PINUSE='UNSPEC';
-    'OUT1':
-      PIN_NUMBER='(8)';
-      PINUSE='UNSPEC';
-    'VOUT':
-      PIN_NUMBER='(12)';
-      PINUSE='UNSPEC';
-    'VREF':
-      PIN_NUMBER='(11)';
-      PINUSE='UNSPEC';
-    'OUT3':
-      PIN_NUMBER='(10)';
-      PINUSE='UNSPEC';
-    'GND':
-      PIN_NUMBER='(13)';
-      PINUSE='UNSPEC';
-  end_pin;
-  body
-    PART_NAME='socket8_8';
-    JEDEC_TYPE='CASR_LEM';
-    VALUE='CASR 15-NP';
+    PART_NAME='ACS758rev_5';
+    JEDEC_TYPE='ACS758rev';
+    VALUE='ACS772LCB-050B-PFF-T';
   end_body;
 end_primitive;
 primitive 'OPA340_0_DBV5_OPA340NA/250';
