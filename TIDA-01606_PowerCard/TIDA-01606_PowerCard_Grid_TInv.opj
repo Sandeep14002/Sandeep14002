@@ -178,7 +178,9 @@
          "SCHEMATIC1")
       (Path "Layout")
       (Path "Outputs")
-      (Path "Logs"))
+      (Path "Logs")
+      (Select "Design Resources" ".\tida-01606_powercard_grid_tinv.dsn"
+         "SCHEMATIC1" "acs772CurrentSensor"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
@@ -189,11 +191,11 @@
       (Type "COrSchematicDoc")
       (Frame
         (Placement "44 0 1 -1 -1 -1 -1 5 1461 24 762")
-        (Scroll "-207 0")
-        (Zoom "50")
+        (Scroll "0 0")
+        (Zoom "100")
         (Occurrence "/"))
       (Path
-         "C:\USERS\SANDE\ONEDRIVE\DOCUMENTS\GITHUB\SANDEEP14002\TIDA-01606_POWERCARD\TIDA-01606_POWERCARD_GRID_TINV.DSN")
+         "C:\USERS\SANDE\ONEDRIVE\DOCUMENTS\GITHUB\GRID-TINV_TIDA-01606\TIDA-01606_POWERCARD\TIDA-01606_POWERCARD_GRID_TINV.DSN")
       (Schematic "SCHEMATIC1")
       (Page "PowerBoard"))
     (Doc
@@ -204,51 +206,18 @@
         (Zoom "100")
         (Occurrence "/"))
       (Path
-         "C:\USERS\SANDE\ONEDRIVE\DOCUMENTS\GITHUB\SANDEEP14002\TIDA-01606_POWERCARD\TIDA-01606_POWERCARD_GRID_TINV.DSN")
-      (Schematic "SCHEMATIC1")
-      (Page "DriverHeaders"))
-    (Doc
-      (Type "COrSchematicDoc")
-      (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 5 1461 24 762")
-        (Scroll "296 309")
-        (Zoom "112")
-        (Occurrence "/"))
-      (Path
-         "C:\USERS\SANDE\ONEDRIVE\DOCUMENTS\GITHUB\SANDEEP14002\TIDA-01606_POWERCARD\TIDA-01606_POWERCARD_GRID_TINV.DSN")
+         "C:\USERS\SANDE\ONEDRIVE\DOCUMENTS\GITHUB\GRID-TINV_TIDA-01606\TIDA-01606_POWERCARD\TIDA-01606_POWERCARD_GRID_TINV.DSN")
       (Schematic "SCHEMATIC1")
       (Page "Current_Temp_Sensing"))
     (Doc
       (Type "COrSchematicDoc")
       (Frame
         (Placement "44 0 1 -1 -1 -1 -1 5 1461 24 762")
-        (Scroll "0 90")
+        (Scroll "-227 0")
         (Zoom "100")
         (Occurrence "/"))
       (Path
-         "C:\USERS\SANDE\ONEDRIVE\DOCUMENTS\GITHUB\SANDEEP14002\TIDA-01606_POWERCARD\TIDA-01606_POWERCARD_GRID_TINV.DSN")
-      (Schematic "SCHEMATIC1")
-      (Page "uCheaders_smps"))
-    (Doc
-      (Type "COrSchematicDoc")
-      (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 5 1461 24 762")
-        (Scroll "213 349")
-        (Zoom "100")
-        (Occurrence "/"))
-      (Path
-         "C:\USERS\SANDE\ONEDRIVE\DOCUMENTS\GITHUB\SANDEEP14002\TIDA-01606_POWERCARD\TIDA-01606_POWERCARD_GRID_TINV.DSN")
-      (Schematic "SCHEMATIC1")
-      (Page "VoltageSensing"))
-    (Doc
-      (Type "COrSchematicDoc")
-      (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 5 1461 24 762")
-        (Scroll "-149 0")
-        (Zoom "116")
-        (Occurrence "/"))
-      (Path
-         "C:\USERS\SANDE\ONEDRIVE\DOCUMENTS\GITHUB\SANDEEP14002\TIDA-01606_POWERCARD\TIDA-01606_POWERCARD_GRID_TINV.DSN")
+         "C:\USERS\SANDE\ONEDRIVE\DOCUMENTS\GITHUB\GRID-TINV_TIDA-01606\TIDA-01606_POWERCARD\TIDA-01606_POWERCARD_GRID_TINV.DSN")
       (Schematic "SCHEMATIC1")
       (Page "acs772CurrentSensor")))
   (MPSSessionName "sande"))
