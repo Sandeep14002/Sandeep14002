@@ -3,16 +3,386 @@
 |                                                                    Page   1  |
 |------------------------------------------------------------------------------|
 |  C:.../TIDA-01606_POWERCARD/board/solutionstida01606_powercard_8mar.brd      |
-|                                                    Mon Mar 11 11:47:19 2024  |
+|                                                    Wed Mar 20 11:28:01 2024  |
 |------------------------------------------------------------------------------|
 | NET CHANGES                                                                  |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
 |   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
-  +12V         pins DELETED FROM this net (pin now not on any net)
-                                 J24.15          -2093.0 -4684.0
+  5V           pins ADDED TO this existing net (pins not previously on any net)
+                                 R497.2                         
+                                 R816.2                         
+                                 R819.2                         
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  0            pins ADDED TO this existing net (pins not previously on any net)
+                                 CX7.1                          
+                                 CX8.2                          
+                                 CX9.1                          
+                                 CX10.2                         
+                                 CX11.1                         
+                                 CX12.2                         
+                                 R815.1                         
+                                 R818.1                         
+                                 R821.1                         
+                                 UX4.2                          
+                                 UX5.2                          
+                                 UX6.2                          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  IIND_A       pins ADDED TO this existing net (pins not previously on any net)
+                                 UX4.IP+                        
+                                 UX4.IP+@2                      
+                                 UX4.IP+@3                      
+                                 UX4.IP+@4                      
+                                 UX4.IP+@5                      
+                                 UX4.IP+@6                      
+                                 UX4.IP+@7                      
+                                 UX4.IP+@8                      
+                                 UX4.IP+@9                      
+                                 UX4.IP+@10                     
+                                 UX4.IP+@11                     
+                                 UX4.IP+@12                     
+                                 UX4.IP+@13                     
+                                 UX4.IP+@14                     
+                                 UX4.IP+@15                     
+                                 UX4.IP+@16                     
+                                 UX4.IP+@17                     
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  IIND_A_RTN   pins ADDED TO this existing net (pins not previously on any net)
+                                 UX4.IP-                        
+                                 UX4.IP-@2                      
+                                 UX4.IP-@3                      
+                                 UX4.IP-@4                      
+                                 UX4.IP-@5                      
+                                 UX4.IP-@6                      
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   2  |
 |------------------------------------------------------------------------------|
-|       Nets changed          :       1                                        |
+|  C:.../TIDA-01606_POWERCARD/board/solutionstida01606_powercard_8mar.brd      |
+|                                                    Wed Mar 20 11:28:01 2024  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+                                 UX4.IP-@7                      
+                                 UX4.IP-@8                      
+                                 UX4.IP-@9                      
+                                 UX4.IP-@10                     
+                                 UX4.IP-@11                     
+                                 UX4.IP-@12                     
+                                 UX4.IP-@13                     
+                                 UX4.IP-@14                     
+                                 UX4.IP-@15                     
+                                 UX4.IP-@16                     
+                                 UX4.IP-@17                     
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  IIND_B       pins ADDED TO this existing net (pins not previously on any net)
+                                 UX5.IP+                        
+                                 UX5.IP+@2                      
+                                 UX5.IP+@3                      
+                                 UX5.IP+@4                      
+                                 UX5.IP+@5                      
+                                 UX5.IP+@6                      
+                                 UX5.IP+@7                      
+                                 UX5.IP+@8                      
+                                 UX5.IP+@9                      
+                                 UX5.IP+@10                     
+                                 UX5.IP+@11                     
+                                 UX5.IP+@12                     
+                                 UX5.IP+@13                     
+                                 UX5.IP+@14                     
+                                 UX5.IP+@15                     
+                                 UX5.IP+@16                     
+                                 UX5.IP+@17                     
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  IIND_B_RTN   pins ADDED TO this existing net (pins not previously on any net)
+                                 UX5.IP-                        
+                                 UX5.IP-@2                      
+                                 UX5.IP-@3                      
+                                 UX5.IP-@4                      
+                                 UX5.IP-@5                      
+                                 UX5.IP-@6                      
+                                 UX5.IP-@7                      
+                                 UX5.IP-@8                      
+                                 UX5.IP-@9                      
+                                 UX5.IP-@10                     
+                                 UX5.IP-@11                     
+                                 UX5.IP-@12                     
+                                 UX5.IP-@13                     
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   3  |
+|------------------------------------------------------------------------------|
+|  C:.../TIDA-01606_POWERCARD/board/solutionstida01606_powercard_8mar.brd      |
+|                                                    Wed Mar 20 11:28:01 2024  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+                                 UX5.IP-@14                     
+                                 UX5.IP-@15                     
+                                 UX5.IP-@16                     
+                                 UX5.IP-@17                     
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  IIND_C       pins ADDED TO this existing net (pins not previously on any net)
+                                 UX6.IP+                        
+                                 UX6.IP+@2                      
+                                 UX6.IP+@3                      
+                                 UX6.IP+@4                      
+                                 UX6.IP+@5                      
+                                 UX6.IP+@6                      
+                                 UX6.IP+@7                      
+                                 UX6.IP+@8                      
+                                 UX6.IP+@9                      
+                                 UX6.IP+@10                     
+                                 UX6.IP+@11                     
+                                 UX6.IP+@12                     
+                                 UX6.IP+@13                     
+                                 UX6.IP+@14                     
+                                 UX6.IP+@15                     
+                                 UX6.IP+@16                     
+                                 UX6.IP+@17                     
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  IIND_C_RTN   pins ADDED TO this existing net (pins not previously on any net)
+                                 UX6.IP-                        
+                                 UX6.IP-@2                      
+                                 UX6.IP-@3                      
+                                 UX6.IP-@4                      
+                                 UX6.IP-@5                      
+                                 UX6.IP-@6                      
+                                 UX6.IP-@7                      
+                                 UX6.IP-@8                      
+                                 UX6.IP-@9                      
+                                 UX6.IP-@10                     
+                                 UX6.IP-@11                     
+                                 UX6.IP-@12                     
+                                 UX6.IP-@13                     
+                                 UX6.IP-@14                     
+                                 UX6.IP-@15                     
+                                 UX6.IP-@16                     
+                                 UX6.IP-@17                     
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N16655836    pins ADDED TO this new net
+                                 CX7.2                          
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   4  |
+|------------------------------------------------------------------------------|
+|  C:.../TIDA-01606_POWERCARD/board/solutionstida01606_powercard_8mar.brd      |
+|                                                    Wed Mar 20 11:28:01 2024  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+                                 R497.1                         
+                                 UX4.1                          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N16657985    pins ADDED TO this new net
+                                 R401.1                         
+                                 UX4.3                          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N16659261    pins ADDED TO this new net
+                                 CX9.2                          
+                                 R816.1                         
+                                 UX5.1                          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N16659365    pins ADDED TO this new net
+                                 R817.1                         
+                                 UX5.3                          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N16660777    pins ADDED TO this new net
+                                 CX11.2                         
+                                 R819.1                         
+                                 UX6.1                          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N16660881    pins ADDED TO this new net
+                                 R820.1                         
+                                 UX6.3                          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  OPAMP_A2+    pins ADDED TO this existing net (pins not previously on any net)
+                                 CX8.1                          
+                                 R401.2                         
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  OPAMP_A2-    pins ADDED TO this existing net (pins not previously on any net)
+                                 R815.2                         
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  OPAMP_A4+    pins ADDED TO this existing net (pins not previously on any net)
+                                 CX10.1                         
+                                 R817.2                         
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  OPAMP_A4-    pins ADDED TO this existing net (pins not previously on any net)
+                                 R818.2                         
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  OPAMP_A6+    pins ADDED TO this existing net (pins not previously on any net)
+                                 CX12.1                         
+                                 R820.2                         
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  OPAMP_A6-    pins ADDED TO this existing net (pins not previously on any net)
+                                 R821.2                         
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   5  |
+|------------------------------------------------------------------------------|
+|  C:.../TIDA-01606_POWERCARD/board/solutionstida01606_powercard_8mar.brd      |
+|                                                    Wed Mar 20 11:28:01 2024  |
+|------------------------------------------------------------------------------|
+| COMPONENT DEFINITION added to design                                         |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    device type                                                               |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ ACS758REV_5_ACS758REV_ACS772LCB-050B-PFF-T
+ C_SNPD0805_MODIFIED_0.1U 0805 50V
+ C_SNPD0805_MODIFIED_0.33N 0805 25V
+ R_SNPD0805_MODIFIED_2.2K 0805 1%
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   6  |
+|------------------------------------------------------------------------------|
+|  C:.../TIDA-01606_POWERCARD/board/solutionstida01606_powercard_8mar.brd      |
+|                                                    Wed Mar 20 11:28:01 2024  |
+|------------------------------------------------------------------------------|
+| COMPONENTS DELETED from design                                               |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    ref des        |    device type      |   x   |   y                        |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ C22                 CAPACITOR NON-POL_SNPD1206_MODIFIED_10UF 1206 25V 927.910 854.878
+ C23                 CAPACITOR NON-POL_RES0603_0.1UF 0603 25V 832.910 839.531
+ C24                 CAPACITOR NON-POL_SNPD1206_MODIFIED_10UF 1206 25V 924.910 2908.87
+ C25                 CAPACITOR NON-POL_RES0603_0.1UF 0603 25V 832.910 2895.53
+ C31                 CAPACITOR NON-POL_SNPD1206_MODIFIED_10UF 1206 25V 927.910 4966.87
+ C32                 CAPACITOR NON-POL_RES0603_0.1UF 0603 25V 837.910 4950.53
+ L9                  VARISTOR_0_RES0603_74279228260 1018.91 839.531
+ L10                 VARISTOR_0_RES0603_74279228260 1020.91 2895.53
+ L14                 VARISTOR_0_RES0603_74279228260 1019.91 4951.53
+ U3                  SOCKET8_6_CASR_LEM_CASR 15-NP 399.910 663.996
+ U4                  SOCKET8_7_CASR_LEM_CASR 15-NP 403.910 2721.99
+ U6                  SOCKET8_8_CASR_LEM_CASR 15-NP 399.910 4773.99
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   7  |
+|------------------------------------------------------------------------------|
+|  C:.../TIDA-01606_POWERCARD/board/solutionstida01606_powercard_8mar.brd      |
+|                                                    Wed Mar 20 11:28:01 2024  |
+|------------------------------------------------------------------------------|
+| COMPONENTS ADDED to design                                                   |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    ref des        |    device type                                           |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ CX7                 C_SNPD0805_MODIFIED_0.1U 0805 50V 
+ CX8                 C_SNPD0805_MODIFIED_0.33N 0805 25V 
+ CX9                 C_SNPD0805_MODIFIED_0.1U 0805 50V 
+ CX10                C_SNPD0805_MODIFIED_0.33N 0805 25V 
+ CX11                C_SNPD0805_MODIFIED_0.1U 0805 50V 
+ CX12                C_SNPD0805_MODIFIED_0.33N 0805 25V 
+ R401                R_SNPD0805_MODIFIED_2.2K 0805 1% 
+ R497                R_SNPD0805_MODIFIED_2.2K 0805 1% 
+ R815                R_SNPD0805_MODIFIED_2.2K 0805 1% 
+ R816                R_SNPD0805_MODIFIED_2.2K 0805 1% 
+ R817                R_SNPD0805_MODIFIED_2.2K 0805 1% 
+ R818                R_SNPD0805_MODIFIED_2.2K 0805 1% 
+ R819                R_SNPD0805_MODIFIED_2.2K 0805 1% 
+ R820                R_SNPD0805_MODIFIED_2.2K 0805 1% 
+ R821                R_SNPD0805_MODIFIED_2.2K 0805 1% 
+ UX4                 ACS758REV_5_ACS758REV_ACS772LCB-050B-PFF-T 
+ UX5                 ACS758REV_5_ACS758REV_ACS772LCB-050B-PFF-T 
+ UX6                 ACS758REV_5_ACS758REV_ACS772LCB-050B-PFF-T 
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   8  |
+|------------------------------------------------------------------------------|
+|  C:.../TIDA-01606_POWERCARD/board/solutionstida01606_powercard_8mar.brd      |
+|                                                    Wed Mar 20 11:28:01 2024  |
+|------------------------------------------------------------------------------|
+| COMPONENT PROPERTIES added to design                                         |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   ref  des   |   x   |   y   |   property   |             value              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ CX7                            ROOM           ACSa
+ CX8                            ROOM           ACSa
+ CX9                            ROOM           ACSb
+ CX10                           ROOM           ACSb
+ CX11                           ROOM           ACSc
+ CX12                           ROOM           ACSc
+ R401                           ROOM           ACSa
+ R497                           ROOM           ACSa
+ R815                           ROOM           ACSa
+ R816                           ROOM           ACSb
+ R817                           ROOM           ACSb
+ R818                           ROOM           ACSb
+ R819                           ROOM           ACSc
+ R820                           ROOM           ACSc
+ R821                           ROOM           ACSc
+ UX4                            ROOM           ACSa
+ UX5                            ROOM           ACSb
+ UX6                            ROOM           ACSc
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   9  |
+|------------------------------------------------------------------------------|
+|  C:.../TIDA-01606_POWERCARD/board/solutionstida01606_powercard_8mar.brd      |
+|                                                    Wed Mar 20 11:28:01 2024  |
+|------------------------------------------------------------------------------|
+| SLOT PROPERTIES added to design                                              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   slot_id    |   x   |   y   |   property   |             value              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ CX7.2                          PRIM_FILE      .\pstchip.dat
+ CX7.2                          ROOM           ACSa
+ CX8.2                          PRIM_FILE      .\pstchip.dat
+ CX8.2                          ROOM           ACSa
+ CX9.2                          PRIM_FILE      .\pstchip.dat
+ CX9.2                          ROOM           ACSb
+ CX10.2                         PRIM_FILE      .\pstchip.dat
+ CX10.2                         ROOM           ACSb
+ CX11.2                         PRIM_FILE      .\pstchip.dat
+ CX11.2                         ROOM           ACSc
+ CX12.2                         PRIM_FILE      .\pstchip.dat
+ CX12.2                         ROOM           ACSc
+ R401.2                         PRIM_FILE      .\pstchip.dat
+ R401.2                         ROOM           ACSa
+ R497.2                         PRIM_FILE      .\pstchip.dat
+ R497.2                         ROOM           ACSa
+ R815.2                         PRIM_FILE      .\pstchip.dat
+ R815.2                         ROOM           ACSa
+ R816.2                         PRIM_FILE      .\pstchip.dat
+ R816.2                         ROOM           ACSb
+ R817.2                         PRIM_FILE      .\pstchip.dat
+ R817.2                         ROOM           ACSb
+ R818.2                         PRIM_FILE      .\pstchip.dat
+ R818.2                         ROOM           ACSb
+ R819.2                         PRIM_FILE      .\pstchip.dat
+ R819.2                         ROOM           ACSc
+ R820.2                         PRIM_FILE      .\pstchip.dat
+ R820.2                         ROOM           ACSc
+ R821.2                         PRIM_FILE      .\pstchip.dat
+ R821.2                         ROOM           ACSc
+ UX4.3                          PRIM_FILE      .\pstchip.dat
+ UX4.3                          ROOM           ACSa
+ UX5.3                          PRIM_FILE      .\pstchip.dat
+ UX5.3                          ROOM           ACSb
+ UX6.3                          PRIM_FILE      .\pstchip.dat
+ UX6.3                          ROOM           ACSc
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page  10  |
+|------------------------------------------------------------------------------|
+|  C:.../TIDA-01606_POWERCARD/board/solutionstida01606_powercard_8mar.brd      |
+|                                                    Wed Mar 20 11:28:01 2024  |
+|------------------------------------------------------------------------------|
+| SLOT PROPERTIES added to design                                              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   slot_id    |   x   |   y   |   property   |             value              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|------------------------------------------------------------------------------|
+|       Nets changed          :     141                                        |
+|       Comp definitions added:       4                                        |
+|       Components added      :      18                                        |
+|       Components deleted    :      12                                        |
+|       Comp property added   :      18                                        |
+|       Slot property added   :      36                                        |
 |                                                                              |
-|   Total ECO changes reported:       1                                        |
+|   Total ECO changes reported:     229                                        |
 |------------------------------------------------------------------------------|

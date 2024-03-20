@@ -4,7 +4,7 @@
 (                                                                     )
 (    Drawing          : solutionstida01606_powercard_8mar.brd         )
 (    Software Version : 17.4S031                                      )
-(    Date/Time        : Mon Mar 11 11:47:19 2024                      )
+(    Date/Time        : Wed Mar 20 11:28:01 2024                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
@@ -22,7 +22,7 @@ Design Directory:            'C:/USERS/PC/DOCUMENTS/GITHUB/SANDEEP14002/TIDA-016
 Old design name:             'C:/USERS/PC/DOCUMENTS/GITHUB/SANDEEP14002/TIDA-01606_POWERCARD/board/solutionstida01606_powercard_8mar.brd'
 New design name:             'C:/USERS/PC/DOCUMENTS/GITHUB/SANDEEP14002/TIDA-01606_POWERCARD/board/solutionstida01606_powercard_8mar.brd'
 
-CmdLine: netrev -i c:\users\pc\documents\github\sandeep14002\tida-01606_powercard\allegro -y 1 -q netrev_constraint_report.xml C:/USERS/PC/DOCUMENTS/GITHUB/SANDEEP14002/TIDA-01606_POWERCARD/board/#Taaaabj11140.tmp
+CmdLine: netrev -i c:\users\pc\documents\github\sandeep14002\tida-01606_powercard\allegro -y 1 -q netrev_constraint_report.xml C:/USERS/PC/DOCUMENTS/GITHUB/SANDEEP14002/TIDA-01606_POWERCARD/board/#Taaaaaf11308.tmp
 
 ------ Preparing to read pst files ------
 
@@ -60,7 +60,7 @@ PADPATH =  .
 ------ Summary Statistics ------
 
 
-netrev run on Mar 11 11:47:19 2024
+netrev run on Mar 20 11:28:01 2024
    DESIGN NAME : 'TIDA-01606_POWERCARD_GRID_TINV'
    PACKAGING ON Jul 23 2022 21:42:55
 
@@ -85,6 +85,6 @@ netrev run on Mar 11 11:47:19 2024
  No oversight detected
  No warning detected
 
-cpu time      0:00:41
-elapsed time  0:00:01
+cpu time      0:00:42
+elapsed time  0:00:00
 

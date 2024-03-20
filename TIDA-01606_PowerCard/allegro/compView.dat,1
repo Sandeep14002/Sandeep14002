@@ -1,5 +1,23 @@
 A!REFDES!COMP_VOLTAGE!COMP_ROOM!COMP_GROUP!COMP_SIGNAL_MODEL!COMP_NO_XNET_CONNECTION!COMP_PARENT_PPT!COMP_PARENT_PPT_PART!COMP_REUSE_ID!COMP_REUSE_NAME!COMP_REUSE_INSTANCE!
-J!C:/USERS/PC/DOCUMENTS/GITHUB/SANDEEP14002/TIDA-01606_POWERCARD/board/solutionstida01606_powercard_8mar.brd!Mon Mar 11 10:36:53 2024!-14989.090!-12327.504!10010.910!12672.496!0.001!mils!TIDA-01606_POWERCARD_GRID_TINV!94.400000 mil!4!UP TO DATE!
+J!C:/USERS/PC/DOCUMENTS/GITHUB/SANDEEP14002/TIDA-01606_POWERCARD/board/solutionstida01606_powercard_8mar.brd!Wed Mar 20 11:04:55 2024!-8523.090!-5480.504!16476.910!19519.496!0.001!mils!TIDA-01606_POWERCARD_GRID_TINV!94.400000 mil!4!OUT OF DATE!
+S!CX10!!!!!!!!!!!
+S!CX12!!!!!!!!!!!
+S!CX8!!!!!!!!!!!
+S!CX11!!!!!!!!!!!
+S!CX7!!!!!!!!!!!
+S!CX9!!!!!!!!!!!
+S!R401!!!!!!!!!!!
+S!R497!!!!!!!!!!!
+S!R815!!!!!!!!!!!
+S!R816!!!!!!!!!!!
+S!R817!!!!!!!!!!!
+S!R818!!!!!!!!!!!
+S!R819!!!!!!!!!!!
+S!R820!!!!!!!!!!!
+S!R821!!!!!!!!!!!
+S!UX4!!!!!!!!!!!
+S!UX5!!!!!!!!!!!
+S!UX6!!!!!!!!!!!
 S!C1!!pic_pic!!!!!!!!!
 S!C11!!pic_pic!!!!!!!!!
 S!C12!!pic_pic!!!!!!!!!
@@ -26,9 +44,6 @@ S!C87!!pic_pic!!!!!!!!!
 S!C88!!pic_pic!!!!!!!!!
 S!C134!!pic_pic!!!!!!!!!
 S!C135!!pic_pic!!!!!!!!!
-S!C23!!pic_pic!!!!!!!!!
-S!C25!!pic_pic!!!!!!!!!
-S!C32!!pic_pic!!!!!!!!!
 S!C39!!pic_pic!!!!!!!!!
 S!C47!!pic_pic!!!!!!!!!
 S!C51!!pic_pic!!!!!!!!!
@@ -46,9 +61,6 @@ S!C71!!pic_pic!!!!!!!!!
 S!C72!!pic_pic!!!!!!!!!
 S!C733!!pic_pic!!!!!!!!!
 S!C90!!pic_pic!!!!!!!!!
-S!C22!!pic_pic!!!!!!!!!
-S!C24!!pic_pic!!!!!!!!!
-S!C31!!pic_pic!!!!!!!!!
 S!C4!!ControlSMPS!!!!!!!!!
 S!C5!!ControlSMPS!!!!!!!!!
 S!C6!!ControlSMPS!!!!!!!!!
@@ -358,9 +370,6 @@ S!J3!!!!!!!!!!!
 S!J31!!!!!!!!!!!
 S!J32!!!!!!!!!!!
 S!J4!!!!!!!!!!!
-S!U3!!3!!!!!!!!!
-S!U4!!3!!!!!!!!!
-S!U6!!3!!!!!!!!!
 S!C44!!control_smps!!!!!!!!!
 S!D3!!lcd_led_pic!!!!!!!!!
 S!D6!!lcd_led_pic!!!!!!!!!
@@ -387,11 +396,8 @@ S!J37!!InputPowe_smps!!!!!!!!!
 S!L1!!supply_gprs!!!!!!!!!
 S!L3!!supply_gprs!!!!!!!!!
 S!L5!!supply_gprs!!!!!!!!!
-S!L10!!!!!!!!!!!
-S!L14!!!!!!!!!!!
 S!L21!!!!!!!!!!!
 S!L23!!!!!!!!!!!
-S!L9!!!!!!!!!!!
 S!Q15!!!!!!!!!!!
 S!Q16!!!!!!!!!!!
 S!Q17!!!!!!!!!!!

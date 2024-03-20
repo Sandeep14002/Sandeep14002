@@ -1,5 +1,12 @@
 A!NET_NAME!NET_LOGICAL_PATH!NET_CDS_FSP_UID!NET_SHIELD_NET!NET_RELATIVE_PROPAGATION_DELAY!NET_NO_PIN_ESCAPE!NET_NET_SHORT!NET_VOLTAGE_LAYER!NET_VOLTAGE!NET_RATSNEST_SCHEDULE!NET_CLOCK_NET!NET_NET_PHYSICAL_TYPE!NET_MAX_FINAL_SETTLE!NET_NO_TEST!NET_MAX_EXPOSED_LENGTH!NET_ELECTRICAL_CONSTRAINT_SET!NET_CDS_FSP_BUS_INDEX!NET_STUB_LENGTH!NET_SHIELD_TYPE!NET_NO_RAT!NET_PROPAGATION_DELAY!NET_NO_RIPUP!NET_MIN_HOLD!NET_DIFFERENTIAL_PAIR!NET_MIN_SETUP!NET_MIN_NECK_WIDTH!NET_BUS_NAME!NET_MIN_NOISE_MARGIN!NET_MATCHED_DELAY!NET_ECL!NET_DIFFP_LENGTH_TOL!NET_DIFFP_2ND_LENGTH!NET_NET_GROUP_GRP_NAME!NET_SUBNET_NAME!NET_MIN_BOND_LENGTH!NET_MAX_OVERSHOOT!NET_TS_ALLOWED!NET_MAX_VIA_COUNT!NET_EMC_CRITICAL_NET!NET_CDS_FSP_NET!NET_PROBE_NUMBER!NET_NO_ROUTE!NET_MIN_LINE_WIDTH!NET_ECL_TEMP!NET_NO_GLOSS!NET_ROUTE_PRIORITY!NET_NET_SPACING_TYPE!NET_IMPEDANCE_RULE!
-J!C:/USERS/PC/DOCUMENTS/GITHUB/SANDEEP14002/TIDA-01606_POWERCARD/board/solutionstida01606_powercard_8mar.brd!Mon Mar 11 10:36:53 2024!-14989.090!-12327.504!10010.910!12672.496!0.001!mils!TIDA-01606_POWERCARD_GRID_TINV!94.400000 mil!4!UP TO DATE!
+J!C:/USERS/PC/DOCUMENTS/GITHUB/SANDEEP14002/TIDA-01606_POWERCARD/board/solutionstida01606_powercard_8mar.brd!Wed Mar 20 11:04:55 2024!-8523.090!-5480.504!16476.910!19519.496!0.001!mils!TIDA-01606_POWERCARD_GRID_TINV!94.400000 mil!4!OUT OF DATE!
+S!IN-P!@\tida-01606_powercard_grid_tinv\.schematic1(sch_1):\in-p\!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+S!N16655836!@\tida-01606_powercard_grid_tinv\.schematic1(sch_1):n16655836!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+S!N16660777!@\tida-01606_powercard_grid_tinv\.schematic1(sch_1):n16660777!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+S!N16660881!@\tida-01606_powercard_grid_tinv\.schematic1(sch_1):n16660881!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+S!N16659365!@\tida-01606_powercard_grid_tinv\.schematic1(sch_1):n16659365!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+S!N16659261!@\tida-01606_powercard_grid_tinv\.schematic1(sch_1):n16659261!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+S!N16657985!@\tida-01606_powercard_grid_tinv\.schematic1(sch_1):n16657985!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 S!I3P!@\tida-01606_powercard_grid_tinv\.schematic1(sch_1):i3p!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 S!I2P!@\tida-01606_powercard_grid_tinv\.schematic1(sch_1):i2p!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 S!GND_AMC3!@\tida-01606_powercard_grid_tinv\.schematic1(sch_1):gnd_amc3!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
@@ -225,7 +232,6 @@ S!N146746781!@\tida-01606_powercard_grid_tinv\.schematic1(sch_1):n146746781!!!!!
 S!N146738420!@\tida-01606_powercard_grid_tinv\.schematic1(sch_1):n146738420!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 S!N146752501!@\tida-01606_powercard_grid_tinv\.schematic1(sch_1):n146752501!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 S!N146742660!@\tida-01606_powercard_grid_tinv\.schematic1(sch_1):n146742660!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-S!N13952073!@\tida-01606_powercard_grid_tinv\.schematic1(sch_1):n13952073!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 S!N146740741!@\tida-01606_powercard_grid_tinv\.schematic1(sch_1):n146740741!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 S!PH_C!@\tida-01606_powercard_grid_tinv\.schematic1(sch_1):ph_c!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 S!PH_B!@\tida-01606_powercard_grid_tinv\.schematic1(sch_1):ph_b!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
@@ -238,7 +244,6 @@ S!N13942871!@\tida-01606_powercard_grid_tinv\.schematic1(sch_1):n13942871!!!!!!!
 S!N13942927!@\tida-01606_powercard_grid_tinv\.schematic1(sch_1):n13942927!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 S!IIND_C_RTN!@\tida-01606_powercard_grid_tinv\.schematic1(sch_1):iind_c_rtn!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 S!IIND_C!@\tida-01606_powercard_grid_tinv\.schematic1(sch_1):iind_c!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-S!N13957373!@\tida-01606_powercard_grid_tinv\.schematic1(sch_1):n13957373!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 S!IIND_B_RTN!@\tida-01606_powercard_grid_tinv\.schematic1(sch_1):iind_b_rtn!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 S!IIND_B!@\tida-01606_powercard_grid_tinv\.schematic1(sch_1):iind_b!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 S!N13966323!@\tida-01606_powercard_grid_tinv\.schematic1(sch_1):n13966323!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
@@ -276,7 +281,6 @@ S!N13942078!@\tida-01606_powercard_grid_tinv\.schematic1(sch_1):n13942078!!!!!!!
 S!N146749821!@\tida-01606_powercard_grid_tinv\.schematic1(sch_1):n146749821!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 S!N14767910!@\tida-01606_powercard_grid_tinv\.schematic1(sch_1):n14767910!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 S!N14767982!@\tida-01606_powercard_grid_tinv\.schematic1(sch_1):n14767982!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-S!N13956128!@\tida-01606_powercard_grid_tinv\.schematic1(sch_1):n13956128!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 S!N14767820!@\tida-01606_powercard_grid_tinv\.schematic1(sch_1):n14767820!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 S!N14767744!@\tida-01606_powercard_grid_tinv\.schematic1(sch_1):n14767744!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 S!N14762934!@\tida-01606_powercard_grid_tinv\.schematic1(sch_1):n14762934!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!

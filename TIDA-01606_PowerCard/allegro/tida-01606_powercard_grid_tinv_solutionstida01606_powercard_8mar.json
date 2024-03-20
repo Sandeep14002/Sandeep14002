@@ -5,14 +5,1090 @@
 	"Component Property" : [],
 	"Net Property" : [],
 	"Pin Property" : [],
-	"Component" : [],
-	"Net" : [],
+	"Component" : [
+		{
+			"Name" : "C23",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins14678049@discrete.\\capacitor non-pol.normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "C23"
+		},
+		{
+			"Name" : "C25",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins14678463@discrete.\\capacitor non-pol.normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "C25"
+		},
+		{
+			"Name" : "C32",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins14679143@discrete.\\capacitor non-pol.normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "C32"
+		},
+		{
+			"Name" : "C22",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins14679649@discrete.\\capacitor non-pol.normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "C22"
+		},
+		{
+			"Name" : "C24",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins14678089@discrete.\\capacitor non-pol.normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "C24"
+		},
+		{
+			"Name" : "C31",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins14678699@discrete.\\capacitor non-pol.normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "C31"
+		},
+		{
+			"Name" : "U3",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins14679413@tida01606_powercard_0.\\socket8_6.normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "U3"
+		},
+		{
+			"Name" : "U4",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins14679689@tida01606_powercard_0.\\socket8_7.normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "U4"
+		},
+		{
+			"Name" : "U6",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins14678391@tida01606_powercard_0.\\socket8_8.normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "U6"
+		},
+		{
+			"Name" : "L10",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins14679019@tida01606_powercard_0.\\varistor_0.normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "L10"
+		},
+		{
+			"Name" : "L14",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins14679545@tida01606_powercard_0.\\varistor_0.normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "L14"
+		},
+		{
+			"Name" : "L9",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins14678527@tida01606_powercard_0.\\varistor_0.normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "L9"
+		},
+		{
+			"Name" : "CX10",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins16659327@analog.\\c.normal\\(chips)",
+			"Logical" : "CX10",
+			"Physical" : null
+		},
+		{
+			"Name" : "CX11",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins16660799@analog.\\c.normal\\(chips)",
+			"Logical" : "CX11",
+			"Physical" : null
+		},
+		{
+			"Name" : "CX12",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins16660847@analog.\\c.normal\\(chips)",
+			"Logical" : "CX12",
+			"Physical" : null
+		},
+		{
+			"Name" : "CX7",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins16655862@analog.\\c.normal\\(chips)",
+			"Logical" : "CX7",
+			"Physical" : null
+		},
+		{
+			"Name" : "CX8",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins16655918@analog.\\c.normal\\(chips)",
+			"Logical" : "CX8",
+			"Physical" : null
+		},
+		{
+			"Name" : "CX9",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins16659279@analog.\\c.normal\\(chips)",
+			"Logical" : "CX9",
+			"Physical" : null
+		},
+		{
+			"Name" : "R401",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins16655954@analog.\\r.normal\\(chips)",
+			"Logical" : "R401",
+			"Physical" : null
+		},
+		{
+			"Name" : "R497",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins16655710@analog.\\r.normal\\(chips)",
+			"Logical" : "R497",
+			"Physical" : null
+		},
+		{
+			"Name" : "R815",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins16658014@analog.\\r.normal\\(chips)",
+			"Logical" : "R815",
+			"Physical" : null
+		},
+		{
+			"Name" : "R816",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins16659135@analog.\\r.normal\\(chips)",
+			"Logical" : "R816",
+			"Physical" : null
+		},
+		{
+			"Name" : "R817",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins16659371@analog.\\r.normal\\(chips)",
+			"Logical" : "R817",
+			"Physical" : null
+		},
+		{
+			"Name" : "R818",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins16659405@analog.\\r.normal\\(chips)",
+			"Logical" : "R818",
+			"Physical" : null
+		},
+		{
+			"Name" : "R819",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins16660651@analog.\\r.normal\\(chips)",
+			"Logical" : "R819",
+			"Physical" : null
+		},
+		{
+			"Name" : "R820",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins16660887@analog.\\r.normal\\(chips)",
+			"Logical" : "R820",
+			"Physical" : null
+		},
+		{
+			"Name" : "R821",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins16660921@analog.\\r.normal\\(chips)",
+			"Logical" : "R821",
+			"Physical" : null
+		},
+		{
+			"Name" : "UX4",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins16655748@spcm_3chmppt.\\acs758rev_5.normal\\(chips)",
+			"Logical" : "UX4",
+			"Physical" : null
+		},
+		{
+			"Name" : "UX5",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins16659173@spcm_3chmppt.\\acs758rev_5.normal\\(chips)",
+			"Logical" : "UX5",
+			"Physical" : null
+		},
+		{
+			"Name" : "UX6",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins16660689@spcm_3chmppt.\\acs758rev_5.normal\\(chips)",
+			"Logical" : "UX6",
+			"Physical" : null
+		}
+	],
+	"Net" : [
+		{
+			"Name" : "N13952073",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):n13952073",
+			"Logical" : null,
+			"Physical" : "N13952073"
+		},
+		{
+			"Name" : "N13957373",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):n13957373",
+			"Logical" : null,
+			"Physical" : "N13957373"
+		},
+		{
+			"Name" : "N13956128",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):n13956128",
+			"Logical" : null,
+			"Physical" : "N13956128"
+		},
+		{
+			"Name" : "N16657985",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):n16657985",
+			"Logical" : "N16657985",
+			"Physical" : null
+		},
+		{
+			"Name" : "N16659261",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):n16659261",
+			"Logical" : "N16659261",
+			"Physical" : null
+		},
+		{
+			"Name" : "N16659365",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):n16659365",
+			"Logical" : "N16659365",
+			"Physical" : null
+		},
+		{
+			"Name" : "N16660881",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):n16660881",
+			"Logical" : "N16660881",
+			"Physical" : null
+		},
+		{
+			"Name" : "N16660777",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):n16660777",
+			"Logical" : "N16660777",
+			"Physical" : null
+		},
+		{
+			"Name" : "N16655836",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):n16655836",
+			"Logical" : "N16655836",
+			"Physical" : null
+		}
+	],
 	"Connection" : [
 		{
-			"Name" : "J24.15",
-			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins14691107@tida01606_powercard_0.\\header 8x2_0.normal\\(chips):\\15\\",
-			"Logical" : "NC",
-			"Physical" : "+12V"
+			"Name" : "CX10.1",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins16659327@analog.\\c.normal\\(chips):\\1\\",
+			"Logical" : "OPAMP_A4+",
+			"Physical" : null
+		},
+		{
+			"Name" : "CX10.2",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins16659327@analog.\\c.normal\\(chips):\\2\\",
+			"Logical" : "0",
+			"Physical" : null
+		},
+		{
+			"Name" : "CX11.1",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins16660799@analog.\\c.normal\\(chips):\\1\\",
+			"Logical" : "0",
+			"Physical" : null
+		},
+		{
+			"Name" : "CX11.2",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins16660799@analog.\\c.normal\\(chips):\\2\\",
+			"Logical" : "N16660777",
+			"Physical" : null
+		},
+		{
+			"Name" : "CX12.1",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins16660847@analog.\\c.normal\\(chips):\\1\\",
+			"Logical" : "OPAMP_A6+",
+			"Physical" : null
+		},
+		{
+			"Name" : "CX12.2",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins16660847@analog.\\c.normal\\(chips):\\2\\",
+			"Logical" : "0",
+			"Physical" : null
+		},
+		{
+			"Name" : "CX7.1",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins16655862@analog.\\c.normal\\(chips):\\1\\",
+			"Logical" : "0",
+			"Physical" : null
+		},
+		{
+			"Name" : "CX7.2",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins16655862@analog.\\c.normal\\(chips):\\2\\",
+			"Logical" : "N16655836",
+			"Physical" : null
+		},
+		{
+			"Name" : "CX8.1",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins16655918@analog.\\c.normal\\(chips):\\1\\",
+			"Logical" : "OPAMP_A2+",
+			"Physical" : null
+		},
+		{
+			"Name" : "CX8.2",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins16655918@analog.\\c.normal\\(chips):\\2\\",
+			"Logical" : "0",
+			"Physical" : null
+		},
+		{
+			"Name" : "CX9.2",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins16659279@analog.\\c.normal\\(chips):\\2\\",
+			"Logical" : "N16659261",
+			"Physical" : null
+		},
+		{
+			"Name" : "CX9.1",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins16659279@analog.\\c.normal\\(chips):\\1\\",
+			"Logical" : "0",
+			"Physical" : null
+		},
+		{
+			"Name" : "R401.1",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins16655954@analog.\\r.normal\\(chips):\\1\\",
+			"Logical" : "N16657985",
+			"Physical" : null
+		},
+		{
+			"Name" : "R401.2",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins16655954@analog.\\r.normal\\(chips):\\2\\",
+			"Logical" : "OPAMP_A2+",
+			"Physical" : null
+		},
+		{
+			"Name" : "R497.2",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins16655710@analog.\\r.normal\\(chips):\\2\\",
+			"Logical" : "5V",
+			"Physical" : null
+		},
+		{
+			"Name" : "R497.1",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins16655710@analog.\\r.normal\\(chips):\\1\\",
+			"Logical" : "N16655836",
+			"Physical" : null
+		},
+		{
+			"Name" : "R815.2",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins16658014@analog.\\r.normal\\(chips):\\2\\",
+			"Logical" : "OPAMP_A2-",
+			"Physical" : null
+		},
+		{
+			"Name" : "R815.1",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins16658014@analog.\\r.normal\\(chips):\\1\\",
+			"Logical" : "0",
+			"Physical" : null
+		},
+		{
+			"Name" : "R816.1",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins16659135@analog.\\r.normal\\(chips):\\1\\",
+			"Logical" : "N16659261",
+			"Physical" : null
+		},
+		{
+			"Name" : "R816.2",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins16659135@analog.\\r.normal\\(chips):\\2\\",
+			"Logical" : "5V",
+			"Physical" : null
+		},
+		{
+			"Name" : "R817.1",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins16659371@analog.\\r.normal\\(chips):\\1\\",
+			"Logical" : "N16659365",
+			"Physical" : null
+		},
+		{
+			"Name" : "R817.2",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins16659371@analog.\\r.normal\\(chips):\\2\\",
+			"Logical" : "OPAMP_A4+",
+			"Physical" : null
+		},
+		{
+			"Name" : "R818.2",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins16659405@analog.\\r.normal\\(chips):\\2\\",
+			"Logical" : "OPAMP_A4-",
+			"Physical" : null
+		},
+		{
+			"Name" : "R818.1",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins16659405@analog.\\r.normal\\(chips):\\1\\",
+			"Logical" : "0",
+			"Physical" : null
+		},
+		{
+			"Name" : "R819.2",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins16660651@analog.\\r.normal\\(chips):\\2\\",
+			"Logical" : "5V",
+			"Physical" : null
+		},
+		{
+			"Name" : "R819.1",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins16660651@analog.\\r.normal\\(chips):\\1\\",
+			"Logical" : "N16660777",
+			"Physical" : null
+		},
+		{
+			"Name" : "R820.2",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins16660887@analog.\\r.normal\\(chips):\\2\\",
+			"Logical" : "OPAMP_A6+",
+			"Physical" : null
+		},
+		{
+			"Name" : "R820.1",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins16660887@analog.\\r.normal\\(chips):\\1\\",
+			"Logical" : "N16660881",
+			"Physical" : null
+		},
+		{
+			"Name" : "R821.2",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins16660921@analog.\\r.normal\\(chips):\\2\\",
+			"Logical" : "OPAMP_A6-",
+			"Physical" : null
+		},
+		{
+			"Name" : "R821.1",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins16660921@analog.\\r.normal\\(chips):\\1\\",
+			"Logical" : "0",
+			"Physical" : null
+		},
+		{
+			"Name" : "UX4.IP-",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins16655748@spcm_3chmppt.\\acs758rev_5.normal\\(chips):\\5\\",
+			"Logical" : "IIND_A_RTN",
+			"Physical" : null
+		},
+		{
+			"Name" : "UX4.IP-@15",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins16655748@spcm_3chmppt.\\acs758rev_5.normal\\(chips):\\19\\",
+			"Logical" : "IIND_A_RTN",
+			"Physical" : null
+		},
+		{
+			"Name" : "UX4.IP-@14",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins16655748@spcm_3chmppt.\\acs758rev_5.normal\\(chips):\\18\\",
+			"Logical" : "IIND_A_RTN",
+			"Physical" : null
+		},
+		{
+			"Name" : "UX4.IP-@16",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins16655748@spcm_3chmppt.\\acs758rev_5.normal\\(chips):\\20\\",
+			"Logical" : "IIND_A_RTN",
+			"Physical" : null
+		},
+		{
+			"Name" : "UX4.IP-@13",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins16655748@spcm_3chmppt.\\acs758rev_5.normal\\(chips):\\17\\",
+			"Logical" : "IIND_A_RTN",
+			"Physical" : null
+		},
+		{
+			"Name" : "UX4.IP-@12",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins16655748@spcm_3chmppt.\\acs758rev_5.normal\\(chips):\\16\\",
+			"Logical" : "IIND_A_RTN",
+			"Physical" : null
+		},
+		{
+			"Name" : "UX4.IP-@11",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins16655748@spcm_3chmppt.\\acs758rev_5.normal\\(chips):\\15\\",
+			"Logical" : "IIND_A_RTN",
+			"Physical" : null
+		},
+		{
+			"Name" : "UX4.IP-@5",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins16655748@spcm_3chmppt.\\acs758rev_5.normal\\(chips):\\9\\",
+			"Logical" : "IIND_A_RTN",
+			"Physical" : null
+		},
+		{
+			"Name" : "UX4.IP-@4",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins16655748@spcm_3chmppt.\\acs758rev_5.normal\\(chips):\\8\\",
+			"Logical" : "IIND_A_RTN",
+			"Physical" : null
+		},
+		{
+			"Name" : "UX4.IP-@7",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins16655748@spcm_3chmppt.\\acs758rev_5.normal\\(chips):\\11\\",
+			"Logical" : "IIND_A_RTN",
+			"Physical" : null
+		},
+		{
+			"Name" : "UX4.IP-@6",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins16655748@spcm_3chmppt.\\acs758rev_5.normal\\(chips):\\10\\",
+			"Logical" : "IIND_A_RTN",
+			"Physical" : null
+		},
+		{
+			"Name" : "UX4.IP-@8",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins16655748@spcm_3chmppt.\\acs758rev_5.normal\\(chips):\\12\\",
+			"Logical" : "IIND_A_RTN",
+			"Physical" : null
+		},
+		{
+			"Name" : "UX4.IP-@2",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins16655748@spcm_3chmppt.\\acs758rev_5.normal\\(chips):\\6\\",
+			"Logical" : "IIND_A_RTN",
+			"Physical" : null
+		},
+		{
+			"Name" : "UX4.IP-@3",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins16655748@spcm_3chmppt.\\acs758rev_5.normal\\(chips):\\7\\",
+			"Logical" : "IIND_A_RTN",
+			"Physical" : null
+		},
+		{
+			"Name" : "UX4.IP-@10",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins16655748@spcm_3chmppt.\\acs758rev_5.normal\\(chips):\\14\\",
+			"Logical" : "IIND_A_RTN",
+			"Physical" : null
+		},
+		{
+			"Name" : "UX4.IP-@9",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins16655748@spcm_3chmppt.\\acs758rev_5.normal\\(chips):\\13\\",
+			"Logical" : "IIND_A_RTN",
+			"Physical" : null
+		},
+		{
+			"Name" : "UX4.IP-@17",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins16655748@spcm_3chmppt.\\acs758rev_5.normal\\(chips):\\21\\",
+			"Logical" : "IIND_A_RTN",
+			"Physical" : null
+		},
+		{
+			"Name" : "UX4.IP+@16",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins16655748@spcm_3chmppt.\\acs758rev_5.normal\\(chips):\\36\\",
+			"Logical" : "IIND_A",
+			"Physical" : null
+		},
+		{
+			"Name" : "UX4.IP+@17",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins16655748@spcm_3chmppt.\\acs758rev_5.normal\\(chips):\\37\\",
+			"Logical" : "IIND_A",
+			"Physical" : null
+		},
+		{
+			"Name" : "UX4.IP+@14",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins16655748@spcm_3chmppt.\\acs758rev_5.normal\\(chips):\\34\\",
+			"Logical" : "IIND_A",
+			"Physical" : null
+		},
+		{
+			"Name" : "UX4.IP+@15",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins16655748@spcm_3chmppt.\\acs758rev_5.normal\\(chips):\\35\\",
+			"Logical" : "IIND_A",
+			"Physical" : null
+		},
+		{
+			"Name" : "UX4.IP+@13",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins16655748@spcm_3chmppt.\\acs758rev_5.normal\\(chips):\\33\\",
+			"Logical" : "IIND_A",
+			"Physical" : null
+		},
+		{
+			"Name" : "UX4.IP+",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins16655748@spcm_3chmppt.\\acs758rev_5.normal\\(chips):\\4\\",
+			"Logical" : "IIND_A",
+			"Physical" : null
+		},
+		{
+			"Name" : "UX4.IP+@11",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins16655748@spcm_3chmppt.\\acs758rev_5.normal\\(chips):\\31\\",
+			"Logical" : "IIND_A",
+			"Physical" : null
+		},
+		{
+			"Name" : "UX4.IP+@12",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins16655748@spcm_3chmppt.\\acs758rev_5.normal\\(chips):\\32\\",
+			"Logical" : "IIND_A",
+			"Physical" : null
+		},
+		{
+			"Name" : "UX4.IP+@10",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins16655748@spcm_3chmppt.\\acs758rev_5.normal\\(chips):\\30\\",
+			"Logical" : "IIND_A",
+			"Physical" : null
+		},
+		{
+			"Name" : "UX4.IP+@8",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins16655748@spcm_3chmppt.\\acs758rev_5.normal\\(chips):\\28\\",
+			"Logical" : "IIND_A",
+			"Physical" : null
+		},
+		{
+			"Name" : "UX4.IP+@9",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins16655748@spcm_3chmppt.\\acs758rev_5.normal\\(chips):\\29\\",
+			"Logical" : "IIND_A",
+			"Physical" : null
+		},
+		{
+			"Name" : "UX4.IP+@7",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins16655748@spcm_3chmppt.\\acs758rev_5.normal\\(chips):\\27\\",
+			"Logical" : "IIND_A",
+			"Physical" : null
+		},
+		{
+			"Name" : "UX4.IP+@2",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins16655748@spcm_3chmppt.\\acs758rev_5.normal\\(chips):\\22\\",
+			"Logical" : "IIND_A",
+			"Physical" : null
+		},
+		{
+			"Name" : "UX4.IP+@3",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins16655748@spcm_3chmppt.\\acs758rev_5.normal\\(chips):\\23\\",
+			"Logical" : "IIND_A",
+			"Physical" : null
+		},
+		{
+			"Name" : "UX4.IP+@4",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins16655748@spcm_3chmppt.\\acs758rev_5.normal\\(chips):\\24\\",
+			"Logical" : "IIND_A",
+			"Physical" : null
+		},
+		{
+			"Name" : "UX4.IP+@5",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins16655748@spcm_3chmppt.\\acs758rev_5.normal\\(chips):\\25\\",
+			"Logical" : "IIND_A",
+			"Physical" : null
+		},
+		{
+			"Name" : "UX4.IP+@6",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins16655748@spcm_3chmppt.\\acs758rev_5.normal\\(chips):\\26\\",
+			"Logical" : "IIND_A",
+			"Physical" : null
+		},
+		{
+			"Name" : "UX4.3",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins16655748@spcm_3chmppt.\\acs758rev_5.normal\\(chips):VIOUT",
+			"Logical" : "N16657985",
+			"Physical" : null
+		},
+		{
+			"Name" : "UX4.2",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins16655748@spcm_3chmppt.\\acs758rev_5.normal\\(chips):GND",
+			"Logical" : "0",
+			"Physical" : null
+		},
+		{
+			"Name" : "UX4.1",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins16655748@spcm_3chmppt.\\acs758rev_5.normal\\(chips):VCC",
+			"Logical" : "N16655836",
+			"Physical" : null
+		},
+		{
+			"Name" : "UX5.IP+",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins16659173@spcm_3chmppt.\\acs758rev_5.normal\\(chips):\\4\\",
+			"Logical" : "IIND_B",
+			"Physical" : null
+		},
+		{
+			"Name" : "UX5.IP+@14",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins16659173@spcm_3chmppt.\\acs758rev_5.normal\\(chips):\\34\\",
+			"Logical" : "IIND_B",
+			"Physical" : null
+		},
+		{
+			"Name" : "UX5.IP+@15",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins16659173@spcm_3chmppt.\\acs758rev_5.normal\\(chips):\\35\\",
+			"Logical" : "IIND_B",
+			"Physical" : null
+		},
+		{
+			"Name" : "UX5.IP+@12",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins16659173@spcm_3chmppt.\\acs758rev_5.normal\\(chips):\\32\\",
+			"Logical" : "IIND_B",
+			"Physical" : null
+		},
+		{
+			"Name" : "UX5.IP+@13",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins16659173@spcm_3chmppt.\\acs758rev_5.normal\\(chips):\\33\\",
+			"Logical" : "IIND_B",
+			"Physical" : null
+		},
+		{
+			"Name" : "UX5.IP+@11",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins16659173@spcm_3chmppt.\\acs758rev_5.normal\\(chips):\\31\\",
+			"Logical" : "IIND_B",
+			"Physical" : null
+		},
+		{
+			"Name" : "UX5.IP+@16",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins16659173@spcm_3chmppt.\\acs758rev_5.normal\\(chips):\\36\\",
+			"Logical" : "IIND_B",
+			"Physical" : null
+		},
+		{
+			"Name" : "UX5.IP+@17",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins16659173@spcm_3chmppt.\\acs758rev_5.normal\\(chips):\\37\\",
+			"Logical" : "IIND_B",
+			"Physical" : null
+		},
+		{
+			"Name" : "UX5.IP+@9",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins16659173@spcm_3chmppt.\\acs758rev_5.normal\\(chips):\\29\\",
+			"Logical" : "IIND_B",
+			"Physical" : null
+		},
+		{
+			"Name" : "UX5.IP+@10",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins16659173@spcm_3chmppt.\\acs758rev_5.normal\\(chips):\\30\\",
+			"Logical" : "IIND_B",
+			"Physical" : null
+		},
+		{
+			"Name" : "UX5.IP+@8",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins16659173@spcm_3chmppt.\\acs758rev_5.normal\\(chips):\\28\\",
+			"Logical" : "IIND_B",
+			"Physical" : null
+		},
+		{
+			"Name" : "UX5.IP+@7",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins16659173@spcm_3chmppt.\\acs758rev_5.normal\\(chips):\\27\\",
+			"Logical" : "IIND_B",
+			"Physical" : null
+		},
+		{
+			"Name" : "UX5.IP+@2",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins16659173@spcm_3chmppt.\\acs758rev_5.normal\\(chips):\\22\\",
+			"Logical" : "IIND_B",
+			"Physical" : null
+		},
+		{
+			"Name" : "UX5.IP+@3",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins16659173@spcm_3chmppt.\\acs758rev_5.normal\\(chips):\\23\\",
+			"Logical" : "IIND_B",
+			"Physical" : null
+		},
+		{
+			"Name" : "UX5.IP+@5",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins16659173@spcm_3chmppt.\\acs758rev_5.normal\\(chips):\\25\\",
+			"Logical" : "IIND_B",
+			"Physical" : null
+		},
+		{
+			"Name" : "UX5.IP+@6",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins16659173@spcm_3chmppt.\\acs758rev_5.normal\\(chips):\\26\\",
+			"Logical" : "IIND_B",
+			"Physical" : null
+		},
+		{
+			"Name" : "UX5.IP+@4",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins16659173@spcm_3chmppt.\\acs758rev_5.normal\\(chips):\\24\\",
+			"Logical" : "IIND_B",
+			"Physical" : null
+		},
+		{
+			"Name" : "UX5.1",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins16659173@spcm_3chmppt.\\acs758rev_5.normal\\(chips):VCC",
+			"Logical" : "N16659261",
+			"Physical" : null
+		},
+		{
+			"Name" : "UX5.3",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins16659173@spcm_3chmppt.\\acs758rev_5.normal\\(chips):VIOUT",
+			"Logical" : "N16659365",
+			"Physical" : null
+		},
+		{
+			"Name" : "UX5.2",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins16659173@spcm_3chmppt.\\acs758rev_5.normal\\(chips):GND",
+			"Logical" : "0",
+			"Physical" : null
+		},
+		{
+			"Name" : "UX5.IP-@8",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins16659173@spcm_3chmppt.\\acs758rev_5.normal\\(chips):\\12\\",
+			"Logical" : "IIND_B_RTN",
+			"Physical" : null
+		},
+		{
+			"Name" : "UX5.IP-@7",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins16659173@spcm_3chmppt.\\acs758rev_5.normal\\(chips):\\11\\",
+			"Logical" : "IIND_B_RTN",
+			"Physical" : null
+		},
+		{
+			"Name" : "UX5.IP-@9",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins16659173@spcm_3chmppt.\\acs758rev_5.normal\\(chips):\\13\\",
+			"Logical" : "IIND_B_RTN",
+			"Physical" : null
+		},
+		{
+			"Name" : "UX5.IP-@6",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins16659173@spcm_3chmppt.\\acs758rev_5.normal\\(chips):\\10\\",
+			"Logical" : "IIND_B_RTN",
+			"Physical" : null
+		},
+		{
+			"Name" : "UX5.IP-@11",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins16659173@spcm_3chmppt.\\acs758rev_5.normal\\(chips):\\15\\",
+			"Logical" : "IIND_B_RTN",
+			"Physical" : null
+		},
+		{
+			"Name" : "UX5.IP-@10",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins16659173@spcm_3chmppt.\\acs758rev_5.normal\\(chips):\\14\\",
+			"Logical" : "IIND_B_RTN",
+			"Physical" : null
+		},
+		{
+			"Name" : "UX5.IP-@13",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins16659173@spcm_3chmppt.\\acs758rev_5.normal\\(chips):\\17\\",
+			"Logical" : "IIND_B_RTN",
+			"Physical" : null
+		},
+		{
+			"Name" : "UX5.IP-@12",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins16659173@spcm_3chmppt.\\acs758rev_5.normal\\(chips):\\16\\",
+			"Logical" : "IIND_B_RTN",
+			"Physical" : null
+		},
+		{
+			"Name" : "UX5.IP-@15",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins16659173@spcm_3chmppt.\\acs758rev_5.normal\\(chips):\\19\\",
+			"Logical" : "IIND_B_RTN",
+			"Physical" : null
+		},
+		{
+			"Name" : "UX5.IP-@14",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins16659173@spcm_3chmppt.\\acs758rev_5.normal\\(chips):\\18\\",
+			"Logical" : "IIND_B_RTN",
+			"Physical" : null
+		},
+		{
+			"Name" : "UX5.IP-@16",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins16659173@spcm_3chmppt.\\acs758rev_5.normal\\(chips):\\20\\",
+			"Logical" : "IIND_B_RTN",
+			"Physical" : null
+		},
+		{
+			"Name" : "UX5.IP-@17",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins16659173@spcm_3chmppt.\\acs758rev_5.normal\\(chips):\\21\\",
+			"Logical" : "IIND_B_RTN",
+			"Physical" : null
+		},
+		{
+			"Name" : "UX5.IP-@5",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins16659173@spcm_3chmppt.\\acs758rev_5.normal\\(chips):\\9\\",
+			"Logical" : "IIND_B_RTN",
+			"Physical" : null
+		},
+		{
+			"Name" : "UX5.IP-@4",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins16659173@spcm_3chmppt.\\acs758rev_5.normal\\(chips):\\8\\",
+			"Logical" : "IIND_B_RTN",
+			"Physical" : null
+		},
+		{
+			"Name" : "UX5.IP-@2",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins16659173@spcm_3chmppt.\\acs758rev_5.normal\\(chips):\\6\\",
+			"Logical" : "IIND_B_RTN",
+			"Physical" : null
+		},
+		{
+			"Name" : "UX5.IP-@3",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins16659173@spcm_3chmppt.\\acs758rev_5.normal\\(chips):\\7\\",
+			"Logical" : "IIND_B_RTN",
+			"Physical" : null
+		},
+		{
+			"Name" : "UX5.IP-",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins16659173@spcm_3chmppt.\\acs758rev_5.normal\\(chips):\\5\\",
+			"Logical" : "IIND_B_RTN",
+			"Physical" : null
+		},
+		{
+			"Name" : "UX6.IP-@3",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins16660689@spcm_3chmppt.\\acs758rev_5.normal\\(chips):\\7\\",
+			"Logical" : "IIND_C_RTN",
+			"Physical" : null
+		},
+		{
+			"Name" : "UX6.IP-@4",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins16660689@spcm_3chmppt.\\acs758rev_5.normal\\(chips):\\8\\",
+			"Logical" : "IIND_C_RTN",
+			"Physical" : null
+		},
+		{
+			"Name" : "UX6.IP-@6",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins16660689@spcm_3chmppt.\\acs758rev_5.normal\\(chips):\\10\\",
+			"Logical" : "IIND_C_RTN",
+			"Physical" : null
+		},
+		{
+			"Name" : "UX6.IP-@5",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins16660689@spcm_3chmppt.\\acs758rev_5.normal\\(chips):\\9\\",
+			"Logical" : "IIND_C_RTN",
+			"Physical" : null
+		},
+		{
+			"Name" : "UX6.IP-@7",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins16660689@spcm_3chmppt.\\acs758rev_5.normal\\(chips):\\11\\",
+			"Logical" : "IIND_C_RTN",
+			"Physical" : null
+		},
+		{
+			"Name" : "UX6.IP-@8",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins16660689@spcm_3chmppt.\\acs758rev_5.normal\\(chips):\\12\\",
+			"Logical" : "IIND_C_RTN",
+			"Physical" : null
+		},
+		{
+			"Name" : "UX6.IP-@10",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins16660689@spcm_3chmppt.\\acs758rev_5.normal\\(chips):\\14\\",
+			"Logical" : "IIND_C_RTN",
+			"Physical" : null
+		},
+		{
+			"Name" : "UX6.IP-@9",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins16660689@spcm_3chmppt.\\acs758rev_5.normal\\(chips):\\13\\",
+			"Logical" : "IIND_C_RTN",
+			"Physical" : null
+		},
+		{
+			"Name" : "UX6.IP-@11",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins16660689@spcm_3chmppt.\\acs758rev_5.normal\\(chips):\\15\\",
+			"Logical" : "IIND_C_RTN",
+			"Physical" : null
+		},
+		{
+			"Name" : "UX6.IP-@17",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins16660689@spcm_3chmppt.\\acs758rev_5.normal\\(chips):\\21\\",
+			"Logical" : "IIND_C_RTN",
+			"Physical" : null
+		},
+		{
+			"Name" : "UX6.IP-@16",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins16660689@spcm_3chmppt.\\acs758rev_5.normal\\(chips):\\20\\",
+			"Logical" : "IIND_C_RTN",
+			"Physical" : null
+		},
+		{
+			"Name" : "UX6.IP-@15",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins16660689@spcm_3chmppt.\\acs758rev_5.normal\\(chips):\\19\\",
+			"Logical" : "IIND_C_RTN",
+			"Physical" : null
+		},
+		{
+			"Name" : "UX6.IP-@14",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins16660689@spcm_3chmppt.\\acs758rev_5.normal\\(chips):\\18\\",
+			"Logical" : "IIND_C_RTN",
+			"Physical" : null
+		},
+		{
+			"Name" : "UX6.IP-@13",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins16660689@spcm_3chmppt.\\acs758rev_5.normal\\(chips):\\17\\",
+			"Logical" : "IIND_C_RTN",
+			"Physical" : null
+		},
+		{
+			"Name" : "UX6.IP-@12",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins16660689@spcm_3chmppt.\\acs758rev_5.normal\\(chips):\\16\\",
+			"Logical" : "IIND_C_RTN",
+			"Physical" : null
+		},
+		{
+			"Name" : "UX6.IP-",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins16660689@spcm_3chmppt.\\acs758rev_5.normal\\(chips):\\5\\",
+			"Logical" : "IIND_C_RTN",
+			"Physical" : null
+		},
+		{
+			"Name" : "UX6.IP-@2",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins16660689@spcm_3chmppt.\\acs758rev_5.normal\\(chips):\\6\\",
+			"Logical" : "IIND_C_RTN",
+			"Physical" : null
+		},
+		{
+			"Name" : "UX6.2",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins16660689@spcm_3chmppt.\\acs758rev_5.normal\\(chips):GND",
+			"Logical" : "0",
+			"Physical" : null
+		},
+		{
+			"Name" : "UX6.3",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins16660689@spcm_3chmppt.\\acs758rev_5.normal\\(chips):VIOUT",
+			"Logical" : "N16660881",
+			"Physical" : null
+		},
+		{
+			"Name" : "UX6.1",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins16660689@spcm_3chmppt.\\acs758rev_5.normal\\(chips):VCC",
+			"Logical" : "N16660777",
+			"Physical" : null
+		},
+		{
+			"Name" : "UX6.IP+@6",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins16660689@spcm_3chmppt.\\acs758rev_5.normal\\(chips):\\26\\",
+			"Logical" : "IIND_C",
+			"Physical" : null
+		},
+		{
+			"Name" : "UX6.IP+@7",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins16660689@spcm_3chmppt.\\acs758rev_5.normal\\(chips):\\27\\",
+			"Logical" : "IIND_C",
+			"Physical" : null
+		},
+		{
+			"Name" : "UX6.IP+@5",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins16660689@spcm_3chmppt.\\acs758rev_5.normal\\(chips):\\25\\",
+			"Logical" : "IIND_C",
+			"Physical" : null
+		},
+		{
+			"Name" : "UX6.IP+@8",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins16660689@spcm_3chmppt.\\acs758rev_5.normal\\(chips):\\28\\",
+			"Logical" : "IIND_C",
+			"Physical" : null
+		},
+		{
+			"Name" : "UX6.IP+@9",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins16660689@spcm_3chmppt.\\acs758rev_5.normal\\(chips):\\29\\",
+			"Logical" : "IIND_C",
+			"Physical" : null
+		},
+		{
+			"Name" : "UX6.IP+@10",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins16660689@spcm_3chmppt.\\acs758rev_5.normal\\(chips):\\30\\",
+			"Logical" : "IIND_C",
+			"Physical" : null
+		},
+		{
+			"Name" : "UX6.IP+@2",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins16660689@spcm_3chmppt.\\acs758rev_5.normal\\(chips):\\22\\",
+			"Logical" : "IIND_C",
+			"Physical" : null
+		},
+		{
+			"Name" : "UX6.IP+@3",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins16660689@spcm_3chmppt.\\acs758rev_5.normal\\(chips):\\23\\",
+			"Logical" : "IIND_C",
+			"Physical" : null
+		},
+		{
+			"Name" : "UX6.IP+@4",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins16660689@spcm_3chmppt.\\acs758rev_5.normal\\(chips):\\24\\",
+			"Logical" : "IIND_C",
+			"Physical" : null
+		},
+		{
+			"Name" : "UX6.IP+",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins16660689@spcm_3chmppt.\\acs758rev_5.normal\\(chips):\\4\\",
+			"Logical" : "IIND_C",
+			"Physical" : null
+		},
+		{
+			"Name" : "UX6.IP+@16",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins16660689@spcm_3chmppt.\\acs758rev_5.normal\\(chips):\\36\\",
+			"Logical" : "IIND_C",
+			"Physical" : null
+		},
+		{
+			"Name" : "UX6.IP+@17",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins16660689@spcm_3chmppt.\\acs758rev_5.normal\\(chips):\\37\\",
+			"Logical" : "IIND_C",
+			"Physical" : null
+		},
+		{
+			"Name" : "UX6.IP+@12",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins16660689@spcm_3chmppt.\\acs758rev_5.normal\\(chips):\\32\\",
+			"Logical" : "IIND_C",
+			"Physical" : null
+		},
+		{
+			"Name" : "UX6.IP+@13",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins16660689@spcm_3chmppt.\\acs758rev_5.normal\\(chips):\\33\\",
+			"Logical" : "IIND_C",
+			"Physical" : null
+		},
+		{
+			"Name" : "UX6.IP+@11",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins16660689@spcm_3chmppt.\\acs758rev_5.normal\\(chips):\\31\\",
+			"Logical" : "IIND_C",
+			"Physical" : null
+		},
+		{
+			"Name" : "UX6.IP+@14",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins16660689@spcm_3chmppt.\\acs758rev_5.normal\\(chips):\\34\\",
+			"Logical" : "IIND_C",
+			"Physical" : null
+		},
+		{
+			"Name" : "UX6.IP+@15",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins16660689@spcm_3chmppt.\\acs758rev_5.normal\\(chips):\\35\\",
+			"Logical" : "IIND_C",
+			"Physical" : null
 		}
 	]
 }

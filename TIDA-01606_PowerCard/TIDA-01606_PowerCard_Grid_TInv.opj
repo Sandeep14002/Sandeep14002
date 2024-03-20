@@ -1,6 +1,6 @@
 (ExpressProject "TIDA-01606_PowerCard_Grid_TInv"
   (ProjectVersion "19981106")
-  (SoftwareVersion "17.4-2019 P001 (3823098) [10/7/2019]-[03/18/24]")
+  (SoftwareVersion "17.4-2019 S031 (4044358)  [7/23/2022]-[03/18/24]")
   (ProjectType "PCB")
   (Folder "Design Resources"
     (Folder "Library")
@@ -237,4 +237,4 @@
          "C:\USERS\SANDE\ONEDRIVE\DOCUMENTS\GITHUB\SANDEEP14002\TIDA-01606_POWERCARD\TIDA-01606_POWERCARD_GRID_TINV.DSN")
       (Schematic "SCHEMATIC1")
       (Page "VoltageSensing")))
-  (MPSSessionName "sande"))
+  (MPSSessionName "pc"))

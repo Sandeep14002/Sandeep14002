@@ -1,5 +1,5 @@
 FILE_TYPE = EXPANDEDPARTLIST;
-{ Using PSTWRITER 17.4.0 d001Mar-11-2024 at 11:47:19 }
+{ Using PSTWRITER 17.4.0 d001Mar-20-2024 at 11:28:01 }
 DIRECTIVES
  PST_VERSION='PST_HDL_CENTRIC_VERSION_0';
  ROOT_DRAWING='TIDA-01606_POWERCARD_GRID_TINV';
@@ -200,54 +200,6 @@ SECTION_NUMBER 1
  SECTION='';
 
 PART_NAME
- C22 'CAPACITOR NON-POL_SNPD1206_MODIFIED_10UF 1206 25V':
- ROOM='pic_pic';
-
-SECTION_NUMBER 1
- '@TIDA-01606_POWERCARD_GRID_TINV.SCHEMATIC1(SCH_1):INS14679649@DISCRETE.CAPACITOR NON-POL.NORMAL(CHIPS)':
- C_PATH='@\tida-01606_powercard_grid_tinv\.schematic1(sch_1):ins14679649@discrete.\capacitor non-pol.normal\(chips)',
- P_PATH='@\tida-01606_powercard_grid_tinv\.schematic1(sch_1):page1_ins14679649@discrete.\capacitor non-pol.normal\(chips)',
- ROOM='pic_pic',
- PRIM_FILE='.\pstchip.dat',
- SECTION='';
-
-PART_NAME
- C23 'CAPACITOR NON-POL_RES0603_0.1UF 0603 25V':
- ROOM='pic_pic';
-
-SECTION_NUMBER 1
- '@TIDA-01606_POWERCARD_GRID_TINV.SCHEMATIC1(SCH_1):INS14678049@DISCRETE.CAPACITOR NON-POL.NORMAL(CHIPS)':
- C_PATH='@\tida-01606_powercard_grid_tinv\.schematic1(sch_1):ins14678049@discrete.\capacitor non-pol.normal\(chips)',
- P_PATH='@\tida-01606_powercard_grid_tinv\.schematic1(sch_1):page1_ins14678049@discrete.\capacitor non-pol.normal\(chips)',
- ROOM='pic_pic',
- PRIM_FILE='.\pstchip.dat',
- SECTION='';
-
-PART_NAME
- C24 'CAPACITOR NON-POL_SNPD1206_MODIFIED_10UF 1206 25V':
- ROOM='pic_pic';
-
-SECTION_NUMBER 1
- '@TIDA-01606_POWERCARD_GRID_TINV.SCHEMATIC1(SCH_1):INS14678089@DISCRETE.CAPACITOR NON-POL.NORMAL(CHIPS)':
- C_PATH='@\tida-01606_powercard_grid_tinv\.schematic1(sch_1):ins14678089@discrete.\capacitor non-pol.normal\(chips)',
- P_PATH='@\tida-01606_powercard_grid_tinv\.schematic1(sch_1):page1_ins14678089@discrete.\capacitor non-pol.normal\(chips)',
- ROOM='pic_pic',
- PRIM_FILE='.\pstchip.dat',
- SECTION='';
-
-PART_NAME
- C25 'CAPACITOR NON-POL_RES0603_0.1UF 0603 25V':
- ROOM='pic_pic';
-
-SECTION_NUMBER 1
- '@TIDA-01606_POWERCARD_GRID_TINV.SCHEMATIC1(SCH_1):INS14678463@DISCRETE.CAPACITOR NON-POL.NORMAL(CHIPS)':
- C_PATH='@\tida-01606_powercard_grid_tinv\.schematic1(sch_1):ins14678463@discrete.\capacitor non-pol.normal\(chips)',
- P_PATH='@\tida-01606_powercard_grid_tinv\.schematic1(sch_1):page1_ins14678463@discrete.\capacitor non-pol.normal\(chips)',
- ROOM='pic_pic',
- PRIM_FILE='.\pstchip.dat',
- SECTION='';
-
-PART_NAME
  C3 'CAPACITOR NON-POL_BOXCAPACITOR15MM_0.15UF 630V TH':
  ROOM='pic_pic';
 
@@ -255,30 +207,6 @@ SECTION_NUMBER 1
  '@TIDA-01606_POWERCARD_GRID_TINV.SCHEMATIC1(SCH_1):INS14674148@DISCRETE.CAPACITOR NON-POL.NORMAL(CHIPS)':
  C_PATH='@\tida-01606_powercard_grid_tinv\.schematic1(sch_1):ins14674148@discrete.\capacitor non-pol.normal\(chips)',
  P_PATH='@\tida-01606_powercard_grid_tinv\.schematic1(sch_1):page1_ins14674148@discrete.\capacitor non-pol.normal\(chips)',
- ROOM='pic_pic',
- PRIM_FILE='.\pstchip.dat',
- SECTION='';
-
-PART_NAME
- C31 'CAPACITOR NON-POL_SNPD1206_MODIFIED_10UF 1206 25V':
- ROOM='pic_pic';
-
-SECTION_NUMBER 1
- '@TIDA-01606_POWERCARD_GRID_TINV.SCHEMATIC1(SCH_1):INS14678699@DISCRETE.CAPACITOR NON-POL.NORMAL(CHIPS)':
- C_PATH='@\tida-01606_powercard_grid_tinv\.schematic1(sch_1):ins14678699@discrete.\capacitor non-pol.normal\(chips)',
- P_PATH='@\tida-01606_powercard_grid_tinv\.schematic1(sch_1):page1_ins14678699@discrete.\capacitor non-pol.normal\(chips)',
- ROOM='pic_pic',
- PRIM_FILE='.\pstchip.dat',
- SECTION='';
-
-PART_NAME
- C32 'CAPACITOR NON-POL_RES0603_0.1UF 0603 25V':
- ROOM='pic_pic';
-
-SECTION_NUMBER 1
- '@TIDA-01606_POWERCARD_GRID_TINV.SCHEMATIC1(SCH_1):INS14679143@DISCRETE.CAPACITOR NON-POL.NORMAL(CHIPS)':
- C_PATH='@\tida-01606_powercard_grid_tinv\.schematic1(sch_1):ins14679143@discrete.\capacitor non-pol.normal\(chips)',
- P_PATH='@\tida-01606_powercard_grid_tinv\.schematic1(sch_1):page1_ins14679143@discrete.\capacitor non-pol.normal\(chips)',
  ROOM='pic_pic',
  PRIM_FILE='.\pstchip.dat',
  SECTION='';
@@ -1040,6 +968,78 @@ SECTION_NUMBER 1
  SECTION='';
 
 PART_NAME
+ CX10 'C_SNPD0805_MODIFIED_0.33N 0805 25V':
+ ROOM='ACSb';
+
+SECTION_NUMBER 1
+ '@TIDA-01606_POWERCARD_GRID_TINV.SCHEMATIC1(SCH_1):INS16659327@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@\tida-01606_powercard_grid_tinv\.schematic1(sch_1):ins16659327@analog.\c.normal\(chips)',
+ P_PATH='@\tida-01606_powercard_grid_tinv\.schematic1(sch_1):page_ins16659327@analog.\c.normal\(chips)',
+ ROOM='ACSb',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ CX11 'C_SNPD0805_MODIFIED_0.1U 0805 50V':
+ ROOM='ACSc';
+
+SECTION_NUMBER 1
+ '@TIDA-01606_POWERCARD_GRID_TINV.SCHEMATIC1(SCH_1):INS16660799@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@\tida-01606_powercard_grid_tinv\.schematic1(sch_1):ins16660799@analog.\c.normal\(chips)',
+ P_PATH='@\tida-01606_powercard_grid_tinv\.schematic1(sch_1):page_ins16660799@analog.\c.normal\(chips)',
+ ROOM='ACSc',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ CX12 'C_SNPD0805_MODIFIED_0.33N 0805 25V':
+ ROOM='ACSc';
+
+SECTION_NUMBER 1
+ '@TIDA-01606_POWERCARD_GRID_TINV.SCHEMATIC1(SCH_1):INS16660847@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@\tida-01606_powercard_grid_tinv\.schematic1(sch_1):ins16660847@analog.\c.normal\(chips)',
+ P_PATH='@\tida-01606_powercard_grid_tinv\.schematic1(sch_1):page_ins16660847@analog.\c.normal\(chips)',
+ ROOM='ACSc',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ CX7 'C_SNPD0805_MODIFIED_0.1U 0805 50V':
+ ROOM='ACSa';
+
+SECTION_NUMBER 1
+ '@TIDA-01606_POWERCARD_GRID_TINV.SCHEMATIC1(SCH_1):INS16655862@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@\tida-01606_powercard_grid_tinv\.schematic1(sch_1):ins16655862@analog.\c.normal\(chips)',
+ P_PATH='@\tida-01606_powercard_grid_tinv\.schematic1(sch_1):page_ins16655862@analog.\c.normal\(chips)',
+ ROOM='ACSa',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ CX8 'C_SNPD0805_MODIFIED_0.33N 0805 25V':
+ ROOM='ACSa';
+
+SECTION_NUMBER 1
+ '@TIDA-01606_POWERCARD_GRID_TINV.SCHEMATIC1(SCH_1):INS16655918@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@\tida-01606_powercard_grid_tinv\.schematic1(sch_1):ins16655918@analog.\c.normal\(chips)',
+ P_PATH='@\tida-01606_powercard_grid_tinv\.schematic1(sch_1):page_ins16655918@analog.\c.normal\(chips)',
+ ROOM='ACSa',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ CX9 'C_SNPD0805_MODIFIED_0.1U 0805 50V':
+ ROOM='ACSb';
+
+SECTION_NUMBER 1
+ '@TIDA-01606_POWERCARD_GRID_TINV.SCHEMATIC1(SCH_1):INS16659279@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@\tida-01606_powercard_grid_tinv\.schematic1(sch_1):ins16659279@analog.\c.normal\(chips)',
+ P_PATH='@\tida-01606_powercard_grid_tinv\.schematic1(sch_1):page_ins16659279@analog.\c.normal\(chips)',
+ ROOM='ACSb',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
  D1 'DIODE ZENER_DO214_REV3_BZV55C15-TP 15V':
  ROOM='supplyReg_pic';
 
@@ -1672,26 +1672,6 @@ SECTION_NUMBER 1
  SECTION='';
 
 PART_NAME
- L10 'VARISTOR_0_RES0603_74279228260':;
-
-SECTION_NUMBER 1
- '@TIDA-01606_POWERCARD_GRID_TINV.SCHEMATIC1(SCH_1):INS14679019@TIDA01606_POWERCARD_0.VARISTOR_0.NORMAL(CHIPS)':
- C_PATH='@\tida-01606_powercard_grid_tinv\.schematic1(sch_1):ins14679019@tida01606_powercard_0.\varistor_0.normal\(chips)',
- P_PATH='@\tida-01606_powercard_grid_tinv\.schematic1(sch_1):page1_ins14679019@tida01606_powercard_0.\varistor_0.normal\(chips)',
- PRIM_FILE='.\pstchip.dat',
- SECTION='';
-
-PART_NAME
- L14 'VARISTOR_0_RES0603_74279228260':;
-
-SECTION_NUMBER 1
- '@TIDA-01606_POWERCARD_GRID_TINV.SCHEMATIC1(SCH_1):INS14679545@TIDA01606_POWERCARD_0.VARISTOR_0.NORMAL(CHIPS)':
- C_PATH='@\tida-01606_powercard_grid_tinv\.schematic1(sch_1):ins14679545@tida01606_powercard_0.\varistor_0.normal\(chips)',
- P_PATH='@\tida-01606_powercard_grid_tinv\.schematic1(sch_1):page1_ins14679545@tida01606_powercard_0.\varistor_0.normal\(chips)',
- PRIM_FILE='.\pstchip.dat',
- SECTION='';
-
-PART_NAME
  L2 'INDUCTOR_CONN2_HIGHAMP_0.006E 15A':
  ROOM='supply_gprs';
 
@@ -1984,16 +1964,6 @@ SECTION_NUMBER 1
  C_PATH='@\tida-01606_powercard_grid_tinv\.schematic1(sch_1):ins14675260@discrete.\inductor.normal\(chips)',
  P_PATH='@\tida-01606_powercard_grid_tinv\.schematic1(sch_1):page1_ins14675260@discrete.\inductor.normal\(chips)',
  ROOM='supply_gprs',
- PRIM_FILE='.\pstchip.dat',
- SECTION='';
-
-PART_NAME
- L9 'VARISTOR_0_RES0603_74279228260':;
-
-SECTION_NUMBER 1
- '@TIDA-01606_POWERCARD_GRID_TINV.SCHEMATIC1(SCH_1):INS14678527@TIDA01606_POWERCARD_0.VARISTOR_0.NORMAL(CHIPS)':
- C_PATH='@\tida-01606_powercard_grid_tinv\.schematic1(sch_1):ins14678527@tida01606_powercard_0.\varistor_0.normal\(chips)',
- P_PATH='@\tida-01606_powercard_grid_tinv\.schematic1(sch_1):page1_ins14678527@tida01606_powercard_0.\varistor_0.normal\(chips)',
  PRIM_FILE='.\pstchip.dat',
  SECTION='';
 
@@ -3354,6 +3324,18 @@ SECTION_NUMBER 1
  SECTION='';
 
 PART_NAME
+ R401 'R_SNPD0805_MODIFIED_2.2K 0805 1%':
+ ROOM='ACSa';
+
+SECTION_NUMBER 1
+ '@TIDA-01606_POWERCARD_GRID_TINV.SCHEMATIC1(SCH_1):INS16655954@ANALOG.R.NORMAL(CHIPS)':
+ C_PATH='@\tida-01606_powercard_grid_tinv\.schematic1(sch_1):ins16655954@analog.\r.normal\(chips)',
+ P_PATH='@\tida-01606_powercard_grid_tinv\.schematic1(sch_1):page_ins16655954@analog.\r.normal\(chips)',
+ ROOM='ACSa',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
  R41 'RESISTOR_RES_PSR400IT_0.001E 1052 1%':
  ROOM='pic_pic';
 
@@ -3458,6 +3440,18 @@ SECTION_NUMBER 1
  C_PATH='@\tida-01606_powercard_grid_tinv\.schematic1(sch_1):ins14682784@discrete.\resistor.normal\(chips)',
  P_PATH='@\tida-01606_powercard_grid_tinv\.schematic1(sch_1):page1_ins14682784@discrete.\resistor.normal\(chips)',
  ROOM='pic_pic',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R497 'R_SNPD0805_MODIFIED_2.2K 0805 1%':
+ ROOM='ACSa';
+
+SECTION_NUMBER 1
+ '@TIDA-01606_POWERCARD_GRID_TINV.SCHEMATIC1(SCH_1):INS16655710@ANALOG.R.NORMAL(CHIPS)':
+ C_PATH='@\tida-01606_powercard_grid_tinv\.schematic1(sch_1):ins16655710@analog.\r.normal\(chips)',
+ P_PATH='@\tida-01606_powercard_grid_tinv\.schematic1(sch_1):page_ins16655710@analog.\r.normal\(chips)',
+ ROOM='ACSa',
  PRIM_FILE='.\pstchip.dat',
  SECTION='';
 
@@ -3954,6 +3948,66 @@ SECTION_NUMBER 1
  SECTION='';
 
 PART_NAME
+ R815 'R_SNPD0805_MODIFIED_2.2K 0805 1%':
+ ROOM='ACSa';
+
+SECTION_NUMBER 1
+ '@TIDA-01606_POWERCARD_GRID_TINV.SCHEMATIC1(SCH_1):INS16658014@ANALOG.R.NORMAL(CHIPS)':
+ C_PATH='@\tida-01606_powercard_grid_tinv\.schematic1(sch_1):ins16658014@analog.\r.normal\(chips)',
+ P_PATH='@\tida-01606_powercard_grid_tinv\.schematic1(sch_1):page_ins16658014@analog.\r.normal\(chips)',
+ ROOM='ACSa',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R816 'R_SNPD0805_MODIFIED_2.2K 0805 1%':
+ ROOM='ACSb';
+
+SECTION_NUMBER 1
+ '@TIDA-01606_POWERCARD_GRID_TINV.SCHEMATIC1(SCH_1):INS16659135@ANALOG.R.NORMAL(CHIPS)':
+ C_PATH='@\tida-01606_powercard_grid_tinv\.schematic1(sch_1):ins16659135@analog.\r.normal\(chips)',
+ P_PATH='@\tida-01606_powercard_grid_tinv\.schematic1(sch_1):page_ins16659135@analog.\r.normal\(chips)',
+ ROOM='ACSb',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R817 'R_SNPD0805_MODIFIED_2.2K 0805 1%':
+ ROOM='ACSb';
+
+SECTION_NUMBER 1
+ '@TIDA-01606_POWERCARD_GRID_TINV.SCHEMATIC1(SCH_1):INS16659371@ANALOG.R.NORMAL(CHIPS)':
+ C_PATH='@\tida-01606_powercard_grid_tinv\.schematic1(sch_1):ins16659371@analog.\r.normal\(chips)',
+ P_PATH='@\tida-01606_powercard_grid_tinv\.schematic1(sch_1):page_ins16659371@analog.\r.normal\(chips)',
+ ROOM='ACSb',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R818 'R_SNPD0805_MODIFIED_2.2K 0805 1%':
+ ROOM='ACSb';
+
+SECTION_NUMBER 1
+ '@TIDA-01606_POWERCARD_GRID_TINV.SCHEMATIC1(SCH_1):INS16659405@ANALOG.R.NORMAL(CHIPS)':
+ C_PATH='@\tida-01606_powercard_grid_tinv\.schematic1(sch_1):ins16659405@analog.\r.normal\(chips)',
+ P_PATH='@\tida-01606_powercard_grid_tinv\.schematic1(sch_1):page_ins16659405@analog.\r.normal\(chips)',
+ ROOM='ACSb',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R819 'R_SNPD0805_MODIFIED_2.2K 0805 1%':
+ ROOM='ACSc';
+
+SECTION_NUMBER 1
+ '@TIDA-01606_POWERCARD_GRID_TINV.SCHEMATIC1(SCH_1):INS16660651@ANALOG.R.NORMAL(CHIPS)':
+ C_PATH='@\tida-01606_powercard_grid_tinv\.schematic1(sch_1):ins16660651@analog.\r.normal\(chips)',
+ P_PATH='@\tida-01606_powercard_grid_tinv\.schematic1(sch_1):page_ins16660651@analog.\r.normal\(chips)',
+ ROOM='ACSc',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
  R82 'RESISTOR_SNPD0805_MODIFIED_1M 0805 0.1%':
  ROOM='pic_pic';
 
@@ -3962,6 +4016,30 @@ SECTION_NUMBER 1
  C_PATH='@\tida-01606_powercard_grid_tinv\.schematic1(sch_1):ins14682844@discrete.\resistor.normal\(chips)',
  P_PATH='@\tida-01606_powercard_grid_tinv\.schematic1(sch_1):page1_ins14682844@discrete.\resistor.normal\(chips)',
  ROOM='pic_pic',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R820 'R_SNPD0805_MODIFIED_2.2K 0805 1%':
+ ROOM='ACSc';
+
+SECTION_NUMBER 1
+ '@TIDA-01606_POWERCARD_GRID_TINV.SCHEMATIC1(SCH_1):INS16660887@ANALOG.R.NORMAL(CHIPS)':
+ C_PATH='@\tida-01606_powercard_grid_tinv\.schematic1(sch_1):ins16660887@analog.\r.normal\(chips)',
+ P_PATH='@\tida-01606_powercard_grid_tinv\.schematic1(sch_1):page_ins16660887@analog.\r.normal\(chips)',
+ ROOM='ACSc',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R821 'R_SNPD0805_MODIFIED_2.2K 0805 1%':
+ ROOM='ACSc';
+
+SECTION_NUMBER 1
+ '@TIDA-01606_POWERCARD_GRID_TINV.SCHEMATIC1(SCH_1):INS16660921@ANALOG.R.NORMAL(CHIPS)':
+ C_PATH='@\tida-01606_powercard_grid_tinv\.schematic1(sch_1):ins16660921@analog.\r.normal\(chips)',
+ P_PATH='@\tida-01606_powercard_grid_tinv\.schematic1(sch_1):page_ins16660921@analog.\r.normal\(chips)',
+ ROOM='ACSc',
  PRIM_FILE='.\pstchip.dat',
  SECTION='';
 
@@ -5478,38 +5556,38 @@ SECTION_NUMBER 4
  SECTION='D';
 
 PART_NAME
- U3 'SOCKET8_6_CASR_LEM_CASR 15-NP':
- ROOM='3';
+ UX4 'ACS758REV_5_ACS758REV_ACS772LCB-050B-PFF-T':
+ ROOM='ACSa';
 
 SECTION_NUMBER 1
- '@TIDA-01606_POWERCARD_GRID_TINV.SCHEMATIC1(SCH_1):INS14679413@TIDA01606_POWERCARD_0.SOCKET8_6.NORMAL(CHIPS)':
- C_PATH='@\tida-01606_powercard_grid_tinv\.schematic1(sch_1):ins14679413@tida01606_powercard_0.\socket8_6.normal\(chips)',
- P_PATH='@\tida-01606_powercard_grid_tinv\.schematic1(sch_1):page1_ins14679413@tida01606_powercard_0.\socket8_6.normal\(chips)',
- ROOM='3',
+ '@TIDA-01606_POWERCARD_GRID_TINV.SCHEMATIC1(SCH_1):INS16655748@SPCM_3CHMPPT.ACS758REV_5.NORMAL(CHIPS)':
+ C_PATH='@\tida-01606_powercard_grid_tinv\.schematic1(sch_1):ins16655748@spcm_3chmppt.\acs758rev_5.normal\(chips)',
+ P_PATH='@\tida-01606_powercard_grid_tinv\.schematic1(sch_1):page_ins16655748@spcm_3chmppt.\acs758rev_5.normal\(chips)',
+ ROOM='ACSa',
  PRIM_FILE='.\pstchip.dat',
  SECTION='';
 
 PART_NAME
- U4 'SOCKET8_7_CASR_LEM_CASR 15-NP':
- ROOM='3';
+ UX5 'ACS758REV_5_ACS758REV_ACS772LCB-050B-PFF-T':
+ ROOM='ACSb';
 
 SECTION_NUMBER 1
- '@TIDA-01606_POWERCARD_GRID_TINV.SCHEMATIC1(SCH_1):INS14679689@TIDA01606_POWERCARD_0.SOCKET8_7.NORMAL(CHIPS)':
- C_PATH='@\tida-01606_powercard_grid_tinv\.schematic1(sch_1):ins14679689@tida01606_powercard_0.\socket8_7.normal\(chips)',
- P_PATH='@\tida-01606_powercard_grid_tinv\.schematic1(sch_1):page1_ins14679689@tida01606_powercard_0.\socket8_7.normal\(chips)',
- ROOM='3',
+ '@TIDA-01606_POWERCARD_GRID_TINV.SCHEMATIC1(SCH_1):INS16659173@SPCM_3CHMPPT.ACS758REV_5.NORMAL(CHIPS)':
+ C_PATH='@\tida-01606_powercard_grid_tinv\.schematic1(sch_1):ins16659173@spcm_3chmppt.\acs758rev_5.normal\(chips)',
+ P_PATH='@\tida-01606_powercard_grid_tinv\.schematic1(sch_1):page_ins16659173@spcm_3chmppt.\acs758rev_5.normal\(chips)',
+ ROOM='ACSb',
  PRIM_FILE='.\pstchip.dat',
  SECTION='';
 
 PART_NAME
- U6 'SOCKET8_8_CASR_LEM_CASR 15-NP':
- ROOM='3';
+ UX6 'ACS758REV_5_ACS758REV_ACS772LCB-050B-PFF-T':
+ ROOM='ACSc';
 
 SECTION_NUMBER 1
- '@TIDA-01606_POWERCARD_GRID_TINV.SCHEMATIC1(SCH_1):INS14678391@TIDA01606_POWERCARD_0.SOCKET8_8.NORMAL(CHIPS)':
- C_PATH='@\tida-01606_powercard_grid_tinv\.schematic1(sch_1):ins14678391@tida01606_powercard_0.\socket8_8.normal\(chips)',
- P_PATH='@\tida-01606_powercard_grid_tinv\.schematic1(sch_1):page1_ins14678391@tida01606_powercard_0.\socket8_8.normal\(chips)',
- ROOM='3',
+ '@TIDA-01606_POWERCARD_GRID_TINV.SCHEMATIC1(SCH_1):INS16660689@SPCM_3CHMPPT.ACS758REV_5.NORMAL(CHIPS)':
+ C_PATH='@\tida-01606_powercard_grid_tinv\.schematic1(sch_1):ins16660689@spcm_3chmppt.\acs758rev_5.normal\(chips)',
+ P_PATH='@\tida-01606_powercard_grid_tinv\.schematic1(sch_1):page_ins16660689@spcm_3chmppt.\acs758rev_5.normal\(chips)',
+ ROOM='ACSc',
  PRIM_FILE='.\pstchip.dat',
  SECTION='';
 
