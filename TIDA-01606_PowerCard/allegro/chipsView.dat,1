@@ -1,400 +1,4 @@
 FILE_TYPE=LIBRARY_PARTS;
-primitive 'C_SNPD0805_MODIFIED_0.33N 0805 25V';
-  pin
-	 '2':
-	   PIN_NUMBER='(2)';
-	   PINUSE='UNSPEC';
-	   NO_LOAD_CHECK='Both';
-	   NO_IO_CHECK='Both';
-	   NO_ASSERT_CHECK='TRUE';
-	   NO_DIR_CHECK='TRUE';
-	   ALLOW_CONNECT='TRUE';
-	 '1':
-	   PIN_NUMBER='(1)';
-	   PINUSE='UNSPEC';
-	   NO_LOAD_CHECK='Both';
-	   NO_IO_CHECK='Both';
-	   NO_ASSERT_CHECK='TRUE';
-	   NO_DIR_CHECK='TRUE';
-	   ALLOW_CONNECT='TRUE';
-  end_pin;
-  body
-	 PART_NAME='C';
-	 VALUE='0.33n 0805 25V';
-	 BODY_NAME='C_SNPD0805_MODIFIED_0.33N 0805 25V';
-	 JEDEC_TYPE='SNPD0805_MODIFIED';
-	 PHYS_DES_PREFIX='CX';
-	 CLASS='IC';
-  end_body;
-end_primitive;
-
-primitive 'C_SNPD0805_MODIFIED_0.1U 0805 50V';
-  pin
-	 '2':
-	   PIN_NUMBER='(2)';
-	   PINUSE='UNSPEC';
-	   NO_LOAD_CHECK='Both';
-	   NO_IO_CHECK='Both';
-	   NO_ASSERT_CHECK='TRUE';
-	   NO_DIR_CHECK='TRUE';
-	   ALLOW_CONNECT='TRUE';
-	 '1':
-	   PIN_NUMBER='(1)';
-	   PINUSE='UNSPEC';
-	   NO_LOAD_CHECK='Both';
-	   NO_IO_CHECK='Both';
-	   NO_ASSERT_CHECK='TRUE';
-	   NO_DIR_CHECK='TRUE';
-	   ALLOW_CONNECT='TRUE';
-  end_pin;
-  body
-	 PART_NAME='C';
-	 VALUE='0.1u 0805 50V';
-	 BODY_NAME='C_SNPD0805_MODIFIED_0.1U 0805 50V';
-	 JEDEC_TYPE='SNPD0805_MODIFIED';
-	 PHYS_DES_PREFIX='CX';
-	 CLASS='IC';
-  end_body;
-end_primitive;
-
-primitive 'R_SNPD0805_MODIFIED_2.2K 0805 1%';
-  pin
-	 '2':
-	   PIN_NUMBER='(2)';
-	   PINUSE='UNSPEC';
-	   NO_LOAD_CHECK='Both';
-	   NO_IO_CHECK='Both';
-	   NO_ASSERT_CHECK='TRUE';
-	   NO_DIR_CHECK='TRUE';
-	   ALLOW_CONNECT='TRUE';
-	 '1':
-	   PIN_NUMBER='(1)';
-	   PINUSE='UNSPEC';
-	   NO_LOAD_CHECK='Both';
-	   NO_IO_CHECK='Both';
-	   NO_ASSERT_CHECK='TRUE';
-	   NO_DIR_CHECK='TRUE';
-	   ALLOW_CONNECT='TRUE';
-  end_pin;
-  body
-	 PART_NAME='R';
-	 VALUE='2.2K 0805 1%';
-	 BODY_NAME='R_SNPD0805_MODIFIED_2.2K 0805 1%';
-	 JEDEC_TYPE='SNPD0805_MODIFIED';
-	 PHYS_DES_PREFIX='R';
-	 CLASS='IC';
-  end_body;
-end_primitive;
-
-primitive 'ACS758REV_5_ACS758REV_ACS772LCB-050B-PFF-T';
-  pin
-	 'VIOUT':
-	   PIN_NUMBER='(3)';
-	   PINUSE='UNSPEC';
-	   NO_LOAD_CHECK='Both';
-	   NO_IO_CHECK='Both';
-	   NO_ASSERT_CHECK='TRUE';
-	   NO_DIR_CHECK='TRUE';
-	   ALLOW_CONNECT='TRUE';
-	 'VCC':
-	   PIN_NUMBER='(1)';
-	   PINUSE='UNSPEC';
-	   NO_LOAD_CHECK='Both';
-	   NO_IO_CHECK='Both';
-	   NO_ASSERT_CHECK='TRUE';
-	   NO_DIR_CHECK='TRUE';
-	   ALLOW_CONNECT='TRUE';
-	 'GND':
-	   PIN_NUMBER='(2)';
-	   PINUSE='UNSPEC';
-	   NO_LOAD_CHECK='Both';
-	   NO_IO_CHECK='Both';
-	   NO_ASSERT_CHECK='TRUE';
-	   NO_DIR_CHECK='TRUE';
-	   ALLOW_CONNECT='TRUE';
-	 '9':
-	   PIN_NUMBER='(IP-@5)';
-	   PINUSE='UNSPEC';
-	   NO_LOAD_CHECK='Both';
-	   NO_IO_CHECK='Both';
-	   NO_ASSERT_CHECK='TRUE';
-	   NO_DIR_CHECK='TRUE';
-	   ALLOW_CONNECT='TRUE';
-	 '8':
-	   PIN_NUMBER='(IP-@4)';
-	   PINUSE='UNSPEC';
-	   NO_LOAD_CHECK='Both';
-	   NO_IO_CHECK='Both';
-	   NO_ASSERT_CHECK='TRUE';
-	   NO_DIR_CHECK='TRUE';
-	   ALLOW_CONNECT='TRUE';
-	 '7':
-	   PIN_NUMBER='(IP-@3)';
-	   PINUSE='UNSPEC';
-	   NO_LOAD_CHECK='Both';
-	   NO_IO_CHECK='Both';
-	   NO_ASSERT_CHECK='TRUE';
-	   NO_DIR_CHECK='TRUE';
-	   ALLOW_CONNECT='TRUE';
-	 '6':
-	   PIN_NUMBER='(IP-@2)';
-	   PINUSE='UNSPEC';
-	   NO_LOAD_CHECK='Both';
-	   NO_IO_CHECK='Both';
-	   NO_ASSERT_CHECK='TRUE';
-	   NO_DIR_CHECK='TRUE';
-	   ALLOW_CONNECT='TRUE';
-	 '5':
-	   PIN_NUMBER='(IP-)';
-	   PINUSE='UNSPEC';
-	   NO_LOAD_CHECK='Both';
-	   NO_IO_CHECK='Both';
-	   NO_ASSERT_CHECK='TRUE';
-	   NO_DIR_CHECK='TRUE';
-	   ALLOW_CONNECT='TRUE';
-	 '4':
-	   PIN_NUMBER='(IP+)';
-	   PINUSE='UNSPEC';
-	   NO_LOAD_CHECK='Both';
-	   NO_IO_CHECK='Both';
-	   NO_ASSERT_CHECK='TRUE';
-	   NO_DIR_CHECK='TRUE';
-	   ALLOW_CONNECT='TRUE';
-	 '37':
-	   PIN_NUMBER='(IP+@17)';
-	   PINUSE='UNSPEC';
-	   NO_LOAD_CHECK='Both';
-	   NO_IO_CHECK='Both';
-	   NO_ASSERT_CHECK='TRUE';
-	   NO_DIR_CHECK='TRUE';
-	   ALLOW_CONNECT='TRUE';
-	 '36':
-	   PIN_NUMBER='(IP+@16)';
-	   PINUSE='UNSPEC';
-	   NO_LOAD_CHECK='Both';
-	   NO_IO_CHECK='Both';
-	   NO_ASSERT_CHECK='TRUE';
-	   NO_DIR_CHECK='TRUE';
-	   ALLOW_CONNECT='TRUE';
-	 '35':
-	   PIN_NUMBER='(IP+@15)';
-	   PINUSE='UNSPEC';
-	   NO_LOAD_CHECK='Both';
-	   NO_IO_CHECK='Both';
-	   NO_ASSERT_CHECK='TRUE';
-	   NO_DIR_CHECK='TRUE';
-	   ALLOW_CONNECT='TRUE';
-	 '34':
-	   PIN_NUMBER='(IP+@14)';
-	   PINUSE='UNSPEC';
-	   NO_LOAD_CHECK='Both';
-	   NO_IO_CHECK='Both';
-	   NO_ASSERT_CHECK='TRUE';
-	   NO_DIR_CHECK='TRUE';
-	   ALLOW_CONNECT='TRUE';
-	 '33':
-	   PIN_NUMBER='(IP+@13)';
-	   PINUSE='UNSPEC';
-	   NO_LOAD_CHECK='Both';
-	   NO_IO_CHECK='Both';
-	   NO_ASSERT_CHECK='TRUE';
-	   NO_DIR_CHECK='TRUE';
-	   ALLOW_CONNECT='TRUE';
-	 '32':
-	   PIN_NUMBER='(IP+@12)';
-	   PINUSE='UNSPEC';
-	   NO_LOAD_CHECK='Both';
-	   NO_IO_CHECK='Both';
-	   NO_ASSERT_CHECK='TRUE';
-	   NO_DIR_CHECK='TRUE';
-	   ALLOW_CONNECT='TRUE';
-	 '31':
-	   PIN_NUMBER='(IP+@11)';
-	   PINUSE='UNSPEC';
-	   NO_LOAD_CHECK='Both';
-	   NO_IO_CHECK='Both';
-	   NO_ASSERT_CHECK='TRUE';
-	   NO_DIR_CHECK='TRUE';
-	   ALLOW_CONNECT='TRUE';
-	 '30':
-	   PIN_NUMBER='(IP+@10)';
-	   PINUSE='UNSPEC';
-	   NO_LOAD_CHECK='Both';
-	   NO_IO_CHECK='Both';
-	   NO_ASSERT_CHECK='TRUE';
-	   NO_DIR_CHECK='TRUE';
-	   ALLOW_CONNECT='TRUE';
-	 '29':
-	   PIN_NUMBER='(IP+@9)';
-	   PINUSE='UNSPEC';
-	   NO_LOAD_CHECK='Both';
-	   NO_IO_CHECK='Both';
-	   NO_ASSERT_CHECK='TRUE';
-	   NO_DIR_CHECK='TRUE';
-	   ALLOW_CONNECT='TRUE';
-	 '28':
-	   PIN_NUMBER='(IP+@8)';
-	   PINUSE='UNSPEC';
-	   NO_LOAD_CHECK='Both';
-	   NO_IO_CHECK='Both';
-	   NO_ASSERT_CHECK='TRUE';
-	   NO_DIR_CHECK='TRUE';
-	   ALLOW_CONNECT='TRUE';
-	 '27':
-	   PIN_NUMBER='(IP+@7)';
-	   PINUSE='UNSPEC';
-	   NO_LOAD_CHECK='Both';
-	   NO_IO_CHECK='Both';
-	   NO_ASSERT_CHECK='TRUE';
-	   NO_DIR_CHECK='TRUE';
-	   ALLOW_CONNECT='TRUE';
-	 '26':
-	   PIN_NUMBER='(IP+@6)';
-	   PINUSE='UNSPEC';
-	   NO_LOAD_CHECK='Both';
-	   NO_IO_CHECK='Both';
-	   NO_ASSERT_CHECK='TRUE';
-	   NO_DIR_CHECK='TRUE';
-	   ALLOW_CONNECT='TRUE';
-	 '25':
-	   PIN_NUMBER='(IP+@5)';
-	   PINUSE='UNSPEC';
-	   NO_LOAD_CHECK='Both';
-	   NO_IO_CHECK='Both';
-	   NO_ASSERT_CHECK='TRUE';
-	   NO_DIR_CHECK='TRUE';
-	   ALLOW_CONNECT='TRUE';
-	 '24':
-	   PIN_NUMBER='(IP+@4)';
-	   PINUSE='UNSPEC';
-	   NO_LOAD_CHECK='Both';
-	   NO_IO_CHECK='Both';
-	   NO_ASSERT_CHECK='TRUE';
-	   NO_DIR_CHECK='TRUE';
-	   ALLOW_CONNECT='TRUE';
-	 '23':
-	   PIN_NUMBER='(IP+@3)';
-	   PINUSE='UNSPEC';
-	   NO_LOAD_CHECK='Both';
-	   NO_IO_CHECK='Both';
-	   NO_ASSERT_CHECK='TRUE';
-	   NO_DIR_CHECK='TRUE';
-	   ALLOW_CONNECT='TRUE';
-	 '22':
-	   PIN_NUMBER='(IP+@2)';
-	   PINUSE='UNSPEC';
-	   NO_LOAD_CHECK='Both';
-	   NO_IO_CHECK='Both';
-	   NO_ASSERT_CHECK='TRUE';
-	   NO_DIR_CHECK='TRUE';
-	   ALLOW_CONNECT='TRUE';
-	 '21':
-	   PIN_NUMBER='(IP-@17)';
-	   PINUSE='UNSPEC';
-	   NO_LOAD_CHECK='Both';
-	   NO_IO_CHECK='Both';
-	   NO_ASSERT_CHECK='TRUE';
-	   NO_DIR_CHECK='TRUE';
-	   ALLOW_CONNECT='TRUE';
-	 '20':
-	   PIN_NUMBER='(IP-@16)';
-	   PINUSE='UNSPEC';
-	   NO_LOAD_CHECK='Both';
-	   NO_IO_CHECK='Both';
-	   NO_ASSERT_CHECK='TRUE';
-	   NO_DIR_CHECK='TRUE';
-	   ALLOW_CONNECT='TRUE';
-	 '19':
-	   PIN_NUMBER='(IP-@15)';
-	   PINUSE='UNSPEC';
-	   NO_LOAD_CHECK='Both';
-	   NO_IO_CHECK='Both';
-	   NO_ASSERT_CHECK='TRUE';
-	   NO_DIR_CHECK='TRUE';
-	   ALLOW_CONNECT='TRUE';
-	 '18':
-	   PIN_NUMBER='(IP-@14)';
-	   PINUSE='UNSPEC';
-	   NO_LOAD_CHECK='Both';
-	   NO_IO_CHECK='Both';
-	   NO_ASSERT_CHECK='TRUE';
-	   NO_DIR_CHECK='TRUE';
-	   ALLOW_CONNECT='TRUE';
-	 '17':
-	   PIN_NUMBER='(IP-@13)';
-	   PINUSE='UNSPEC';
-	   NO_LOAD_CHECK='Both';
-	   NO_IO_CHECK='Both';
-	   NO_ASSERT_CHECK='TRUE';
-	   NO_DIR_CHECK='TRUE';
-	   ALLOW_CONNECT='TRUE';
-	 '16':
-	   PIN_NUMBER='(IP-@12)';
-	   PINUSE='UNSPEC';
-	   NO_LOAD_CHECK='Both';
-	   NO_IO_CHECK='Both';
-	   NO_ASSERT_CHECK='TRUE';
-	   NO_DIR_CHECK='TRUE';
-	   ALLOW_CONNECT='TRUE';
-	 '15':
-	   PIN_NUMBER='(IP-@11)';
-	   PINUSE='UNSPEC';
-	   NO_LOAD_CHECK='Both';
-	   NO_IO_CHECK='Both';
-	   NO_ASSERT_CHECK='TRUE';
-	   NO_DIR_CHECK='TRUE';
-	   ALLOW_CONNECT='TRUE';
-	 '14':
-	   PIN_NUMBER='(IP-@10)';
-	   PINUSE='UNSPEC';
-	   NO_LOAD_CHECK='Both';
-	   NO_IO_CHECK='Both';
-	   NO_ASSERT_CHECK='TRUE';
-	   NO_DIR_CHECK='TRUE';
-	   ALLOW_CONNECT='TRUE';
-	 '13':
-	   PIN_NUMBER='(IP-@9)';
-	   PINUSE='UNSPEC';
-	   NO_LOAD_CHECK='Both';
-	   NO_IO_CHECK='Both';
-	   NO_ASSERT_CHECK='TRUE';
-	   NO_DIR_CHECK='TRUE';
-	   ALLOW_CONNECT='TRUE';
-	 '12':
-	   PIN_NUMBER='(IP-@8)';
-	   PINUSE='UNSPEC';
-	   NO_LOAD_CHECK='Both';
-	   NO_IO_CHECK='Both';
-	   NO_ASSERT_CHECK='TRUE';
-	   NO_DIR_CHECK='TRUE';
-	   ALLOW_CONNECT='TRUE';
-	 '11':
-	   PIN_NUMBER='(IP-@7)';
-	   PINUSE='UNSPEC';
-	   NO_LOAD_CHECK='Both';
-	   NO_IO_CHECK='Both';
-	   NO_ASSERT_CHECK='TRUE';
-	   NO_DIR_CHECK='TRUE';
-	   ALLOW_CONNECT='TRUE';
-	 '10':
-	   PIN_NUMBER='(IP-@6)';
-	   PINUSE='UNSPEC';
-	   NO_LOAD_CHECK='Both';
-	   NO_IO_CHECK='Both';
-	   NO_ASSERT_CHECK='TRUE';
-	   NO_DIR_CHECK='TRUE';
-	   ALLOW_CONNECT='TRUE';
-  end_pin;
-  body
-	 PART_NAME='ACS758rev_5';
-	 VALUE='ACS772LCB-050B-PFF-T';
-	 BODY_NAME='ACS758REV_5_ACS758REV_ACS772LCB-050B-PFF-T';
-	 JEDEC_TYPE='ACS758REV';
-	 PHYS_DES_PREFIX='UX';
-	 CLASS='IC';
-  end_body;
-end_primitive;
-
 primitive 'CAPACITOR NON-POL_BOXCAPACITOR15MM_0.15UF 630V TH';
   pin
 	 '2':
@@ -768,6 +372,64 @@ primitive 'CAP NP_SNPD0805_MODIFIED_100P 0805 25V';
 	 BODY_NAME='CAP NP_SNPD0805_MODIFIED_100P 0805 25V';
 	 JEDEC_TYPE='SNPD0805_MODIFIED';
 	 PHYS_DES_PREFIX='C';
+	 CLASS='IC';
+  end_body;
+end_primitive;
+
+primitive 'C_SNPD0805_MODIFIED_0.33N 0805 25V';
+  pin
+	 '2':
+	   PIN_NUMBER='(2)';
+	   PINUSE='UNSPEC';
+	   NO_LOAD_CHECK='Both';
+	   NO_IO_CHECK='Both';
+	   NO_ASSERT_CHECK='TRUE';
+	   NO_DIR_CHECK='TRUE';
+	   ALLOW_CONNECT='TRUE';
+	 '1':
+	   PIN_NUMBER='(1)';
+	   PINUSE='UNSPEC';
+	   NO_LOAD_CHECK='Both';
+	   NO_IO_CHECK='Both';
+	   NO_ASSERT_CHECK='TRUE';
+	   NO_DIR_CHECK='TRUE';
+	   ALLOW_CONNECT='TRUE';
+  end_pin;
+  body
+	 PART_NAME='C';
+	 VALUE='0.33n 0805 25V';
+	 BODY_NAME='C_SNPD0805_MODIFIED_0.33N 0805 25V';
+	 JEDEC_TYPE='SNPD0805_MODIFIED';
+	 PHYS_DES_PREFIX='CX';
+	 CLASS='IC';
+  end_body;
+end_primitive;
+
+primitive 'C_SNPD0805_MODIFIED_0.1U 0805 50V';
+  pin
+	 '2':
+	   PIN_NUMBER='(2)';
+	   PINUSE='UNSPEC';
+	   NO_LOAD_CHECK='Both';
+	   NO_IO_CHECK='Both';
+	   NO_ASSERT_CHECK='TRUE';
+	   NO_DIR_CHECK='TRUE';
+	   ALLOW_CONNECT='TRUE';
+	 '1':
+	   PIN_NUMBER='(1)';
+	   PINUSE='UNSPEC';
+	   NO_LOAD_CHECK='Both';
+	   NO_IO_CHECK='Both';
+	   NO_ASSERT_CHECK='TRUE';
+	   NO_DIR_CHECK='TRUE';
+	   ALLOW_CONNECT='TRUE';
+  end_pin;
+  body
+	 PART_NAME='C';
+	 VALUE='0.1u 0805 50V';
+	 BODY_NAME='C_SNPD0805_MODIFIED_0.1U 0805 50V';
+	 JEDEC_TYPE='SNPD0805_MODIFIED';
+	 PHYS_DES_PREFIX='CX';
 	 CLASS='IC';
   end_body;
 end_primitive;
@@ -1212,7 +874,7 @@ primitive 'CON2_3_RELAY_T9AS1D12-15_REV1_T9AS1D12-15';
   end_body;
 end_primitive;
 
-primitive 'INDUCTOR_CONN2_HIGHAMP_0.006E 15A';
+primitive 'INDUCTOR_CONN2_HIGHAMP_???? 0.006E 15A';
   pin
 	 '2':
 	   PIN_NUMBER='(2)';
@@ -1233,8 +895,8 @@ primitive 'INDUCTOR_CONN2_HIGHAMP_0.006E 15A';
   end_pin;
   body
 	 PART_NAME='INDUCTOR';
-	 VALUE='0.006E 15A';
-	 BODY_NAME='INDUCTOR_CONN2_HIGHAMP_0.006E 15A';
+	 VALUE='???? 0.006E 15A';
+	 BODY_NAME='INDUCTOR_CONN2_HIGHAMP_???? 0.006E 15A';
 	 JEDEC_TYPE='CONN2_HIGHAMP';
 	 PHYS_DES_PREFIX='L';
 	 CLASS='IC';
@@ -1582,6 +1244,35 @@ primitive 'RESISTOR_SNPD1206_MODIFIED_0E 1206 1%';
   end_body;
 end_primitive;
 
+primitive 'R_SNPD0805_MODIFIED_100E 0805 1%';
+  pin
+	 '2':
+	   PIN_NUMBER='(2)';
+	   PINUSE='UNSPEC';
+	   NO_LOAD_CHECK='Both';
+	   NO_IO_CHECK='Both';
+	   NO_ASSERT_CHECK='TRUE';
+	   NO_DIR_CHECK='TRUE';
+	   ALLOW_CONNECT='TRUE';
+	 '1':
+	   PIN_NUMBER='(1)';
+	   PINUSE='UNSPEC';
+	   NO_LOAD_CHECK='Both';
+	   NO_IO_CHECK='Both';
+	   NO_ASSERT_CHECK='TRUE';
+	   NO_DIR_CHECK='TRUE';
+	   ALLOW_CONNECT='TRUE';
+  end_pin;
+  body
+	 PART_NAME='R';
+	 VALUE='100E 0805 1%';
+	 BODY_NAME='R_SNPD0805_MODIFIED_100E 0805 1%';
+	 JEDEC_TYPE='SNPD0805_MODIFIED';
+	 PHYS_DES_PREFIX='R';
+	 CLASS='IC';
+  end_body;
+end_primitive;
+
 primitive 'RESISTOR_RES_PSR400IT_0.001E 1052 1%';
   pin
 	 '2':
@@ -1606,6 +1297,35 @@ primitive 'RESISTOR_RES_PSR400IT_0.001E 1052 1%';
 	 VALUE='0.001E 1052 1%';
 	 BODY_NAME='RESISTOR_RES_PSR400IT_0.001E 1052 1%';
 	 JEDEC_TYPE='RES_PSR400IT';
+	 PHYS_DES_PREFIX='R';
+	 CLASS='IC';
+  end_body;
+end_primitive;
+
+primitive 'R_SNPD0805_MODIFIED_0E 0805 1%';
+  pin
+	 '2':
+	   PIN_NUMBER='(2)';
+	   PINUSE='UNSPEC';
+	   NO_LOAD_CHECK='Both';
+	   NO_IO_CHECK='Both';
+	   NO_ASSERT_CHECK='TRUE';
+	   NO_DIR_CHECK='TRUE';
+	   ALLOW_CONNECT='TRUE';
+	 '1':
+	   PIN_NUMBER='(1)';
+	   PINUSE='UNSPEC';
+	   NO_LOAD_CHECK='Both';
+	   NO_IO_CHECK='Both';
+	   NO_ASSERT_CHECK='TRUE';
+	   NO_DIR_CHECK='TRUE';
+	   ALLOW_CONNECT='TRUE';
+  end_pin;
+  body
+	 PART_NAME='R';
+	 VALUE='0E 0805 1%';
+	 BODY_NAME='R_SNPD0805_MODIFIED_0E 0805 1%';
+	 JEDEC_TYPE='SNPD0805_MODIFIED';
 	 PHYS_DES_PREFIX='R';
 	 CLASS='IC';
   end_body;
@@ -1669,7 +1389,36 @@ primitive 'RESISTOR_SNPD0805_MODIFIED_11K 0805 1%';
   end_body;
 end_primitive;
 
-primitive 'DM3AT-SF-PEJM5_2_SOT223_4_TLV1117LV33DCYR';
+primitive 'RESISTOR_RES0603_100E 0603 1%';
+  pin
+	 '2':
+	   PIN_NUMBER='(2)';
+	   PINUSE='UNSPEC';
+	   NO_LOAD_CHECK='Both';
+	   NO_IO_CHECK='Both';
+	   NO_ASSERT_CHECK='TRUE';
+	   NO_DIR_CHECK='TRUE';
+	   ALLOW_CONNECT='TRUE';
+	 '1':
+	   PIN_NUMBER='(1)';
+	   PINUSE='UNSPEC';
+	   NO_LOAD_CHECK='Both';
+	   NO_IO_CHECK='Both';
+	   NO_ASSERT_CHECK='TRUE';
+	   NO_DIR_CHECK='TRUE';
+	   ALLOW_CONNECT='TRUE';
+  end_pin;
+  body
+	 PART_NAME='RESISTOR';
+	 VALUE='100E 0603 1%';
+	 BODY_NAME='RESISTOR_RES0603_100E 0603 1%';
+	 JEDEC_TYPE='RES0603';
+	 PHYS_DES_PREFIX='R';
+	 CLASS='IC';
+  end_body;
+end_primitive;
+
+primitive 'DM3AT-SF-PEJM5_2_SOT223_4_?????TLV1117LV33DCYR';
   pin
 	 'OUT2':
 	   PIN_NUMBER='(4)';
@@ -1706,10 +1455,357 @@ primitive 'DM3AT-SF-PEJM5_2_SOT223_4_TLV1117LV33DCYR';
   end_pin;
   body
 	 PART_NAME='DM3AT-SF-PEJM5_2';
-	 VALUE='TLV1117LV33DCYR';
-	 BODY_NAME='DM3AT-SF-PEJM5_2_SOT223_4_TLV1117LV33DCYR';
+	 VALUE='?????TLV1117LV33DCYR';
+	 BODY_NAME='DM3AT-SF-PEJM5_2_SOT223_4_?????TLV1117LV33DCYR';
 	 JEDEC_TYPE='SOT223_4';
 	 PHYS_DES_PREFIX='U';
+	 CLASS='IC';
+  end_body;
+end_primitive;
+
+primitive 'LM358_2_SOIC8_REV1_OPA2336 SOIC8';
+  pin
+	 'VCC':
+	   PIN_NUMBER='(8,8)';
+	   PINUSE='UNSPEC';
+	   NO_LOAD_CHECK='Both';
+	   NO_IO_CHECK='Both';
+	   NO_ASSERT_CHECK='TRUE';
+	   NO_DIR_CHECK='TRUE';
+	   ALLOW_CONNECT='TRUE';
+	 'OUT':
+	   PIN_NUMBER='(1,7)';
+	   OUTPUT_LOAD='(1.0,-1.0)';
+	 'GND':
+	   PIN_NUMBER='(4,4)';
+	   PINUSE='UNSPEC';
+	   NO_LOAD_CHECK='Both';
+	   NO_IO_CHECK='Both';
+	   NO_ASSERT_CHECK='TRUE';
+	   NO_DIR_CHECK='TRUE';
+	   ALLOW_CONNECT='TRUE';
+	 '-IN':
+	   PIN_NUMBER='(2,6)';
+	   INPUT_LOAD='(-0.01,0.01)';
+	 '+IN':
+	   PIN_NUMBER='(3,5)';
+	   INPUT_LOAD='(-0.01,0.01)';
+  end_pin;
+  body
+	 PART_NAME='LM358_2';
+	 VALUE='OPA2336 SOIC8';
+	 BODY_NAME='LM358_2_SOIC8_REV1_OPA2336 SOIC8';
+	 JEDEC_TYPE='SOIC8_REV1';
+	 PHYS_DES_PREFIX='U';
+	 CLASS='IC';
+  end_body;
+end_primitive;
+
+primitive 'ACS758REV_5_ACS758REV_ACS772LCB-050B-PFF-T';
+  pin
+	 'VIOUT':
+	   PIN_NUMBER='(3)';
+	   PINUSE='UNSPEC';
+	   NO_LOAD_CHECK='Both';
+	   NO_IO_CHECK='Both';
+	   NO_ASSERT_CHECK='TRUE';
+	   NO_DIR_CHECK='TRUE';
+	   ALLOW_CONNECT='TRUE';
+	 'VCC':
+	   PIN_NUMBER='(1)';
+	   PINUSE='UNSPEC';
+	   NO_LOAD_CHECK='Both';
+	   NO_IO_CHECK='Both';
+	   NO_ASSERT_CHECK='TRUE';
+	   NO_DIR_CHECK='TRUE';
+	   ALLOW_CONNECT='TRUE';
+	 'GND':
+	   PIN_NUMBER='(2)';
+	   PINUSE='UNSPEC';
+	   NO_LOAD_CHECK='Both';
+	   NO_IO_CHECK='Both';
+	   NO_ASSERT_CHECK='TRUE';
+	   NO_DIR_CHECK='TRUE';
+	   ALLOW_CONNECT='TRUE';
+	 '9':
+	   PIN_NUMBER='(IP-@5)';
+	   PINUSE='UNSPEC';
+	   NO_LOAD_CHECK='Both';
+	   NO_IO_CHECK='Both';
+	   NO_ASSERT_CHECK='TRUE';
+	   NO_DIR_CHECK='TRUE';
+	   ALLOW_CONNECT='TRUE';
+	 '8':
+	   PIN_NUMBER='(IP-@4)';
+	   PINUSE='UNSPEC';
+	   NO_LOAD_CHECK='Both';
+	   NO_IO_CHECK='Both';
+	   NO_ASSERT_CHECK='TRUE';
+	   NO_DIR_CHECK='TRUE';
+	   ALLOW_CONNECT='TRUE';
+	 '7':
+	   PIN_NUMBER='(IP-@3)';
+	   PINUSE='UNSPEC';
+	   NO_LOAD_CHECK='Both';
+	   NO_IO_CHECK='Both';
+	   NO_ASSERT_CHECK='TRUE';
+	   NO_DIR_CHECK='TRUE';
+	   ALLOW_CONNECT='TRUE';
+	 '6':
+	   PIN_NUMBER='(IP-@2)';
+	   PINUSE='UNSPEC';
+	   NO_LOAD_CHECK='Both';
+	   NO_IO_CHECK='Both';
+	   NO_ASSERT_CHECK='TRUE';
+	   NO_DIR_CHECK='TRUE';
+	   ALLOW_CONNECT='TRUE';
+	 '5':
+	   PIN_NUMBER='(IP-)';
+	   PINUSE='UNSPEC';
+	   NO_LOAD_CHECK='Both';
+	   NO_IO_CHECK='Both';
+	   NO_ASSERT_CHECK='TRUE';
+	   NO_DIR_CHECK='TRUE';
+	   ALLOW_CONNECT='TRUE';
+	 '4':
+	   PIN_NUMBER='(IP+)';
+	   PINUSE='UNSPEC';
+	   NO_LOAD_CHECK='Both';
+	   NO_IO_CHECK='Both';
+	   NO_ASSERT_CHECK='TRUE';
+	   NO_DIR_CHECK='TRUE';
+	   ALLOW_CONNECT='TRUE';
+	 '37':
+	   PIN_NUMBER='(IP+@17)';
+	   PINUSE='UNSPEC';
+	   NO_LOAD_CHECK='Both';
+	   NO_IO_CHECK='Both';
+	   NO_ASSERT_CHECK='TRUE';
+	   NO_DIR_CHECK='TRUE';
+	   ALLOW_CONNECT='TRUE';
+	 '36':
+	   PIN_NUMBER='(IP+@16)';
+	   PINUSE='UNSPEC';
+	   NO_LOAD_CHECK='Both';
+	   NO_IO_CHECK='Both';
+	   NO_ASSERT_CHECK='TRUE';
+	   NO_DIR_CHECK='TRUE';
+	   ALLOW_CONNECT='TRUE';
+	 '35':
+	   PIN_NUMBER='(IP+@15)';
+	   PINUSE='UNSPEC';
+	   NO_LOAD_CHECK='Both';
+	   NO_IO_CHECK='Both';
+	   NO_ASSERT_CHECK='TRUE';
+	   NO_DIR_CHECK='TRUE';
+	   ALLOW_CONNECT='TRUE';
+	 '34':
+	   PIN_NUMBER='(IP+@14)';
+	   PINUSE='UNSPEC';
+	   NO_LOAD_CHECK='Both';
+	   NO_IO_CHECK='Both';
+	   NO_ASSERT_CHECK='TRUE';
+	   NO_DIR_CHECK='TRUE';
+	   ALLOW_CONNECT='TRUE';
+	 '33':
+	   PIN_NUMBER='(IP+@13)';
+	   PINUSE='UNSPEC';
+	   NO_LOAD_CHECK='Both';
+	   NO_IO_CHECK='Both';
+	   NO_ASSERT_CHECK='TRUE';
+	   NO_DIR_CHECK='TRUE';
+	   ALLOW_CONNECT='TRUE';
+	 '32':
+	   PIN_NUMBER='(IP+@12)';
+	   PINUSE='UNSPEC';
+	   NO_LOAD_CHECK='Both';
+	   NO_IO_CHECK='Both';
+	   NO_ASSERT_CHECK='TRUE';
+	   NO_DIR_CHECK='TRUE';
+	   ALLOW_CONNECT='TRUE';
+	 '31':
+	   PIN_NUMBER='(IP+@11)';
+	   PINUSE='UNSPEC';
+	   NO_LOAD_CHECK='Both';
+	   NO_IO_CHECK='Both';
+	   NO_ASSERT_CHECK='TRUE';
+	   NO_DIR_CHECK='TRUE';
+	   ALLOW_CONNECT='TRUE';
+	 '30':
+	   PIN_NUMBER='(IP+@10)';
+	   PINUSE='UNSPEC';
+	   NO_LOAD_CHECK='Both';
+	   NO_IO_CHECK='Both';
+	   NO_ASSERT_CHECK='TRUE';
+	   NO_DIR_CHECK='TRUE';
+	   ALLOW_CONNECT='TRUE';
+	 '29':
+	   PIN_NUMBER='(IP+@9)';
+	   PINUSE='UNSPEC';
+	   NO_LOAD_CHECK='Both';
+	   NO_IO_CHECK='Both';
+	   NO_ASSERT_CHECK='TRUE';
+	   NO_DIR_CHECK='TRUE';
+	   ALLOW_CONNECT='TRUE';
+	 '28':
+	   PIN_NUMBER='(IP+@8)';
+	   PINUSE='UNSPEC';
+	   NO_LOAD_CHECK='Both';
+	   NO_IO_CHECK='Both';
+	   NO_ASSERT_CHECK='TRUE';
+	   NO_DIR_CHECK='TRUE';
+	   ALLOW_CONNECT='TRUE';
+	 '27':
+	   PIN_NUMBER='(IP+@7)';
+	   PINUSE='UNSPEC';
+	   NO_LOAD_CHECK='Both';
+	   NO_IO_CHECK='Both';
+	   NO_ASSERT_CHECK='TRUE';
+	   NO_DIR_CHECK='TRUE';
+	   ALLOW_CONNECT='TRUE';
+	 '26':
+	   PIN_NUMBER='(IP+@6)';
+	   PINUSE='UNSPEC';
+	   NO_LOAD_CHECK='Both';
+	   NO_IO_CHECK='Both';
+	   NO_ASSERT_CHECK='TRUE';
+	   NO_DIR_CHECK='TRUE';
+	   ALLOW_CONNECT='TRUE';
+	 '25':
+	   PIN_NUMBER='(IP+@5)';
+	   PINUSE='UNSPEC';
+	   NO_LOAD_CHECK='Both';
+	   NO_IO_CHECK='Both';
+	   NO_ASSERT_CHECK='TRUE';
+	   NO_DIR_CHECK='TRUE';
+	   ALLOW_CONNECT='TRUE';
+	 '24':
+	   PIN_NUMBER='(IP+@4)';
+	   PINUSE='UNSPEC';
+	   NO_LOAD_CHECK='Both';
+	   NO_IO_CHECK='Both';
+	   NO_ASSERT_CHECK='TRUE';
+	   NO_DIR_CHECK='TRUE';
+	   ALLOW_CONNECT='TRUE';
+	 '23':
+	   PIN_NUMBER='(IP+@3)';
+	   PINUSE='UNSPEC';
+	   NO_LOAD_CHECK='Both';
+	   NO_IO_CHECK='Both';
+	   NO_ASSERT_CHECK='TRUE';
+	   NO_DIR_CHECK='TRUE';
+	   ALLOW_CONNECT='TRUE';
+	 '22':
+	   PIN_NUMBER='(IP+@2)';
+	   PINUSE='UNSPEC';
+	   NO_LOAD_CHECK='Both';
+	   NO_IO_CHECK='Both';
+	   NO_ASSERT_CHECK='TRUE';
+	   NO_DIR_CHECK='TRUE';
+	   ALLOW_CONNECT='TRUE';
+	 '21':
+	   PIN_NUMBER='(IP-@17)';
+	   PINUSE='UNSPEC';
+	   NO_LOAD_CHECK='Both';
+	   NO_IO_CHECK='Both';
+	   NO_ASSERT_CHECK='TRUE';
+	   NO_DIR_CHECK='TRUE';
+	   ALLOW_CONNECT='TRUE';
+	 '20':
+	   PIN_NUMBER='(IP-@16)';
+	   PINUSE='UNSPEC';
+	   NO_LOAD_CHECK='Both';
+	   NO_IO_CHECK='Both';
+	   NO_ASSERT_CHECK='TRUE';
+	   NO_DIR_CHECK='TRUE';
+	   ALLOW_CONNECT='TRUE';
+	 '19':
+	   PIN_NUMBER='(IP-@15)';
+	   PINUSE='UNSPEC';
+	   NO_LOAD_CHECK='Both';
+	   NO_IO_CHECK='Both';
+	   NO_ASSERT_CHECK='TRUE';
+	   NO_DIR_CHECK='TRUE';
+	   ALLOW_CONNECT='TRUE';
+	 '18':
+	   PIN_NUMBER='(IP-@14)';
+	   PINUSE='UNSPEC';
+	   NO_LOAD_CHECK='Both';
+	   NO_IO_CHECK='Both';
+	   NO_ASSERT_CHECK='TRUE';
+	   NO_DIR_CHECK='TRUE';
+	   ALLOW_CONNECT='TRUE';
+	 '17':
+	   PIN_NUMBER='(IP-@13)';
+	   PINUSE='UNSPEC';
+	   NO_LOAD_CHECK='Both';
+	   NO_IO_CHECK='Both';
+	   NO_ASSERT_CHECK='TRUE';
+	   NO_DIR_CHECK='TRUE';
+	   ALLOW_CONNECT='TRUE';
+	 '16':
+	   PIN_NUMBER='(IP-@12)';
+	   PINUSE='UNSPEC';
+	   NO_LOAD_CHECK='Both';
+	   NO_IO_CHECK='Both';
+	   NO_ASSERT_CHECK='TRUE';
+	   NO_DIR_CHECK='TRUE';
+	   ALLOW_CONNECT='TRUE';
+	 '15':
+	   PIN_NUMBER='(IP-@11)';
+	   PINUSE='UNSPEC';
+	   NO_LOAD_CHECK='Both';
+	   NO_IO_CHECK='Both';
+	   NO_ASSERT_CHECK='TRUE';
+	   NO_DIR_CHECK='TRUE';
+	   ALLOW_CONNECT='TRUE';
+	 '14':
+	   PIN_NUMBER='(IP-@10)';
+	   PINUSE='UNSPEC';
+	   NO_LOAD_CHECK='Both';
+	   NO_IO_CHECK='Both';
+	   NO_ASSERT_CHECK='TRUE';
+	   NO_DIR_CHECK='TRUE';
+	   ALLOW_CONNECT='TRUE';
+	 '13':
+	   PIN_NUMBER='(IP-@9)';
+	   PINUSE='UNSPEC';
+	   NO_LOAD_CHECK='Both';
+	   NO_IO_CHECK='Both';
+	   NO_ASSERT_CHECK='TRUE';
+	   NO_DIR_CHECK='TRUE';
+	   ALLOW_CONNECT='TRUE';
+	 '12':
+	   PIN_NUMBER='(IP-@8)';
+	   PINUSE='UNSPEC';
+	   NO_LOAD_CHECK='Both';
+	   NO_IO_CHECK='Both';
+	   NO_ASSERT_CHECK='TRUE';
+	   NO_DIR_CHECK='TRUE';
+	   ALLOW_CONNECT='TRUE';
+	 '11':
+	   PIN_NUMBER='(IP-@7)';
+	   PINUSE='UNSPEC';
+	   NO_LOAD_CHECK='Both';
+	   NO_IO_CHECK='Both';
+	   NO_ASSERT_CHECK='TRUE';
+	   NO_DIR_CHECK='TRUE';
+	   ALLOW_CONNECT='TRUE';
+	 '10':
+	   PIN_NUMBER='(IP-@6)';
+	   PINUSE='UNSPEC';
+	   NO_LOAD_CHECK='Both';
+	   NO_IO_CHECK='Both';
+	   NO_ASSERT_CHECK='TRUE';
+	   NO_DIR_CHECK='TRUE';
+	   ALLOW_CONNECT='TRUE';
+  end_pin;
+  body
+	 PART_NAME='ACS758rev_5';
+	 VALUE='ACS772LCB-050B-PFF-T';
+	 BODY_NAME='ACS758REV_5_ACS758REV_ACS772LCB-050B-PFF-T';
+	 JEDEC_TYPE='ACS758REV';
+	 PHYS_DES_PREFIX='UX';
 	 CLASS='IC';
   end_body;
 end_primitive;
@@ -1839,44 +1935,6 @@ primitive 'FUSE_FUSE600_47';
 	 BODY_NAME='FUSE_FUSE600_47';
 	 JEDEC_TYPE='FUSE600';
 	 PHYS_DES_PREFIX='RF';
-	 CLASS='IC';
-  end_body;
-end_primitive;
-
-primitive 'OPA340_0_DBV5_OPA340NA/250';
-  pin
-	 'OUT':
-	   PIN_NUMBER='(1)';
-	   OUTPUT_LOAD='(1.0,-1.0)';
-	 '-VCC':
-	   PIN_NUMBER='(5)';
-	   PINUSE='POWER';
-	   NO_LOAD_CHECK='Both';
-	   NO_IO_CHECK='Both';
-	   NO_ASSERT_CHECK='TRUE';
-	   NO_DIR_CHECK='TRUE';
-	   ALLOW_CONNECT='TRUE';
-	 '-IN':
-	   PIN_NUMBER='(4)';
-	   INPUT_LOAD='(-0.01,0.01)';
-	 '+VCC':
-	   PIN_NUMBER='(2)';
-	   PINUSE='POWER';
-	   NO_LOAD_CHECK='Both';
-	   NO_IO_CHECK='Both';
-	   NO_ASSERT_CHECK='TRUE';
-	   NO_DIR_CHECK='TRUE';
-	   ALLOW_CONNECT='TRUE';
-	 '+IN':
-	   PIN_NUMBER='(3)';
-	   INPUT_LOAD='(-0.01,0.01)';
-  end_pin;
-  body
-	 PART_NAME='OPA340_0';
-	 VALUE='OPA340NA/250';
-	 BODY_NAME='OPA340_0_DBV5_OPA340NA/250';
-	 JEDEC_TYPE='DBV5';
-	 PHYS_DES_PREFIX='U';
 	 CLASS='IC';
   end_body;
 end_primitive;
@@ -2292,35 +2350,6 @@ primitive 'RESISTOR_RES0603_10K 0603 0.1%';
 	 PART_NAME='RESISTOR';
 	 VALUE='10K 0603 0.1%';
 	 BODY_NAME='RESISTOR_RES0603_10K 0603 0.1%';
-	 JEDEC_TYPE='RES0603';
-	 PHYS_DES_PREFIX='R';
-	 CLASS='IC';
-  end_body;
-end_primitive;
-
-primitive 'RESISTOR_RES0603_105E 0603 1%';
-  pin
-	 '2':
-	   PIN_NUMBER='(2)';
-	   PINUSE='UNSPEC';
-	   NO_LOAD_CHECK='Both';
-	   NO_IO_CHECK='Both';
-	   NO_ASSERT_CHECK='TRUE';
-	   NO_DIR_CHECK='TRUE';
-	   ALLOW_CONNECT='TRUE';
-	 '1':
-	   PIN_NUMBER='(1)';
-	   PINUSE='UNSPEC';
-	   NO_LOAD_CHECK='Both';
-	   NO_IO_CHECK='Both';
-	   NO_ASSERT_CHECK='TRUE';
-	   NO_DIR_CHECK='TRUE';
-	   ALLOW_CONNECT='TRUE';
-  end_pin;
-  body
-	 PART_NAME='RESISTOR';
-	 VALUE='105E 0603 1%';
-	 BODY_NAME='RESISTOR_RES0603_105E 0603 1%';
 	 JEDEC_TYPE='RES0603';
 	 PHYS_DES_PREFIX='R';
 	 CLASS='IC';

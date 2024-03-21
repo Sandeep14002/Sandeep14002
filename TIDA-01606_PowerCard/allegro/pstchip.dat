@@ -1,6 +1,6 @@
 FILE_TYPE=LIBRARY_PARTS;
-{ Using PSTWRITER 17.4.0 d001Mar-21-2024 at 20:02:45}
-primitive 'CAPACITOR NON-POL_BOXCAPACITOR1';
+{ Using PSTWRITER 17.4.0 d001Mar-21-2024 at 22:20:21}
+primitive 'CAPACITOR NON-POL_BOXCAPACITOR15MM_0.15UF 630V TH';
   pin
     '1':
       PIN_NUMBER='(1)';
@@ -15,7 +15,7 @@ primitive 'CAPACITOR NON-POL_BOXCAPACITOR1';
     VALUE='0.15uF 630V TH';
   end_body;
 end_primitive;
-primitive 'CAPACITOR NON-POL_BOXCAP_37_5MM';
+primitive 'CAPACITOR NON-POL_BOXCAP_37_5MM_10UF TH';
   pin
     '1':
       PIN_NUMBER='(1)';
@@ -30,7 +30,7 @@ primitive 'CAPACITOR NON-POL_BOXCAP_37_5MM';
     VALUE='10uF TH';
   end_body;
 end_primitive;
-primitive 'CAPACITOR NON-POL_BOXCAPACITO_1';
+primitive 'CAPACITOR NON-POL_BOXCAPACITOR10MM_0.068UF 630V TH';
   pin
     '1':
       PIN_NUMBER='(1)';
@@ -45,7 +45,7 @@ primitive 'CAPACITOR NON-POL_BOXCAPACITO_1';
     VALUE='0.068uF 630V TH';
   end_body;
 end_primitive;
-primitive 'CAPACITOR NON-POL_CAP400_2200PF';
+primitive 'CAPACITOR NON-POL_CAP400_2200PF 3KV 20%';
   pin
     '1':
       PIN_NUMBER='(1)';
@@ -60,7 +60,7 @@ primitive 'CAPACITOR NON-POL_CAP400_2200PF';
     VALUE='2200PF 3KV 20%';
   end_body;
 end_primitive;
-primitive 'CAPACITOR NON-POL_RES0603_100PF';
+primitive 'CAPACITOR NON-POL_RES0603_100PF 0603 50V';
   pin
     '1':
       PIN_NUMBER='(1)';
@@ -75,7 +75,7 @@ primitive 'CAPACITOR NON-POL_RES0603_100PF';
     VALUE='100pF 0603 50V';
   end_body;
 end_primitive;
-primitive 'CAPACITOR NON-POL_RES0603_0.1UF';
+primitive 'CAPACITOR NON-POL_RES0603_0.1UF 0603 25V';
   pin
     '1':
       PIN_NUMBER='(1)';
@@ -90,7 +90,7 @@ primitive 'CAPACITOR NON-POL_RES0603_0.1UF';
     VALUE='0.1uF 0603 25V';
   end_body;
 end_primitive;
-primitive 'CAPACITOR POL_0_CAP_B45_NCH_ELE';
+primitive 'CAPACITOR POL_0_CAP_B45_NCH_ELE 120UF 600V TH';
   pin
     '1':
       PIN_NUMBER='(1)';
@@ -105,7 +105,7 @@ primitive 'CAPACITOR POL_0_CAP_B45_NCH_ELE';
     VALUE='Ele 120uF 600V TH';
   end_body;
 end_primitive;
-primitive 'CAP NP_SNPD1206_MODIFIED_10U 12';
+primitive 'CAP NP_SNPD1206_MODIFIED_10U 1206 25V';
   pin
     '1':
       PIN_NUMBER='(1)';
@@ -135,7 +135,7 @@ primitive 'CAP NP_RES0603_0.1U 0603 25V';
     VALUE='0.1u 0603 25V';
   end_body;
 end_primitive;
-primitive 'CAPACITOR NON-POL_RES0603_1UF 0';
+primitive 'CAPACITOR NON-POL_RES0603_1UF 0603 25V';
   pin
     '1':
       PIN_NUMBER='(1)';
@@ -150,7 +150,7 @@ primitive 'CAPACITOR NON-POL_RES0603_1UF 0';
     VALUE='1uF 0603 25V';
   end_body;
 end_primitive;
-primitive 'CAP NP_SNPD0805_MODIFIED_0.1U 0';
+primitive 'CAP NP_SNPD0805_MODIFIED_0.1U 0805 50V';
   pin
     '1':
       PIN_NUMBER='(1)';
@@ -165,7 +165,7 @@ primitive 'CAP NP_SNPD0805_MODIFIED_0.1U 0';
     VALUE='0.1u 0805 50V';
   end_body;
 end_primitive;
-primitive 'CAP NP_SNPD0805_MODIFIED_1U 080';
+primitive 'CAP NP_SNPD0805_MODIFIED_1U 0805 50V';
   pin
     '1':
       PIN_NUMBER='(1)';
@@ -180,7 +180,7 @@ primitive 'CAP NP_SNPD0805_MODIFIED_1U 080';
     VALUE='1u 0805 50V';
   end_body;
 end_primitive;
-primitive 'CAP POL_CYLD200LS125031_47UF 25';
+primitive 'CAP POL_CYLD200LS125031_47UF 25V';
   pin
     '1':
       PIN_NUMBER='(1)';
@@ -195,7 +195,7 @@ primitive 'CAP POL_CYLD200LS125031_47UF 25';
     VALUE='47uF 25V';
   end_body;
 end_primitive;
-primitive 'CAP NP_SNPD0805_MODIFIED_100P 0';
+primitive 'CAP NP_SNPD0805_MODIFIED_100P 0805 25V';
   pin
     '1':
       PIN_NUMBER='(1)';
@@ -210,7 +210,7 @@ primitive 'CAP NP_SNPD0805_MODIFIED_100P 0';
     VALUE='100p 0805 25V';
   end_body;
 end_primitive;
-primitive 'C_SNPD0805_MODIFIED_0.33N 0805';
+primitive 'C_SNPD0805_MODIFIED_0.33N 0805 25V';
   pin
     '1':
       PIN_NUMBER='(1)';
@@ -225,7 +225,7 @@ primitive 'C_SNPD0805_MODIFIED_0.33N 0805';
     VALUE='0.33n 0805 25V';
   end_body;
 end_primitive;
-primitive 'C_SNPD0805_MODIFIED_0.1U 0805 5';
+primitive 'C_SNPD0805_MODIFIED_0.1U 0805 50V';
   pin
     '1':
       PIN_NUMBER='(1)';
@@ -240,7 +240,7 @@ primitive 'C_SNPD0805_MODIFIED_0.1U 0805 5';
     VALUE='0.1u 0805 50V';
   end_body;
 end_primitive;
-primitive 'DIODE ZENER_DO214_REV3_BZV55C15';
+primitive 'DIODE ZENER_DO214_REV3_BZV55C15-TP 15V';
   pin
     'ANODE':
       PIN_NUMBER='(2)';
@@ -255,7 +255,7 @@ primitive 'DIODE ZENER_DO214_REV3_BZV55C15';
     VALUE='BZV55C15-TP 15V';
   end_body;
 end_primitive;
-primitive 'LED_LED0603_LED GREEN 150060VS5';
+primitive 'LED_LED0603_LED GREEN 150060VS55040';
   pin
     'ANODE':
       PIN_NUMBER='(2)';
@@ -312,7 +312,7 @@ primitive 'CON2_SIP_2PIN_BERGSTRIP_CON2';
     VALUE='CON2';
   end_body;
 end_primitive;
-primitive 'HEADER 4_0_NPTC041KFXC-RC_4PIN_';
+primitive 'HEADER 4_0_NPTC041KFXC-RC_4PIN_NPTC041KFXC-RC';
   pin
     '1':
       PIN_NUMBER='(1)';
@@ -333,7 +333,7 @@ primitive 'HEADER 4_0_NPTC041KFXC-RC_4PIN_';
     VALUE='NPTC041KFXC-RC';
   end_body;
 end_primitive;
-primitive 'CON MC4_0_SOIC127P1150X280-8N_I';
+primitive 'CON MC4_0_SOIC127P1150X280-8N_ISO_OPAMP_AMC1302 SOIC8_DWV';
   pin
     '8':
       PIN_NUMBER='(8)';
@@ -366,7 +366,7 @@ primitive 'CON MC4_0_SOIC127P1150X280-8N_I';
     VALUE='Iso_Opamp_AMC1302 SOIC8_DWV';
   end_body;
 end_primitive;
-primitive 'HEADER 8X2_0_NPTC082KFMS-RC_NPT';
+primitive 'HEADER 8X2_0_NPTC082KFMS-RC_NPTC082KFMS-RC';
   pin
     '1':
       PIN_NUMBER='(1)';
@@ -423,7 +423,7 @@ primitive 'HEADER 8X2_0_NPTC082KFMS-RC_NPT';
     VALUE='NPTC082KFMS-RC';
   end_body;
 end_primitive;
-primitive 'CON2_SIP_2PIN_BERGSTRIP_6130021';
+primitive 'CON2_SIP_2PIN_BERGSTRIP_61300211121';
   pin
     '1':
       PIN_NUMBER='(1)';
@@ -438,7 +438,7 @@ primitive 'CON2_SIP_2PIN_BERGSTRIP_6130021';
     VALUE='61300211121';
   end_body;
 end_primitive;
-primitive 'HEADER 4_1_JUMPER4MODIFIED_PPTC';
+primitive 'HEADER 4_1_JUMPER4MODIFIED_PPTC041LFBN-RC';
   pin
     '1':
       PIN_NUMBER='(1)';
@@ -459,7 +459,7 @@ primitive 'HEADER 4_1_JUMPER4MODIFIED_PPTC';
     VALUE='PPTC041LFBN-RC';
   end_body;
 end_primitive;
-primitive 'CON2_3_RELAY_T9AS1D12-15_REV1_T';
+primitive 'CON2_3_RELAY_T9AS1D12-15_REV1_T9AS1D12-15';
   pin
     '1':
       PIN_NUMBER='(1)';
@@ -495,7 +495,7 @@ primitive 'INDUCTOR_CONN2_HIGHAMP_340UH';
     VALUE='340uH';
   end_body;
 end_primitive;
-primitive 'INDUCTOR_CONN2_HIGHAMP_???? 0.0';
+primitive 'INDUCTOR_CONN2_HIGHAMP_???? 0.006E 15A';
   pin
     '1':
       PIN_NUMBER='(1)';
@@ -540,7 +540,7 @@ primitive 'INDUCTOR_SMR0805_10E 0805';
     VALUE='10E 0805';
   end_body;
 end_primitive;
-primitive 'B0505S-1WR3_0_B0505S1WR_REV1_B0';
+primitive 'B0505S-1WR3_0_B0505S1WR_REV1_B0505S-1WR3';
   pin
     'GND':
       PIN_NUMBER='(1)';
@@ -561,7 +561,7 @@ primitive 'B0505S-1WR3_0_B0505S1WR_REV1_B0';
     VALUE='B0505S-1WR3';
   end_body;
 end_primitive;
-primitive 'IMZ120R030M1HXKSA1_TO254P1580X5';
+primitive 'IMZ120R030M1HXKSA1_TO254P1580X500X2522-4_IMZ120R030M1HXKSA1';
   pin
     'D':
       PIN_NUMBER='(1)';
@@ -582,7 +582,7 @@ primitive 'IMZ120R030M1HXKSA1_TO254P1580X5';
     VALUE='IMZ120R030M1HXKSA1';
   end_body;
 end_primitive;
-primitive 'CSD18534Q5A_TRANS_CSD18534Q5A_C';
+primitive 'CSD18534Q5A_TRANS_CSD18534Q5A_CSD18534Q5A';
   pin
     '1':
       PIN_NUMBER='(1)';
@@ -651,7 +651,7 @@ primitive 'RESISTOR_RES2010N_510K 2010 5%';
     VALUE='510K 2010 5%';
   end_body;
 end_primitive;
-primitive 'RESISTOR_SNPD0805_MODIFIED_1M 0';
+primitive 'RESISTOR_SNPD0805_MODIFIED_1M 0805 0.1%';
   pin
     '1':
       PIN_NUMBER='(1)';
@@ -666,7 +666,7 @@ primitive 'RESISTOR_SNPD0805_MODIFIED_1M 0';
     VALUE='1M 0805 0.1%';
   end_body;
 end_primitive;
-primitive 'RESISTOR_SNPD0805_MODIFIED_1K 0';
+primitive 'RESISTOR_SNPD0805_MODIFIED_1K 0805 0.1%';
   pin
     '1':
       PIN_NUMBER='(1)';
@@ -681,7 +681,7 @@ primitive 'RESISTOR_SNPD0805_MODIFIED_1K 0';
     VALUE='1K 0805 0.1%';
   end_body;
 end_primitive;
-primitive 'RESISTOR_SNPD0805_MODIFIED_11K';
+primitive 'RESISTOR_SNPD0805_MODIFIED_11K 0805 0.1%';
   pin
     '1':
       PIN_NUMBER='(1)';
@@ -756,7 +756,7 @@ primitive 'RESISTOR_RES0603_10E 0603 5%';
     VALUE='10E 0603 5%';
   end_body;
 end_primitive;
-primitive 'RESISTOR_RES_SQM7_TYCO_0.68E 5%';
+primitive 'RESISTOR_RES_SQM7_TYCO_0.68E 5% TH';
   pin
     '1':
       PIN_NUMBER='(1)';
@@ -771,7 +771,7 @@ primitive 'RESISTOR_RES_SQM7_TYCO_0.68E 5%';
     VALUE='0.68E 5% TH';
   end_body;
 end_primitive;
-primitive 'RESISTOR_SNPD1206_MODIFIED_10K';
+primitive 'RESISTOR_SNPD1206_MODIFIED_10K 1206 5%';
   pin
     '1':
       PIN_NUMBER='(1)';
@@ -786,7 +786,7 @@ primitive 'RESISTOR_SNPD1206_MODIFIED_10K';
     VALUE='10K 1206 5%';
   end_body;
 end_primitive;
-primitive 'RESISTOR_SNPD1206_MODIFIED_0E 1';
+primitive 'RESISTOR_SNPD1206_MODIFIED_0E 1206 1%';
   pin
     '1':
       PIN_NUMBER='(1)';
@@ -846,7 +846,7 @@ primitive 'RESISTOR_RES0603_820E 0603 1%';
     VALUE='820E 0603 1%';
   end_body;
 end_primitive;
-primitive 'R_SNPD0805_MODIFIED_100E 0805 1';
+primitive 'R_SNPD0805_MODIFIED_100E 0805 1%';
   pin
     '2':
       PIN_NUMBER='(2)';
@@ -861,7 +861,7 @@ primitive 'R_SNPD0805_MODIFIED_100E 0805 1';
     VALUE='100E 0805 1%';
   end_body;
 end_primitive;
-primitive 'RESISTOR_RES_PSR400IT_0.001E 10';
+primitive 'RESISTOR_RES_PSR400IT_0.001E 1052 1%';
   pin
     '1':
       PIN_NUMBER='(1)';
@@ -891,7 +891,7 @@ primitive 'R_SNPD0805_MODIFIED_0E 0805 1%';
     VALUE='0E 0805 1%';
   end_body;
 end_primitive;
-primitive 'RESISTOR_SNPD0805_MODIFIED_200E';
+primitive 'RESISTOR_SNPD0805_MODIFIED_200E 0805 1%';
   pin
     '1':
       PIN_NUMBER='(1)';
@@ -906,7 +906,7 @@ primitive 'RESISTOR_SNPD0805_MODIFIED_200E';
     VALUE='200E 0805 1%';
   end_body;
 end_primitive;
-primitive 'RESISTOR_SNPD0805_MODIFIED_11_1';
+primitive 'RESISTOR_SNPD0805_MODIFIED_11K 0805 1%';
   pin
     '1':
       PIN_NUMBER='(1)';
@@ -1005,7 +1005,7 @@ primitive 'SOCKET8_2_TO92100_LMT87LPM';
     VALUE='LMT87LPM';
   end_body;
 end_primitive;
-primitive 'DM3AT-SF-PEJM5_2_SOT223_4_?????';
+primitive 'DM3AT-SF-PEJM5_2_SOT223_4_?????TLV1117LV33DCYR';
   pin
     'GND':
       PIN_NUMBER='(1)';
@@ -1074,7 +1074,7 @@ primitive 'OPA4340_8_SOIC14_OPA4350UA';
     VALUE='OPA4350UA';
   end_body;
 end_primitive;
-primitive 'LM358_2_SOIC8_REV1_OPA2336 SOIC';
+primitive 'LM358_2_SOIC8_REV1_OPA2336 SOIC8';
   pin
     '+IN':
       PIN_NUMBER='(3,5)';
@@ -1098,7 +1098,7 @@ primitive 'LM358_2_SOIC8_REV1_OPA2336 SOIC';
     VALUE='OPA2336 SOIC8';
   end_body;
 end_primitive;
-primitive 'ACS758REV_5_ACS758REV_ACS772LCB';
+primitive 'ACS758REV_5_ACS758REV_ACS772LCB-050B-PFF-T';
   pin
     'VCC':
       PIN_NUMBER='(1)';

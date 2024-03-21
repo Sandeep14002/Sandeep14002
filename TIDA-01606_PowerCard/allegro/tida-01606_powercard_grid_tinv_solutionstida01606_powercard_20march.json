@@ -7,5 +7,42 @@
 	"Pin Property" : [],
 	"Component" : [],
 	"Net" : [],
-	"Connection" : []
+	"Connection" : [
+		{
+			"Name" : "J23.16",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins14690731@tida01606_powercard_0.\\header 8x2_0.normal\\(chips):\\16\\",
+			"Logical" : "5V",
+			"Physical" : "3.3V"
+		},
+		{
+			"Name" : "J24.16",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins14691107@tida01606_powercard_0.\\header 8x2_0.normal\\(chips):\\16\\",
+			"Logical" : "5V",
+			"Physical" : "3.3V"
+		},
+		{
+			"Name" : "J25.16",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins14692031@tida01606_powercard_0.\\header 8x2_0.normal\\(chips):\\16\\",
+			"Logical" : "5V",
+			"Physical" : "3.3V"
+		},
+		{
+			"Name" : "R11.2",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins14691991@discrete.\\resistor.normal\\(chips):\\2\\",
+			"Logical" : "5V",
+			"Physical" : "3.3V"
+		},
+		{
+			"Name" : "R32.2",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins14691059@discrete.\\resistor.normal\\(chips):\\2\\",
+			"Logical" : "5V",
+			"Physical" : "3.3V"
+		},
+		{
+			"Name" : "R8.2",
+			"C_PATH" : "@\\tida-01606_powercard_grid_tinv\\.schematic1(sch_1):ins14691443@discrete.\\resistor.normal\\(chips):\\2\\",
+			"Logical" : "5V",
+			"Physical" : "3.3V"
+		}
+	]
 }
