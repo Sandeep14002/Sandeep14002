@@ -130,3 +130,7 @@
 2024-03-20T17:00:20 ===> "c:/users/sande/onedrive/documents/github/sandeep14002/tida-01606_powercard/allegro/pstxnet.dat"
 2024-03-20T17:00:20 ===> "c:/users/sande/onedrive/documents/github/sandeep14002/tida-01606_powercard/allegro/pstxprt.dat"
 2024-03-20T17:00:20 ===> "c:/users/sande/onedrive/documents/github/sandeep14002/tida-01606_powercard/allegro/pstdmlmodels.dat"
+2024-03-20T19:50:06 ===> "c:/users/sande/onedrive/documents/github/grid-tinv_tida-01606/tida-01606_powercard/allegro/pstchip.dat"
+2024-03-20T19:50:06 ===> "c:/users/sande/onedrive/documents/github/grid-tinv_tida-01606/tida-01606_powercard/allegro/pstxnet.dat"
+2024-03-20T19:50:06 ===> "c:/users/sande/onedrive/documents/github/grid-tinv_tida-01606/tida-01606_powercard/allegro/pstxprt.dat"
+2024-03-20T19:50:06 ===> "c:/users/sande/onedrive/documents/github/grid-tinv_tida-01606/tida-01606_powercard/allegro/pstdmlmodels.dat"

@@ -2,18 +2,17 @@
 (                                                                     )
 (    Shape Island Report                                              )
 (                                                                     )
-(    Drawing          : solutionstida01606_powercard_6mar.brd         )
+(    Drawing          : solutionstida01606_powercard_20march.brd      )
 (    Software Version : 17.4P001                                      )
-(    Date/Time        : Wed Mar  6 12:58:27 2024                      )
+(    Date/Time        : Thu Mar 21 10:54:32 2024                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
 
-  Total islands on design: 2
+  Total islands on design: 1
 
 
   <<<  ETCH  >>>
 
     Layer = GND LAYER
-	Point on shape: (1188.302 -7543.694)  Net: PGND
-	Point on shape: (-3085.090 -6681.075)  Net: PGND
+	Point on shape: (-1196.272 3043.980)  Net: PGND
