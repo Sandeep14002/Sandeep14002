@@ -1,0 +1,29 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Unplaced Symbol Availability Check                               )
+(                                                                     )
+(    Drawing          : solutionstida01606_powercard_20march.brd      )
+(    Software Version : 17.4P001                                      )
+(    Date/Time        : Thu Mar 21 20:03:05 2024                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Current PSMPATH consists of:
+	.
+	symbols
+	..
+	../symbols
+	c:/cadence/spb_17.4/share/local/pcb/symbols
+	c:/cadence/spb_17.4/share/pcb/pcb_lib/symbols
+	c:/cadence/spb_17.4/share/pcb/allegrolib/symbols
+
+
+    Symbol not found for U20:  DBV5
+    Symbol not found for U21:  DBV5
+
+
+Total symbols cannot locate: 2
+Total symbols placed:      473 out of 475
+
+

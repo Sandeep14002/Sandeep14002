@@ -4,7 +4,7 @@
 (                                                                     )
 (    Drawing          : solutionstida01606_powercard_20march.brd      )
 (    Software Version : 17.4P001                                      )
-(    Date/Time        : Thu Mar 21 10:55:26 2024                      )
+(    Date/Time        : Thu Mar 21 10:55:53 2024                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
@@ -21,9 +21,6 @@
  ========= check standalone rectangles        0:00:00
 
  ..... Total number of DRC errors  0
-
-
-WARNING: 1 dynamic shape(s) out of date; checking skipped on these elements.
 
  ..... DRC update completed, total CPU time   0:00:00
  *************************************************************************

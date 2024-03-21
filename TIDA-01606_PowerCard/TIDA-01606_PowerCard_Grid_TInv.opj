@@ -1,6 +1,6 @@
 (ExpressProject "TIDA-01606_PowerCard_Grid_TInv"
   (ProjectVersion "19981106")
-  (SoftwareVersion "17.4-2019 P001 (3823098) [10/7/2019]-[03/20/24]")
+  (SoftwareVersion "17.4-2019 P001 (3823098) [10/7/2019]-[03/21/24]")
   (ProjectType "PCB")
   (Folder "Design Resources"
     (Folder "Library")
@@ -15,7 +15,7 @@
     ("Allegro Netlist Input Board File"
        "c:\github_orcad_projects\grid-tinv_tida-01606\tida-01606_powercard\board\solutionstida01606_powercard_rev17.brd")
     ("Allegro Netlist Output Board File"
-       ".\board\solutionstida01606_powercard_20mar.brd")
+       ".\board\solutionstida01606_powercard_20march.brd")
     (BOM_Scope "0")
     (BOM_Mode "1")
     (BOM_Report_File
@@ -130,6 +130,11 @@
       (Type "Board File")
       (OutputBoard ".\board\solutionstida01606_powercard_20mar.brd")
       (NetListPath ".\allegro")
+      (ActiveBoard "0"))
+    (File ".\board\solutionstida01606_powercard_20march.brd"
+      (Type "Board File")
+      (OutputBoard ".\board\solutionstida01606_powercard_20march.brd")
+      (NetListPath ".\allegro")
       (ActiveBoard "1")))
   (Folder "Outputs"
     (File ".\allegro\pstxnet.dat"
@@ -156,19 +161,19 @@
     (File ".\allegro\netlist.log"
       (Type "Log File")
       (LogFile
-         "c:\users\pc\documents\github\sandeep14002\tida-01606_powercard\allegro\netlist.log"))
+         "C:\GitHub_Orcad_Projects\Grid-TInv_TIDA-01606\TIDA-01606_PowerCard\allegro\netlist.log"))
     (File ".\allegro\netrev.lst"
       (Type "Log File")
       (LogFile
-         "c:\users\pc\documents\github\sandeep14002\tida-01606_powercard\allegro\netrev.lst"))
+         "C:\GitHub_Orcad_Projects\Grid-TInv_TIDA-01606\TIDA-01606_PowerCard\allegro\netrev.lst"))
     (File ".\allegro\eco.txt"
       (Type "Log File")
       (LogFile
-         "c:\users\pc\documents\github\sandeep14002\tida-01606_powercard\allegro\eco.txt"))
+         "C:\GitHub_Orcad_Projects\Grid-TInv_TIDA-01606\TIDA-01606_PowerCard\allegro\eco.txt"))
     (File ".\allegro\genfeed.log"
       (Type "Log File")
       (LogFile
-         "c:\users\pc\documents\github\sandeep14002\tida-01606_powercard\allegro\genfeed.log")))
+         "C:\GitHub_Orcad_Projects\Grid-TInv_TIDA-01606\TIDA-01606_PowerCard\allegro\genfeed.log")))
   (PartMRUSelector)
   (GlobalState
     (FileView
@@ -180,28 +185,17 @@
       (Path "Outputs")
       (Path "Logs")
       (Select "Design Resources" ".\tida-01606_powercard_grid_tinv.dsn"
-         "SCHEMATIC1" "acs772CurrentSensor"))
+         "SCHEMATIC1" "VoltageSensing"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 0 200 0 744"))
+        (Placement "44 0 1 -1 -1 -1 -1 0 335 0 744"))
       (Tab 0))
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 5 1461 24 762")
-        (Scroll "0 0")
-        (Zoom "100")
-        (Occurrence "/"))
-      (Path
-         "C:\USERS\SANDE\ONEDRIVE\DOCUMENTS\GITHUB\GRID-TINV_TIDA-01606\TIDA-01606_POWERCARD\TIDA-01606_POWERCARD_GRID_TINV.DSN")
-      (Schematic "SCHEMATIC1")
-      (Page "PowerBoard"))
-    (Doc
-      (Type "COrSchematicDoc")
-      (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 5 1461 24 762")
+        (Placement "44 0 1 -1 -1 -1 -1 5 1326 24 762")
         (Scroll "0 0")
         (Zoom "100")
         (Occurrence "/"))
@@ -212,12 +206,23 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 5 1461 24 762")
-        (Scroll "-227 0")
+        (Placement "44 0 1 -1 -1 -1 -1 5 1326 24 762")
+        (Scroll "0 0")
         (Zoom "100")
         (Occurrence "/"))
       (Path
          "C:\USERS\SANDE\ONEDRIVE\DOCUMENTS\GITHUB\GRID-TINV_TIDA-01606\TIDA-01606_POWERCARD\TIDA-01606_POWERCARD_GRID_TINV.DSN")
       (Schematic "SCHEMATIC1")
-      (Page "acs772CurrentSensor")))
+      (Page "uCheaders_smps"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 5 1326 24 762")
+        (Scroll "0 360")
+        (Zoom "92")
+        (Occurrence "/"))
+      (Path
+         "C:\USERS\SANDE\ONEDRIVE\DOCUMENTS\GITHUB\GRID-TINV_TIDA-01606\TIDA-01606_POWERCARD\TIDA-01606_POWERCARD_GRID_TINV.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "VoltageSensing")))
   (MPSSessionName "sande"))

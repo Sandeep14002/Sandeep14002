@@ -1,5 +1,5 @@
 FILE_TYPE=LIBRARY_PARTS;
-{ Using PSTWRITER 17.4.0 d001Mar-20-2024 at 19:50:05}
+{ Using PSTWRITER 17.4.0 d001Mar-21-2024 at 20:02:45}
 primitive 'CAPACITOR NON-POL_BOXCAPACITOR1';
   pin
     '1':
@@ -495,7 +495,7 @@ primitive 'INDUCTOR_CONN2_HIGHAMP_340UH';
     VALUE='340uH';
   end_body;
 end_primitive;
-primitive 'INDUCTOR_CONN2_HIGHAMP_0.006E 1';
+primitive 'INDUCTOR_CONN2_HIGHAMP_???? 0.0';
   pin
     '1':
       PIN_NUMBER='(1)';
@@ -507,7 +507,7 @@ primitive 'INDUCTOR_CONN2_HIGHAMP_0.006E 1';
   body
     PART_NAME='INDUCTOR';
     JEDEC_TYPE='conn2_highamp';
-    VALUE='0.006E 15A';
+    VALUE='???? 0.006E 15A';
   end_body;
 end_primitive;
 primitive 'VARISTOR_0_RES0603_74279228260';
@@ -846,7 +846,7 @@ primitive 'RESISTOR_RES0603_820E 0603 1%';
     VALUE='820E 0603 1%';
   end_body;
 end_primitive;
-primitive 'R_SNPD0805_MODIFIED_2.2K 0805 1';
+primitive 'R_SNPD0805_MODIFIED_100E 0805 1';
   pin
     '2':
       PIN_NUMBER='(2)';
@@ -858,7 +858,7 @@ primitive 'R_SNPD0805_MODIFIED_2.2K 0805 1';
   body
     PART_NAME='R';
     JEDEC_TYPE='snpd0805_modified';
-    VALUE='2.2K 0805 1%';
+    VALUE='100E 0805 1%';
   end_body;
 end_primitive;
 primitive 'RESISTOR_RES_PSR400IT_0.001E 10';
@@ -874,6 +874,21 @@ primitive 'RESISTOR_RES_PSR400IT_0.001E 10';
     PART_NAME='RESISTOR';
     JEDEC_TYPE='RES_PSR400IT';
     VALUE='0.001E 1052 1%';
+  end_body;
+end_primitive;
+primitive 'R_SNPD0805_MODIFIED_0E 0805 1%';
+  pin
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='R';
+    JEDEC_TYPE='snpd0805_modified';
+    VALUE='0E 0805 1%';
   end_body;
 end_primitive;
 primitive 'RESISTOR_SNPD0805_MODIFIED_200E';
@@ -906,7 +921,7 @@ primitive 'RESISTOR_SNPD0805_MODIFIED_11_1';
     VALUE='11K 0805 1%';
   end_body;
 end_primitive;
-primitive 'RESISTOR_RES0603_105E 0603 1%';
+primitive 'RESISTOR_RES0603_100E 0603 1%';
   pin
     '1':
       PIN_NUMBER='(1)';
@@ -918,7 +933,7 @@ primitive 'RESISTOR_RES0603_105E 0603 1%';
   body
     PART_NAME='RESISTOR';
     JEDEC_TYPE='Res0603';
-    VALUE='105E 0603 1%';
+    VALUE='100E 0603 1%';
   end_body;
 end_primitive;
 primitive 'FUSE_FUSE600_47';
@@ -990,7 +1005,7 @@ primitive 'SOCKET8_2_TO92100_LMT87LPM';
     VALUE='LMT87LPM';
   end_body;
 end_primitive;
-primitive 'DM3AT-SF-PEJM5_2_SOT223_4_TLV11';
+primitive 'DM3AT-SF-PEJM5_2_SOT223_4_?????';
   pin
     'GND':
       PIN_NUMBER='(1)';
@@ -1008,7 +1023,7 @@ primitive 'DM3AT-SF-PEJM5_2_SOT223_4_TLV11';
   body
     PART_NAME='DM3AT-SF-PEJM5_2';
     JEDEC_TYPE='SOT223_4';
-    VALUE='TLV1117LV33DCYR';
+    VALUE='?????TLV1117LV33DCYR';
   end_body;
 end_primitive;
 primitive 'SOCKET8_9_DCK5_LMT87QDCKRQ1';
@@ -1057,6 +1072,30 @@ primitive 'OPA4340_8_SOIC14_OPA4350UA';
     PART_NAME='OPA4340_8';
     JEDEC_TYPE='soic14';
     VALUE='OPA4350UA';
+  end_body;
+end_primitive;
+primitive 'LM358_2_SOIC8_REV1_OPA2336 SOIC';
+  pin
+    '+IN':
+      PIN_NUMBER='(3,5)';
+      INPUT_LOAD='(*)';
+    '-IN':
+      PIN_NUMBER='(2,6)';
+      INPUT_LOAD='(*)';
+    'OUT':
+      PIN_NUMBER='(1,7)';
+      OUTPUT_LOAD='(*)';
+    'VCC':
+      PIN_NUMBER='(8,8)';
+      PINUSE='UNSPEC';
+    'GND':
+      PIN_NUMBER='(4,4)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='LM358_2';
+    JEDEC_TYPE='soic8_rev1';
+    VALUE='OPA2336 SOIC8';
   end_body;
 end_primitive;
 primitive 'ACS758REV_5_ACS758REV_ACS772LCB';
@@ -1177,30 +1216,6 @@ primitive 'ACS758REV_5_ACS758REV_ACS772LCB';
     PART_NAME='ACS758rev_5';
     JEDEC_TYPE='ACS758rev';
     VALUE='ACS772LCB-050B-PFF-T';
-  end_body;
-end_primitive;
-primitive 'OPA340_0_DBV5_OPA340NA/250';
-  pin
-    '-VCC':
-      PIN_NUMBER='(5)';
-      PINUSE='POWER';
-    'OUT':
-      PIN_NUMBER='(1)';
-      OUTPUT_LOAD='(*)';
-    '+IN':
-      PIN_NUMBER='(3)';
-      INPUT_LOAD='(*)';
-    '-IN':
-      PIN_NUMBER='(4)';
-      INPUT_LOAD='(*)';
-    '+VCC':
-      PIN_NUMBER='(2)';
-      PINUSE='POWER';
-  end_pin;
-  body
-    PART_NAME='OPA340_0';
-    JEDEC_TYPE='DBV5';
-    VALUE='OPA340NA/250';
   end_body;
 end_primitive;
 END.
