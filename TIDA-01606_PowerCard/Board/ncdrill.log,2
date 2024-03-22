@@ -1,0 +1,78 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    NC DRILL Log                                                     )
+(                                                                     )
+(    Drawing          : solutionstida01606_powercard_20march.brd      )
+(    Software Version : 17.4S031                                      )
+(    Date/Time        : Fri Mar 22 14:47:00 2024                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+
+ Processing NC Parameters file 'nc_param.txt' ...
+
+ NC PARAMETERS
+ -------------
+
+ FORMAT   		2.5
+ MACHINE-OFFSET		x:0.00000	y:0.00000   (inch)
+ FEEDRATE		1
+ COORDINATES		ABSOLUTE
+ OUTPUT-UNITS		ENGLISH
+ TOOL-ORDER		INCREASING
+ REPEAT-CODES		YES
+ SUPPRESS-LEAD-ZEROES	NO
+ SUPPRESS-TRAIL-ZEROES	NO
+ SUPPRESS-EQUAL		NO
+ TOOL-SELECT		NO
+ HEADER			none
+ LEADER			12
+ CODE			ASCII
+ SEPARATE		NO
+ SEPARATE-ROUTING	NO
+ OPTIMIZE_DRILLING	NO
+ ENHANCED_EXCELLON	YES
+ SCALE			1.000000
+
+ WARNING(SPMHMF-360): Design precision is greater than that of the drill output file data.
+ WARNING(SPMHMF-361): Data rounding errors are very possible.
+ WARNING(SPMHMF-365): This design contains 114 slot holes that cannot be drilled.
+ WARNING(SPMHMF-366): They can be processed by NC routing instead.
+
+
+ Drill files being output to directory 'c:/users/pc/documents/github/sandeep14002/tida-01606_powercard/board/Gerber' ...
+
+
+
+     'solutionstida01606_powercard_20march-1-4.drl' created for holes connecting TOP and BOTTOM
+     ------------------------------------------------------------------------------------------
+
+           Num     Size      +/- Tolerance     Plating   Quantity
+
+            1.  13.0000    0.0000/  0.0000      PLATED        173
+            2.  19.6850    0.0000/  0.0000      PLATED         96
+            3.  20.0000    0.0000/  0.0000      PLATED        128
+            4.  31.0000    0.0000/  0.0000      PLATED         15
+            5.  31.4960    0.0000/  0.0000      PLATED          9
+            6.  36.0000    0.0000/  0.0000      PLATED          6
+            7.  40.0000    0.0000/  0.0000      PLATED         60
+            8.  42.0000    0.0000/  0.0000      PLATED          8
+            9.  43.3070    0.0000/  0.0000      PLATED         12
+           10.  46.0630    0.0000/  0.0000      PLATED          8
+           11.  50.0000    0.0000/  0.0000      PLATED          6
+           12.  51.1810    0.0000/  0.0000      PLATED         36
+           13.  58.0000    0.0000/  0.0000      PLATED         24
+           14.  64.1730    0.0000/  0.0000      PLATED         12
+           15.  80.0000    0.0000/  0.0000      PLATED         24
+           16.  81.1020    0.0000/  0.0000      PLATED          4
+           17.  83.0000    0.0000/  0.0000      PLATED         16
+           18.  86.2200    0.0000/  0.0000      PLATED          4
+           19. 105.0000    0.0000/  0.0000      PLATED         12
+           20. 180.0000    0.0000/  0.0000      PLATED          6
+           21. 210.0000    0.0000/  0.0000  NON_PLATED          8
+
+     ---- Total holes:                                        667
+
+     ---- Total head travel:              96.13 feet (29.30 meters)
+

@@ -1,0 +1,584 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    DBDOCTOR                                                         )
+(                                                                     )
+(    Drawing          : solutionstida01606_powercard_20march.brd      )
+(    Software Version : 17.4S031                                      )
+(    Date/Time        : Fri Mar 22 14:47:27 2024                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+
+WARNING: in SYMBOL PIN   refdes = J25
+  pin# 8
+  symbol origin = (3672.910 4044.996)
+  WARNING(SPMHA1-97): Illegal drill plating.
+Non-Plated hole has connected objects, consider changing to PLATED. Pad stack - RX39Y78P5D0T-1 is NON_PLATED.
+
+
+WARNING: in SYMBOL PIN   refdes = J25
+  pin# 6
+  symbol origin = (3672.910 4044.996)
+  WARNING(SPMHA1-97): Illegal drill plating.
+Non-Plated hole has connected objects, consider changing to PLATED. Pad stack - RX39Y78P5D0T-1 is NON_PLATED.
+
+
+WARNING: in SYMBOL PIN   refdes = J25
+  pin# 5
+  symbol origin = (3672.910 4044.996)
+  WARNING(SPMHA1-97): Illegal drill plating.
+Non-Plated hole has connected objects, consider changing to PLATED. Pad stack - RX39Y78P5D0T-1 is NON_PLATED.
+
+
+WARNING: in SYMBOL PIN   refdes = J25
+  pin# 4
+  symbol origin = (3672.910 4044.996)
+  WARNING(SPMHA1-97): Illegal drill plating.
+Non-Plated hole has connected objects, consider changing to PLATED. Pad stack - RX39Y78P5D0T-1 is NON_PLATED.
+
+
+WARNING: in SYMBOL PIN   refdes = J25
+  pin# 3
+  symbol origin = (3672.910 4044.996)
+  WARNING(SPMHA1-97): Illegal drill plating.
+Non-Plated hole has connected objects, consider changing to PLATED. Pad stack - RX39Y78P5D0T-1 is NON_PLATED.
+
+
+WARNING: in SYMBOL PIN   refdes = J25
+  pin# 2
+  symbol origin = (3672.910 4044.996)
+  WARNING(SPMHA1-97): Illegal drill plating.
+Non-Plated hole has connected objects, consider changing to PLATED. Pad stack - RX39Y78P5D0T-1 is NON_PLATED.
+
+
+WARNING: in SYMBOL PIN   refdes = J25
+  pin# 16
+  symbol origin = (3672.910 4044.996)
+  WARNING(SPMHA1-97): Illegal drill plating.
+Non-Plated hole has connected objects, consider changing to PLATED. Pad stack - RX39Y78P5D0T-1 is NON_PLATED.
+
+
+WARNING: in SYMBOL PIN   refdes = J25
+  pin# 15
+  symbol origin = (3672.910 4044.996)
+  WARNING(SPMHA1-97): Illegal drill plating.
+Non-Plated hole has connected objects, consider changing to PLATED. Pad stack - RX39Y78P5D0T-1 is NON_PLATED.
+
+
+WARNING: in SYMBOL PIN   refdes = J25
+  pin# 14
+  symbol origin = (3672.910 4044.996)
+  WARNING(SPMHA1-97): Illegal drill plating.
+Non-Plated hole has connected objects, consider changing to PLATED. Pad stack - RX39Y78P5D0T-1 is NON_PLATED.
+
+
+WARNING: in SYMBOL PIN   refdes = J25
+  pin# 13
+  symbol origin = (3672.910 4044.996)
+  WARNING(SPMHA1-97): Illegal drill plating.
+Non-Plated hole has connected objects, consider changing to PLATED. Pad stack - RX39Y78P5D0T-1 is NON_PLATED.
+
+
+WARNING: in SYMBOL PIN   refdes = J25
+  pin# 12
+  symbol origin = (3672.910 4044.996)
+  WARNING(SPMHA1-97): Illegal drill plating.
+Non-Plated hole has connected objects, consider changing to PLATED. Pad stack - RX39Y78P5D0T-1 is NON_PLATED.
+
+
+WARNING: in SYMBOL PIN   refdes = J25
+  pin# 11
+  symbol origin = (3672.910 4044.996)
+  WARNING(SPMHA1-97): Illegal drill plating.
+Non-Plated hole has connected objects, consider changing to PLATED. Pad stack - RX39Y78P5D0T-1 is NON_PLATED.
+
+
+WARNING: in SYMBOL PIN   refdes = J25
+  pin# 10
+  symbol origin = (3672.910 4044.996)
+  WARNING(SPMHA1-97): Illegal drill plating.
+Non-Plated hole has connected objects, consider changing to PLATED. Pad stack - RX39Y78P5D0T-1 is NON_PLATED.
+
+
+WARNING: in SYMBOL PIN   refdes = J25
+  pin# 1
+  symbol origin = (3672.910 4044.996)
+  WARNING(SPMHA1-97): Illegal drill plating.
+Non-Plated hole has connected objects, consider changing to PLATED. Pad stack - RX39Y78P5D0T-1 is NON_PLATED.
+
+
+WARNING: in SYMBOL PIN   refdes = J24
+  pin# 8
+  symbol origin = (3672.910 1987.996)
+  WARNING(SPMHA1-97): Illegal drill plating.
+Non-Plated hole has connected objects, consider changing to PLATED. Pad stack - RX39Y78P5D0T-1 is NON_PLATED.
+
+
+WARNING: in SYMBOL PIN   refdes = J24
+  pin# 6
+  symbol origin = (3672.910 1987.996)
+  WARNING(SPMHA1-97): Illegal drill plating.
+Non-Plated hole has connected objects, consider changing to PLATED. Pad stack - RX39Y78P5D0T-1 is NON_PLATED.
+
+
+WARNING: in SYMBOL PIN   refdes = J24
+  pin# 5
+  symbol origin = (3672.910 1987.996)
+  WARNING(SPMHA1-97): Illegal drill plating.
+Non-Plated hole has connected objects, consider changing to PLATED. Pad stack - RX39Y78P5D0T-1 is NON_PLATED.
+
+
+WARNING: in SYMBOL PIN   refdes = J24
+  pin# 4
+  symbol origin = (3672.910 1987.996)
+  WARNING(SPMHA1-97): Illegal drill plating.
+Non-Plated hole has connected objects, consider changing to PLATED. Pad stack - RX39Y78P5D0T-1 is NON_PLATED.
+
+
+WARNING: in SYMBOL PIN   refdes = J24
+  pin# 3
+  symbol origin = (3672.910 1987.996)
+  WARNING(SPMHA1-97): Illegal drill plating.
+Non-Plated hole has connected objects, consider changing to PLATED. Pad stack - RX39Y78P5D0T-1 is NON_PLATED.
+
+
+WARNING: in SYMBOL PIN   refdes = J24
+  pin# 2
+  symbol origin = (3672.910 1987.996)
+  WARNING(SPMHA1-97): Illegal drill plating.
+Non-Plated hole has connected objects, consider changing to PLATED. Pad stack - RX39Y78P5D0T-1 is NON_PLATED.
+
+
+WARNING: in SYMBOL PIN   refdes = J24
+  pin# 16
+  symbol origin = (3672.910 1987.996)
+  WARNING(SPMHA1-97): Illegal drill plating.
+Non-Plated hole has connected objects, consider changing to PLATED. Pad stack - RX39Y78P5D0T-1 is NON_PLATED.
+
+
+WARNING: in SYMBOL PIN   refdes = J24
+  pin# 14
+  symbol origin = (3672.910 1987.996)
+  WARNING(SPMHA1-97): Illegal drill plating.
+Non-Plated hole has connected objects, consider changing to PLATED. Pad stack - RX39Y78P5D0T-1 is NON_PLATED.
+
+
+WARNING: in SYMBOL PIN   refdes = J24
+  pin# 13
+  symbol origin = (3672.910 1987.996)
+  WARNING(SPMHA1-97): Illegal drill plating.
+Non-Plated hole has connected objects, consider changing to PLATED. Pad stack - RX39Y78P5D0T-1 is NON_PLATED.
+
+
+WARNING: in SYMBOL PIN   refdes = J24
+  pin# 12
+  symbol origin = (3672.910 1987.996)
+  WARNING(SPMHA1-97): Illegal drill plating.
+Non-Plated hole has connected objects, consider changing to PLATED. Pad stack - RX39Y78P5D0T-1 is NON_PLATED.
+
+
+WARNING: in SYMBOL PIN   refdes = J24
+  pin# 11
+  symbol origin = (3672.910 1987.996)
+  WARNING(SPMHA1-97): Illegal drill plating.
+Non-Plated hole has connected objects, consider changing to PLATED. Pad stack - RX39Y78P5D0T-1 is NON_PLATED.
+
+
+WARNING: in SYMBOL PIN   refdes = J24
+  pin# 10
+  symbol origin = (3672.910 1987.996)
+  WARNING(SPMHA1-97): Illegal drill plating.
+Non-Plated hole has connected objects, consider changing to PLATED. Pad stack - RX39Y78P5D0T-1 is NON_PLATED.
+
+
+WARNING: in SYMBOL PIN   refdes = J24
+  pin# 1
+  symbol origin = (3672.910 1987.996)
+  WARNING(SPMHA1-97): Illegal drill plating.
+Non-Plated hole has connected objects, consider changing to PLATED. Pad stack - RX39Y78P5D0T-1 is NON_PLATED.
+
+
+WARNING: in SYMBOL PIN   refdes = J9
+  pin# 4
+  symbol origin = (49.910 2002.996)
+  WARNING(SPMHA1-97): Illegal drill plating.
+Non-Plated hole has connected objects, consider changing to PLATED. Pad stack - RX39Y78P5D0T-1 is NON_PLATED.
+
+
+WARNING: in SYMBOL PIN   refdes = J9
+  pin# 2
+  symbol origin = (49.910 2002.996)
+  WARNING(SPMHA1-97): Illegal drill plating.
+Non-Plated hole has connected objects, consider changing to PLATED. Pad stack - RX39Y78P5D0T-1 is NON_PLATED.
+
+
+WARNING: in SYMBOL PIN   refdes = J9
+  pin# 1
+  symbol origin = (49.910 2002.996)
+  WARNING(SPMHA1-97): Illegal drill plating.
+Non-Plated hole has connected objects, consider changing to PLATED. Pad stack - RX39Y78P5D0T-1 is NON_PLATED.
+
+
+WARNING: in SYMBOL PIN   refdes = J7
+  pin# 2
+  symbol origin = (2940.910 -53.004)
+  WARNING(SPMHA1-97): Illegal drill plating.
+Non-Plated hole has connected objects, consider changing to PLATED. Pad stack - RX39Y78P5D0T-1 is NON_PLATED.
+
+
+WARNING: in SYMBOL PIN   refdes = J7
+  pin# 1
+  symbol origin = (2940.910 -53.004)
+  WARNING(SPMHA1-97): Illegal drill plating.
+Non-Plated hole has connected objects, consider changing to PLATED. Pad stack - RX39Y78P5D0T-1 is NON_PLATED.
+
+
+WARNING: in SYMBOL PIN   refdes = J22
+  pin# 2
+  symbol origin = (2940.910 4058.996)
+  WARNING(SPMHA1-97): Illegal drill plating.
+Non-Plated hole has connected objects, consider changing to PLATED. Pad stack - RX39Y78P5D0T-1 is NON_PLATED.
+
+
+WARNING: in SYMBOL PIN   refdes = J22
+  pin# 1
+  symbol origin = (2940.910 4058.996)
+  WARNING(SPMHA1-97): Illegal drill plating.
+Non-Plated hole has connected objects, consider changing to PLATED. Pad stack - RX39Y78P5D0T-1 is NON_PLATED.
+
+
+WARNING: in SYMBOL PIN   refdes = J21
+  pin# 2
+  symbol origin = (2940.910 2002.996)
+  WARNING(SPMHA1-97): Illegal drill plating.
+Non-Plated hole has connected objects, consider changing to PLATED. Pad stack - RX39Y78P5D0T-1 is NON_PLATED.
+
+
+WARNING: in SYMBOL PIN   refdes = J21
+  pin# 1
+  symbol origin = (2940.910 2002.996)
+  WARNING(SPMHA1-97): Illegal drill plating.
+Non-Plated hole has connected objects, consider changing to PLATED. Pad stack - RX39Y78P5D0T-1 is NON_PLATED.
+
+
+WARNING: in SYMBOL PIN   refdes = J20
+  pin# 4
+  symbol origin = (49.910 -53.004)
+  WARNING(SPMHA1-97): Illegal drill plating.
+Non-Plated hole has connected objects, consider changing to PLATED. Pad stack - RX39Y78P5D0T-1 is NON_PLATED.
+
+
+WARNING: in SYMBOL PIN   refdes = J20
+  pin# 2
+  symbol origin = (49.910 -53.004)
+  WARNING(SPMHA1-97): Illegal drill plating.
+Non-Plated hole has connected objects, consider changing to PLATED. Pad stack - RX39Y78P5D0T-1 is NON_PLATED.
+
+
+WARNING: in SYMBOL PIN   refdes = J20
+  pin# 1
+  symbol origin = (49.910 -53.004)
+  WARNING(SPMHA1-97): Illegal drill plating.
+Non-Plated hole has connected objects, consider changing to PLATED. Pad stack - RX39Y78P5D0T-1 is NON_PLATED.
+
+
+WARNING: in SYMBOL PIN   refdes = J19
+  pin# 2
+  symbol origin = (1976.910 4058.996)
+  WARNING(SPMHA1-97): Illegal drill plating.
+Non-Plated hole has connected objects, consider changing to PLATED. Pad stack - RX39Y78P5D0T-1 is NON_PLATED.
+
+
+WARNING: in SYMBOL PIN   refdes = J19
+  pin# 1
+  symbol origin = (1976.910 4058.996)
+  WARNING(SPMHA1-97): Illegal drill plating.
+Non-Plated hole has connected objects, consider changing to PLATED. Pad stack - RX39Y78P5D0T-1 is NON_PLATED.
+
+
+WARNING: in SYMBOL PIN   refdes = J18
+  pin# 2
+  symbol origin = (1976.910 2002.996)
+  WARNING(SPMHA1-97): Illegal drill plating.
+Non-Plated hole has connected objects, consider changing to PLATED. Pad stack - RX39Y78P5D0T-1 is NON_PLATED.
+
+
+WARNING: in SYMBOL PIN   refdes = J18
+  pin# 1
+  symbol origin = (1976.910 2002.996)
+  WARNING(SPMHA1-97): Illegal drill plating.
+Non-Plated hole has connected objects, consider changing to PLATED. Pad stack - RX39Y78P5D0T-1 is NON_PLATED.
+
+
+WARNING: in SYMBOL PIN   refdes = J17
+  pin# 4
+  symbol origin = (1013.910 -53.004)
+  WARNING(SPMHA1-97): Illegal drill plating.
+Non-Plated hole has connected objects, consider changing to PLATED. Pad stack - RX39Y78P5D0T-1 is NON_PLATED.
+
+
+WARNING: in SYMBOL PIN   refdes = J17
+  pin# 2
+  symbol origin = (1013.910 -53.004)
+  WARNING(SPMHA1-97): Illegal drill plating.
+Non-Plated hole has connected objects, consider changing to PLATED. Pad stack - RX39Y78P5D0T-1 is NON_PLATED.
+
+
+WARNING: in SYMBOL PIN   refdes = J17
+  pin# 1
+  symbol origin = (1013.910 -53.004)
+  WARNING(SPMHA1-97): Illegal drill plating.
+Non-Plated hole has connected objects, consider changing to PLATED. Pad stack - RX39Y78P5D0T-1 is NON_PLATED.
+
+
+WARNING: in SYMBOL PIN   refdes = J16
+  pin# 4
+  symbol origin = (1013.910 4058.996)
+  WARNING(SPMHA1-97): Illegal drill plating.
+Non-Plated hole has connected objects, consider changing to PLATED. Pad stack - RX39Y78P5D0T-1 is NON_PLATED.
+
+
+WARNING: in SYMBOL PIN   refdes = J16
+  pin# 2
+  symbol origin = (1013.910 4058.996)
+  WARNING(SPMHA1-97): Illegal drill plating.
+Non-Plated hole has connected objects, consider changing to PLATED. Pad stack - RX39Y78P5D0T-1 is NON_PLATED.
+
+
+WARNING: in SYMBOL PIN   refdes = J16
+  pin# 1
+  symbol origin = (1013.910 4058.996)
+  WARNING(SPMHA1-97): Illegal drill plating.
+Non-Plated hole has connected objects, consider changing to PLATED. Pad stack - RX39Y78P5D0T-1 is NON_PLATED.
+
+
+WARNING: in SYMBOL PIN   refdes = J15
+  pin# 4
+  symbol origin = (1013.910 2002.996)
+  WARNING(SPMHA1-97): Illegal drill plating.
+Non-Plated hole has connected objects, consider changing to PLATED. Pad stack - RX39Y78P5D0T-1 is NON_PLATED.
+
+
+WARNING: in SYMBOL PIN   refdes = J15
+  pin# 2
+  symbol origin = (1013.910 2002.996)
+  WARNING(SPMHA1-97): Illegal drill plating.
+Non-Plated hole has connected objects, consider changing to PLATED. Pad stack - RX39Y78P5D0T-1 is NON_PLATED.
+
+
+WARNING: in SYMBOL PIN   refdes = J15
+  pin# 1
+  symbol origin = (1013.910 2002.996)
+  WARNING(SPMHA1-97): Illegal drill plating.
+Non-Plated hole has connected objects, consider changing to PLATED. Pad stack - RX39Y78P5D0T-1 is NON_PLATED.
+
+
+WARNING: in SYMBOL PIN   refdes = J14
+  pin# 2
+  symbol origin = (1976.910 -53.004)
+  WARNING(SPMHA1-97): Illegal drill plating.
+Non-Plated hole has connected objects, consider changing to PLATED. Pad stack - RX39Y78P5D0T-1 is NON_PLATED.
+
+
+WARNING: in SYMBOL PIN   refdes = J14
+  pin# 1
+  symbol origin = (1976.910 -53.004)
+  WARNING(SPMHA1-97): Illegal drill plating.
+Non-Plated hole has connected objects, consider changing to PLATED. Pad stack - RX39Y78P5D0T-1 is NON_PLATED.
+
+
+WARNING: in SYMBOL PIN   refdes = J12
+  pin# 4
+  symbol origin = (49.910 4058.996)
+  WARNING(SPMHA1-97): Illegal drill plating.
+Non-Plated hole has connected objects, consider changing to PLATED. Pad stack - RX39Y78P5D0T-1 is NON_PLATED.
+
+
+WARNING: in SYMBOL PIN   refdes = J12
+  pin# 2
+  symbol origin = (49.910 4058.996)
+  WARNING(SPMHA1-97): Illegal drill plating.
+Non-Plated hole has connected objects, consider changing to PLATED. Pad stack - RX39Y78P5D0T-1 is NON_PLATED.
+
+
+WARNING: in SYMBOL PIN   refdes = J12
+  pin# 1
+  symbol origin = (49.910 4058.996)
+  WARNING(SPMHA1-97): Illegal drill plating.
+Non-Plated hole has connected objects, consider changing to PLATED. Pad stack - RX39Y78P5D0T-1 is NON_PLATED.
+
+
+WARNING: in SYMBOL PIN   refdes = J23
+  pin# 8
+  symbol origin = (3672.910 -68.004)
+  WARNING(SPMHA1-97): Illegal drill plating.
+Non-Plated hole has connected objects, consider changing to PLATED. Pad stack - RX39Y78P5D0T-1 is NON_PLATED.
+
+
+WARNING: in SYMBOL PIN   refdes = J23
+  pin# 6
+  symbol origin = (3672.910 -68.004)
+  WARNING(SPMHA1-97): Illegal drill plating.
+Non-Plated hole has connected objects, consider changing to PLATED. Pad stack - RX39Y78P5D0T-1 is NON_PLATED.
+
+
+WARNING: in SYMBOL PIN   refdes = J23
+  pin# 5
+  symbol origin = (3672.910 -68.004)
+  WARNING(SPMHA1-97): Illegal drill plating.
+Non-Plated hole has connected objects, consider changing to PLATED. Pad stack - RX39Y78P5D0T-1 is NON_PLATED.
+
+
+WARNING: in SYMBOL PIN   refdes = J23
+  pin# 4
+  symbol origin = (3672.910 -68.004)
+  WARNING(SPMHA1-97): Illegal drill plating.
+Non-Plated hole has connected objects, consider changing to PLATED. Pad stack - RX39Y78P5D0T-1 is NON_PLATED.
+
+
+WARNING: in SYMBOL PIN   refdes = J23
+  pin# 3
+  symbol origin = (3672.910 -68.004)
+  WARNING(SPMHA1-97): Illegal drill plating.
+Non-Plated hole has connected objects, consider changing to PLATED. Pad stack - RX39Y78P5D0T-1 is NON_PLATED.
+
+
+WARNING: in SYMBOL PIN   refdes = J23
+  pin# 2
+  symbol origin = (3672.910 -68.004)
+  WARNING(SPMHA1-97): Illegal drill plating.
+Non-Plated hole has connected objects, consider changing to PLATED. Pad stack - RX39Y78P5D0T-1 is NON_PLATED.
+
+
+WARNING: in SYMBOL PIN   refdes = J23
+  pin# 16
+  symbol origin = (3672.910 -68.004)
+  WARNING(SPMHA1-97): Illegal drill plating.
+Non-Plated hole has connected objects, consider changing to PLATED. Pad stack - RX39Y78P5D0T-1 is NON_PLATED.
+
+
+WARNING: in SYMBOL PIN   refdes = J23
+  pin# 15
+  symbol origin = (3672.910 -68.004)
+  WARNING(SPMHA1-97): Illegal drill plating.
+Non-Plated hole has connected objects, consider changing to PLATED. Pad stack - RX39Y78P5D0T-1 is NON_PLATED.
+
+
+WARNING: in SYMBOL PIN   refdes = J23
+  pin# 14
+  symbol origin = (3672.910 -68.004)
+  WARNING(SPMHA1-97): Illegal drill plating.
+Non-Plated hole has connected objects, consider changing to PLATED. Pad stack - RX39Y78P5D0T-1 is NON_PLATED.
+
+
+WARNING: in SYMBOL PIN   refdes = J23
+  pin# 13
+  symbol origin = (3672.910 -68.004)
+  WARNING(SPMHA1-97): Illegal drill plating.
+Non-Plated hole has connected objects, consider changing to PLATED. Pad stack - RX39Y78P5D0T-1 is NON_PLATED.
+
+
+WARNING: in SYMBOL PIN   refdes = J23
+  pin# 12
+  symbol origin = (3672.910 -68.004)
+  WARNING(SPMHA1-97): Illegal drill plating.
+Non-Plated hole has connected objects, consider changing to PLATED. Pad stack - RX39Y78P5D0T-1 is NON_PLATED.
+
+
+WARNING: in SYMBOL PIN   refdes = J23
+  pin# 11
+  symbol origin = (3672.910 -68.004)
+  WARNING(SPMHA1-97): Illegal drill plating.
+Non-Plated hole has connected objects, consider changing to PLATED. Pad stack - RX39Y78P5D0T-1 is NON_PLATED.
+
+
+WARNING: in SYMBOL PIN   refdes = J23
+  pin# 10
+  symbol origin = (3672.910 -68.004)
+  WARNING(SPMHA1-97): Illegal drill plating.
+Non-Plated hole has connected objects, consider changing to PLATED. Pad stack - RX39Y78P5D0T-1 is NON_PLATED.
+
+
+WARNING: in SYMBOL PIN   refdes = J23
+  pin# 1
+  symbol origin = (3672.910 -68.004)
+  WARNING(SPMHA1-97): Illegal drill plating.
+Non-Plated hole has connected objects, consider changing to PLATED. Pad stack - RX39Y78P5D0T-1 is NON_PLATED.
+
+
+WARNING: The following vias/pins have connections using non-plated padstacks
+         This may cause issues with your manufacturing process.
+
+  Pin/Via         Padstack                                   Location
+  -------------------------------------------------------------------------
+  J23.3           RX39Y78P5D0T-1                           (3772.910 106.996)
+  J12.2           RX39Y78P5D0T-1                           (99.910 3980.996)
+  J24.3           RX39Y78P5D0T-1                           (3772.910 2162.996)
+  J9.2            RX39Y78P5D0T-1                           (99.910 1924.996)
+  J20.2           RX39Y78P5D0T-1                           (99.910 -131.004)
+  J25.6           RX39Y78P5D0T-1                           (3872.910 3969.996)
+  J23.4           RX39Y78P5D0T-1                           (3772.910 -143.004)
+  J23.5           RX39Y78P5D0T-1                           (3872.910 106.996)
+  J25.4           RX39Y78P5D0T-1                           (3772.910 3969.996)
+  J25.3           RX39Y78P5D0T-1                           (3772.910 4219.996)
+  J24.6           RX39Y78P5D0T-1                           (3872.910 1912.996)
+  J24.5           RX39Y78P5D0T-1                           (3872.910 2162.996)
+  J24.4           RX39Y78P5D0T-1                           (3772.910 1912.996)
+  J25.5           RX39Y78P5D0T-1                           (3872.910 4219.996)
+  J15.2           RX39Y78P5D0T-1                           (1063.910 1924.996)
+  J23.6           RX39Y78P5D0T-1                           (3872.910 -143.004)
+  J25.8           RX39Y78P5D0T-1                           (3972.910 3969.996)
+  J24.8           RX39Y78P5D0T-1                           (3972.910 1912.996)
+  J17.2           RX39Y78P5D0T-1                           (1063.910 -131.004)
+  J20.4           RX39Y78P5D0T-1                           (299.910 -131.004)
+  J25.2           RX39Y78P5D0T-1                           (3672.910 3969.996)
+  J23.2           RX39Y78P5D0T-1                           (3672.910 -143.004)
+  J24.2           RX39Y78P5D0T-1                           (3672.910 1912.996)
+  J25.1           RX39Y78P5D0T-1                           (3672.910 4219.996)
+  J23.1           RX39Y78P5D0T-1                           (3672.910 106.996)
+  J16.2           RX39Y78P5D0T-1                           (1063.910 3980.996)
+  J12.4           RX39Y78P5D0T-1                           (299.910 3980.996)
+  J23.13          RX39Y78P5D0T-1                           (4272.910 106.996)
+  J25.13          RX39Y78P5D0T-1                           (4272.910 4219.996)
+  J24.13          RX39Y78P5D0T-1                           (4272.910 2162.996)
+  J24.11          RX39Y78P5D0T-1                           (4172.910 2162.996)
+  J25.11          RX39Y78P5D0T-1                           (4172.910 4219.996)
+  J23.11          RX39Y78P5D0T-1                           (4172.910 106.996)
+  J23.14          RX39Y78P5D0T-1                           (4272.910 -143.004)
+  J25.14          RX39Y78P5D0T-1                           (4272.910 3969.996)
+  J24.14          RX39Y78P5D0T-1                           (4272.910 1912.996)
+  J19.1           RX39Y78P5D0T-1                           (1926.910 4110.996)
+  J22.2           RX39Y78P5D0T-1                           (2990.910 3980.996)
+  J19.2           RX39Y78P5D0T-1                           (2026.910 3980.996)
+  J22.1           RX39Y78P5D0T-1                           (2890.910 4110.996)
+  J18.1           RX39Y78P5D0T-1                           (1926.910 2054.996)
+  J21.2           RX39Y78P5D0T-1                           (2990.910 1924.996)
+  J18.2           RX39Y78P5D0T-1                           (2026.910 1924.996)
+  J21.1           RX39Y78P5D0T-1                           (2890.910 2054.996)
+  J25.10          RX39Y78P5D0T-1                           (4072.910 3969.996)
+  J24.10          RX39Y78P5D0T-1                           (4072.910 1912.996)
+  J23.10          RX39Y78P5D0T-1                           (4072.910 -143.004)
+  J14.1           RX39Y78P5D0T-1                           (1926.910 -1.004)
+  J7.2            RX39Y78P5D0T-1                           (2990.910 -131.004)
+  J14.2           RX39Y78P5D0T-1                           (2026.910 -131.004)
+  J7.1            RX39Y78P5D0T-1                           (2890.910 -1.004)
+  J25.15          RX39Y78P5D0T-1                           (4372.910 4219.996)
+  J23.15          RX39Y78P5D0T-1                           (4372.910 106.996)
+  J23.16          RX39Y78P5D0T-1                           (4372.910 -143.004)
+  J24.16          RX39Y78P5D0T-1                           (4372.910 1912.996)
+  J25.16          RX39Y78P5D0T-1                           (4372.910 3969.996)
+  J17.4           RX39Y78P5D0T-1                           (1263.910 -131.004)
+  J16.4           RX39Y78P5D0T-1                           (1263.910 3980.996)
+  J15.4           RX39Y78P5D0T-1                           (1263.910 1924.996)
+  J12.1           RX39Y78P5D0T-1                           (-0.090 4110.996)
+  J9.1            RX39Y78P5D0T-1                           (-0.090 2054.996)
+  J20.1           RX39Y78P5D0T-1                           (-0.090 -1.004)
+  J16.1           RX39Y78P5D0T-1                           (963.910 4110.996)
+  J15.1           RX39Y78P5D0T-1                           (963.910 2054.996)
+  J17.1           RX39Y78P5D0T-1                           (963.910 -1.004)
+  J25.12          RX39Y78P5D0T-1                           (4172.910 3969.996)
+  J23.12          RX39Y78P5D0T-1                           (4172.910 -143.004)
+
+
+138 warnings, 0 errors detected, 0 errors could be fixed.

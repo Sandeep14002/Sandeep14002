@@ -1,8 +1,29 @@
 \t (00:00:00) padstack_editor 17.4 S031 Windows SPB 64-bit Edition
-\t (00:00:00)     Journal start - Mon Mar 11 10:42:34 2024
-\t (00:00:00)         Host=DESKTOP-00H8CHI User=pc Pid=3640 CPUs=4
-\t (00:00:00) CmdLine= padstack_editor -mpssession pc -file C:/Users/pc/AppData/Local/Temp/#Taaaaaz17512.tmp -pname RX39Y78P5D0T-1-1 -data C:/Users/pc/AppData/Local/Temp/#Taaaabc17512.tmp
+\t (00:00:00)     Journal start - Fri Mar 22 14:55:42 2024
+\t (00:00:00)         Host=DESKTOP-00H8CHI User=pc Pid=19132 CPUs=4
+\t (00:00:00) CmdLine= padstack_editor -mpssession pc -file C:/Users/pc/AppData/Local/Temp/#Taaaahj14884.tmp -pname C165_H110 -data C:/Users/pc/AppData/Local/Temp/#Taaaahm14884.tmp
 \t (00:00:00) 
-\d (00:00:02) QtSignal GuidedTabsParent GuidedTabs currentChanged Drill
-\d (00:00:03) QtSignal GuidedTabsParent GuidedTabs currentChanged Start
-\t (00:00:04)     Journal end - Mon Mar 11 10:42:38 2024
+\d (00:00:04) QtSignal GuidedDesignLayersTab LayersTable itemSelectionChanged 1 "Regular Pad"
+\d (00:00:04) QtSignal GuidedDesignLayersTab LayersTable cellClicked 1 "Regular Pad" 1 2
+\d (00:00:05) QtSignal GuidedTabsParent GuidedDesignLayersTab keyPressEvent 16777249 67108864 false +
+\d (00:00:05) QtSignal 1
+\d (00:00:05) QtSignal GuidedTabsParent GuidedDesignLayersTab keyPressEvent 67 67108864 false 1 +
+\d (00:00:05) QtSignal ""
+\d (00:00:06) QtSignal GuidedTabsParent GuidedTabs currentChanged "Mask Layers"
+\d (00:00:07) QtSignal GuidedTabsParent GuidedMaskLayersTab keyPressEvent 16777249 67108864 false +
+\d (00:00:07) QtSignal 1
+\d (00:00:07) QtSignal GuidedTabsParent GuidedMaskLayersTab keyPressEvent 86 67108864 false 1 ""
+\d (00:00:08) QtSignal GuidedMaskLayersTab LayersTable itemSelectionChanged 1 Pad
+\d (00:00:08) QtSignal GuidedMaskLayersTab LayersTable cellClicked 1 Pad 1 1
+\d (00:00:08) QtSignal GuidedTabsParent GuidedMaskLayersTab keyPressEvent 16777249 67108864 false +
+\d (00:00:08) QtSignal 1
+\d (00:00:09) QtSignal GuidedTabsParent GuidedMaskLayersTab keyPressEvent 86 67108864 false 1 ""
+\d (00:00:14) QtSignal MainWindow Save triggered
+\d (00:00:16) QtSignal pseCheckBrowser Save clicked
+\d (00:00:19) QtFillin "C:/Users/pc/Downloads/C165_H110_warnings.html"
+\d (00:00:20) QtFillin Yes
+\d (00:00:22) QtSignal MainWindow pseCheckBrowser closed
+\d (00:00:23) QtSignal MainWindow Save triggered
+\d (00:00:25) QtSignal MainWindow pseCheckBrowser closed
+\d (00:00:32) QtSignal MainWindow UpdateToDesign triggered
+\t (00:00:36)     Journal end - Fri Mar 22 14:56:18 2024

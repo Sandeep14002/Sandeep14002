@@ -6,7 +6,7 @@
     (Folder "Library")
     ("Allegro Netlist Directory" "allegro")
     (DOCKED "TRUE")
-    (DOCKING_POSITION "59420")
+    (DOCKING_POSITION "59419")
     (NoModify)
     (File ".\tida-01606_powercard_grid_tinv.dsn"
       (Type "Schematic Design"))
@@ -178,14 +178,17 @@
   (GlobalState
     (FileView
       (Path "Design Resources")
-      (Path "Design Resources" ".\tida-01606_powercard_grid_tinv.dsn")
-      (Path "Design Resources" ".\tida-01606_powercard_grid_tinv.dsn"
+      (Path "Design Resources"
+         "c:\users\pc\documents\github\sandeep14002\tida-01606_powercard\tida-01606_powercard_grid_tinv.dsn")
+      (Path "Design Resources"
+         "c:\users\pc\documents\github\sandeep14002\tida-01606_powercard\tida-01606_powercard_grid_tinv.dsn"
          "SCHEMATIC1")
       (Path "Layout")
       (Path "Outputs")
       (Path "Logs")
-      (Select "Design Resources" ".\tida-01606_powercard_grid_tinv.dsn"
-         "SCHEMATIC1" "VoltageSensing"))
+      (Select "Design Resources"
+         "c:\users\pc\documents\github\sandeep14002\tida-01606_powercard\tida-01606_powercard_grid_tinv.dsn"
+         "SCHEMATIC1" "PowerBoard"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")

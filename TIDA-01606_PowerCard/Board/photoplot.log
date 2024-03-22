@@ -1,0 +1,571 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    ARTWORK LOG                                                      )
+(                                                                     )
+(    Drawing          : solutionstida01606_powercard_20march.brd      )
+(    Software Version : 17.4S031                                      )
+(    Date/Time        : Fri Mar 22 14:58:21 2024                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+ ---- Photoplot outline rectangle not found; using drawing extents.
+
+
+
+Results from parameter file ...
+    DEVICE-TYPE           GERBER_RS274X
+    OUTPUT-UNITS          INCHES
+    FILM-SIZE             2400000 1600000
+    FORMAT                2.5
+    ABORT-ON-ERROR        NO
+    SCALE                 1
+    SUPPRESS-LEAD-ZEROES  YES
+    SUPPRESS-TRAIL-ZEROES NO
+    SUPPRESS-EQUAL        YES
+    UNDEF-APT-CONT        NO
+
+
+
+================================================================
+     PROCESSING FILM < TOP >
+     TO FILE < c:/users/pc/documents/github/sandeep14002/tida-01606_powercard/board/Gerber/TOP.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                8.000 MIL
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.000
+  Offset y:                           0.000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+    WARNING: 0 width line found at (2359.000 6868.000) in MIL
+           ... using undefined line width of 8.000 MIL
+
+    WARNING: Segment with same start and end points at
+	(-2097.086 2674.000) will be ignored. Increasing output
+	accuracy may allow segment to be generated.
+
+
+
+  APERTURES USED (UNIT = IN):
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.00500                                  DARK 
+  CIRCLE     0.00800                                  DARK 
+  CIRCLE     0.01000                                  DARK 
+  CIRCLE     0.01500                                  DARK 
+  CIRCLE     0.02000                                  DARK 
+  CIRCLE     0.02400                                  DARK 
+  CIRCLE     0.03000                                  DARK 
+  CIRCLE     0.03500                                  DARK 
+  CIRCLE     0.03543                                  DARK 
+  CIRCLE     0.05000                                  DARK 
+  CIRCLE     0.05200                                  DARK 
+  CIRCLE     0.05500                                  DARK 
+  CIRCLE     0.05906                                  DARK 
+  CIRCLE     0.06000                                  DARK 
+  CIRCLE     0.06496                                  DARK 
+  CIRCLE     0.06500                                  DARK 
+  CIRCLE     0.06929                                  DARK 
+  CIRCLE     0.08000                                  DARK 
+  CIRCLE     0.09134                                  DARK 
+  CIRCLE     0.10000                                  DARK 
+  CIRCLE     0.10300                                  DARK 
+  CIRCLE     0.12165                                  DARK 
+  CIRCLE     0.12953                                  DARK 
+  CIRCLE     0.13000                                  DARK 
+  CIRCLE     0.15000                                  DARK 
+  CIRCLE     0.22000                                  DARK 
+  CIRCLE     0.30000                                  DARK 
+  SQUARE     0.05000                     0.000 NO     DARK 
+  SQUARE     0.05200                     0.000 NO     DARK 
+  SQUARE     0.05500                     0.000 NO     DARK 
+  SQUARE     0.06000                     0.000 NO     DARK 
+  SQUARE     0.06929                     0.000 NO     DARK 
+  SQUARE     0.07000                     0.000 NO     DARK 
+  SQUARE     0.09252                     0.000 NO     DARK 
+  RECTANGLE  0.02598     x 0.02677       0.000 NO     DARK 
+  RECTANGLE  0.02953     x 0.02677       0.000 NO     DARK 
+  RECTANGLE  0.03543     x 0.05709       0.000 NO     DARK 
+  RECTANGLE  0.03937     x 0.07874       0.000 NO     DARK 
+  RECTANGLE  0.04134     x 0.09842       0.000 NO     DARK 
+  RECTANGLE  0.04331     x 0.03937       0.000 NO     DARK 
+  RECTANGLE  0.04331     x 0.03937      90.000 NO     DARK 
+  RECTANGLE  0.04600     x 0.01400       0.000 NO     DARK 
+  RECTANGLE  0.05000     x 0.02500       0.000 NO     DARK 
+  RECTANGLE  0.05000     x 0.02500      90.000 NO     DARK 
+  RECTANGLE  0.05118     x 0.05906       0.000 NO     DARK 
+  RECTANGLE  0.05118     x 0.05906      90.000 NO     DARK 
+  RECTANGLE  0.05906     x 0.05906       0.000 NO     DARK 
+  RECTANGLE  0.06299     x 0.07087       0.000 NO     DARK 
+  RECTANGLE  0.06299     x 0.07087      90.000 NO     DARK 
+  RECTANGLE  0.08661     x 0.08465       0.000 NO     DARK 
+  RECTANGLE  0.11600     x 0.21700       0.000 NO     DARK 
+  RECTANGLE  0.12402     x 0.05709       0.000 NO     DARK 
+  OBLONG     0.31496     x 0.23622      90.000 NO     DARK 
+  OBLONG     0.39500     x 0.21000       0.000 NO     DARK 
+  PAD SHAPE  PS_R91_83_D5300            90.000 NO     DARK 
+  PAD SHAPE  PS_R180_60_D2500          270.000 NO     DARK 
+
+     TOP created with warnings
+
+
+================================================================
+     PROCESSING FILM < GND_LAYER >
+     TO FILE < c:/users/pc/documents/github/sandeep14002/tida-01606_powercard/board/Gerber/GND_LAYER.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                8.000 MIL
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.000
+  Offset y:                           0.000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+    WARNING: Multiple 0 width lines; all will be treated the same as the first.
+           ... using undefined line width of 8.000 MIL
+
+    WARNING: Segment with same start and end points at
+	(-2469.996 6845.996) will be ignored. Increasing output
+	accuracy may allow segment to be generated.
+
+    WARNING: Segment with same start and end points at
+	(428.093 5718.093) will be ignored. Increasing output
+	accuracy may allow segment to be generated.
+
+    WARNING: Segment with same start and end points at
+	(389.908 5679.907) will be ignored. Increasing output
+	accuracy may allow segment to be generated.
+
+
+
+  APERTURES USED (UNIT = IN):
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.00800                                  DARK 
+  CIRCLE     0.01500                                  DARK 
+  CIRCLE     0.02000                                  DARK 
+  CIRCLE     0.02400                                  DARK 
+  CIRCLE     0.03500                                  DARK 
+  CIRCLE     0.03543                                  DARK 
+  CIRCLE     0.05200                                  DARK 
+  CIRCLE     0.05500                                  DARK 
+  CIRCLE     0.05906                                  DARK 
+  CIRCLE     0.06000                                  DARK 
+  CIRCLE     0.06496                                  DARK 
+  CIRCLE     0.06929                                  DARK 
+  CIRCLE     0.08000                                  DARK 
+  CIRCLE     0.09134                                  DARK 
+  CIRCLE     0.09252                                  DARK 
+  CIRCLE     0.10000                                  DARK 
+  CIRCLE     0.10300                                  DARK 
+  CIRCLE     0.12165                                  DARK 
+  CIRCLE     0.12953                                  DARK 
+  CIRCLE     0.13000                                  DARK 
+  CIRCLE     0.15000                                  DARK 
+  CIRCLE     0.21000                                  DARK 
+  CIRCLE     0.30000                                  DARK 
+  SQUARE     0.05200                     0.000 NO     DARK 
+  SQUARE     0.05500                     0.000 NO     DARK 
+  SQUARE     0.06000                     0.000 NO     DARK 
+  SQUARE     0.06929                     0.000 NO     DARK 
+  SQUARE     0.07000                     0.000 NO     DARK 
+  RECTANGLE  0.03937     x 0.07874       0.000 NO     DARK 
+  OBLONG     0.31496     x 0.23622      90.000 NO     DARK 
+  OBLONG     0.39500     x 0.21000       0.000 NO     DARK 
+
+     GND_LAYER created with warnings
+
+
+================================================================
+     PROCESSING FILM < PWR_LAYER >
+     TO FILE < c:/users/pc/documents/github/sandeep14002/tida-01606_powercard/board/Gerber/PWR_LAYER.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                8.000 MIL
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.000
+  Offset y:                           0.000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED (UNIT = IN):
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.00800                                  DARK 
+  CIRCLE     0.01000                                  DARK 
+  CIRCLE     0.01500                                  DARK 
+  CIRCLE     0.02000                                  DARK 
+  CIRCLE     0.02400                                  DARK 
+  CIRCLE     0.03000                                  DARK 
+  CIRCLE     0.03500                                  DARK 
+  CIRCLE     0.03543                                  DARK 
+  CIRCLE     0.05000                                  DARK 
+  CIRCLE     0.05200                                  DARK 
+  CIRCLE     0.05500                                  DARK 
+  CIRCLE     0.05906                                  DARK 
+  CIRCLE     0.06000                                  DARK 
+  CIRCLE     0.06496                                  DARK 
+  CIRCLE     0.06929                                  DARK 
+  CIRCLE     0.08000                                  DARK 
+  CIRCLE     0.09134                                  DARK 
+  CIRCLE     0.09252                                  DARK 
+  CIRCLE     0.10000                                  DARK 
+  CIRCLE     0.10300                                  DARK 
+  CIRCLE     0.12165                                  DARK 
+  CIRCLE     0.12953                                  DARK 
+  CIRCLE     0.13000                                  DARK 
+  CIRCLE     0.15000                                  DARK 
+  CIRCLE     0.21000                                  DARK 
+  CIRCLE     0.30000                                  DARK 
+  SQUARE     0.05200                     0.000 NO     DARK 
+  SQUARE     0.05500                     0.000 NO     DARK 
+  SQUARE     0.06000                     0.000 NO     DARK 
+  SQUARE     0.06929                     0.000 NO     DARK 
+  SQUARE     0.07000                     0.000 NO     DARK 
+  RECTANGLE  0.03937     x 0.07874       0.000 NO     DARK 
+  OBLONG     0.31496     x 0.23622      90.000 NO     DARK 
+  OBLONG     0.39500     x 0.21000       0.000 NO     DARK 
+
+     PWR_LAYER created.
+
+
+================================================================
+     PROCESSING FILM < BOTTOM >
+     TO FILE < c:/users/pc/documents/github/sandeep14002/tida-01606_powercard/board/Gerber/BOTTOM.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                8.000 MIL
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.000
+  Offset y:                           0.000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED (UNIT = IN):
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.00800                                  DARK 
+  CIRCLE     0.01000                                  DARK 
+  CIRCLE     0.01500                                  DARK 
+  CIRCLE     0.02000                                  DARK 
+  CIRCLE     0.02400                                  DARK 
+  CIRCLE     0.03000                                  DARK 
+  CIRCLE     0.03500                                  DARK 
+  CIRCLE     0.03543                                  DARK 
+  CIRCLE     0.05000                                  DARK 
+  CIRCLE     0.05200                                  DARK 
+  CIRCLE     0.05500                                  DARK 
+  CIRCLE     0.05906                                  DARK 
+  CIRCLE     0.06000                                  DARK 
+  CIRCLE     0.06496                                  DARK 
+  CIRCLE     0.06500                                  DARK 
+  CIRCLE     0.06929                                  DARK 
+  CIRCLE     0.08000                                  DARK 
+  CIRCLE     0.09134                                  DARK 
+  CIRCLE     0.10000                                  DARK 
+  CIRCLE     0.10300                                  DARK 
+  CIRCLE     0.12165                                  DARK 
+  CIRCLE     0.12953                                  DARK 
+  CIRCLE     0.13000                                  DARK 
+  CIRCLE     0.15000                                  DARK 
+  CIRCLE     0.22000                                  DARK 
+  CIRCLE     0.30000                                  DARK 
+  SQUARE     0.05200                     0.000 NO     DARK 
+  SQUARE     0.05500                     0.000 NO     DARK 
+  SQUARE     0.06000                     0.000 NO     DARK 
+  SQUARE     0.06929                     0.000 NO     DARK 
+  SQUARE     0.07000                     0.000 NO     DARK 
+  SQUARE     0.09252                     0.000 NO     DARK 
+  RECTANGLE  0.03937     x 0.07874       0.000 NO     DARK 
+  RECTANGLE  0.04331     x 0.03937       0.000 NO     DARK 
+  RECTANGLE  0.04331     x 0.03937      90.000 NO     DARK 
+  RECTANGLE  0.04746     x 0.09842       0.000 NO     DARK 
+  RECTANGLE  0.05118     x 0.05906       0.000 NO     DARK 
+  RECTANGLE  0.05118     x 0.05906      90.000 NO     DARK 
+  OBLONG     0.31496     x 0.23622      90.000 NO     DARK 
+  OBLONG     0.39500     x 0.21000       0.000 NO     DARK 
+
+     BOTTOM created.
+
+
+================================================================
+     PROCESSING FILM < SoldermaskTOP >
+     TO FILE < c:/users/pc/documents/github/sandeep14002/tida-01606_powercard/board/Gerber/SoldermaskTOP.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                8.000 MIL
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.000
+  Offset y:                           0.000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED (UNIT = IN):
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.00800                                  DARK 
+  CIRCLE     0.02000                                  DARK 
+  CIRCLE     0.03500                                  DARK 
+  CIRCLE     0.03543                                  DARK 
+  CIRCLE     0.04400                                  DARK 
+  CIRCLE     0.05000                                  DARK 
+  CIRCLE     0.05200                                  DARK 
+  CIRCLE     0.05500                                  DARK 
+  CIRCLE     0.05906                                  DARK 
+  CIRCLE     0.06000                                  DARK 
+  CIRCLE     0.06496                                  DARK 
+  CIRCLE     0.06929                                  DARK 
+  CIRCLE     0.07500                                  DARK 
+  CIRCLE     0.08000                                  DARK 
+  CIRCLE     0.08300                                  DARK 
+  CIRCLE     0.09646                                  DARK 
+  CIRCLE     0.10300                                  DARK 
+  CIRCLE     0.12165                                  DARK 
+  CIRCLE     0.12953                                  DARK 
+  CIRCLE     0.13000                                  DARK 
+  CIRCLE     0.14000                                  DARK 
+  CIRCLE     0.15000                                  DARK 
+  CIRCLE     0.23000                                  DARK 
+  CIRCLE     0.30000                                  DARK 
+  SQUARE     0.05000                     0.000 NO     DARK 
+  SQUARE     0.05200                     0.000 NO     DARK 
+  SQUARE     0.05500                     0.000 NO     DARK 
+  SQUARE     0.06000                     0.000 NO     DARK 
+  SQUARE     0.06929                     0.000 NO     DARK 
+  SQUARE     0.07200                     0.000 NO     DARK 
+  SQUARE     0.10039                     0.000 NO     DARK 
+  RECTANGLE  0.02598     x 0.02677       0.000 NO     DARK 
+  RECTANGLE  0.02953     x 0.02677       0.000 NO     DARK 
+  RECTANGLE  0.03943     x 0.06109       0.000 NO     DARK 
+  RECTANGLE  0.04134     x 0.09842       0.000 NO     DARK 
+  RECTANGLE  0.04331     x 0.03937       0.000 NO     DARK 
+  RECTANGLE  0.04331     x 0.03937      90.000 NO     DARK 
+  RECTANGLE  0.04600     x 0.01400       0.000 NO     DARK 
+  RECTANGLE  0.04937     x 0.08874       0.000 NO     DARK 
+  RECTANGLE  0.05500     x 0.03000       0.000 NO     DARK 
+  RECTANGLE  0.05500     x 0.03000      90.000 NO     DARK 
+  RECTANGLE  0.05906     x 0.05906       0.000 NO     DARK 
+  RECTANGLE  0.05906     x 0.06693       0.000 NO     DARK 
+  RECTANGLE  0.05906     x 0.06693      90.000 NO     DARK 
+  RECTANGLE  0.07087     x 0.07874       0.000 NO     DARK 
+  RECTANGLE  0.07087     x 0.07874      90.000 NO     DARK 
+  RECTANGLE  0.08661     x 0.08465       0.000 NO     DARK 
+  RECTANGLE  0.11600     x 0.21700       0.000 NO     DARK 
+  RECTANGLE  0.12802     x 0.06109       0.000 NO     DARK 
+  OBLONG     0.31496     x 0.23622      90.000 NO     DARK 
+  OBLONG     0.39500     x 0.21000       0.000 NO     DARK 
+  PAD SHAPE  PS_R91_83_D5300            90.000 NO     DARK 
+  PAD SHAPE  PS_R180_60_D2500          270.000 NO     DARK 
+
+     SoldermaskTOP created.
+
+
+================================================================
+     PROCESSING FILM < SoldermaskBOTTOM >
+     TO FILE < c:/users/pc/documents/github/sandeep14002/tida-01606_powercard/board/Gerber/SoldermaskBOTTOM.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                8.000 MIL
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.000
+  Offset y:                           0.000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED (UNIT = IN):
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.00800                                  DARK 
+  CIRCLE     0.02000                                  DARK 
+  CIRCLE     0.03500                                  DARK 
+  CIRCLE     0.03543                                  DARK 
+  CIRCLE     0.04400                                  DARK 
+  CIRCLE     0.05000                                  DARK 
+  CIRCLE     0.05200                                  DARK 
+  CIRCLE     0.05500                                  DARK 
+  CIRCLE     0.05906                                  DARK 
+  CIRCLE     0.06000                                  DARK 
+  CIRCLE     0.06496                                  DARK 
+  CIRCLE     0.06929                                  DARK 
+  CIRCLE     0.07500                                  DARK 
+  CIRCLE     0.08000                                  DARK 
+  CIRCLE     0.08300                                  DARK 
+  CIRCLE     0.09646                                  DARK 
+  CIRCLE     0.10300                                  DARK 
+  CIRCLE     0.12165                                  DARK 
+  CIRCLE     0.12953                                  DARK 
+  CIRCLE     0.13000                                  DARK 
+  CIRCLE     0.15000                                  DARK 
+  CIRCLE     0.23000                                  DARK 
+  CIRCLE     0.30000                                  DARK 
+  SQUARE     0.05200                     0.000 NO     DARK 
+  SQUARE     0.05500                     0.000 NO     DARK 
+  SQUARE     0.06000                     0.000 NO     DARK 
+  SQUARE     0.06929                     0.000 NO     DARK 
+  SQUARE     0.07200                     0.000 NO     DARK 
+  SQUARE     0.10039                     0.000 NO     DARK 
+  RECTANGLE  0.04331     x 0.03937       0.000 NO     DARK 
+  RECTANGLE  0.04331     x 0.03937      90.000 NO     DARK 
+  RECTANGLE  0.04746     x 0.09842       0.000 NO     DARK 
+  RECTANGLE  0.04937     x 0.08874       0.000 NO     DARK 
+  RECTANGLE  0.05906     x 0.06693       0.000 NO     DARK 
+  RECTANGLE  0.05906     x 0.06693      90.000 NO     DARK 
+  OBLONG     0.31496     x 0.23622      90.000 NO     DARK 
+  OBLONG     0.39500     x 0.21000       0.000 NO     DARK 
+
+     SoldermaskBOTTOM created.
+
+
+================================================================
+     PROCESSING FILM < SilkscreenTOP >
+     TO FILE < c:/users/pc/documents/github/sandeep14002/tida-01606_powercard/board/Gerber/SilkscreenTOP.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                8.000 MIL
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.000
+  Offset y:                           0.000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+    WARNING: text composed 0 width line found at (252.910 376.996) in MIL
+           ... using undefined line width of 8.000 MIL
+
+    WARNING: text having Multiple 0 width lines; all will be treated the same as the first.
+           ... using undefined line width of 8.000 MIL
+
+
+
+  APERTURES USED (UNIT = IN):
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.00004                                  DARK 
+  CIRCLE     0.00394                                  DARK 
+  CIRCLE     0.00500                                  DARK 
+  CIRCLE     0.00600                                  DARK 
+  CIRCLE     0.00787                                  DARK 
+  CIRCLE     0.00787                                  DARK 
+  CIRCLE     0.00799                                  DARK 
+  CIRCLE     0.00800                                  DARK 
+  CIRCLE     0.02000                                  DARK 
+  CIRCLE     0.06000                                  DARK 
+
+     SilkscreenTOP created with warnings
+
+
+================================================================
+     PROCESSING FILM < SilkscreenBOTTOM >
+     TO FILE < c:/users/pc/documents/github/sandeep14002/tida-01606_powercard/board/Gerber/SilkscreenBOTTOM.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                8.000 MIL
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.000
+  Offset y:                           0.000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED (UNIT = IN):
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.00800                                  DARK 
+  CIRCLE     0.02000                                  DARK 
+  CIRCLE     0.06000                                  DARK 
+
+     SilkscreenBOTTOM created.
+
+
+================================================================
+     PROCESSING FILM < DrillDimensions >
+     TO FILE < c:/users/pc/documents/github/sandeep14002/tida-01606_powercard/board/Gerber/DrillDimensions.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                8.000 MIL
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.000
+  Offset y:                           0.000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED (UNIT = IN):
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.00800                                  DARK 
+  CIRCLE     0.02000                                  DARK 
+  CIRCLE     0.06000                                  DARK 
+
+     DrillDimensions created.
+
+
+------------------------------------------------------
+ SUMMARY:
+        TOP created with warnings
+        GND_LAYER created with warnings
+        PWR_LAYER created.
+        BOTTOM created.
+        SoldermaskTOP created.
+        SoldermaskBOTTOM created.
+        SilkscreenTOP created with warnings
+        SilkscreenBOTTOM created.
+        DrillDimensions created.
+
+ ARTWORK had warnings
