@@ -4,7 +4,7 @@
 (                                                                     )
 (    Drawing          : gate_driver_splitphase_modified_v1.brd        )
 (    Software Version : 17.4S031                                      )
-(    Date/Time        : Sat May 13 13:56:55 2023                      )
+(    Date/Time        : Sat May 13 13:59:16 2023                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
@@ -29,7 +29,7 @@ Results from parameter file ...
 
 ================================================================
      PROCESSING FILM < TOP >
-     TO FILE < C:/Users/pc/Desktop/SEMIKRON_Control_card/General_Purpose_Control_Card_SEMIKRON/allegro/Gerber/TOP.art > ...
+     TO FILE < C:/Users/pc/Documents/GitHub/M.Tech.-Project/Gate_Driver_SplitPhase/allegro/Gerber/TOP.art > ...
 ================================================================
 
   FILM PARAMETERS :
@@ -74,7 +74,7 @@ Results from parameter file ...
 
 ================================================================
      PROCESSING FILM < LAYER_1 >
-     TO FILE < C:/Users/pc/Desktop/SEMIKRON_Control_card/General_Purpose_Control_Card_SEMIKRON/allegro/Gerber/LAYER_1.art > ...
+     TO FILE < C:/Users/pc/Documents/GitHub/M.Tech.-Project/Gate_Driver_SplitPhase/allegro/Gerber/LAYER_1.art > ...
 ================================================================
 
   FILM PARAMETERS :
@@ -110,7 +110,7 @@ Results from parameter file ...
 
 ================================================================
      PROCESSING FILM < LAYER_2 >
-     TO FILE < C:/Users/pc/Desktop/SEMIKRON_Control_card/General_Purpose_Control_Card_SEMIKRON/allegro/Gerber/LAYER_2.art > ...
+     TO FILE < C:/Users/pc/Documents/GitHub/M.Tech.-Project/Gate_Driver_SplitPhase/allegro/Gerber/LAYER_2.art > ...
 ================================================================
 
   FILM PARAMETERS :
@@ -145,7 +145,7 @@ Results from parameter file ...
 
 ================================================================
      PROCESSING FILM < BOTTOM >
-     TO FILE < C:/Users/pc/Desktop/SEMIKRON_Control_card/General_Purpose_Control_Card_SEMIKRON/allegro/Gerber/BOTTOM.art > ...
+     TO FILE < C:/Users/pc/Documents/GitHub/M.Tech.-Project/Gate_Driver_SplitPhase/allegro/Gerber/BOTTOM.art > ...
 ================================================================
 
   FILM PARAMETERS :
@@ -182,7 +182,7 @@ Results from parameter file ...
 
 ================================================================
      PROCESSING FILM < DrillDimensions >
-     TO FILE < C:/Users/pc/Desktop/SEMIKRON_Control_card/General_Purpose_Control_Card_SEMIKRON/allegro/Gerber/DrillDimensions.art > ...
+     TO FILE < C:/Users/pc/Documents/GitHub/M.Tech.-Project/Gate_Driver_SplitPhase/allegro/Gerber/DrillDimensions.art > ...
 ================================================================
 
   FILM PARAMETERS :
@@ -215,7 +215,7 @@ Results from parameter file ...
 
 ================================================================
      PROCESSING FILM < SilkscreenBOTTOM >
-     TO FILE < C:/Users/pc/Desktop/SEMIKRON_Control_card/General_Purpose_Control_Card_SEMIKRON/allegro/Gerber/SilkscreenBOTTOM.art > ...
+     TO FILE < C:/Users/pc/Documents/GitHub/M.Tech.-Project/Gate_Driver_SplitPhase/allegro/Gerber/SilkscreenBOTTOM.art > ...
 ================================================================
 
   FILM PARAMETERS :
@@ -243,7 +243,7 @@ Results from parameter file ...
 
 ================================================================
      PROCESSING FILM < SilkscreenTOP >
-     TO FILE < C:/Users/pc/Desktop/SEMIKRON_Control_card/General_Purpose_Control_Card_SEMIKRON/allegro/Gerber/SilkscreenTOP.art > ...
+     TO FILE < C:/Users/pc/Documents/GitHub/M.Tech.-Project/Gate_Driver_SplitPhase/allegro/Gerber/SilkscreenTOP.art > ...
 ================================================================
 
   FILM PARAMETERS :
@@ -273,7 +273,7 @@ Results from parameter file ...
 
 ================================================================
      PROCESSING FILM < SoldermaskBOTTOM >
-     TO FILE < C:/Users/pc/Desktop/SEMIKRON_Control_card/General_Purpose_Control_Card_SEMIKRON/allegro/Gerber/SoldermaskBOTTOM.art > ...
+     TO FILE < C:/Users/pc/Documents/GitHub/M.Tech.-Project/Gate_Driver_SplitPhase/allegro/Gerber/SoldermaskBOTTOM.art > ...
 ================================================================
 
   FILM PARAMETERS :
@@ -308,7 +308,7 @@ Results from parameter file ...
 
 ================================================================
      PROCESSING FILM < SoldermaskTOP >
-     TO FILE < C:/Users/pc/Desktop/SEMIKRON_Control_card/General_Purpose_Control_Card_SEMIKRON/allegro/Gerber/SoldermaskTOP.art > ...
+     TO FILE < C:/Users/pc/Documents/GitHub/M.Tech.-Project/Gate_Driver_SplitPhase/allegro/Gerber/SoldermaskTOP.art > ...
 ================================================================
 
   FILM PARAMETERS :

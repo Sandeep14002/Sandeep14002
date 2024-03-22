@@ -3,8 +3,8 @@
 (    NC DRILL Log                                                     )
 (                                                                     )
 (    Drawing          : gate_driver_splitphase_modified_v1.brd        )
-(    Software Version : 22.1P001                                      )
-(    Date/Time        : Thu May 11 13:38:51 2023                      )
+(    Software Version : 17.4S031                                      )
+(    Date/Time        : Sat May 13 13:55:14 2023                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
@@ -39,7 +39,7 @@
  WARNING(SPMHMF-359): Data rounding errors may still be possible.
 
 
- Drill files being output to directory 'C:/Users/Ganesh/Documents/GitHub/SplitPhaseConverter/Gate_Driver_SplitPhase/allegro/Gerber' ...
+ Drill files being output to directory 'C:/Users/pc/Desktop/SEMIKRON_Control_card/General_Purpose_Control_Card_SEMIKRON/allegro/Gerber' ...
 
 
 

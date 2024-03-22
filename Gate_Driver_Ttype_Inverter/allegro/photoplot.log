@@ -2,9 +2,9 @@
 (                                                                     )
 (    ARTWORK LOG                                                      )
 (                                                                     )
-(    Drawing          : gate_driver_splitphase_modified_v1.brd        )
+(    Drawing          : gate_driver_ttype_modified_v1_11mar.brd       )
 (    Software Version : 17.4S031                                      )
-(    Date/Time        : Sat May 13 13:59:16 2023                      )
+(    Date/Time        : Fri Mar 22 15:14:26 2024                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
@@ -29,7 +29,7 @@ Results from parameter file ...
 
 ================================================================
      PROCESSING FILM < TOP >
-     TO FILE < C:/Users/pc/Documents/GitHub/M.Tech.-Project/Gate_Driver_SplitPhase/allegro/Gerber/TOP.art > ...
+     TO FILE < C:/USERS/PC/DOCUMENTS/GITHUB/SANDEEP14002/GATE_DRIVER_TTYPE_INVERTER/allegro/Gerber/TOP.art > ...
 ================================================================
 
   FILM PARAMETERS :
@@ -51,9 +51,9 @@ Results from parameter file ...
   ---------------------------------------------------------
   CIRCLE     0.00800                                  DARK 
   CIRCLE     0.02000                                  DARK 
+  CIRCLE     0.02400                                  DARK 
   CIRCLE     0.03000                                  DARK 
   CIRCLE     0.03500                                  DARK 
-  CIRCLE     0.05000                                  DARK 
   CIRCLE     0.06000                                  DARK 
   CIRCLE     0.06909                                  DARK 
   CIRCLE     0.08268                                  DARK 
@@ -74,7 +74,7 @@ Results from parameter file ...
 
 ================================================================
      PROCESSING FILM < LAYER_1 >
-     TO FILE < C:/Users/pc/Documents/GitHub/M.Tech.-Project/Gate_Driver_SplitPhase/allegro/Gerber/LAYER_1.art > ...
+     TO FILE < C:/USERS/PC/DOCUMENTS/GITHUB/SANDEEP14002/GATE_DRIVER_TTYPE_INVERTER/allegro/Gerber/LAYER_1.art > ...
 ================================================================
 
   FILM PARAMETERS :
@@ -95,10 +95,10 @@ Results from parameter file ...
   TYPE       SIZE/NAME                   ROT   MIRROR MODE 
   ---------------------------------------------------------
   CIRCLE     0.00800                                  DARK 
-  CIRCLE     0.01000                                  DARK 
+  CIRCLE     0.02000                                  DARK 
+  CIRCLE     0.02400                                  DARK 
   CIRCLE     0.03000                                  DARK 
   CIRCLE     0.03500                                  DARK 
-  CIRCLE     0.05000                                  DARK 
   CIRCLE     0.05500                                  DARK 
   CIRCLE     0.06909                                  DARK 
   CIRCLE     0.08268                                  DARK 
@@ -110,7 +110,7 @@ Results from parameter file ...
 
 ================================================================
      PROCESSING FILM < LAYER_2 >
-     TO FILE < C:/Users/pc/Documents/GitHub/M.Tech.-Project/Gate_Driver_SplitPhase/allegro/Gerber/LAYER_2.art > ...
+     TO FILE < C:/USERS/PC/DOCUMENTS/GITHUB/SANDEEP14002/GATE_DRIVER_TTYPE_INVERTER/allegro/Gerber/LAYER_2.art > ...
 ================================================================
 
   FILM PARAMETERS :
@@ -131,9 +131,10 @@ Results from parameter file ...
   TYPE       SIZE/NAME                   ROT   MIRROR MODE 
   ---------------------------------------------------------
   CIRCLE     0.00800                                  DARK 
+  CIRCLE     0.02000                                  DARK 
+  CIRCLE     0.02400                                  DARK 
   CIRCLE     0.03000                                  DARK 
   CIRCLE     0.03500                                  DARK 
-  CIRCLE     0.05000                                  DARK 
   CIRCLE     0.05500                                  DARK 
   CIRCLE     0.06909                                  DARK 
   CIRCLE     0.08268                                  DARK 
@@ -145,7 +146,7 @@ Results from parameter file ...
 
 ================================================================
      PROCESSING FILM < BOTTOM >
-     TO FILE < C:/Users/pc/Documents/GitHub/M.Tech.-Project/Gate_Driver_SplitPhase/allegro/Gerber/BOTTOM.art > ...
+     TO FILE < C:/USERS/PC/DOCUMENTS/GITHUB/SANDEEP14002/GATE_DRIVER_TTYPE_INVERTER/allegro/Gerber/BOTTOM.art > ...
 ================================================================
 
   FILM PARAMETERS :
@@ -166,7 +167,8 @@ Results from parameter file ...
   TYPE       SIZE/NAME                   ROT   MIRROR MODE 
   ---------------------------------------------------------
   CIRCLE     0.00800                                  DARK 
-  CIRCLE     0.01000                                  DARK 
+  CIRCLE     0.02000                                  DARK 
+  CIRCLE     0.02400                                  DARK 
   CIRCLE     0.03000                                  DARK 
   CIRCLE     0.03500                                  DARK 
   CIRCLE     0.06000                                  DARK 
@@ -182,7 +184,7 @@ Results from parameter file ...
 
 ================================================================
      PROCESSING FILM < DrillDimensions >
-     TO FILE < C:/Users/pc/Documents/GitHub/M.Tech.-Project/Gate_Driver_SplitPhase/allegro/Gerber/DrillDimensions.art > ...
+     TO FILE < C:/USERS/PC/DOCUMENTS/GITHUB/SANDEEP14002/GATE_DRIVER_TTYPE_INVERTER/allegro/Gerber/DrillDimensions.art > ...
 ================================================================
 
   FILM PARAMETERS :
@@ -196,7 +198,7 @@ Results from parameter file ...
   Suppress unconnected internal pads  NO
   Draw holes only                     NO
 
-    WARNING: 0 width line found at (8880.00 305.00) in MIL
+    WARNING: 0 width line found at (960.00 -2290.00) in MIL
            ... using undefined line width of 8.00 MIL
 
     WARNING: Multiple 0 width lines; all will be treated the same as the first.
@@ -209,13 +211,14 @@ Results from parameter file ...
   TYPE       SIZE/NAME                   ROT   MIRROR MODE 
   ---------------------------------------------------------
   CIRCLE     0.00800                                  DARK 
+  CIRCLE     0.03000                                  DARK 
 
      DrillDimensions created with warnings
 
 
 ================================================================
      PROCESSING FILM < SilkscreenBOTTOM >
-     TO FILE < C:/Users/pc/Documents/GitHub/M.Tech.-Project/Gate_Driver_SplitPhase/allegro/Gerber/SilkscreenBOTTOM.art > ...
+     TO FILE < C:/USERS/PC/DOCUMENTS/GITHUB/SANDEEP14002/GATE_DRIVER_TTYPE_INVERTER/allegro/Gerber/SilkscreenBOTTOM.art > ...
 ================================================================
 
   FILM PARAMETERS :
@@ -237,13 +240,14 @@ Results from parameter file ...
   ---------------------------------------------------------
   CIRCLE     0.00100                                  DARK 
   CIRCLE     0.00800                                  DARK 
+  CIRCLE     0.03000                                  DARK 
 
      SilkscreenBOTTOM created.
 
 
 ================================================================
      PROCESSING FILM < SilkscreenTOP >
-     TO FILE < C:/Users/pc/Documents/GitHub/M.Tech.-Project/Gate_Driver_SplitPhase/allegro/Gerber/SilkscreenTOP.art > ...
+     TO FILE < C:/USERS/PC/DOCUMENTS/GITHUB/SANDEEP14002/GATE_DRIVER_TTYPE_INVERTER/allegro/Gerber/SilkscreenTOP.art > ...
 ================================================================
 
   FILM PARAMETERS :
@@ -267,13 +271,14 @@ Results from parameter file ...
   CIRCLE     0.00394                                  DARK 
   CIRCLE     0.00787                                  DARK 
   CIRCLE     0.00800                                  DARK 
+  CIRCLE     0.03000                                  DARK 
 
      SilkscreenTOP created.
 
 
 ================================================================
      PROCESSING FILM < SoldermaskBOTTOM >
-     TO FILE < C:/Users/pc/Documents/GitHub/M.Tech.-Project/Gate_Driver_SplitPhase/allegro/Gerber/SoldermaskBOTTOM.art > ...
+     TO FILE < C:/USERS/PC/DOCUMENTS/GITHUB/SANDEEP14002/GATE_DRIVER_TTYPE_INVERTER/allegro/Gerber/SoldermaskBOTTOM.art > ...
 ================================================================
 
   FILM PARAMETERS :
@@ -294,7 +299,9 @@ Results from parameter file ...
   TYPE       SIZE/NAME                   ROT   MIRROR MODE 
   ---------------------------------------------------------
   CIRCLE     0.00800                                  DARK 
+  CIRCLE     0.03000                                  DARK 
   CIRCLE     0.03500                                  DARK 
+  CIRCLE     0.04400                                  DARK 
   CIRCLE     0.07000                                  DARK 
   CIRCLE     0.07697                                  DARK 
   CIRCLE     0.10000                                  DARK 
@@ -308,7 +315,7 @@ Results from parameter file ...
 
 ================================================================
      PROCESSING FILM < SoldermaskTOP >
-     TO FILE < C:/Users/pc/Documents/GitHub/M.Tech.-Project/Gate_Driver_SplitPhase/allegro/Gerber/SoldermaskTOP.art > ...
+     TO FILE < C:/USERS/PC/DOCUMENTS/GITHUB/SANDEEP14002/GATE_DRIVER_TTYPE_INVERTER/allegro/Gerber/SoldermaskTOP.art > ...
 ================================================================
 
   FILM PARAMETERS :
@@ -329,7 +336,9 @@ Results from parameter file ...
   TYPE       SIZE/NAME                   ROT   MIRROR MODE 
   ---------------------------------------------------------
   CIRCLE     0.00800                                  DARK 
+  CIRCLE     0.03000                                  DARK 
   CIRCLE     0.03500                                  DARK 
+  CIRCLE     0.04400                                  DARK 
   CIRCLE     0.07000                                  DARK 
   CIRCLE     0.07697                                  DARK 
   CIRCLE     0.10000                                  DARK 

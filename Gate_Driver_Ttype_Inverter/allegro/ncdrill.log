@@ -2,9 +2,9 @@
 (                                                                     )
 (    NC DRILL Log                                                     )
 (                                                                     )
-(    Drawing          : gate_driver_splitphase_modified_v1.brd        )
+(    Drawing          : gate_driver_ttype_modified_v1_11mar.brd       )
 (    Software Version : 17.4S031                                      )
-(    Date/Time        : Sat May 13 13:58:19 2023                      )
+(    Date/Time        : Fri Mar 22 15:13:58 2024                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
@@ -39,23 +39,24 @@
  WARNING(SPMHMF-359): Data rounding errors may still be possible.
 
 
- Drill files being output to directory 'C:/Users/pc/Documents/GitHub/M.Tech.-Project/Gate_Driver_SplitPhase/allegro/Gerber' ...
+ Drill files being output to directory 'C:/USERS/PC/DOCUMENTS/GITHUB/SANDEEP14002/GATE_DRIVER_TTYPE_INVERTER/allegro/Gerber' ...
 
 
 
-     'gate_driver_splitphase_modified_v1-1-4.drl' created for holes connecting TOP and BOTTOM
-     ----------------------------------------------------------------------------------------
+     'gate_driver_ttype_modified_v1_11mar-1-4.drl' created for holes connecting TOP and BOTTOM
+     -----------------------------------------------------------------------------------------
 
            Num     Size      +/- Tolerance     Plating   Quantity
 
-            1.  20.0000    0.0000/  0.0000      PLATED        115
-            2.  35.0000    0.0000/  0.0000      PLATED         76
-            3.  44.0000    0.0000/  0.0000      PLATED          4
-            4.  46.0600    0.0000/  0.0000      PLATED         18
-            5.  55.1200    0.0000/  0.0000      PLATED         40
-            6. 157.4800    0.0000/  0.0000  NON_PLATED          3
+            1.  13.0000    0.0000/  0.0000      PLATED         48
+            2.  20.0000    0.0000/  0.0000      PLATED          3
+            3.  35.0000    0.0000/  0.0000      PLATED         32
+            4.  44.0000    0.0000/  0.0000      PLATED          4
+            5.  46.0600    0.0000/  0.0000      PLATED         14
+            6.  55.1200    0.0000/  0.0000      PLATED         16
+            7. 157.4800    0.0000/  0.0000  NON_PLATED          3
 
-     ---- Total holes:                                        256
+     ---- Total holes:                                        120
 
-     ---- Total head travel:              24.11 feet (7.35 meters)
+     ---- Total head travel:              8.58 feet (2.61 meters)
 

@@ -4,7 +4,7 @@
 (                                                                     )
 (    Drawing          : gate_driver_splitphase_modified_v1.brd        )
 (    Software Version : 22.1P001                                      )
-(    Date/Time        : Thu May 11 12:10:30 2023                      )
+(    Date/Time        : Thu May 11 13:39:06 2023                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
@@ -196,7 +196,7 @@ Results from parameter file ...
   Suppress unconnected internal pads  NO
   Draw holes only                     NO
 
-    WARNING: 0 width line found at (3335.00 -2405.00) in MIL
+    WARNING: 0 width line found at (8880.00 305.00) in MIL
            ... using undefined line width of 8.00 MIL
 
     WARNING: Multiple 0 width lines; all will be treated the same as the first.
